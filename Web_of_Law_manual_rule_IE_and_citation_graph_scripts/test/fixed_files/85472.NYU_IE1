@@ -1,0 +1,72 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="428" id1="85472" id="85472_1" lookup_key="u.s._23_428" alternative_keys="['the steam-boat thomas jefferson#1', 'wheat._10_428']" citation_local_level_id="0" start="1" citation_global_level_id="144.002" end="19" volume="23" name="The STEAM-BOAT THOMAS JEFFERSON" line="2" >23 U.S. 428 (____)</CITATION>
+
+<CITATION reporter="Wheat." entry_type="standard_key" standard_reporter="WHEAT." page_number="428" id1="85472" id="85472_2" lookup_key="wheat._10_428" alternative_keys="['u.s._23_428', 'the steam-boat thomas jefferson#1']" citation_local_level_id="1" start="20" citation_global_level_id="144.003" end="33" volume="10" name="The STEAM-BOAT THOMAS JEFFERSON" line="3" >10 Wheat. 428</CITATION>
+
+<CITATION start="34" id1="85472" entry_type="case_key" citation_global_level_id="144.004" line="4" name="The STEAM-BOAT THOMAS JEFFERSON" id="85472_3" lookup_key="the steam-boat thomas jefferson#1" alternative_keys="['wheat._10_428', 'u.s._23_428']" end="65" citation_local_level_id="2" >The STEAM-BOAT THOMAS JEFFERSON</CITATION>
+
+<NAME start="68" local_name_id="1" end="75" all_names="JOHNSON" id="85472_4" >JOHNSON</NAME>
+
+<LEGAL_ROLE start="88" end="97" plural="True" id="85472_5" >Claimants</LEGAL_ROLE>
+
+<ORGANIZATION start="99" end="129" id="85472_8" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="132" local_name_id="2" end="149" all_names="MR JUSTICE STORY" id="85472_9" >Mr. Justice STORY</NAME>
+
+<PROFESSION start="136" end="143" id="85472_10" >Justice</PROFESSION>
+
+<ORGANIZATION start="179" end="184" id="85472_11" >Court</ORGANIZATION>
+
+<ORGANIZATION start="216" end="242" id="85472_12" >District Court of Kentucky</ORGANIZATION>
+
+<NAME start="316" local_name_id="3" end="328" all_names="SHIPPINGPORT" id="85472_13" >Shippingport</NAME>
+
+<NAME start="338" local_name_id="4" end="343" all_names="STATE" id="85472_14" >State</NAME>
+
+<NAME start="358" local_name_id="5" end="366" all_names="MISSOURI" id="85472_15" >Missouri</NAME>
+
+<ORGANIZATION start="565" end="579" id="85472_16" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="585" end="590" id="85472_17" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="651" end="661" plural="True" id="85472_18" >libellants</LEGAL_ROLE>
+
+<ORGANIZATION start="701" end="706" id="85472_19" >Court</ORGANIZATION>
+
+<ORGANIZATION start="743" end="749" plural="True" id="85472_20" >Courts</ORGANIZATION>
+
+<NAME start="772" local_name_id="6" end="781" all_names="ADMIRALTY" id="85472_21" >Admiralty</NAME>
+
+<NAME start="921" local_name_id="6" end="930" all_names="ADMIRALTY" id="85472_22" >Admiralty</NAME>
+
+<NAME start="1904" local_name_id="7" end="1917" all_names="JUDICIARY ACT" id="85472_25" >Judiciary Act</NAME>
+
+<DATE start="1921" end="1925" id="85472_23" >1789</DATE>
+
+<NAME start="2286" local_name_id="8" end="2294" all_names="CONGRESS" id="85472_26" >Congress</NAME>
+
+<ORGANIZATION start="2328" end="2334" plural="True" id="85472_27" >Courts</ORGANIZATION>
+
+<PROFESSION start="2447" end="2474" id="85472_28" >Congress for the government</PROFESSION>
+
+<DATE start="2535" end="2539" id="85472_24" >1790</DATE>
+
+<PROFESSION start="2586" end="2593" id="85472_29" >general</PROFESSION>
+
+<NAME start="2662" local_name_id="6" end="2671" all_names="ADMIRALTY" id="85472_30" >Admiralty</NAME>
+
+<NAME start="2904" local_name_id="9" end="2910" all_names="STATES" id="85472_31" >States</NAME>
+
+<NAME start="2912" local_name_id="8" end="2920" all_names="CONGRESS" id="85472_32" >Congress</NAME>
+
+<NAME start="2978" local_name_id="6" end="2987" all_names="ADMIRALTY" id="85472_33" >Admiralty</NAME>
+
+<PROFESSION start="3201" end="3212" id="85472_34" >Legislature</PROFESSION>
+
+<ORGANIZATION start="3434" end="3447" id="85472_35" >Circuit Court</ORGANIZATION>
+
+<NAME start="3519" local_name_id="10" end="3525" all_names="DECREE" id="85472_36" >Decree</NAME>
+
+<RELATION case_citation_other_string="The STEAM-BOAT THOMAS JEFFERSON" gram_type="multi_line" standard_case="85472_1" relation_type="equivalence" id="85472_6" standard_case_string="23 U.S. 428 (____)" case_citation_other="85472_3" ></RELATION>
+
+<RELATION case_citation_other_string="The STEAM-BOAT THOMAS JEFFERSON" gram_type="multi_line" standard_case="85472_2" relation_type="equivalence" id="85472_7" standard_case_string="10 Wheat. 428" case_citation_other="85472_3" ></RELATION>
+

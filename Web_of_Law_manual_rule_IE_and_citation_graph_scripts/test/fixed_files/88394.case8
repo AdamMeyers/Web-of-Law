@@ -1,0 +1,43 @@
+<citation id="88394_1" entry_type="standard_case" start="1" end="19" reporter="U.S." standard_reporter="U.S." volume="79" page_number="315" line="2">79 U.S. 315 (____)</citation>
+<citation id="88394_2" entry_type="standard_case" start="20" end="32" reporter="Wall." standard_reporter="WALL." volume="12" page_number="315" line="3">12 Wall. 315</citation>
+<citation id="88394_4" entry_type="case_X_vs_Y" start="33" end="58" party1="PERRIN" party2="UNITED STATES" line="6">PERRIN  v.  UNITED STATES</citation>
+<NAME id="88394_5" start="33" end="39" party1_of="88394_4">PERRIN</NAME>
+<NAME id="88394_6" start="45" end="58" party2_of="88394_4">UNITED STATES</NAME>
+<ORGANIZATION id="88394_9" start="60" end="90">Supreme Court of United States</ORGANIZATION>
+<NAME id="88394_12" start="98" end="112">Mr. W.W. Boice</NAME>
+<LEGAL_ROLE id="88394_13" start="122" end="132" plural="True">appellants</LEGAL_ROLE>
+<NAME id="88394_14" start="134" end="145">Mr. Akerman</NAME>
+<NAME id="88394_15" start="147" end="163">Attorney-General</NAME>
+<NAME id="88394_16" start="169" end="182">Mr. C.H. Hill</NAME>
+<NAME id="88394_17" start="192" end="212">Mr. Justice CLIFFORD</NAME>
+<PROFESSION id="88394_18" start="196" end="203">Justice</PROFESSION>
+<ORGANIZATION id="88394_19" start="264" end="269">court</ORGANIZATION>
+<LEGAL_ROLE id="88394_21" start="275" end="286" plural="True">petitioners</LEGAL_ROLE>
+<ORGANIZATION id="88394_22" start="302" end="307">court</ORGANIZATION>
+<NAME id="88394_23" start="357" end="370">United States</NAME>
+<date id="88394_20" start="401" end="411">July, 1854</date>
+<NAME id="88394_24" start="429" end="437">San Juan</NAME>
+<NAME id="88394_25" start="442" end="447">Norte</NAME>
+<NAME id="88394_26" start="452" end="460">Greytown</NAME>
+<NAME id="88394_27" start="580" end="595">Central America</NAME>
+<NAME id="88394_28" start="626" end="634">San Juan</NAME>
+<NAME id="88394_29" start="666" end="679">United States</NAME>
+<NAME id="88394_30" start="693" end="698">Cyane</NAME>
+<LEGAL_ROLE id="88394_31" start="750" end="761" plural="True">petitioners</LEGAL_ROLE>
+<NAME id="88394_32" start="801" end="811">Appearance</NAME>
+<PROFESSION id="88394_33" start="831" end="840">Assistant</PROFESSION>
+<NAME id="88394_34" start="841" end="857">Attorney-General</NAME>
+<ORGANIZATION id="88394_35" start="978" end="983">court</ORGANIZATION>
+<LEGAL_ROLE id="88394_36" start="1055" end="1066" plural="True">petitioners</LEGAL_ROLE>
+<ORGANIZATION id="88394_37" start="1084" end="1089">court</ORGANIZATION>
+<ORGANIZATION id="88394_38" start="1168" end="1173">court</ORGANIZATION>
+<NAME id="88394_39" start="1238" end="1246">Congress</NAME>
+<ORGANIZATION id="88394_40" start="1277" end="1297">executive department</ORGANIZATION>
+<PROFESSION id="88394_41" start="1350" end="1381">government of the United States</PROFESSION>
+<ORGANIZATION id="88394_42" start="1412" end="1427">Court of Claims</ORGANIZATION>
+<NAME id="88394_44" start="1444" end="1474">DECREE DISMISSING THE PETITION</NAME>
+<RELATION id="88394_7" relation_type="asymmetric" gram_type="infix" theme="88394_4" theme_string="PERRIN  v.  UNITED STATES" party1="88394_5" party1_string="PERRIN"></RELATION>
+<RELATION id="88394_8" relation_type="asymmetric" gram_type="infix" theme="88394_4" theme_string="PERRIN  v.  UNITED STATES" party2="88394_6" party2_string="UNITED STATES"></RELATION>
+<RELATION id="88394_10" relation_type="equivalence" gram_type="multi_line" standard_case="88394_1" standard_case_string="79 U.S. 315 (____)" X_vs_Y="88394_4" X_vs_Y_string="PERRIN  v.  UNITED STATES"></RELATION>
+<RELATION id="88394_11" relation_type="equivalence" gram_type="multi_line" standard_case="88394_2" standard_case_string="12 Wall. 315" X_vs_Y="88394_4" X_vs_Y_string="PERRIN  v.  UNITED STATES"></RELATION>
+<RELATION id="88394_43" relation_type="asymmetric" gram_type="pre_nom" profession="88394_33" profession_string="Assistant" theme="88394_34" theme_string="Attorney-General"></RELATION>

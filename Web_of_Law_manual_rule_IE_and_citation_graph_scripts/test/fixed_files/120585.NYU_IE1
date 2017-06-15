@@ -1,0 +1,26 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1077" id1="120585" id="120585_1" lookup_key="u.s._535_1077" alternative_keys="['in re jones#1', 'in re williams#1']" citation_local_level_id="0" start="0" citation_global_level_id="37.002" end="13" volume="535" name="IN RE JONES" line="1" >535 U.S. 1077</CITATION>
+
+<CITATION start="18" id1="120585" entry_type="case_key" citation_global_level_id="37.004" line="2" name="IN RE WILLIAMS" id="120585_2" lookup_key="in re williams#1" alternative_keys="['in re jones#1', 'u.s._535_1077']" end="32" citation_local_level_id="1" >IN RE WILLIAMS</CITATION>
+
+<CITATION start="38" id1="120585" entry_type="case_key" citation_global_level_id="37.003" line="2" name="IN RE JONES" id="120585_3" lookup_key="in re jones#1" alternative_keys="['in re williams#1', 'u.s._535_1077']" end="49" citation_local_level_id="2" >IN RE JONES</CITATION>
+
+<DOCKET start="59" citation_global_level_id="37.004" entry_type="docket" line="3" id1="120585" id="120585_4" lookup_key="in re williams#1" alternative_keys="['in re jones#1', 'u.s._535_1077']" end="66" citation_local_level_id="1" >01-9223</DOCKET>
+
+<DOCKET start="76" citation_global_level_id="37.004" entry_type="docket" line="4" id1="120585" id="120585_5" lookup_key="in re williams#1" alternative_keys="['in re jones#1', 'u.s._535_1077']" end="83" citation_local_level_id="1" >01-9234</DOCKET>
+
+<DATE start="129" end="141" id="120585_12" >May 20, 2002</DATE>
+
+<NAME start="163" local_name_id="1" end="172" all_names="PETITIONS" id="120585_13" >Petitions</NAME>
+
+<RELATION case_citation_other_string="IN RE JONES" gram_type="multi_line" standard_case="120585_1" relation_type="equivalence" id="120585_9" standard_case_string="535 U.S. 1077" case_citation_other="120585_3" ></RELATION>
+
+<RELATION case_citation_other_string="IN RE WILLIAMS" gram_type="multi_line" standard_case="120585_1" relation_type="equivalence" id="120585_6" standard_case_string="535 U.S. 1077" case_citation_other="120585_2" ></RELATION>
+
+<RELATION includes_docket_string="01-9234" theme_string="IN RE WILLIAMS" id="120585_8" relation_type="asymmetric" includes_docket="120585_5" theme="120585_2" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="01-9223" theme_string="IN RE WILLIAMS" id="120585_7" relation_type="asymmetric" includes_docket="120585_4" theme="120585_2" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="01-9234" theme_string="IN RE JONES" id="120585_11" relation_type="asymmetric" includes_docket="120585_5" theme="120585_3" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="01-9223" theme_string="IN RE JONES" id="120585_10" relation_type="asymmetric" includes_docket="120585_4" theme="120585_3" gram_type="multi_line" ></RELATION>
+

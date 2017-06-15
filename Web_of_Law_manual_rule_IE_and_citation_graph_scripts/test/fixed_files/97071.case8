@@ -1,0 +1,14 @@
+<citation id="97071_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="214" page_number="490" line="1">214 U.S. 490</citation>
+<citation id="97071_2" entry_type="standard_case" start="17" end="30" reporter="S. Ct." standard_reporter="S.CT." volume="29" page_number="695" line="2">29 S. Ct. 695</citation>
+<citation id="97071_3" entry_type="standard_case" start="35" end="49" reporter="L. Ed." standard_reporter="L.ED." volume="53" page_number="1057" line="3">53 L. Ed. 1057</citation>
+<NAME id="97071_5" start="54" end="62">EX PARTE</NAME>
+<citation id="97071_4" entry_type="case_citation_other" start="64" end="130" name="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY" party1=" THE CONSOLIDATED RUBBER TIRE  COMPANY" party1_role="Petitioner" line="4">IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner</citation>
+<LEGAL_ROLE id="97071_6" start="71" end="130">MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner</LEGAL_ROLE>
+<NAME id="97071_7" start="145" end="153">Original</NAME>
+<ORGANIZATION id="97071_8" start="159" end="193">Supreme Court of the United States</ORGANIZATION>
+<date id="97071_9" start="198" end="212">April 12, 1909</date>
+<LEGAL_ROLE id="97071_14" start="224" end="263">Mr. Charles W. Stapleton for petitioner</LEGAL_ROLE>
+<RELATION id="97071_10" relation_type="equivalence" gram_type="multi_line" standard_case="97071_1" standard_case_string="214 U.S. 490" case_citation_other="97071_4" case_citation_other_string="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner"></RELATION>
+<RELATION id="97071_11" relation_type="equivalence" gram_type="multi_line" standard_case="97071_2" standard_case_string="29 S. Ct. 695" case_citation_other="97071_4" case_citation_other_string="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner"></RELATION>
+<RELATION id="97071_12" relation_type="equivalence" gram_type="multi_line" standard_case="97071_3" standard_case_string="53 L. Ed. 1057" case_citation_other="97071_4" case_citation_other_string="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner"></RELATION>
+<RELATION id="97071_13" relation_type="asymmetric" gram_type="multi_line" theme="97071_4" theme_string="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" at_date="97071_9" at_date_string="April 12, 1909"></RELATION>

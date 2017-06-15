@@ -1,0 +1,26 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="859" id1="138515" id="138515_1" lookup_key="u.s._543_859" alternative_keys="['martinmichigan#1']" citation_local_level_id="0" start="0" citation_global_level_id="145.002" end="12" volume="543" line="1" >543 U.S. 859</CITATION>
+
+<CITATION id1="138515" entry_type="party_key" party1="MARTIN" line="2" id="138515_2" lookup_key="martinmichigan#1" alternative_keys="['u.s._543_859']" party2="MICHIGAN" citation_local_level_id="1" start="17" party2_short="MICHIGAN" end="35" citation_global_level_id="145.001" party1_short="MARTIN" >MARTIN v. MICHIGAN</CITATION>
+
+<NAME start="17" local_name_id="1" end="23" all_names="MARTIN" party1_of="138515_2" id="138515_3" >MARTIN</NAME>
+
+<NAME start="27" party2_of="138515_2" end="35" all_names="MICHIGAN" id="138515_4" local_name_id="2" >MICHIGAN</NAME>
+
+<DOCKET start="45" citation_global_level_id="145.001" entry_type="docket" line="3" id1="138515" id="138515_7" lookup_key="martinmichigan#1" end="53" citation_local_level_id="1" >03-10951</DOCKET>
+
+<ORGANIZATION start="59" end="89" id="138515_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="95" citation_global_level_id="145.001" end="110" citation_local_level_id="1" id="138515_9" >October 4, 2004</DATE>
+
+<NAME start="132" local_name_id="3" end="134" all_names="CT" id="138515_13" >Ct</NAME>
+
+<RELATION party1_string="MARTIN" party1="138515_3" theme_string="MARTIN v. MICHIGAN" id="138515_5" relation_type="asymmetric" theme="138515_2" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="MICHIGAN" theme_string="MARTIN v. MICHIGAN" id="138515_6" relation_type="asymmetric" party2="138515_4" theme="138515_2" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="MARTIN v. MICHIGAN" gram_type="multi_line" standard_case="138515_1" relation_type="equivalence" id="138515_10" X_vs_Y="138515_2" standard_case_string="543 U.S. 859" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme_string="MARTIN v. MICHIGAN" id="138515_12" relation_type="asymmetric" theme="138515_2" at_date="138515_9" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="03-10951" theme_string="MARTIN v. MICHIGAN" id="138515_11" relation_type="asymmetric" includes_docket="138515_7" theme="138515_2" gram_type="multi_line" ></RELATION>
+

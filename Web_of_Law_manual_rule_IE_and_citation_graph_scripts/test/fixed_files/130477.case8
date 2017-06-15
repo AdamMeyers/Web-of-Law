@@ -1,0 +1,17 @@
+<citation id="130477_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="539" page_number="927" line="1">539 U.S. 927</citation>
+<citation id="130477_3" entry_type="case_X_vs_Y" start="17" end="91" party1="Moss et ux., on Behalf of Their Minor Child, Moss, et al." party2="Carrier et al" line="1">Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al</citation>
+<NAME id="130477_4" start="17" end="74" party1_of="130477_3">Moss et ux., on Behalf of Their Minor Child, Moss, et al.</NAME>
+<NAME id="130477_7" start="17" end="21">Moss</NAME>
+<FAMILY id="130477_8" start="33" end="60">Behalf of Their Minor Child</FAMILY>
+<NAME id="130477_5" start="78" end="91" party2_of="130477_3">Carrier et al</NAME>
+<docket id="130477_2" entry_type="docket" start="101" end="108" line="1">02-1519</docket>
+<ORGANIZATION id="130477_9" start="114" end="144">Supreme Court of United States</ORGANIZATION>
+<date id="130477_6" start="150" end="163">June 16, 2003</date>
+<NAME id="130477_10" start="185" end="202">Appeal from the C</NAME>
+<NAME id="130477_11" start="211" end="214">Cir</NAME>
+<NAME id="130477_17" start="241" end="251">Certiorari</NAME>
+<RELATION id="130477_16" relation_type="asymmetric" gram_type="apposition" theme="130477_1" theme_string="539 U.S. 927" includes_docket="130477_2" includes_docket_string="02-1519"></RELATION>
+<RELATION id="130477_12" relation_type="equivalence" gram_type="pre_nom" standard_case="130477_1" standard_case_string="539 U.S. 927" X_vs_Y="130477_3" X_vs_Y_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al"></RELATION>
+<RELATION id="130477_15" relation_type="asymmetric" gram_type="apposition" theme="130477_3" theme_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" includes_docket="130477_2" includes_docket_string="02-1519"></RELATION>
+<RELATION id="130477_13" relation_type="asymmetric" gram_type="infix" theme="130477_3" theme_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" party1="130477_4" party1_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al."></RELATION>
+<RELATION id="130477_14" relation_type="asymmetric" gram_type="infix" theme="130477_3" theme_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" party2="130477_5" party2_string="Carrier et al"></RELATION>

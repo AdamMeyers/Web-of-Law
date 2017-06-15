@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/123575/",
+  "absolute_url": "/opinion/123575/arreola-garcia-aka-garcia-arreola-v-united-states/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/123575/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:22:06Z",
+  "date_modified": "2016-02-28T03:27:19.217210Z",
+  "type": "010combined",
+  "sha1": "e80343a88d6c6d1c4ed737284e8821b84e39ad54",
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.903.02-5239.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">537 U.S. 903</p>\n    <p class=\"parties\">ARREOLA-GARCIA, AKA GARCIA ARREOLA<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-5239.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 35 Fed. Appx. 387.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">903</span></span></p>\n    <p class=\"parties\">ARREOLA-GARCIA, AKA GARCIA ARREOLA<br>v.<br>UNITED STATES.</p>\n    <p class=\"docket\">No. 02-5239.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">October 7, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.</p>\n    </div>\n    <div class=\"num\" id=\"p2\">\n      <span class=\"num\">2</span>\n      <p class=\"indent\">C. A. 5th Cir. Certiorari denied. Reported below: 35 Fed. Appx. 387.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

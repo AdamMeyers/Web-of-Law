@@ -1,0 +1,46 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="479" id1="84682" id="84682_1" lookup_key="u.s._2_479" alternative_keys="['appointment of paterson#1', 'dall_2_479']" citation_local_level_id="0" start="0" citation_global_level_id="60.002" end="10" volume="2" name="Appointment of PATERSON" line="1" >2 U.S. 479</CITATION>
+
+<CITATION reporter="Dall" entry_type="standard_key" standard_reporter="DALL" page_number="479" id1="84682" id="84682_2" lookup_key="dall_2_479" alternative_keys="['u.s._2_479', 'appointment of paterson#1']" citation_local_level_id="1" start="15" citation_global_level_id="60.003" end="26" volume="2" name="Appointment of PATERSON" line="2" >2 Dall. 479</CITATION>
+
+<NAME start="31" local_name_id="1" end="54" all_names="APPOINTMENT OF PATERSON" id="84682_3" >Appointment of PATERSON</NAME>
+
+<CITATION start="31" id1="84682" entry_type="case_key" citation_global_level_id="60.001" line="3" name="Appointment of PATERSON" id="84682_4" lookup_key="appointment of paterson#1" alternative_keys="['u.s._2_479', 'dall_2_479']" end="54" citation_local_level_id="2" >Appointment of PATERSON</CITATION>
+
+<NAME start="59" local_name_id="2" end="70" all_names="AUGUST TERM	TERM" id="84682_6" >August Term</NAME>
+
+<DATE start="72" citation_global_level_id="60.001" end="76" citation_local_level_id="2" id="84682_5" >1793</DATE>
+
+<ORGANIZATION start="101" end="106" id="84682_11" >Court</ORGANIZATION>
+
+<ORGANIZATION start="120" end="130" id="84682_12" >commission</ORGANIZATION>
+
+<NAME start="142" local_name_id="3" end="158" all_names="WILLIAM PATERSON	PATERSON" id="84682_13" >William Paterson</NAME>
+
+<PROFESSION start="171" end="179" plural="True" id="84682_14" >Justices</PROFESSION>
+
+<DATE start="205" end="216" id="84682_10" >March, 1793</DATE>
+
+<PROFESSION start="304" end="309" party="PATERSON" document_level_name_id="3" id="84682_15" >Judge</PROFESSION>
+
+<NAME start="310" local_name_id="3" end="318" all_names="WILLIAM PATERSON	PATERSON" id="84682_16" >Paterson</NAME>
+
+<NAME start="352" local_name_id="4" end="371" all_names="MR JUSTICE JOHNSON" id="84682_17" >Mr. Justice Johnson</NAME>
+
+<PROFESSION start="356" end="363" id="84682_18" >Justice</PROFESSION>
+
+<NAME start="403" local_name_id="5" end="418" all_names="MALIGNANT FEVER" id="84682_20" >Malignant Fever</NAME>
+
+<NAME start="457" local_name_id="6" end="477" all_names="CITY OF PHILADELPHIA" id="84682_21" >City of Philadelphia</NAME>
+
+<ORGANIZATION start="598" end="604" plural="True" id="84682_22" >Courts</ORGANIZATION>
+
+<NAME start="679" local_name_id="2" end="683" all_names="AUGUST TERM	TERM" id="84682_23" >Term</NAME>
+
+<RELATION case_citation_other_string="Appointment of PATERSON" gram_type="multi_line" standard_case="84682_1" relation_type="equivalence" id="84682_7" standard_case_string="2 U.S. 479" case_citation_other="84682_4" ></RELATION>
+
+<RELATION case_citation_other_string="Appointment of PATERSON" gram_type="multi_line" standard_case="84682_2" relation_type="equivalence" id="84682_8" standard_case_string="2 Dall. 479" case_citation_other="84682_4" ></RELATION>
+
+<RELATION at_date_string="1793" theme_string="Appointment of PATERSON" id="84682_9" relation_type="asymmetric" theme="84682_4" at_date="84682_5" gram_type="multi_line" ></RELATION>
+
+<RELATION profession="84682_15" gram_type="pre_nom" id="84682_19" profession_string="Judge" relation_type="asymmetric" theme="84682_16" theme_string="Paterson" ></RELATION>
+

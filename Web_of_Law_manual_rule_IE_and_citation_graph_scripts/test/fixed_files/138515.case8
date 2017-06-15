@@ -1,0 +1,13 @@
+<citation id="138515_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="543" page_number="859" line="1">543 U.S. 859</citation>
+<citation id="138515_2" entry_type="case_X_vs_Y" start="17" end="35" party1="MARTIN" party2="MICHIGAN" line="2">MARTIN v. MICHIGAN</citation>
+<NAME id="138515_3" start="17" end="23" party1_of="138515_2">MARTIN</NAME>
+<NAME id="138515_4" start="27" end="35" party2_of="138515_2">MICHIGAN</NAME>
+<docket id="138515_7" entry_type="docket" start="45" end="53" line="3">03-10951</docket>
+<ORGANIZATION id="138515_8" start="59" end="89">Supreme Court of United States</ORGANIZATION>
+<date id="138515_9" start="95" end="110">October 4, 2004</date>
+<NAME id="138515_13" start="132" end="134">Ct</NAME>
+<RELATION id="138515_5" relation_type="asymmetric" gram_type="infix" theme="138515_2" theme_string="MARTIN v. MICHIGAN" party1="138515_3" party1_string="MARTIN"></RELATION>
+<RELATION id="138515_6" relation_type="asymmetric" gram_type="infix" theme="138515_2" theme_string="MARTIN v. MICHIGAN" party2="138515_4" party2_string="MICHIGAN"></RELATION>
+<RELATION id="138515_10" relation_type="equivalence" gram_type="multi_line" standard_case="138515_1" standard_case_string="543 U.S. 859" X_vs_Y="138515_2" X_vs_Y_string="MARTIN v. MICHIGAN"></RELATION>
+<RELATION id="138515_12" relation_type="asymmetric" gram_type="multi_line" theme="138515_2" theme_string="MARTIN v. MICHIGAN" at_date="138515_9" at_date_string="October 4, 2004"></RELATION>
+<RELATION id="138515_11" relation_type="asymmetric" gram_type="multi_line" theme="138515_2" theme_string="MARTIN v. MICHIGAN" includes_docket="138515_7" includes_docket_string="03-10951"></RELATION>

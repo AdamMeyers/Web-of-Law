@@ -1,0 +1,23 @@
+<citation id="84682_1" entry_type="standard_case" start="0" end="10" reporter="U.S." standard_reporter="U.S." volume="2" page_number="479" line="1">2 U.S. 479</citation>
+<citation id="84682_2" entry_type="standard_case" start="15" end="26" reporter="Dall" standard_reporter="DALL" volume="2" page_number="479" line="2">2 Dall. 479</citation>
+<NAME id="84682_3" start="31" end="54">Appointment of PATERSON</NAME>
+<citation id="84682_4" entry_type="case_citation_other" start="31" end="54" name="Appointment of PATERSON" line="3">Appointment of PATERSON</citation>
+<NAME id="84682_6" start="59" end="70">August Term</NAME>
+<date id="84682_5" start="72" end="76">1793</date>
+<ORGANIZATION id="84682_11" start="101" end="106">Court</ORGANIZATION>
+<ORGANIZATION id="84682_12" start="120" end="130">commission</ORGANIZATION>
+<NAME id="84682_13" start="142" end="158">William Paterson</NAME>
+<PROFESSION id="84682_14" start="171" end="179" plural="True">Justices</PROFESSION>
+<date id="84682_10" start="205" end="216">March, 1793</date>
+<PROFESSION id="84682_15" start="304" end="309">Judge</PROFESSION>
+<NAME id="84682_16" start="310" end="318">Paterson</NAME>
+<NAME id="84682_17" start="352" end="371">Mr. Justice Johnson</NAME>
+<PROFESSION id="84682_18" start="356" end="363">Justice</PROFESSION>
+<NAME id="84682_20" start="403" end="418">Malignant Fever</NAME>
+<NAME id="84682_21" start="457" end="477">City of Philadelphia</NAME>
+<ORGANIZATION id="84682_22" start="598" end="604" plural="True">Courts</ORGANIZATION>
+<NAME id="84682_23" start="679" end="683">Term</NAME>
+<RELATION id="84682_7" relation_type="equivalence" gram_type="multi_line" standard_case="84682_1" standard_case_string="2 U.S. 479" case_citation_other="84682_4" case_citation_other_string="Appointment of PATERSON"></RELATION>
+<RELATION id="84682_8" relation_type="equivalence" gram_type="multi_line" standard_case="84682_2" standard_case_string="2 Dall. 479" case_citation_other="84682_4" case_citation_other_string="Appointment of PATERSON"></RELATION>
+<RELATION id="84682_9" relation_type="asymmetric" gram_type="multi_line" theme="84682_4" theme_string="Appointment of PATERSON" at_date="84682_5" at_date_string="1793"></RELATION>
+<RELATION id="84682_19" relation_type="asymmetric" gram_type="pre_nom" profession="84682_15" profession_string="Judge" theme="84682_16" theme_string="Paterson"></RELATION>

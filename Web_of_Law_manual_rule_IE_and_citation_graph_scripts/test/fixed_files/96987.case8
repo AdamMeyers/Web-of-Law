@@ -1,0 +1,15 @@
+<citation id="96987_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="212" page_number="569" line="1">212 U.S. 569</citation>
+<citation id="96987_2" entry_type="standard_case" start="17" end="30" reporter="S. Ct." standard_reporter="S.CT." volume="29" page_number="692" line="2">29 S. Ct. 692</citation>
+<citation id="96987_3" entry_type="standard_case" start="35" end="48" reporter="L. Ed." standard_reporter="L.ED." volume="53" page_number="655" line="3">53 L. Ed. 655</citation>
+<NAME id="96987_5" start="53" end="61">EX PARTE</NAME>
+<citation id="96987_4" entry_type="case_citation_other" start="63" end="127" name="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY" party1=" THE DOWAGIAC MANUFACTURING  COMPANY" party1_role="Petitioner" line="4">IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner</citation>
+<LEGAL_ROLE id="96987_6" start="70" end="127">MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner</LEGAL_ROLE>
+<NAME id="96987_7" start="142" end="150">Original</NAME>
+<date id="96987_8" start="156" end="172">February 1, 1909</date>
+<NAME id="96987_13" start="185" end="209">Messrs. Fred L. Chappell</NAME>
+<NAME id="96987_14" start="211" end="227">Morison R. Waite</NAME>
+<LEGAL_ROLE id="96987_15" start="233" end="262">Edmund Wetmore for petitioner</LEGAL_ROLE>
+<RELATION id="96987_9" relation_type="equivalence" gram_type="multi_line" standard_case="96987_1" standard_case_string="212 U.S. 569" case_citation_other="96987_4" case_citation_other_string="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner"></RELATION>
+<RELATION id="96987_10" relation_type="equivalence" gram_type="multi_line" standard_case="96987_2" standard_case_string="29 S. Ct. 692" case_citation_other="96987_4" case_citation_other_string="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner"></RELATION>
+<RELATION id="96987_11" relation_type="equivalence" gram_type="multi_line" standard_case="96987_3" standard_case_string="53 L. Ed. 655" case_citation_other="96987_4" case_citation_other_string="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner"></RELATION>
+<RELATION id="96987_12" relation_type="asymmetric" gram_type="multi_line" theme="96987_4" theme_string="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" at_date="96987_8" at_date_string="February 1, 1909"></RELATION>

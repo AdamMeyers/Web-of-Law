@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/125863/",
+  "absolute_url": "/opinion/125863/hershfield-v-county-of-king-george-virginia/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/125863/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-04-28T17:22:38Z",
+  "date_modified": "2016-02-28T03:27:32.026930Z",
+  "type": "010combined",
+  "sha1": "573ca50da638439c1e870790f591f787cd1d4423",
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/537/537.US.1084.02-285.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">537 U.S. 1084</p>\n    <p class=\"parties\">HERSHFIELD<br>v.<br>COUNTY OF KING GEORGE, VIRGINIA,</p>\n    <p class=\"docket\">No. 02-285.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 9, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">ante, p. 975. Petition for rehearing denied.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">537</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">1084</span></span></p>\n    <p class=\"parties\">HERSHFIELD<br>v.<br>COUNTY OF KING GEORGE, VIRGINIA,</p>\n    <p class=\"docket\">No. 02-285.</p>\n    <p class=\"court\">Supreme Court of United States.</p>\n    <p class=\"date\">December 9, 2002.</p>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">ante, p. 975. Petition for rehearing denied.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,60 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1116" id1="141903" id="141903_1" lookup_key="u.s._543_1116" alternative_keys="['vasquezstates#1', 'salasstates#1']" citation_local_level_id="0" start="0" citation_global_level_id="128.002" end="13" volume="543" line="1" >543 U.S. 1116</CITATION>
+
+<CITATION id1="141903" entry_type="party_key" party1="SALAS" line="2" id="141903_2" lookup_key="salasstates#1" alternative_keys="['u.s._543_1116', 'vasquezstates#1']" party2="UNITED STATES" citation_local_level_id="1" start="18" party2_short="STATES" end="40" citation_global_level_id="128.001" party1_short="SALAS" >SALAS v. UNITED STATES</CITATION>
+
+<NAME start="18" local_name_id="1" end="23" all_names="SALAS" party1_of="141903_2" id="141903_4" >SALAS</NAME>
+
+<NAME start="27" party2_of="141903_2" end="40" all_names="UNITED STATES" id="141903_5" local_name_id="2" >UNITED STATES</NAME>
+
+<CITATION id1="141903" entry_type="party_key" party1="TORRES-VASQUEZ" line="2" id="141903_3" lookup_key="vasquezstates#1" alternative_keys="['salasstates#1', 'u.s._543_1116']" party2="UNITED STATES" citation_local_level_id="2" start="46" party2_short="STATES" end="77" citation_global_level_id="128.003" party1_short="VASQUEZ" >TORRES-VASQUEZ v. UNITED STATES</CITATION>
+
+<NAME start="46" local_name_id="3" end="60" all_names="TORRES-VASQUEZ" party1_of="141903_3" id="141903_6" >TORRES-VASQUEZ</NAME>
+
+<NAME start="64" party2_of="141903_3" end="77" all_names="UNITED STATES" id="141903_7" local_name_id="2" >UNITED STATES</NAME>
+
+<DOCKET start="87" citation_global_level_id="128.001" entry_type="docket" line="3" id1="141903" id="141903_12" lookup_key="salasstates#1" end="95" citation_local_level_id="1" >03-10427</DOCKET>
+
+<ORGANIZATION start="101" end="131" id="141903_13" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="137" citation_global_level_id="128.001" end="153" citation_local_level_id="1" id="141903_14" >January 24, 2005</DATE>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="927" id1="Dummy_File_853" id="141903_21" lookup_key="u.s._542_927" citation_local_level_id="3" start="175" citation_global_level_id="1005.001" end="187" volume="542" no_current_file="True" line="8" >542 U.S. 927</CITATION>
+
+<NAME start="189" local_name_id="4" end="198" all_names="PETITIONS" id="141903_25" >Petitions</NAME>
+
+<NAME start="222" local_name_id="5" end="228" all_names="ORDERS" id="141903_26" >Orders</NAME>
+
+<LEGAL_ROLE start="280" end="302" plural="True" id="141903_27" >Motions of petitioners</LEGAL_ROLE>
+
+<NAME start="351" local_name_id="6" end="361" all_names="CERTIORARI" id="141903_28" >Certiorari</NAME>
+
+<CITATION id1="Dummy_File_854" entry_type="party_key" party1="United States" line="8" id="141903_22" lookup_key="statesbooker#1" party2="Booker" citation_local_level_id="4" start="447" party2_short="Booker" end="470" citation_global_level_id="1006.001" no_current_file="True" party1_short="States" >United States v. Booker</CITATION>
+
+<NAME start="447" local_name_id="2" end="460" all_names="UNITED STATES" party1_of="141903_22" id="141903_23" >United States</NAME>
+
+<NAME start="464" party2_of="141903_22" end="470" all_names="BOOKER" id="141903_24" local_name_id="7" >Booker</NAME>
+
+<RELATION party1_string="SALAS" party1="141903_4" theme_string="SALAS v. UNITED STATES" id="141903_8" relation_type="asymmetric" theme="141903_2" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES" theme_string="SALAS v. UNITED STATES" id="141903_9" relation_type="asymmetric" party2="141903_5" theme="141903_2" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="TORRES-VASQUEZ" party1="141903_6" theme_string="TORRES-VASQUEZ v. UNITED STATES" id="141903_10" relation_type="asymmetric" theme="141903_3" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES" theme_string="TORRES-VASQUEZ v. UNITED STATES" id="141903_11" relation_type="asymmetric" party2="141903_7" theme="141903_3" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="TORRES-VASQUEZ v. UNITED STATES" gram_type="multi_line" standard_case="141903_1" relation_type="equivalence" id="141903_18" X_vs_Y="141903_3" standard_case_string="543 U.S. 1116" ></RELATION>
+
+<RELATION X_vs_Y_string="SALAS v. UNITED STATES" gram_type="multi_line" standard_case="141903_1" relation_type="equivalence" id="141903_15" X_vs_Y="141903_2" standard_case_string="543 U.S. 1116" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme_string="SALAS v. UNITED STATES" id="141903_17" relation_type="asymmetric" theme="141903_2" at_date="141903_14" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="03-10427" theme_string="SALAS v. UNITED STATES" id="141903_16" relation_type="asymmetric" includes_docket="141903_12" theme="141903_2" gram_type="multi_line" ></RELATION>
+
+<RELATION at_date_string="January 24, 2005" theme_string="TORRES-VASQUEZ v. UNITED STATES" id="141903_20" relation_type="asymmetric" theme="141903_3" at_date="141903_14" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="03-10427" theme_string="TORRES-VASQUEZ v. UNITED STATES" id="141903_19" relation_type="asymmetric" includes_docket="141903_12" theme="141903_3" gram_type="multi_line" ></RELATION>
+
+<RELATION party1_string="United States" party1="141903_23" theme_string="United States v. Booker" id="141903_29" relation_type="asymmetric" theme="141903_22" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Booker" theme_string="United States v. Booker" id="141903_30" relation_type="asymmetric" party2="141903_24" theme="141903_22" gram_type="infix" ></RELATION>
+

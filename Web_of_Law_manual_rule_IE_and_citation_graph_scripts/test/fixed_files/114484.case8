@@ -1,0 +1,14 @@
+<citation id="114484_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="510" page_number="924" line="1">510 U.S. 924</citation>
+<citation id="114484_3" entry_type="case_X_vs_Y" start="17" end="63" party1="Casteel, aka Al Ghashiyah (Kahn)" party2="Kolb et al" line="1">Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al</citation>
+<NAME id="114484_4" start="17" end="49" party1_of="114484_3">Casteel, aka Al Ghashiyah (Kahn)</NAME>
+<NAME id="114484_7" start="17" end="24">Casteel</NAME>
+<NAME id="114484_5" start="53" end="63" party2_of="114484_3">Kolb et al</NAME>
+<docket id="114484_2" entry_type="docket" start="73" end="80" line="1">93-5727</docket>
+<date id="114484_6" start="122" end="138">October 12, 1993</date>
+<NAME id="114484_14" start="215" end="225">Certiorari</NAME>
+<citation id="114484_13" entry_type="standard_case" start="267" end="283" reporter="N. W. 2d" standard_reporter="N.W.2D" volume="500" page_number="400" line="3">500 N. W. 2d 400</citation>
+<RELATION id="114484_12" relation_type="asymmetric" gram_type="apposition" theme="114484_1" theme_string="510 U.S. 924" includes_docket="114484_2" includes_docket_string="93-5727"></RELATION>
+<RELATION id="114484_8" relation_type="equivalence" gram_type="pre_nom" standard_case="114484_1" standard_case_string="510 U.S. 924" X_vs_Y="114484_3" X_vs_Y_string="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al"></RELATION>
+<RELATION id="114484_11" relation_type="asymmetric" gram_type="apposition" theme="114484_3" theme_string="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al" includes_docket="114484_2" includes_docket_string="93-5727"></RELATION>
+<RELATION id="114484_10" relation_type="asymmetric" gram_type="infix" theme="114484_3" theme_string="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al" party2="114484_5" party2_string="Kolb et al"></RELATION>
+<RELATION id="114484_9" relation_type="asymmetric" gram_type="infix" theme="114484_3" theme_string="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al" party1="114484_4" party1_string="Casteel, aka Al Ghashiyah (Kahn)"></RELATION>

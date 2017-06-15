@@ -1,0 +1,353 @@
+id1	lookup_key	entry_type	folder	full_name	casename	district_city	district_state	district_state_abbrev	party1	party2	party1_short	party2_short	docket_number	standard_reporter	volume	page_number	year	alternative_case_names
+97281	dozieralabama#1	party_key	scotus	Supreme Court of the United States	dozier v alabama	None	None	None	DOZIER	 ALABAMA	DOZIER	ALABAMA	Unknown	Unknown	Unknown	Unknown	1910	Unknown	
+97281	u.s._218_124	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	218	124	1910	Unknown	
+95542	plffcompany#1	party_key	scotus	Supreme Court of the United States	nat fdry cv oconto water supply co	None	None	None	NATIONAL FOUNDRY &AMP; PIPE WORKS LIMITED PLFF. IN ERR	OCONTO CITY WATER SUPPLY COMPANY	PLFF	COMPANY	Unknown	Unknown	Unknown	Unknown	1902	Unknown	
+95542	u.s._183_216	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	183	216	1902	Unknown	
+112117	courtfriedman#1	party_key	scotus	Supreme Court of the United States	supreme court of va v friedman	None	None	None	SUPREME COURT OF VA	 FRIEDMAN	COURT	FRIEDMAN	87-399	Unknown	Unknown	Unknown	1988	Unknown	
+112117	u.s._487_59	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	87-399	U.S.	487	59	1988	Unknown	
+99840	ex parte bey#1	case_key	scotus	Supreme Court of the United States	ex parte bey	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+108314	karrschmidt#1	party_key	scotus	Supreme Court of the United States	chesley karr v clifford schmidt	None	None	None	CHESLEY KARR	 CLIFFORD SCHMIDT	KARR	SCHMIDT	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+108314	u.s._401_1201	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	401	1201	Unknown	Unknown	
+108314	s.ct._91_592	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	91	592	Unknown	Unknown	
+108314	l.ed.2d_27_797	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.2D	27	797	Unknown	Unknown	
+130477	mossc#1	party_key	scotus	Supreme Court of the United States	moss et ux on behalf of their minor child moss v c	None	None	None	MOSS ET UX ON BEHALF OF THEIR MINOR CHILD MOSS	 C	MOSS	C	02-1519	Unknown	Unknown	Unknown	Unknown	Unknown	
+130477	u.s._539_927	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	02-1519	U.S.	539	927	Unknown	Unknown	
+112093	berkovitzstates#1	party_key	scotus	Supreme Court of the United States	berkovitz v united states	None	None	None	BERKOVITZ	 UNITED STATES	BERKOVITZ	STATES	87-498	Unknown	Unknown	Unknown	1988	Unknown	
+112093	u.s._486_531	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	87-498	U.S.	486	531	1988	Unknown	
+2620908	oilboard#1	party_key	scotus	Supreme Court of the United States	shell oil co v state board of equalization of california	None	None	None	SHELL OIL CO	 STATE BOARD OF EQUALIZATION OF CALIFORNIA	OIL	BOARD	Unknown	Unknown	Unknown	Unknown	1967	Unknown	
+2620908	u.s._386_211	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	386	211	1967	Unknown	
+107963	willinghammorgan#1	party_key	scotus	Supreme Court of the United States	willingham v morgan	None	None	None	WILLINGHAM	 MORGAN	WILLINGHAM	MORGAN	Unknown	Unknown	Unknown	Unknown	1969	Unknown	
+107963	u.s._395_402	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	395	402	1969	Unknown	
+131024	hallflorida#1	party_key	scotus	Supreme Court of the United States	no 02 9683	None	None	None	Hall	Florida	Hall	Florida	02-9683	Unknown	Unknown	Unknown	Unknown	no 02 9683	
+131024	u.s._538_1059	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	02-9683	U.S.	538	1059	Unknown	no 02 9683	
+131024	u.s._539_976	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	02-9683	U.S.	539	976	Unknown	no 02 9683	
+106118	moralescity#1	party_key	scotus	Supreme Court of the United States	morales v city of galveston	None	None	None	MORALES	 CITY OF GALVESTON	MORALES	CITY	Unknown	Unknown	Unknown	Unknown	1960	Unknown	
+106118	u.s._364_295	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	364	295	1960	Unknown	
+87728	the sally magee#1	case_key	scotus	Supreme Court of the United States	the sally magee	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1865	Unknown	
+87728	u.s._70_451	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	70	451	1865	Unknown	
+87728	wall._3_451	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	3	451	Unknown	Unknown	
+2620816	statessally#1	party_key	scotus	Supreme Court of the United States	united states v schooner sally	None	None	None	UNITED STATES	 SCHOONER SALLY	STATES	SALLY	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+2620816	u.s._6_406	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	6	406	Unknown	Unknown	
+2620816	cranch_2_406	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	CRANCH	2	406	Unknown	Unknown	
+91426	stewartdunham#1	party_key	scotus	Supreme Court of the United States	stewart v dunham	None	None	None	STEWART	 DUNHAM	STEWART	DUNHAM	Unknown	Unknown	Unknown	Unknown	1885	Unknown	
+91426	u.s._115_61	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	115	61	1885	Unknown	
+138019	crossillinois#1	party_key	scotus	Supreme Court of the United States	cross v illinois	None	None	None	CROSS	 ILLINOIS	CROSS	ILLINOIS	03-8407	Unknown	Unknown	Unknown	Unknown	Unknown	
+138019	u.s._543_822	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	03-8407	U.S.	543	822	Unknown	Unknown	
+97041	railwayknox#1	party_key	scotus	Supreme Court of the United States	texas pacific railway v eastin knox	None	None	None	TEXAS PACIFIC RAILWAY	 EASTIN KNOX	RAILWAY	KNOX	Unknown	Unknown	Unknown	Unknown	1909	Unknown	
+97041	u.s._214_153	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	214	153	1909	Unknown	
+101401	londoncommn#1	party_key	scotus	Supreme Court of the United States	london co v industrial commn	None	None	None	LONDON CO	 INDUSTRIAL COMMN	LONDON	COMMN	Unknown	Unknown	Unknown	Unknown	1929	Unknown	
+101401	u.s._279_109	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	279	109	1929	Unknown	
+85392	buelness#1	party_key	scotus	Supreme Court of the United States	buel v van ness	None	None	None	BUEL	 VAN NESS	BUEL	NESS	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+85392	u.s._21_312	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	21	312	Unknown	Unknown	
+85392	wheat._8_312	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WHEAT.	8	312	Unknown	Unknown	
+123575	garciastates#1	party_key	scotus	Supreme Court of the United States	arreola garcia aka garcia arreola v united states	None	None	None	ARREOLA GARCIA AKA GARCIA ARREOLA	 UNITED STATES	GARCIA	STATES	02-5239	Unknown	Unknown	Unknown	Unknown	Unknown	
+123575	u.s._537_903	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	02-5239	U.S.	537	903	Unknown	Unknown	
+110176	estesbranches#1	party_key	scotus	Supreme Court of the United States	estes v metropolitan branches of dallas naacp	None	None	None	ESTES	 METROPOLITAN BRANCHES OF DALLAS NAACP	ESTES	BRANCHES	78-253	Unknown	Unknown	Unknown	1980	Unknown	
+110176	u.s._444_437	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	78-253	U.S.	444	437	1980	Unknown	
+2812588	glossipgross#1	party_key	scotus	Supreme Court of the United States	glossip v gross	None	None	None	GLOSSIP	 GROSS	GLOSSIP	GROSS	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+85235	the atlanta foussat#1	case_key	scotus	Supreme Court of the United States	the atlanta foussat	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+85235	u.s._16_409	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	16	409	Unknown	Unknown	
+85235	l.ed._4_422	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	4	422	Unknown	Unknown	
+85235	wheat._3_409	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WHEAT.	3	409	Unknown	Unknown	
+91678	bdhart#1	party_key	scotus	Supreme Court of the United States	new orleans bd of liquidation v hart	None	None	None	NEW ORLEANS BD OF LIQUIDATION	 HART	BD	HART	Unknown	Unknown	Unknown	Unknown	1886	Unknown	
+91678	u.s._118_136	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	118	136	1886	Unknown	
+111162	fcccommunications#1	party_key	scotus	Supreme Court of the United States	fcc v itt world communications inc	None	None	None	FCC	 ITT WORLD COMMUNICATIONS INC	FCC	COMMUNICATIONS	83-371	Unknown	Unknown	Unknown	1984	Unknown	
+111162	u.s._466_463	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	83-371	U.S.	466	463	1984	Unknown	
+214947	kiyembaobama#1	party_key	scotus	Supreme Court of the United States	kiyemba v obama	None	None	None	KIYEMBA	 OBAMA	KIYEMBA	OBAMA	Unknown	Unknown	Unknown	Unknown	2011	Unknown	
+214947	u.s._563_____	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	563	____	2011	Unknown	
+125863	hershfieldcounty#1	party_key	scotus	Supreme Court of the United States	hershfield v county of king george virginia	None	None	None	HERSHFIELD	 COUNTY OF KING GEORGE VIRGINIA	HERSHFIELD	COUNTY	02-285	Unknown	Unknown	Unknown	Unknown	Unknown	
+125863	u.s._537_1084	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	02-285	U.S.	537	1084	Unknown	Unknown	
+98381	plffe#1	party_key	scotus	Supreme Court of the United States	toledo st louis western railroad company plff in err v otto e	None	None	None	TOLEDO ST LOUIS WESTERN RAILROAD COMPANY PLFF IN ERR	 OTTO E	PLFF	E	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+98381	u.s._236_454	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	236	454	Unknown	Unknown	
+98381	s.ct._35_306	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	35	306	Unknown	Unknown	
+98381	l.ed._59_671	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	59	671	Unknown	Unknown	
+92918	in re converse#1	case_key	scotus	Supreme Court of the United States	in re converse	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1891	Unknown	
+92918	u.s._137_624	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	137	624	1891	Unknown	
+97940	bankmiller#1	party_key	scotus	Supreme Court of the United States	american nat bank of nashville v miller	None	None	None	AMERICAN NAT BANK OF NASHVILLE	 MILLER	BANK	MILLER	Unknown	Unknown	Unknown	Unknown	1913	Unknown	
+97940	u.s._229_517	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	229	517	1913	Unknown	
+118152	fosterlove#1	party_key	scotus	Supreme Court of the United States	foster v love	None	None	None	FOSTER	 LOVE	FOSTER	LOVE	96-670	Unknown	Unknown	Unknown	1997	Unknown	
+118152	u.s._522_67	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	96-670	U.S.	522	67	1997	Unknown	
+96529	comrr#1	party_key	scotus	Supreme Court of the United States	mississippi rr com v illinois cent rr	None	None	None	MISSISSIPPI RR COM	 ILLINOIS CENT RR	COM	RR	Unknown	Unknown	Unknown	Unknown	1906	Unknown	
+96529	u.s._203_335	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	203	335	1906	Unknown	
+103294	flyheitmeyer#1	party_key	scotus	Supreme Court of the United States	fly v heitmeyer	None	None	None	FLY	 HEITMEYER	FLY	HEITMEYER	Unknown	Unknown	Unknown	Unknown	1940	Unknown	
+103294	u.s._309_146	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	309	146	1940	Unknown	
+2620739	robycolehour#1	party_key	scotus	Supreme Court of the United States	roby v colehour	None	None	None	ROBY	 COLEHOUR	ROBY	COLEHOUR	Unknown	Unknown	Unknown	Unknown	1892	Unknown	
+2620739	u.s._146_153	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	146	153	1892	Unknown	
+100671	sheenagle#1	party_key	scotus	Supreme Court of the United States	cheung sum shee v nagle	None	None	None	CHEUNG SUM SHEE	 NAGLE	SHEE	NAGLE	Unknown	Unknown	Unknown	Unknown	1925	Unknown	
+100671	u.s._268_336	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	268	336	1925	Unknown	
+117841	landgrafproducts#1	party_key	scotus	Supreme Court of the United States	landgraf v usi film products	None	None	None	LANDGRAF	 USI FILM PRODUCTS	LANDGRAF	PRODUCTS	92-757	Unknown	Unknown	Unknown	1994	Unknown	
+117841	u.s._511_244	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	92-757	U.S.	511	244	1994	Unknown	
+97590	gonzalesbuist#1	party_key	scotus	Supreme Court of the United States	gonzales v buist	None	None	None	GONZALES	 BUIST	GONZALES	BUIST	Unknown	Unknown	Unknown	Unknown	1912	Unknown	
+97590	u.s._224_126	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	224	126	1912	Unknown	
+107654	in re ruffalo#1	case_key	scotus	Supreme Court of the United States	in re ruffalo	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1968	Unknown	
+107654	u.s._390_544	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	390	544	1968	Unknown	
+120585	in re williams and in re jones#1	case_key	scotus	Supreme Court of the United States	in re williams and in re jones	None	None	None	Unknown	Unknown	Unknown	Unknown	01-9223	Unknown	Unknown	Unknown	Unknown	Unknown	
+120585	u.s._535_1077	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	01-9223	U.S.	535	1077	Unknown	Unknown	
+88370	the eutaw#1	case_key	scotus	Supreme Court of the United States	the eutaw	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88370	u.s._79_136	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	79	136	Unknown	Unknown	
+88370	l.ed._20_278	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	20	278	Unknown	Unknown	
+88370	wall._12_136	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	12	136	Unknown	Unknown	
+89192	the dove#1	case_key	scotus	Supreme Court of the United States	the dove	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+89192	u.s._91_381	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	91	381	Unknown	Unknown	
+145919	lockekarass#1	party_key	scotus	Supreme Court of the United States	locke v karass	None	None	None	LOCKE	 KARASS	LOCKE	KARASS	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+145919	u.s._466_435	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	466	435	Unknown	Unknown	
+145919	u.s._500_507	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	500	507	Unknown	Unknown	
+1491559	membersuni#1	party_key	scotus	Supreme Court of the United States	members of the peanut quota holders assn inc v uni	None	None	None	MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN INC	 UNI	MEMBERS	UNI	05-1225	Unknown	Unknown	Unknown	2006	Unknown	
+1491559	u.s._548_904	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	05-1225	U.S.	548	904	2006	Unknown	
+101464	statestate#1	party_key	scotus	Supreme Court of the United States	the state of wisconsin v the state of illinois state of michigan v the	None	None	None	THE STATE OF WISCONSIN	 THE STATE OF ILLINOIS STATE OF MICHIGAN V THE	STATE	STATE	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+101464	u.s._279_821	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	279	821	Unknown	Unknown	
+101464	s.ct._49_349	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	49	349	Unknown	Unknown	
+101464	l.ed._73_976	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	73	976	Unknown	Unknown	
+95343	in re vidal#1	case_key	scotus	Supreme Court of the United States	in re vidal	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1900	Unknown	
+95343	u.s._179_126	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	179	126	1900	Unknown	
+1468823	the new orleans#1	case_key	scotus	Supreme Court of the United States	the new orleans	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+1468823	u.s._106_13	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	106	13	Unknown	Unknown	
+801500	reichlehowards#1	party_key	scotus	Supreme Court of the United States	reichle v howards	None	None	None	REICHLE	 HOWARDS	REICHLE	HOWARDS	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+107439	in re gault#1	case_key	scotus	Supreme Court of the United States	in re gault	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1967	Unknown	
+107439	u.s._387_1	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	387	1	1967	Unknown	
+112288	iiistates#1	party_key	scotus	Supreme Court of the United States	anthony r hambsch iii v united states	None	None	None	ANTHONY R HAMBSCH III	 UNITED STATES	III	STATES	88-6120	Unknown	Unknown	Unknown	Unknown	Unknown	
+112288	u.s._490_1054	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	88-6120	U.S.	490	1054	Unknown	Unknown	
+112288	s.ct._109_1969	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	88-6120	S.CT.	109	1969	Unknown	Unknown	
+112288	l.ed.2d_104_437	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	88-6120	L.ED.2D	104	437	Unknown	Unknown	
+92736	in re loney#1	case_key	scotus	Supreme Court of the United States	in re loney	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1890	Unknown	
+92736	u.s._134_372	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	134	372	1890	Unknown	
+96987	ex parte in the matter of the dowagiac manufacturi#1	case_key	scotus	Supreme Court of the United States	ex parte in the matter of the dowagiac manufacturi	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+96987	u.s._212_569	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	212	569	Unknown	Unknown	
+96987	s.ct._29_692	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	29	692	Unknown	Unknown	
+96987	l.ed._53_655	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	53	655	Unknown	Unknown	
+2620860	lesseenoe#1	party_key	scotus	Supreme Court of the United States	molieres lessee v noe	None	None	None	MOLIERES LESSEE	 NOE	LESSEE	NOE	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+2620860	u.s._4_450	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	4	450	Unknown	Unknown	
+2620860	dall_4_450	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	DALL	4	450	Unknown	Unknown	
+84777	penningtoncoxe#1	party_key	scotus	Supreme Court of the United States	ogle v lee	None	None	None	OGLE	 LEE	PENNINGTON	COXE	Unknown	Unknown	Unknown	Unknown	1804	Unknown	
+84777	u.s._6_33	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	6	33	1804	Unknown	
+84777	cranch_2_33	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	CRANCH	2	33	Unknown	Unknown	
+99499	the mail divisor cases#1	case_key	scotus	Supreme Court of the United States	the mail divisor cases	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1920	Unknown	
+99499	u.s._251_326	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	251	326	1920	Unknown	
+2680439	rileycalifornia#1	party_key	scotus	Supreme Court of the United States	riley v california	None	None	None	RILEY	 CALIFORNIA	RILEY	CALIFORNIA	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+85416	the apollon#1	case_key	scotus	Supreme Court of the United States	the apollon	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1824	Unknown	
+85416	u.s._22_362	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	22	362	1824	Unknown	
+85416	wheat._9_362	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WHEAT.	9	362	Unknown	Unknown	
+85592	doegrymes#1	party_key	scotus	Supreme Court of the United States	doe on the demise of elmore v grymes	None	None	None	DOE ON THE DEMISE OF ELMORE	 GRYMES	DOE	GRYMES	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+85530	ogdensaunders#1	party_key	scotus	Supreme Court of the United States	ogden v saunders	None	None	None	OGDEN	 SAUNDERS	OGDEN	SAUNDERS	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+85530	u.s._25_213	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	25	213	Unknown	Unknown	
+85530	wheat._12_213	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WHEAT.	12	213	Unknown	Unknown	
+2644673	constrcourt#1	party_key	scotus	Supreme Court of the United States	atlantic marine constr co v united states dist court for western dist	None	None	None	ATLANTIC MARINE CONSTR CO	 UNITED STATES DIST COURT FOR WESTERN DIST	CONSTR	COURT	12–929	Unknown	Unknown	Unknown	Unknown	Unknown	
+88077	propeller mohawk#1	case_key	scotus	Supreme Court of the United States	propeller mohawk	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88077	u.s._75_153	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	75	153	Unknown	Unknown	
+88077	wall._8_153	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	8	153	Unknown	Unknown	
+2655499	lawsiegel#1	party_key	scotus	Supreme Court of the United States	law v siegel	None	None	None	LAW	 SIEGEL	LAW	SIEGEL	12–5196	Unknown	Unknown	Unknown	Unknown	Unknown	
+2655499	u.s._549_365	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	12–5196	U.S.	549	365	Unknown	Unknown	
+2655499	u.s._503_638	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	12–5196	U.S.	503	638	Unknown	Unknown	
+2655499	u.s._493_365	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	12–5196	U.S.	493	365	Unknown	Unknown	
+84682	appointment of paterson#1	case_key	scotus	Supreme Court of the United States	appointment of paterson	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+84682	u.s._2_479	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	2	479	Unknown	Unknown	
+84682	dall_2_479	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	DALL	2	479	Unknown	Unknown	
+97882	banksexton#1	party_key	scotus	Supreme Court of the United States	merchants nat bank of ny v sexton	None	None	None	MERCHANTS NAT BANK OF NY	 SEXTON	BANK	SEXTON	Unknown	Unknown	Unknown	Unknown	1913	Unknown	
+97882	u.s._228_634	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	228	634	1913	Unknown	
+91473	ryterry#1	party_key	scotus	Supreme Court of the United States	missouri pac ry co v terry	None	None	None	MISSOURI PAC RY CO	 TERRY	RY	TERRY	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+91473	s.ct._6_114	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	6	114	Unknown	Unknown	
+91473	u.s._115_523	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	115	523	Unknown	Unknown	
+91473	l.ed._29_467	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	29	467	Unknown	Unknown	
+96707	ex parte first natl bank of chicago#1	case_key	scotus	Supreme Court of the United States	ex parte first natl bank of chicago	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+105702	amlinverbeem#1	party_key	scotus	Supreme Court of the United States	amlin v verbeem	None	None	None	AMLIN	 VERBEEM	AMLIN	VERBEEM	Unknown	Unknown	Unknown	Unknown	1958	Unknown	
+105702	u.s._356_676	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	356	676	1958	Unknown	
+2781444	financialbank#1	party_key	scotus	Supreme Court of the United States	hana financial inc v hana bank	None	None	None	HANA FINANCIAL INC	 HANA BANK	FINANCIAL	BANK	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+621270	perryperez#1	party_key	scotus	Supreme Court of the United States	perry v perez	None	None	None	PERRY	 PEREZ	PERRY	PEREZ	11–715	Unknown	Unknown	Unknown	2012	Unknown	
+621270	u.s._565_____	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	11–715	U.S.	565	____	2012	Unknown	
+96079	united states#1	case_key	scotus	Supreme Court of the United States	united states	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1904	Unknown	
+96079	u.s._194_194	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	194	194	1904	Unknown	
+206187	milnerdepartment#1	party_key	scotus	Supreme Court of the United States	milner v department of navy	None	None	None	MILNER	 DEPARTMENT OF NAVY	MILNER	DEPARTMENT	09–1163	Unknown	Unknown	Unknown	Unknown	Unknown	
+206187	u.s._425_352	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	09–1163	U.S.	425	352	Unknown	Unknown	
+206187	f.2d_670_1051	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	09–1163	F.2D	670	1051	Unknown	Unknown	
+206187	u.s._492_136	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	09–1163	U.S.	492	136	Unknown	Unknown	
+88926	claims of marcuard#1	case_key	scotus	Supreme Court of the United States	claims of marcuard	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88926	u.s._87_114	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	87	114	Unknown	Unknown	
+88926	l.ed._22_327	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	22	327	Unknown	Unknown	
+88926	wall._20_114	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	20	114	Unknown	Unknown	
+95829	in re key#1	case_key	scotus	Supreme Court of the United States	in re key	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+108673	in the matter of the disbarment of seymour r thale#1	case_key	scotus	Supreme Court of the United States	in the matter of the disbarment of seymour r thale	None	None	None	Unknown	Unknown	Unknown	Unknown	D-9	Unknown	Unknown	Unknown	Unknown	Unknown	
+108673	u.s._409_921	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	D-9	U.S.	409	921	Unknown	Unknown	
+108673	s.ct._93_1350	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	D-9	S.CT.	93	1350	Unknown	Unknown	
+108673	l.ed.2d_35_583	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	D-9	L.ED.2D	35	583	Unknown	Unknown	
+87049	oregonrocca#1	party_key	scotus	Supreme Court of the United States	the steamer oregon v rocca	None	None	None	THE STEAMER OREGON	 ROCCA	OREGON	ROCCA	Unknown	Unknown	Unknown	Unknown	1855	Unknown	
+87049	u.s._59_570	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	59	570	1855	Unknown	
+87049	how._18_570	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	HOW.	18	570	Unknown	Unknown	
+85766	moorebank#1	party_key	scotus	Supreme Court of the United States	moore v bank of columbia	None	None	None	MOORE	 BANK OF COLUMBIA	MOORE	BANK	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88228	rubbergoodyear#1	party_key	scotus	Supreme Court of the United States	rubber co v goodyear	None	None	None	RUBBER CO	 GOODYEAR	RUBBER	GOODYEAR	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88228	u.s._76_805	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	76	805	Unknown	Unknown	
+88228	wall._9_805	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	9	805	Unknown	Unknown	
+88880	caldwells case#1	case_key	scotus	Supreme Court of the United States	caldwells case	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88880	u.s._86_264	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	86	264	Unknown	Unknown	
+88880	wall._19_264	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	19	264	Unknown	Unknown	
+86919	catharinedickinson#1	party_key	scotus	Supreme Court of the United States	the schooner catharine v dickinson	None	None	None	THE SCHOONER CATHARINE	 DICKINSON	CATHARINE	DICKINSON	Unknown	Unknown	Unknown	Unknown	1854	Unknown	
+86919	u.s._58_170	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	58	170	1854	Unknown	
+86919	how._17_170	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	HOW.	17	170	Unknown	Unknown	
+119070	changstates#1	party_key	scotus	Supreme Court of the United States	in suk chang v united states	None	None	None	IN SUK CHANG	 UNITED STATES	CHANG	STATES	01-1219	Unknown	Unknown	Unknown	Unknown	Unknown	
+119070	u.s._535_955	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	01-1219	U.S.	535	955	Unknown	Unknown	
+89311	taylorsecor#1	party_key	scotus	Supreme Court of the United States	taylor v secor	None	None	None	TAYLOR	 SECOR	TAYLOR	SECOR	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+89311	u.s._92_575	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	92	575	Unknown	Unknown	
+97071	ex parte in the matter of the consolidated rubber#1	case_key	scotus	Supreme Court of the United States	ex parte in the matter of the consolidated rubber 	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+97071	u.s._214_490	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	214	490	Unknown	Unknown	
+97071	s.ct._29_695	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	29	695	Unknown	Unknown	
+97071	l.ed._53_1057	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	53	1057	Unknown	Unknown	
+90390	pennimans case#1	case_key	scotus	Supreme Court of the United States	pennimans case	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+90390	u.s._103_714	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	103	714	Unknown	Unknown	
+88617	mosesmayor#1	party_key	scotus	Supreme Court of the United States	moses v the mayor	None	None	None	MOSES	 THE MAYOR	MOSES	MAYOR	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88617	u.s._82_387	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	82	387	Unknown	Unknown	
+88617	l.ed._21_176	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	21	176	Unknown	Unknown	
+88617	wall._15_387	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	15	387	Unknown	Unknown	
+128643	kimschool#1	party_key	scotus	Supreme Court of the United States	kim v wpg maxey training school	None	None	None	KIM	 WPG MAXEY TRAINING SCHOOL	KIM	SCHOOL	02-7218	Unknown	Unknown	Unknown	Unknown	Unknown	
+128643	u.s._538_957	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	02-7218	U.S.	538	957	Unknown	Unknown	
+145957	norrisjones#1	party_key	scotus	Supreme Court of the United States	norris v jones	None	None	None	NORRIS	 JONES	NORRIS	JONES	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+108713	roewade#1	party_key	scotus	Supreme Court of the United States	roe v wade	None	None	None	ROE	 WADE	ROE	WADE	70-18	Unknown	Unknown	Unknown	1973	Unknown	
+108713	u.s._410_113	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	70-18	U.S.	410	113	1973	Unknown	
+91309	erhardtboaro#1	party_key	scotus	Supreme Court of the United States	erhardt v boaro	None	None	None	ERHARDT	 BOARO	ERHARDT	BOARO	Unknown	Unknown	Unknown	Unknown	1885	Unknown	
+91309	u.s._113_527	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	113	527	1885	Unknown	
+802972	partnershipbullock#1	party_key	scotus	Supreme Court of the United States	american tradition partnership inc v bullock	None	None	None	AMERICAN TRADITION PARTNERSHIP INC	 BULLOCK	PARTNERSHIP	BULLOCK	Unknown	Unknown	Unknown	Unknown	2012	Unknown	
+802972	u.s._567_____	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	567	____	2012	Unknown	
+802972	p.3d_271_1	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	P.3D	271	1	Unknown	Unknown	
+103857	bartchystates#1	party_key	scotus	Supreme Court of the United States	bartchy v united states	None	None	None	BARTCHY	 UNITED STATES	BARTCHY	STATES	Unknown	Unknown	Unknown	Unknown	1943	Unknown	
+103857	u.s._319_484	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	319	484	1943	Unknown	
+97620	commissionex#1	party_key	scotus	Supreme Court of the United States	interstate commerce commission v us ex rel humboldt steamship co	None	None	None	INTERSTATE COMMERCE COMMISSION	 US EX REL HUMBOLDT STEAMSHIP CO	COMMISSION	EX	Unknown	Unknown	Unknown	Unknown	1912	Unknown	
+97620	u.s._224_474	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	224	474	1912	Unknown	
+104575	wademayo#1	party_key	scotus	Supreme Court of the United States	wade v mayo	None	None	None	WADE	 MAYO	WADE	MAYO	Unknown	Unknown	Unknown	Unknown	1948	Unknown	
+104575	u.s._334_672	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	334	672	1948	Unknown	
+145705	wilkierobbins#1	party_key	scotus	Supreme Court of the United States	wilkie v robbins	None	None	None	WILKIE	 ROBBINS	WILKIE	ROBBINS	06-219	Unknown	Unknown	Unknown	2007	Unknown	
+145705	s.ct._127_2588	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	06-219	S.CT.	127	2588	2007	Unknown	
+95023	ex parte ward#1	case_key	scotus	Supreme Court of the United States	ex parte ward	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+95023	u.s._173_452	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	173	452	Unknown	Unknown	
+95023	s.ct._19_459	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	19	459	Unknown	Unknown	
+95023	l.ed._43_765	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	43	765	Unknown	Unknown	
+127940	in re sullivan no d 2346#1	case_key	scotus	Supreme Court of the United States	in re sullivan no d 2346	None	None	None	Unknown	Unknown	Unknown	Unknown	D-2346	Unknown	Unknown	Unknown	Unknown	Unknown	
+127940	u.s._538_902	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	D-2346	U.S.	538	902	Unknown	Unknown	
+105245	cooksarnold#1	party_key	scotus	Supreme Court of the United States	marine cooks v arnold	None	None	None	MARINE COOKS	 ARNOLD	COOKS	ARNOLD	Unknown	Unknown	Unknown	Unknown	1954	Unknown	
+105245	u.s._348_37	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	348	37	1954	Unknown	
+94919	smythames#1	party_key	scotus	Supreme Court of the United States	smyth v ames	None	None	None	SMYTH	 AMES	SMYTH	AMES	Unknown	Unknown	Unknown	Unknown	1898	Unknown	
+94919	u.s._171_361	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	171	361	1898	Unknown	
+142419	abdullahkennet#1	party_key	scotus	Supreme Court of the United States	abdullah v kennet	None	None	None	ABDULLAH	 KENNET	ABDULLAH	KENNET	04-7654	Unknown	Unknown	Unknown	Unknown	Unknown	
+142419	u.s._543_1162	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	04-7654	U.S.	543	1162	Unknown	Unknown	
+108714	doebolton#1	party_key	scotus	Supreme Court of the United States	doe v bolton	None	None	None	DOE	 BOLTON	DOE	BOLTON	70-40	Unknown	Unknown	Unknown	1973	Unknown	
+108714	u.s._410_179	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	70-40	U.S.	410	179	1973	Unknown	
+118659	ce#1	party_key	scotus	Supreme Court of the United States	m c v e e	None	None	None	M C	 E E	C	E	01-7835	Unknown	Unknown	Unknown	Unknown	Unknown	
+118659	u.s._535_925	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	01-7835	U.S.	535	925	Unknown	Unknown	
+116536	barkleystates#1	party_key	scotus	Supreme Court of the United States	barkley v united states	None	None	None	BARKLEY	 UNITED STATES	BARKLEY	STATES	92-1646	Unknown	Unknown	Unknown	Unknown	Unknown	
+116536	u.s._510_1086	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	92-1646	U.S.	510	1086	Unknown	Unknown	
+112140	workersbeck#1	party_key	scotus	Supreme Court of the United States	communications workers v beck	None	None	None	COMMUNICATIONS WORKERS	 BECK	WORKERS	BECK	86-637	Unknown	Unknown	Unknown	1988	Unknown	
+112140	u.s._487_735	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	86-637	U.S.	487	735	1988	Unknown	
+95879	in re watts and sachs#1	case_key	scotus	Supreme Court of the United States	in re watts and sachs	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1903	Unknown	
+95879	u.s._190_1	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	190	1	1903	Unknown	
+96785	henningsenguaranty#1	party_key	scotus	Supreme Court of the United States	henningsen v united states fidelity guaranty co of baltimore	None	None	None	HENNINGSEN	 UNITED STATES FIDELITY GUARANTY CO OF BALTIMORE	HENNINGSEN	GUARANTY	Unknown	Unknown	Unknown	Unknown	1908	Unknown	
+96785	u.s._208_404	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	208	404	1908	Unknown	
+105835	tungusskovgaard#1	party_key	scotus	Supreme Court of the United States	the tungus v skovgaard	None	None	None	THE TUNGUS	 SKOVGAARD	TUNGUS	SKOVGAARD	Unknown	Unknown	Unknown	Unknown	1959	Unknown	
+105835	u.s._358_588	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	358	588	1959	Unknown	
+100299	countystates#1	party_key	scotus	Supreme Court of the United States	clallam county v united states	None	None	None	CLALLAM COUNTY	 UNITED STATES	COUNTY	STATES	Unknown	Unknown	Unknown	Unknown	1923	Unknown	
+100299	u.s._263_341	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	263	341	1923	Unknown	
+90723	porterstates#1	party_key	scotus	Supreme Court of the United States	porter v united states	None	None	None	PORTER	 UNITED STATES	PORTER	STATES	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+90723	u.s._106_607	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	106	607	Unknown	Unknown	
+104177	estate of john s garrett jr deceased bankrupt etc#1	case_key	scotus	Supreme Court of the United States	estate of john s garrett jr deceased bankrupt etc	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+104177	u.s._325_898	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	325	898	Unknown	Unknown	
+104177	s.ct._65_1562	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	65	1562	Unknown	Unknown	
+104177	l.ed._89_2007	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	89	2007	Unknown	Unknown	
+1087910	matter of tobin#1	case_key	scotus	Supreme Court of the United States	matter of tobin	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1909	Unknown	
+1087910	u.s._214_506	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	214	506	1909	Unknown	
+86640	warnermartin#1	party_key	scotus	Supreme Court of the United States	warner v martin	None	None	None	WARNER	 MARTIN	WARNER	MARTIN	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+86640	u.s._52_209	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	52	209	Unknown	Unknown	
+86640	how._11_209	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	HOW.	11	209	Unknown	Unknown	
+2621048	desarrollofund#1	party_key	scotus	Supreme Court of the United States	grupo mexicano de desarrollo sa v alliance bond fund inc	None	None	None	GRUPO MEXICANO DE DESARROLLO SA	 ALLIANCE BOND FUND INC	DESARROLLO	FUND	98-231	Unknown	Unknown	Unknown	1999	Unknown	
+2621048	u.s._527_308	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	98-231	U.S.	527	308	1999	Unknown	
+90812	in re amendments to rules 1 and 10#1	case_key	scotus	Supreme Court of the United States	in re amendments to rules 1 and 10	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+90812	u.s._108_1	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	108	1	Unknown	Unknown	
+90812	s.ct._1_125	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	1	125	Unknown	Unknown	
+90812	l.ed._27_629	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	27	629	Unknown	Unknown	
+102982	adairbank#1	party_key	scotus	Supreme Court of the United States	adair v bank of america nat trust sav assn	None	None	None	ADAIR	 BANK OF AMERICA NAT TRUST SAV ASSN	ADAIR	BANK	Unknown	Unknown	Unknown	Unknown	1938	Unknown	
+102982	u.s._303_350	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	303	350	1938	Unknown	
+137795	in re cruz-rivera#1	case_key	scotus	Supreme Court of the United States	IN RE CRUZ-RIVERA	None	None	None	Unknown	Unknown	Unknown	Unknown	04-5811	Unknown	Unknown	Unknown	Unknown	Unknown	
+137795	u.s._543_807	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	04-5811	U.S.	543	807	Unknown	Unknown	
+104562	coecoe#1	party_key	scotus	Supreme Court of the United States	coe v coe	None	None	None	COE	 COE	COE	COE	Unknown	Unknown	Unknown	Unknown	1948	Unknown	
+104562	u.s._334_378	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	334	378	1948	Unknown	
+114484	casteelkolb#1	party_key	scotus	Supreme Court of the United States	casteel aka al ghashiyah kahn v kolb	None	None	None	CASTEEL AKA AL GHASHIYAH KAHN	 KOLB	CASTEEL	KOLB	93-5727	Unknown	Unknown	Unknown	Unknown	Unknown	
+114484	u.s._510_924	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	93-5727	U.S.	510	924	Unknown	Unknown	
+91278	caillotdeetken#1	party_key	scotus	Supreme Court of the United States	caillot v deetken	None	None	None	CAILLOT	 DEETKEN	CAILLOT	DEETKEN	Unknown	Unknown	Unknown	Unknown	1885	Unknown	
+91278	u.s._113_215	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	113	215	1885	Unknown	
+95478	shumateheman#1	party_key	scotus	Supreme Court of the United States	shumate v heman	None	None	None	SHUMATE	 HEMAN	SHUMATE	HEMAN	Unknown	Unknown	Unknown	Unknown	1901	Unknown	
+95478	u.s._181_402	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	181	402	1901	Unknown	
+107576	penn central merger cases#1	case_key	scotus	Supreme Court of the United States	penn central merger cases	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1968	Unknown	
+107576	u.s._389_486	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	389	486	1968	Unknown	
+101119	the assigned car cases#1	case_key	scotus	Supreme Court of the United States	the assigned car cases	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1927	Unknown	
+101119	u.s._274_564	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	274	564	1927	Unknown	
+97586	beutlerr#1	party_key	scotus	Supreme Court of the United States	beutler v grand trunk junction r co	None	None	None	BEUTLER	 GRAND TRUNK JUNCTION R CO	BEUTLER	R	Unknown	Unknown	Unknown	Unknown	1912	Unknown	
+97586	u.s._224_85	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	224	85	1912	Unknown	
+88394	perrinstates#1	party_key	scotus	Supreme Court of the United States	perrin v united states	None	None	None	PERRIN	 UNITED STATES	PERRIN	STATES	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88394	u.s._79_315	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	79	315	Unknown	Unknown	
+88394	wall._12_315	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	12	315	Unknown	Unknown	
+109716	tvsylvania#1	party_key	scotus	Supreme Court of the United States	continental tv inc v gte sylvania inc	None	None	None	CONTINENTAL TV INC	 GTE SYLVANIA INC	TV	SYLVANIA	76-15	Unknown	Unknown	Unknown	1977	Unknown	
+109716	u.s._433_36	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	76-15	U.S.	433	36	1977	Unknown	
+94597	expressauditor#1	party_key	scotus	Supreme Court of the United States	adams express co v ohio state auditor	None	None	None	ADAMS EXPRESS CO	 OHIO STATE AUDITOR	EXPRESS	AUDITOR	Unknown	Unknown	Unknown	Unknown	1897	Unknown	
+94597	u.s._165_194	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	165	194	1897	Unknown	
+115917	trusteefurn#1	party_key	scotus	Supreme Court of the United States	richardson chapter 7 panel trustee v mt adams furn	None	None	None	RICHARDSON CHAPTER 7 PANEL TRUSTEE	 MT ADAMS FURN	TRUSTEE	FURN	92-1398	Unknown	Unknown	Unknown	Unknown	Unknown	
+115917	u.s._510_1039	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	92-1398	U.S.	510	1039	Unknown	Unknown	
+87845	license tax cases#1	case_key	scotus	Supreme Court of the United States	license tax cases	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+1211999	whitmanbartow#1	party_key	scotus	Supreme Court of the United States	whitman v bartow	None	None	None	WHITMAN	 BARTOW	WHITMAN	BARTOW	05-10881	Unknown	Unknown	Unknown	Unknown	Unknown	
+111159	colombiahall#1	party_key	scotus	Supreme Court of the United States	helicopteros nacionales de colombia sa v hall	None	None	None	HELICOPTEROS NACIONALES DE COLOMBIA SA	 HALL	COLOMBIA	HALL	82-1127	Unknown	Unknown	Unknown	1984	Unknown	
+111159	u.s._466_408	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	82-1127	U.S.	466	408	1984	Unknown	
+100009	commnnordenholt#1	party_key	scotus	Supreme Court of the United States	state industrial commn of ny v nordenholt corp	None	None	None	STATE INDUSTRIAL COMMN OF NY	 NORDENHOLT CORP	COMMN	NORDENHOLT	Unknown	Unknown	Unknown	Unknown	1922	Unknown	
+100009	u.s._259_263	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	259	263	1922	Unknown	
+112218	browercounty#1	party_key	scotus	Supreme Court of the United States	brower v county of inyo	None	None	None	BROWER	 COUNTY OF INYO	BROWER	COUNTY	87-248	Unknown	Unknown	Unknown	1989	Unknown	
+112218	u.s._489_593	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	87-248	U.S.	489	593	1989	Unknown	
+141903	salasstates#1	party_key	scotus	Supreme Court of the United States	salas v united states and torres vasquez v united 	None	None	None	SALAS	 UNITED STATES AND TORRES VASQUEZ V UNITED	SALAS	STATES	03-10427	Unknown	Unknown	Unknown	Unknown	Unknown	
+141903	u.s._543_1116	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	03-10427	U.S.	543	1116	Unknown	Unknown	
+96343	frenchtaylor#1	party_key	scotus	Supreme Court of the United States	french v taylor	None	None	None	FRENCH	 TAYLOR	FRENCH	TAYLOR	Unknown	Unknown	Unknown	Unknown	1905	Unknown	
+96343	u.s._199_274	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	199	274	1905	Unknown	
+105697	machinistsgonzales#1	party_key	scotus	Supreme Court of the United States	machinists v gonzales	None	None	None	MACHINISTS	 GONZALES	MACHINISTS	GONZALES	Unknown	Unknown	Unknown	Unknown	1958	Unknown	
+105697	u.s._356_617	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	356	617	1958	Unknown	
+86290	partethe#1	party_key	scotus	Supreme Court of the United States	ex parte in the matter of charles f sibbald v the 	None	None	None	EX PARTE IN THE MATTER OF CHARLES F SIBBALD	 THE	PARTE	THE	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+104163	buildingcallus#1	party_key	scotus	Supreme Court of the United States	10 east 40th street building inc v callus	None	None	None	10 EAST 40TH STREET BUILDING INC	 CALLUS	BUILDING	CALLUS	Unknown	Unknown	Unknown	Unknown	1945	Unknown	
+104163	u.s._325_578	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	325	578	1945	Unknown	
+95131	the buena ventura#1	case_key	scotus	Supreme Court of the United States	the buena ventura	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	1899	Unknown	
+95131	u.s._175_384	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	175	384	1899	Unknown	
+105954	ex parte william k powell#1	case_key	scotus	Supreme Court of the United States	ex parte william k powell	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+105954	u.s._361_34	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	361	34	Unknown	Unknown	
+105954	s.ct._80_126	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	S.CT.	80	126	Unknown	Unknown	
+105954	l.ed.2d_4_99	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.2D	4	99	Unknown	Unknown	
+118179	kawaauhaugeiger#1	party_key	scotus	Supreme Court of the United States	kawaauhau v geiger	None	None	None	KAWAAUHAU	 GEIGER	KAWAAUHAU	GEIGER	97-115	Unknown	Unknown	Unknown	1998	Unknown	
+118179	u.s._523_57	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	97-115	U.S.	523	57	1998	Unknown	
+115983	engstates#1	party_key	scotus	Supreme Court of the United States	shu yan eng aka ah shu v united states	None	None	None	SHU YAN ENG AKA AH SHU	 UNITED STATES	ENG	STATES	93-740	Unknown	Unknown	Unknown	Unknown	Unknown	
+115983	u.s._510_1045	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	93-740	U.S.	510	1045	Unknown	Unknown	
+96360	foppianospeed#1	party_key	scotus	Supreme Court of the United States	foppiano v speed	None	None	None	FOPPIANO	 SPEED	FOPPIANO	SPEED	Unknown	Unknown	Unknown	Unknown	1905	Unknown	
+96360	u.s._199_501	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	199	501	1905	Unknown	
+108666	partysecretary#1	party_key	scotus	Supreme Court of the United States	american party of texas applicants v bob bullock secretary of state of	None	None	None	AMERICAN PARTY OF TEXAS APPLICANTS	 BOB BULLOCK SECRETARY OF STATE OF	PARTY	SECRETARY	A-325	Unknown	Unknown	Unknown	Unknown	Unknown	
+108666	u.s._409_803	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	A-325	U.S.	409	803	Unknown	Unknown	
+108666	s.ct._93_25	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	A-325	S.CT.	93	25	Unknown	Unknown	
+108666	l.ed.2d_34_63	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	A-325	L.ED.2D	34	63	Unknown	Unknown	
+86863	staffordbank#1	party_key	scotus	Supreme Court of the United States	stafford v the union bank of louisiana	None	None	None	STAFFORD	 THE UNION BANK OF LOUISIANA	STAFFORD	BANK	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+109883	agostoins#1	party_key	scotus	Supreme Court of the United States	agosto v ins	None	None	None	AGOSTO	 INS	AGOSTO	INS	76-1410	Unknown	Unknown	Unknown	1978	Unknown	
+109883	u.s._436_748	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	76-1410	U.S.	436	748	1978	Unknown	
+130901	hernandeztexas#1	party_key	scotus	Supreme Court of the United States	hernandez aka hernandez llanas v texas	None	None	None	HERNANDEZ AKA HERNANDEZ LLANAS	 TEXAS	HERNANDEZ	TEXAS	02-10346	Unknown	Unknown	Unknown	Unknown	Unknown	
+130901	u.s._539_962	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	02-10346	U.S.	539	962	Unknown	Unknown	
+1299599	hayburns case#1	case_key	scotus	Supreme Court of the United States	hayburns case	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+1299599	u.s._2_409	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	2	409	Unknown	Unknown	
+1299599	dall_2_409	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	DALL	2	409	Unknown	Unknown	
+86527	doewatson#1	party_key	scotus	Supreme Court of the United States	doe v watson	None	None	None	DOE	 WATSON	DOE	WATSON	Unknown	Unknown	Unknown	Unknown	1850	Unknown	
+86527	u.s._49_263	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	49	263	1850	Unknown	
+86527	how._8_263	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	HOW.	8	263	Unknown	Unknown	
+85472	the thomas jefferson#1	case_key	scotus	Supreme Court of the United States	the thomas jefferson	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+85472	u.s._23_428	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	23	428	Unknown	Unknown	
+85472	wheat._10_428	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WHEAT.	10	428	Unknown	Unknown	
+138515	martinmichigan#1	party_key	scotus	Supreme Court of the United States	martin v michigan	None	None	None	MARTIN	 MICHIGAN	MARTIN	MICHIGAN	03-10951	Unknown	Unknown	Unknown	Unknown	Unknown	
+138515	u.s._543_859	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	03-10951	U.S.	543	859	Unknown	Unknown	
+91014	dimpfellr#1	party_key	scotus	Supreme Court of the United States	dimpfell v ohio mississippi r co	None	None	None	DIMPFELL	 OHIO MISSISSIPPI R CO	DIMPFELL	R	Unknown	Unknown	Unknown	Unknown	1884	Unknown	
+91014	u.s._110_209	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	110	209	1884	Unknown	
+96826	lipphardhumphrey#1	party_key	scotus	Supreme Court of the United States	lipphard v humphrey	None	None	None	LIPPHARD	 HUMPHREY	LIPPHARD	HUMPHREY	Unknown	Unknown	Unknown	Unknown	1908	Unknown	
+96826	u.s._209_264	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	209	264	1908	Unknown	
+90702	pattersonlynde#1	party_key	scotus	Supreme Court of the United States	patterson v lynde	None	None	None	PATTERSON	 LYNDE	PATTERSON	LYNDE	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+90702	u.s._106_519	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	106	519	Unknown	Unknown	
+120952	sanchezstates#1	party_key	scotus	Supreme Court of the United States	perez sanchez v united states	None	None	None	PEREZ SANCHEZ	 UNITED STATES	SANCHEZ	STATES	01-9816	Unknown	Unknown	Unknown	Unknown	Unknown	
+120952	u.s._535_1106	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	01-9816	U.S.	535	1106	Unknown	Unknown	
+96629	wetmorekarrick#1	party_key	scotus	Supreme Court of the United States	wetmore v karrick	None	None	None	WETMORE	 KARRICK	WETMORE	KARRICK	Unknown	Unknown	Unknown	Unknown	1907	Unknown	
+96629	u.s._205_141	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	205	141	1907	Unknown	
+88927	conrads lots#1	case_key	scotus	Supreme Court of the United States	conrads lots	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	
+88927	u.s._87_115	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	87	115	Unknown	Unknown	
+88927	l.ed._22_328	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	L.ED.	22	328	Unknown	Unknown	
+88927	wall._20_115	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	WALL.	20	115	Unknown	Unknown	
+96602	arthurr#1	party_key	scotus	Supreme Court of the United States	arthur v texas pacific r co	None	None	None	ARTHUR	 TEXAS PACIFIC R CO	ARTHUR	R	Unknown	Unknown	Unknown	Unknown	1907	Unknown	
+96602	u.s._204_505	standard_key	scotus	Supreme Court of the United States	Unknown	None	None	None	Unknown	Unknown	Unknown	Unknown	Unknown	U.S.	204	505	1907	Unknown	

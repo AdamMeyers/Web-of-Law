@@ -1,0 +1,86 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="126" id1="95343" id="95343_1" lookup_key="u.s._179_126" alternative_keys="['in re vidal#1']" citation_local_level_id="0" start="1" citation_global_level_id="43.002" end="20" volume="179" name="In re VIDAL" year="1900" line="2" >179 U.S. 126 (1900)</CITATION>
+
+<DATE start="15" citation_global_level_id="43.002" end="19" citation_local_level_id="0" id="95343_2" >1900</DATE>
+
+<CITATION start="21" id1="95343" entry_type="case_key" citation_global_level_id="43.001" line="3" name="In re VIDAL" id="95343_4" lookup_key="in re vidal#1" alternative_keys="['u.s._179_126']" end="32" citation_local_level_id="1" >In re VIDAL</CITATION>
+
+<NAME start="37" local_name_id="1" end="43" all_names="NUMBER" id="95343_5" >Number</NAME>
+
+<ORGANIZATION start="45" end="75" id="95343_6" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="87" end="101" id="95343_7" >April 23, 1900</DATE>
+
+<NAME start="103" local_name_id="2" end="110" all_names="DECIDED" id="95343_11" >Decided</NAME>
+
+<DATE start="111" end="128" id="95343_10" >November 12, 1900</DATE>
+
+<NAME start="130" local_name_id="3" end="138" all_names="ORIGINAL" id="95343_12" >ORIGINAL</NAME>
+
+<NAME start="140" local_name_id="4" end="164" all_names="MR FREDERIC D MCKENNEY" id="95343_13" >Mr. Frederic D. McKenney</NAME>
+
+<LEGAL_ROLE start="166" local_name_id="5" end="227" name="Mr. Frederic D. McKenney" id="95343_14" plural="True" >Mr. Francis H. Dexter and Mr. Wayne Mac Veagh for petitioners</LEGAL_ROLE>
+
+<PROFESSION start="229" end="272" id="95343_16" >Mr. Solicitor General for the United States</PROFESSION>
+
+<NAME start="274" local_name_id="6" end="276" all_names="MR" id="95343_17" >MR</NAME>
+
+<PROFESSION start="460" end="467" party="ORDER" document_level_name_id="7" id="95343_19" >General</PROFESSION>
+
+<NAME start="468" local_name_id="7" end="473" all_names="ORDER" id="95343_20" >Order</NAME>
+
+<NAME start="491" local_name_id="8" end="514" all_names="BRIGADIER-GENERAL DAVIS" id="95343_21" >Brigadier-General Davis</NAME>
+
+<ORGANIZATION start="523" end="541" id="95343_22" >United States Army</ORGANIZATION>
+
+<ORGANIZATION start="563" end="587" id="95343_23" >department of Porto Rico</ORGANIZATION>
+
+<NAME start="679" local_name_id="9" end="684" all_names="VIDAL" id="95343_24" >Vidal</NAME>
+
+<ORGANIZATION start="720" end="727" plural="True" id="95343_25" >offices</ORGANIZATION>
+
+<NAME start="743" local_name_id="10" end="750" all_names="GUAYAMA" id="95343_26" >Guayama</NAME>
+
+<DATE start="782" end="796" id="95343_18" >April 23, 1900</DATE>
+
+<NAME start="875" local_name_id="11" end="880" all_names="APRIL" id="95343_27" >April</NAME>
+
+<NAME start="885" local_name_id="12" end="920" all_names="SECTION 716 OF THE REVISED STATUTES" id="95343_30" >Section 716 of the Revised Statutes</NAME>
+
+<NAME start="960" local_name_id="13" end="973" all_names="JUDICIARY ACT" id="95343_31" >Judiciary Act</NAME>
+
+<DATE start="977" end="981" id="95343_29" >1789</DATE>
+
+<ORGANIZATION start="1041" end="1047" plural="True" id="95343_32" >Courts</ORGANIZATION>
+
+<ORGANIZATION start="1317" end="1322" id="95343_33" >court</ORGANIZATION>
+
+<ORGANIZATION start="1434" end="1440" plural="True" id="95343_34" >courts</ORGANIZATION>
+
+<NAME start="1525" local_name_id="14" end="1558" all_names="THIRD ARTICLE OF THE CONSTITUTION" id="95343_35" >third Article of the Constitution</NAME>
+
+<PROFESSION start="1644" end="1651" id="95343_36" >general</PROFESSION>
+
+<NAME start="1701" local_name_id="15" end="1709" all_names="CONGRESS" id="95343_38" >Congress</NAME>
+
+<DATE start="1713" end="1727" id="95343_37" >April 12, 1900</DATE>
+
+<NAME start="1732" local_name_id="16" end="1736" all_names="STAT" id="95343_39" >Stat</NAME>
+
+<NAME start="1784" local_name_id="17" end="1796" all_names="FIRST OF MAY" id="95343_40" >first of May</NAME>
+
+<ORGANIZATION start="1867" end="1895" id="95343_41" >United States District Court</ORGANIZATION>
+
+<NAME start="2129" local_name_id="18" end="2134" all_names="LEAVE" id="95343_42" >Leave</NAME>
+
+<RELATION at_date_string="1900" theme_string="179 U.S. 126 (1900)" id="95343_3" relation_type="asymmetric" theme="95343_1" at_date="95343_2" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="In re VIDAL" gram_type="multi_line" standard_case="95343_1" relation_type="equivalence" id="95343_8" standard_case_string="179 U.S. 126 (1900)" case_citation_other="95343_4" ></RELATION>
+
+<RELATION at_date_string="1900" theme_string="In re VIDAL" id="95343_9" relation_type="asymmetric" theme="95343_4" at_date="95343_2" gram_type="multi_line" ></RELATION>
+
+<RELATION gram_type="apposition" id="95343_15" relation_type="asymmetric" theme="95343_13" theme_string="Mr. Frederic D. McKenney" legal_role="95343_14" legal_role_string="Mr. Francis H. Dexter and Mr. Wayne Mac Veagh for petitioners" ></RELATION>
+
+<RELATION profession="95343_19" gram_type="pre_nom" id="95343_28" profession_string="General" relation_type="asymmetric" theme="95343_20" theme_string="Order" ></RELATION>
+
+<NAME local_name_id="5" from="from_legal_role" name="MR FREDERIC D MCKENNEY" >MR FREDERIC D MCKENNEY</NAME>
+

@@ -1,0 +1,406 @@
+<citation id="111162_1" entry_type="standard_case" start="1" end="20" reporter="U.S." standard_reporter="U.S." volume="466" page_number="463" year="1984" line="2">466 U.S. 463 (1984)</citation>
+<date id="111162_2" start="15" end="19">1984</date>
+<citation id="111162_6" entry_type="case_X_vs_Y" start="21" end="104" party1="FEDERAL COMMUNICATIONS COMMISSION ET AL." party2="ITT WORLD COMMUNICATIONS, INC., ET AL" line="5">FEDERAL COMMUNICATIONS COMMISSION ET AL.  v.  ITT WORLD COMMUNICATIONS, INC., ET AL</citation>
+<NAME id="111162_7" start="21" end="61" party1_of="111162_6">FEDERAL COMMUNICATIONS COMMISSION ET AL.</NAME>
+<NAME id="111162_9" start="21" end="60">FEDERAL COMMUNICATIONS COMMISSION ET AL</NAME>
+<ORGANIZATION id="111162_10" start="44" end="54">COMMISSION</ORGANIZATION>
+<NAME id="111162_8" start="67" end="104" party2_of="111162_6">ITT WORLD COMMUNICATIONS, INC., ET AL</NAME>
+<ORGANIZATION id="111162_11" start="67" end="96">ITT WORLD COMMUNICATIONS, INC</ORGANIZATION>
+<docket id="111162_14" entry_type="docket" start="110" end="116" line="6">83-371</docket>
+<ORGANIZATION id="111162_15" start="118" end="148">Supreme Court of United States</ORGANIZATION>
+<date id="111162_16" start="157" end="171">March 21, 1984</date>
+<NAME id="111162_20" start="172" end="179">Decided</NAME>
+<date id="111162_19" start="180" end="194">April 30, 1984</date>
+<ORGANIZATION id="111162_21" start="195" end="280">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT</ORGANIZATION>
+<NAME id="111162_22" start="286" end="306">Albert J. Lauber, Jr</NAME>
+<LEGAL_ROLE id="111162_23" start="330" end="341" plural="True">petitioners</LEGAL_ROLE>
+<NAME id="111162_24" start="567" end="581">Grant S. Lewis</NAME>
+<LEGAL_ROLE id="111162_25" start="603" end="614" plural="True">respondents</LEGAL_ROLE>
+<NAME id="111162_26" start="616" end="620">With</NAME>
+<NAME id="111162_27" start="643" end="657">John S. Kinzey</NAME>
+<NAME id="111162_28" start="659" end="675">Charles C. Platt</NAME>
+<NAME id="111162_29" start="677" end="692">Howard A. White</NAME>
+<NAME id="111162_30" start="698" end="714">Susan I. Littman</NAME>
+<PROFESSION id="111162_31" start="716" end="723">JUSTICE</PROFESSION>
+<NAME id="111162_32" start="724" end="730">POWELL</NAME>
+<ORGANIZATION id="111162_33" start="760" end="765">Court</ORGANIZATION>
+<PROFESSION id="111162_35" start="771" end="781">Government</PROFESSION>
+<NAME id="111162_36" start="789" end="801">Sunshine Act</NAME>
+<NAME id="111162_37" start="805" end="812">U. S. C</NAME>
+<ORGANIZATION id="111162_38" start="844" end="852" plural="True">agencies</ORGANIZATION>
+<NAME id="111162_39" start="935" end="938">Act</NAME>
+<NAME id="111162_40" start="1012" end="1049">Federal Communications Commission. We</NAME>
+<ORGANIZATION id="111162_41" start="1035" end="1045">Commission</ORGANIZATION>
+<ORGANIZATION id="111162_42" start="1079" end="1093">District Court</ORGANIZATION>
+<ORGANIZATION id="111162_43" start="1148" end="1154">agency</ORGANIZATION>
+<ORGANIZATION id="111162_44" start="1188" end="1194">agency</ORGANIZATION>
+<ORGANIZATION id="111162_45" start="1259" end="1275">Court of Appeals</ORGANIZATION>
+<LEGAL_ROLE id="111162_46" start="1280" end="1335">Members of petitioner Federal Communications Commission</LEGAL_ROLE>
+<NAME id="111162_47" start="1337" end="1340">FCC</NAME>
+<NAME id="111162_48" start="1365" end="1386">European and Canadian</NAME>
+<NAME id="111162_49" start="1430" end="1456">Consultative Process. This</NAME>
+<ORGANIZATION id="111162_50" start="1686" end="1721" plural="True">American corporations — respondents</ORGANIZATION>
+<NAME id="111162_51" start="1722" end="1746">ITT World Communications</NAME>
+<ORGANIZATION id="111162_52" start="1748" end="1751">Inc</ORGANIZATION>
+<NAME id="111162_53" start="1754" end="1757">ITT</NAME>
+<ORGANIZATION id="111162_54" start="1764" end="1794">RCA Global Communications, Inc</ORGANIZATION>
+<NAME id="111162_55" start="1801" end="1828">Western Union International</NAME>
+<ORGANIZATION id="111162_56" start="1809" end="1814">Union</ORGANIZATION>
+<NAME id="111162_57" start="1898" end="1901">FCC</NAME>
+<NAME id="111162_58" start="1959" end="1967">European</NAME>
+<NAME id="111162_59" start="2012" end="2015">FCC</NAME>
+<NAME id="111162_60" start="2092" end="2112">Consultative Process</NAME>
+<NAME id="111162_61" start="2174" end="2182">European</NAME>
+<NAME id="111162_62" start="2213" end="2216">FCC</NAME>
+<LEGAL_ROLE id="111162_63" start="2302" end="2313" plural="True">Respondents</LEGAL_ROLE>
+<LEGAL_ROLE id="111162_64" start="2388" end="2399" plural="True">respondents</LEGAL_ROLE>
+<NAME id="111162_65" start="2437" end="2440">FCC</NAME>
+<NAME id="111162_66" start="2456" end="2476">Consultative Process</NAME>
+<NAME id="111162_67" start="2519" end="2522">FCC</NAME>
+<PROFESSION id="111162_68" start="2569" end="2580" plural="True">governments</PROFESSION>
+<ORGANIZATION id="111162_69" start="2678" end="2684">agency</ORGANIZATION>
+<NAME id="111162_70" start="2739" end="2751">Sunshine Act</NAME>
+<NAME id="111162_71" start="2765" end="2785">Consultative Process</NAME>
+<NAME id="111162_72" start="2817" end="2820">FCC</NAME>
+<NAME id="111162_73" start="2849" end="2862">See 5 U. S. C</NAME>
+<NAME id="111162_74" start="2882" end="2885">FCC</NAME>
+<LEGAL_ROLE id="111162_75" start="2922" end="2933" plural="True">respondents</LEGAL_ROLE>
+<ORGANIZATION id="111162_76" start="2957" end="3010">Court of Appeals for the District of Columbia Circuit</ORGANIZATION>
+<LEGAL_ROLE id="111162_77" start="3012" end="3022">Respondent</LEGAL_ROLE>
+<NAME id="111162_78" start="3023" end="3026">ITT</NAME>
+<ORGANIZATION id="111162_79" start="3050" end="3093">District Court for the District of Columbia</ORGANIZATION>
+<LEGAL_ROLE id="111162_80" start="3115" end="3126" plural="True">respondents</LEGAL_ROLE>
+<ORGANIZATION id="111162_81" start="3172" end="3178">agency</ORGANIZATION>
+<PROFESSION id="111162_82" start="3207" end="3244" plural="True">officials at the Consultative Process</PROFESSION>
+<ORGANIZATION id="111162_83" start="3266" end="3272">agency</ORGANIZATION>
+<NAME id="111162_84" start="3322" end="3342">Consultative Process</NAME>
+<ORGANIZATION id="111162_85" start="3383" end="3415">Sunshine Act. The District Court</ORGANIZATION>
+<PROFESSION id="111162_86" start="3442" end="3447">count</PROFESSION>
+<NAME id="111162_87" start="3491" end="3494">FCC</NAME>
+<NAME id="111162_88" start="3514" end="3526">Sunshine Act</NAME>
+<LEGAL_ROLE id="111162_89" start="3531" end="3541">Respondent</LEGAL_ROLE>
+<NAME id="111162_90" start="3542" end="3545">ITT</NAME>
+<ORGANIZATION id="111162_91" start="3564" end="3574">Commission</ORGANIZATION>
+<ORGANIZATION id="111162_96" start="3595" end="3648">Court of Appeals for the District of Columbia Circuit</ORGANIZATION>
+<ORGANIZATION id="111162_97" start="3687" end="3701">District Court</ORGANIZATION>
+<NAME id="111162_98" start="3721" end="3724">FCC</NAME>
+<ORGANIZATION id="111162_99" start="3766" end="3780">District Court</ORGANIZATION>
+<NAME id="111162_100" start="3837" end="3852">U. S. App. D. C</NAME>
+<citation id="111162_94" entry_type="standard_case" start="3858" end="3878" reporter="F.2d" standard_reporter="F.2D" volume="699" page_number="1219" year="1983" line="20">699 F.2d 1219 (1983)</citation>
+<date id="111162_95" start="3873" end="3877">1983</date>
+<ORGANIZATION id="111162_101" start="3884" end="3900">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="111162_102" start="3914" end="3928">District Court</ORGANIZATION>
+<NAME id="111162_103" start="3947" end="3959">Sunshine Act</NAME>
+<NAME id="111162_104" start="3987" end="4011">Consultative Process. It</NAME>
+<ORGANIZATION id="111162_105" start="4025" end="4039">District Court</ORGANIZATION>
+<PROFESSION id="111162_106" start="4076" end="4081">count</PROFESSION>
+<ORGANIZATION id="111162_107" start="4148" end="4154">agency</ORGANIZATION>
+<ORGANIZATION id="111162_108" start="4173" end="4189">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="111162_109" start="4196" end="4201">court</ORGANIZATION>
+<ORGANIZATION id="111162_110" start="4216" end="4230">District Court</ORGANIZATION>
+<NAME id="111162_111" start="4267" end="4274">U. S. C</NAME>
+<NAME id="111162_112" start="4310" end="4313">FCC</NAME>
+<NAME id="111162_113" start="4335" end="4355">Consultative Process</NAME>
+<ORGANIZATION id="111162_114" start="4394" end="4400">agency</ORGANIZATION>
+<LEGAL_ROLE id="111162_115" start="4471" end="4482" plural="True">respondents</LEGAL_ROLE>
+<ORGANIZATION id="111162_118" start="4507" end="4523">Court of Appeals</ORGANIZATION>
+<NAME id="111162_119" start="4548" end="4551">FCC</NAME>
+<LEGAL_ROLE id="111162_120" start="4575" end="4586" plural="True">respondents</LEGAL_ROLE>
+<NAME id="111162_121" start="4609" end="4619">Consistent</NAME>
+<ORGANIZATION id="111162_122" start="4647" end="4661">District Court</ORGANIZATION>
+<ORGANIZATION id="111162_123" start="4667" end="4683">Court of Appeals</ORGANIZATION>
+<NAME id="111162_124" start="4698" end="4701">FCC</NAME>
+<NAME id="111162_125" start="4735" end="4747">Sunshine Act</NAME>
+<NAME id="111162_126" start="4769" end="4789">Consultative Process</NAME>
+<ORGANIZATION id="111162_127" start="4813" end="4818">court</ORGANIZATION>
+<NAME id="111162_128" start="4873" end="4876">FCC</NAME>
+<NAME id="111162_129" start="4925" end="4945">Consultative Process</NAME>
+<NAME id="111162_130" start="4989" end="5004">U. S. App. D. C</NAME>
+<citation id="111162_117" entry_type="standard_case" start="5014" end="5032" reporter="F. 2d" standard_reporter="F.2D" volume="699" page_number="1247" line="21">699 F. 2d, at 1247</citation>
+<NAME id="111162_131" start="5060" end="5063">FCC</NAME>
+<ORGANIZATION id="111162_132" start="5069" end="5074">court</ORGANIZATION>
+<ORGANIZATION id="111162_133" start="5094" end="5100">agency</ORGANIZATION>
+<ORGANIZATION id="111162_134" start="5155" end="5169">District Court</ORGANIZATION>
+<LEGAL_ROLE id="111162_135" start="5184" end="5195" plural="True">respondents</LEGAL_ROLE>
+<ORGANIZATION id="111162_138" start="5291" end="5305">District Court</ORGANIZATION>
+<NAME id="111162_139" start="5377" end="5389">Sunshine Act</NAME>
+<NAME id="111162_140" start="5417" end="5437">Consultative Process</NAME>
+<citation id="111162_136" entry_type="standard_case" start="5442" end="5461" reporter="U.S." standard_reporter="U.S." volume="464" page_number="932" year="1983" line="22">464 U.S. 932 (1983)</citation>
+<date id="111162_137" start="5456" end="5460">1983</date>
+<ORGANIZATION id="111162_152" start="5531" end="5545">District Court</ORGANIZATION>
+<NAME id="111162_153" start="5556" end="5559">FCC</NAME>
+<NAME id="111162_154" start="5583" end="5592">Exclusive</NAME>
+<NAME id="111162_155" start="5626" end="5629">FCC</NAME>
+<NAME id="111162_156" start="5650" end="5653">FCC</NAME>
+<LEGAL_ROLE id="111162_157" start="5666" end="5677" plural="True">respondents</LEGAL_ROLE>
+<ORGANIZATION id="111162_158" start="5712" end="5740">Court of Appeals. 28 U. S. C</ORGANIZATION>
+<NAME id="111162_159" start="5756" end="5763">U. S. C</NAME>
+<NAME id="111162_160" start="5775" end="5784">Litigants</NAME>
+<ORGANIZATION id="111162_161" start="5834" end="5848">District Court</ORGANIZATION>
+<ORGANIZATION id="111162_162" start="5893" end="5899">agency</ORGANIZATION>
+<NAME id="111162_163" start="5909" end="5912">See</NAME>
+<citation id="111162_144" entry_type="case_X_vs_Y" start="5913" end="5985" party1="Port of Boston Marine Terminal Assn." party2="Rederiaktiebolaget Transatlantic" line="26">Port of Boston Marine Terminal Assn. v. Rederiaktiebolaget Transatlantic</citation>
+<NAME id="111162_146" start="5913" end="5949" party1_of="111162_144">Port of Boston Marine Terminal Assn.</NAME>
+<NAME id="111162_147" start="5953" end="5985" party2_of="111162_144">Rederiaktiebolaget Transatlantic</NAME>
+<citation id="111162_142" entry_type="standard_case" start="5987" end="6009" reporter="U.S." standard_reporter="U.S." volume="400" page_number="62" paragraph_number="69" year="1970" line="26">400 U.S. 62, 69 (1970)</citation>
+<date id="111162_150" start="6004" end="6008">1970</date>
+<citation id="111162_145" entry_type="case_X_vs_Y" start="6011" end="6055" party1="Whitney National Bank" party2="Bank of New Orleans" line="26">Whitney National Bank v. Bank of New Orleans</citation>
+<NAME id="111162_148" start="6011" end="6032" party1_of="111162_145">Whitney National Bank</NAME>
+<NAME id="111162_149" start="6036" end="6055" party2_of="111162_145">Bank of New Orleans</NAME>
+<citation id="111162_143" entry_type="standard_case" start="6057" end="6085" reporter="U.S." standard_reporter="U.S." volume="379" page_number="411" paragraph_number="419-422" year="1965" line="26">379 U.S. 411, 419-422 (1965)</citation>
+<date id="111162_151" start="6080" end="6084">1965</date>
+<LEGAL_ROLE id="111162_164" start="6104" end="6115" plural="True">respondents</LEGAL_ROLE>
+<ORGANIZATION id="111162_165" start="6189" end="6203">District Court</ORGANIZATION>
+<ORGANIZATION id="111162_166" start="6276" end="6282">agency</ORGANIZATION>
+<NAME id="111162_167" start="6349" end="6357">FCC. See</NAME>
+<ORGANIZATION id="111162_168" start="6443" end="6449">agency</ORGANIZATION>
+<ORGANIZATION id="111162_169" start="6498" end="6514">Court of Appeals</ORGANIZATION>
+<NAME id="111162_183" start="6548" end="6576">Administrative Procedure Act</NAME>
+<ORGANIZATION id="111162_184" start="6618" end="6624">agency</ORGANIZATION>
+<ORGANIZATION id="111162_185" start="6639" end="6653">District Court</ORGANIZATION>
+<NAME id="111162_186" start="6729" end="6736">U. S. C</NAME>
+<LEGAL_ROLE id="111162_187" start="6751" end="6762" plural="True">Respondents</LEGAL_ROLE>
+<ORGANIZATION id="111162_188" start="6915" end="6921">agency</ORGANIZATION>
+<ORGANIZATION id="111162_189" start="6942" end="6958">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="111162_190" start="7020" end="7036">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="111162_191" start="7110" end="7116">agency</ORGANIZATION>
+<citation id="111162_179" entry_type="case_X_vs_Y" start="7122" end="7153" party1="Harrison" party2="PPG Industries, Inc" line="27">Harrison v. PPG Industries, Inc</citation>
+<NAME id="111162_180" start="7122" end="7130" party1_of="111162_179">Harrison</NAME>
+<NAME id="111162_181" start="7134" end="7153" party2_of="111162_179">PPG Industries, Inc</NAME>
+<citation id="111162_178" entry_type="standard_case" start="7156" end="7184" reporter="U.S." standard_reporter="U.S." volume="446" page_number="578" paragraph_number="593-594" year="1980" line="27">446 U.S. 578, 593-594 (1980)</citation>
+<date id="111162_182" start="7179" end="7183">1980</date>
+<NAME id="111162_196" start="7490" end="7502">Sunshine Act</NAME>
+<NAME id="111162_197" start="7506" end="7513">U. S. C</NAME>
+<ORGANIZATION id="111162_198" start="7556" end="7562">agency</ORGANIZATION>
+<NAME id="111162_199" start="7587" end="7594">Section</NAME>
+<ORGANIZATION id="111162_200" start="7684" end="7690">agency</ORGANIZATION>
+<ORGANIZATION id="111162_201" start="7740" end="7746">agency</ORGANIZATION>
+<ORGANIZATION id="111162_202" start="7831" end="7846">official agency</ORGANIZATION>
+<NAME id="111162_203" start="7886" end="7898">Sunshine Act</NAME>
+<NAME id="111162_204" start="7921" end="7941">Consultative Process</NAME>
+<NAME id="111162_205" start="7994" end="7997">FCC</NAME>
+<ORGANIZATION id="111162_206" start="8105" end="8111">agency</ORGANIZATION>
+<NAME id="111162_211" start="8142" end="8150">Congress</NAME>
+<NAME id="111162_212" start="8167" end="8170">Act</NAME>
+<ORGANIZATION id="111162_213" start="8398" end="8404">agency</ORGANIZATION>
+<NAME id="111162_214" start="8413" end="8423">See S. Rep</NAME>
+<docket id="111162_208" entry_type="docket" start="8429" end="8435" line="33">94-354</docket>
+<citation id="111162_207" entry_type="standard_case" start="8438" end="8454" reporter="p." standard_reporter="P." volume="470" page_number="19" year="1975" line="33">470 p. 19 (1975)</citation>
+<date id="111162_210" start="8449" end="8453">1975</date>
+<NAME id="111162_215" start="8460" end="8463">Act</NAME>
+<ORGANIZATION id="111162_216" start="8562" end="8568">agency</ORGANIZATION>
+<NAME id="111162_217" start="8629" end="8636">Section</NAME>
+<NAME id="111162_218" start="8669" end="8672">Act</NAME>
+<ORGANIZATION id="111162_219" start="8731" end="8737">agency</ORGANIZATION>
+<ORGANIZATION id="111162_220" start="8776" end="8791">official agency</ORGANIZATION>
+<NAME id="111162_221" start="8803" end="8809">S. Rep</NAME>
+<docket id="111162_209" entry_type="docket" start="8815" end="8821" line="33">94-354</docket>
+<PROFESSION id="111162_225" start="8835" end="8848" plural="True">Commissioners</PROFESSION>
+<NAME id="111162_226" start="8878" end="8898">Consultative Process</NAME>
+<ORGANIZATION id="111162_227" start="8957" end="8967">Commission</ORGANIZATION>
+<NAME id="111162_228" start="9021" end="9055">Telecommunications Committee. That</NAME>
+<ORGANIZATION id="111162_229" start="9040" end="9049">Committee</ORGANIZATION>
+<ORGANIZATION id="111162_230" start="9056" end="9065">Committee</ORGANIZATION>
+<ORGANIZATION id="111162_231" start="9125" end="9131">agency</ORGANIZATION>
+<ORGANIZATION id="111162_232" start="9138" end="9148">Commission</ORGANIZATION>
+<ORGANIZATION id="111162_233" start="9175" end="9184">Committee</ORGANIZATION>
+<NAME id="111162_234" start="9215" end="9233">Communications Act</NAME>
+<date id="111162_223" start="9237" end="9241">1934</date>
+<NAME id="111162_235" start="9246" end="9250">Stat</NAME>
+<NAME id="111162_236" start="9273" end="9280">U. S. C</NAME>
+<NAME id="111162_237" start="9366" end="9376">See 47 CFR</NAME>
+<date id="111162_224" start="9386" end="9390">1983</date>
+<NAME id="111162_238" start="9397" end="9409">Sunshine Act</NAME>
+<ORGANIZATION id="111162_239" start="9464" end="9470">agency</ORGANIZATION>
+<ORGANIZATION id="111162_242" start="9524" end="9552">Telecommunications Committee</ORGANIZATION>
+<ORGANIZATION id="111162_243" start="9663" end="9678">official agency</ORGANIZATION>
+<PROFESSION id="111162_244" start="9770" end="9778">official</PROFESSION>
+<NAME id="111162_245" start="9789" end="9799">See S. Rep</NAME>
+<docket id="111162_240" entry_type="docket" start="9805" end="9811" line="35">94-354</docket>
+<ORGANIZATION id="111162_246" start="10009" end="10013">firm</ORGANIZATION>
+<ORGANIZATION id="111162_247" start="10080" end="10086">agency</ORGANIZATION>
+<NAME id="111162_248" start="10089" end="10110">R. Berg &amp; S. Klitzman</NAME>
+<PROFESSION id="111162_249" start="10115" end="10151">Interpretive Guide to the Government</PROFESSION>
+<NAME id="111162_250" start="10159" end="10171">Sunshine Act</NAME>
+<date id="111162_241" start="10175" end="10179">1978</date>
+<NAME id="111162_251" start="10194" end="10212">Interpretive Guide</NAME>
+<LEGAL_ROLE id="111162_252" start="10271" end="10281">respondent</LEGAL_ROLE>
+<NAME id="111162_253" start="10282" end="10285">ITT</NAME>
+<ORGANIZATION id="111162_254" start="10311" end="10320">Committee</ORGANIZATION>
+<NAME id="111162_255" start="10379" end="10399">Consultative Process</NAME>
+<ORGANIZATION id="111162_256" start="10445" end="10449">firm</ORGANIZATION>
+<ORGANIZATION id="111162_257" start="10520" end="10529">Committee</ORGANIZATION>
+<PROFESSION id="111162_258" start="10570" end="10577">general</PROFESSION>
+<PROFESSION id="111162_259" start="10608" end="10621" plural="True">Commissioners</PROFESSION>
+<ORGANIZATION id="111162_260" start="10749" end="10759">Commission</ORGANIZATION>
+<NAME id="111162_261" start="10800" end="10808">Congress</NAME>
+<NAME id="111162_262" start="10828" end="10840">Sunshine Act</NAME>
+<ORGANIZATION id="111162_265" start="10876" end="10892">Court of Appeals</ORGANIZATION>
+<PROFESSION id="111162_266" start="10945" end="10958" plural="True">Commissioners</PROFESSION>
+<ORGANIZATION id="111162_267" start="11046" end="11051">court</ORGANIZATION>
+<ORGANIZATION id="111162_268" start="11198" end="11208">Commission</ORGANIZATION>
+<ORGANIZATION id="111162_269" start="11214" end="11219">court</ORGANIZATION>
+<ORGANIZATION id="111162_270" start="11309" end="11324">official agency</ORGANIZATION>
+<ORGANIZATION id="111162_271" start="11388" end="11398">Commission</ORGANIZATION>
+<NAME id="111162_272" start="11430" end="11445">U. S. App. D. C</NAME>
+<citation id="111162_264" entry_type="standard_case" start="11455" end="11473" reporter="F. 2d" standard_reporter="F.2D" volume="699" page_number="1241" line="36">699 F. 2d, at 1241</citation>
+<NAME id="111162_273" start="11487" end="11490">Act</NAME>
+<ORGANIZATION id="111162_274" start="11547" end="11553">agency</ORGANIZATION>
+<PROFESSION id="111162_275" start="11651" end="11659">official</PROFESSION>
+<ORGANIZATION id="111162_276" start="11675" end="11681">agency</ORGANIZATION>
+<ORGANIZATION id="111162_277" start="11710" end="11726">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="111162_278" start="11732" end="11737">group</ORGANIZATION>
+<ORGANIZATION id="111162_279" start="11795" end="11801">agency</ORGANIZATION>
+<ORGANIZATION id="111162_280" start="11897" end="11903">agency</ORGANIZATION>
+<ORGANIZATION id="111162_281" start="11946" end="11952">agency</ORGANIZATION>
+<NAME id="111162_282" start="12028" end="12050">See Interpretive Guide</NAME>
+<ORGANIZATION id="111162_283" start="12135" end="12151">Court of Appeals</ORGANIZATION>
+<NAME id="111162_284" start="12232" end="12240">Congress</NAME>
+<ORGANIZATION id="111162_285" start="12302" end="12308">agency</ORGANIZATION>
+<NAME id="111162_286" start="12358" end="12370">Sunshine Act</NAME>
+<ORGANIZATION id="111162_287" start="12605" end="12620">official agency</ORGANIZATION>
+<NAME id="111162_288" start="12657" end="12660">Act</NAME>
+<ORGANIZATION id="111162_289" start="12673" end="12729">Telecommunications Committee at the Consultative Process</ORGANIZATION>
+<NAME id="111162_290" start="12932" end="12944">Sunshine Act</NAME>
+<NAME id="111162_292" start="12953" end="12973">Consultative Process</NAME>
+<NAME id="111162_293" start="12998" end="13001">FCC</NAME>
+<NAME id="111162_294" start="13046" end="13049">FCC</NAME>
+<NAME id="111162_295" start="13092" end="13112">Consultative Process</NAME>
+<ORGANIZATION id="111162_296" start="13147" end="13153">agency</ORGANIZATION>
+<NAME id="111162_297" start="13192" end="13195">Act</NAME>
+<ORGANIZATION id="111162_298" start="13226" end="13232">agency</ORGANIZATION>
+<NAME id="111162_299" start="13319" end="13322">See</NAME>
+<NAME id="111162_300" start="13373" end="13376">Act</NAME>
+<ORGANIZATION id="111162_301" start="13411" end="13417">agency</ORGANIZATION>
+<NAME id="111162_302" start="13497" end="13500">Act</NAME>
+<ORGANIZATION id="111162_303" start="13523" end="13529">agency</ORGANIZATION>
+<ORGANIZATION id="111162_304" start="13580" end="13586">agency</ORGANIZATION>
+<NAME id="111162_305" start="13629" end="13637">Congress</NAME>
+<ORGANIZATION id="111162_306" start="13672" end="13678">agency</ORGANIZATION>
+<ORGANIZATION id="111162_307" start="13783" end="13789">agency</ORGANIZATION>
+<NAME id="111162_308" start="13801" end="13811">See S. Rep</NAME>
+<docket id="111162_291" entry_type="docket" start="13817" end="13823" line="40">94-354</docket>
+<NAME id="111162_309" start="13832" end="13834">IV</NAME>
+<ORGANIZATION id="111162_310" start="13885" end="13901">Court of Appeals</ORGANIZATION>
+<NAME id="111162_311" start="13994" end="13999">NOTES</NAME>
+<NAME id="111162_312" start="14005" end="14012">Section</NAME>
+<NAME id="111162_313" start="14033" end="14040">Members</NAME>
+<ORGANIZATION id="111162_314" start="14055" end="14061">agency</ORGANIZATION>
+<ORGANIZATION id="111162_315" start="14103" end="14109">agency</ORGANIZATION>
+<ORGANIZATION id="111162_316" start="14238" end="14244">agency</ORGANIZATION>
+<NAME id="111162_317" start="14283" end="14293">Subsection</NAME>
+<NAME id="111162_318" start="14362" end="14369">Section</NAME>
+<ORGANIZATION id="111162_319" start="14458" end="14464">agency</ORGANIZATION>
+<ORGANIZATION id="111162_320" start="14514" end="14520">agency</ORGANIZATION>
+<ORGANIZATION id="111162_321" start="14605" end="14620">official agency</ORGANIZATION>
+<NAME id="111162_322" start="14632" end="14639">Section</NAME>
+<ORGANIZATION id="111162_323" start="14669" end="14675">agency</ORGANIZATION>
+<ORGANIZATION id="111162_324" start="14693" end="14699">agency</ORGANIZATION>
+<ORGANIZATION id="111162_325" start="14844" end="14850">agency</ORGANIZATION>
+<ORGANIZATION id="111162_326" start="14862" end="14876">District Court</ORGANIZATION>
+<NAME id="111162_327" start="14903" end="14915">Sunshine Act</NAME>
+<NAME id="111162_328" start="14930" end="14937">U. S. C</NAME>
+<NAME id="111162_329" start="14958" end="14973">Title 5 U. S. C</NAME>
+<ORGANIZATION id="111162_330" start="15123" end="15128">court</ORGANIZATION>
+<ORGANIZATION id="111162_331" start="15239" end="15244">court</ORGANIZATION>
+<ORGANIZATION id="111162_332" start="15277" end="15293">Court of Appeals</ORGANIZATION>
+<LEGAL_ROLE id="111162_333" start="15303" end="15314" plural="True">respondents</LEGAL_ROLE>
+<ORGANIZATION id="111162_334" start="15346" end="15362">Court of Appeals</ORGANIZATION>
+<LEGAL_ROLE id="111162_335" start="15391" end="15402" plural="True">respondents</LEGAL_ROLE>
+<NAME id="111162_336" start="15412" end="15415">See</NAME>
+<ORGANIZATION id="111162_337" start="15455" end="15471">Court of Appeals</ORGANIZATION>
+<NAME id="111162_338" start="15533" end="15536">FCC</NAME>
+<NAME id="111162_339" start="15608" end="15611">FCC</NAME>
+<ORGANIZATION id="111162_340" start="15655" end="15660">Court</ORGANIZATION>
+<NAME id="111162_357" start="15667" end="15670">ITT</NAME>
+<ORGANIZATION id="111162_358" start="15776" end="15782">agency</ORGANIZATION>
+<citation id="111162_344" entry_type="case_X_vs_Y" start="16378" end="16408" party1="Aetna Life Ins. Co." party2="Haworth" line="58">Aetna Life Ins. Co. v. Haworth</citation>
+<NAME id="111162_347" start="16378" end="16397" party1_of="111162_344">Aetna Life Ins. Co.</NAME>
+<NAME id="111162_348" start="16401" end="16408" party2_of="111162_344">Haworth</NAME>
+<citation id="111162_341" entry_type="standard_case" start="16410" end="16438" reporter="U.S." standard_reporter="U.S." volume="300" page_number="227" paragraph_number="240-241" year="1937" line="58">300 U.S. 227, 240-241 (1937)</citation>
+<date id="111162_353" start="16433" end="16437">1937</date>
+<date id="111162_354" start="16817" end="16821">1983</date>
+<citation id="111162_345" entry_type="case_X_vs_Y" start="16828" end="16872" party1="Whitney National Bank" party2="Bank of New Orleans" line="58">Whitney National Bank v. Bank of New Orleans</citation>
+<NAME id="111162_349" start="16828" end="16849" party1_of="111162_345">Whitney National Bank</NAME>
+<NAME id="111162_350" start="16853" end="16872" party2_of="111162_345">Bank of New Orleans</NAME>
+<citation id="111162_342" entry_type="standard_case" start="16874" end="16891" reporter="U.S." standard_reporter="U.S." volume="379" page_number="411" paragraph_number="421" line="58">379 U.S. 411, 421</citation>
+<date id="111162_355" start="16898" end="16902">1965</date>
+<citation id="111162_346" entry_type="case_X_vs_Y" start="16905" end="16941" party1="Far East Conference" party2="United States" line="58">Far East Conference v. United States</citation>
+<NAME id="111162_351" start="16905" end="16924" party1_of="111162_346">Far East Conference</NAME>
+<NAME id="111162_352" start="16928" end="16941" party2_of="111162_346">United States</NAME>
+<citation id="111162_343" entry_type="standard_case" start="16943" end="16960" reporter="U.S." standard_reporter="U.S." volume="342" page_number="570" paragraph_number="574" line="58">342 U.S. 570, 574</citation>
+<date id="111162_356" start="16967" end="16971">1952</date>
+<NAME id="111162_369" start="16979" end="16987">Meetings</NAME>
+<NAME id="111162_370" start="17012" end="17015">Act</NAME>
+<NAME id="111162_371" start="17057" end="17060">Act</NAME>
+<ORGANIZATION id="111162_372" start="17104" end="17110">agency</ORGANIZATION>
+<ORGANIZATION id="111162_373" start="17276" end="17282">agency</ORGANIZATION>
+<PROFESSION id="111162_374" start="17285" end="17292">counsel</PROFESSION>
+<NAME id="111162_375" start="17331" end="17334">Act</NAME>
+<NAME id="111162_376" start="17433" end="17437">Ibid</NAME>
+<NAME id="111162_384" start="17587" end="17590">See</NAME>
+<NAME id="111162_385" start="17601" end="17610">H. R. Rep</NAME>
+<docket id="111162_377" entry_type="docket" start="17616" end="17622" line="60">94-880</docket>
+<date id="111162_379" start="17638" end="17642">1976</date>
+<date id="111162_380" start="17833" end="17837">1976</date>
+<date id="111162_381" start="17895" end="17899">1975</date>
+<docket id="111162_378" entry_type="docket" start="17984" end="17990" line="60">94-354</docket>
+<date id="111162_382" start="17999" end="18003">1975</date>
+<date id="111162_383" start="18438" end="18442">1976</date>
+<NAME id="111162_388" start="18486" end="18506">Consultative Process</NAME>
+<date id="111162_386" start="18539" end="18551">October 1979</date>
+<ORGANIZATION id="111162_389" start="18557" end="18567">Commission</ORGANIZATION>
+<NAME id="111162_390" start="18607" end="18610">Pub</NAME>
+<date id="111162_387" start="18657" end="18669">July 1, 1983</date>
+<NAME id="111162_401" start="18677" end="18683">Common</NAME>
+<NAME id="111162_402" start="18789" end="18796">U. S. C</NAME>
+<ORGANIZATION id="111162_403" start="18829" end="18839">Commission</ORGANIZATION>
+<NAME id="111162_404" start="18973" end="18996">U. S. C. § 214. Permits</NAME>
+<NAME id="111162_405" start="19071" end="19078">U. S. C</NAME>
+<citation id="111162_400" entry_type="case_citation_other" start="19093" end="19106" name="The Office of" line="64">The Office of</citation>
+<ORGANIZATION id="111162_406" start="19097" end="19106">Office of</ORGANIZATION>
+<PROFESSION id="111162_407" start="19107" end="19173">the Chairman of the Administrative Conference of the United States</PROFESSION>
+<NAME id="111162_408" start="19187" end="19217">Interpretive Guide at Congress</NAME>
+<ORGANIZATION id="111162_409" start="19290" end="19298" plural="True">agencies</ORGANIZATION>
+<citation id="111162_397" entry_type="case_X_vs_Y" start="19304" end="19346" party1="Interpretive Guide, at" party2="Memorandum" line="64">Interpretive Guide, at v. [11]  Memorandum</citation>
+<NAME id="111162_398" start="19304" end="19326" party1_of="111162_397">Interpretive Guide, at</NAME>
+<NAME id="111162_399" start="19336" end="19346" party2_of="111162_397">Memorandum</NAME>
+<docket id="111162_396" entry_type="docket" start="19595" end="19602" line="64">80-0428</docket>
+<ORGANIZATION id="111162_412" start="19719" end="19730">Association</ORGANIZATION>
+<ORGANIZATION id="111162_413" start="19760" end="19776">Court of Appeals</ORGANIZATION>
+<RELATION id="111162_3" relation_type="asymmetric" gram_type="infix" theme="111162_1" theme_string="466 U.S. 463 (1984)" at_date="111162_2" at_date_string="1984"></RELATION>
+<RELATION id="111162_12" relation_type="asymmetric" gram_type="infix" theme="111162_6" theme_string="FEDERAL COMMUNICATIONS COMMISSION ET AL.  v.  ITT WORLD COMMUNICATIONS, INC., ET AL" party1="111162_7" party1_string="FEDERAL COMMUNICATIONS COMMISSION ET AL."></RELATION>
+<RELATION id="111162_13" relation_type="asymmetric" gram_type="infix" theme="111162_6" theme_string="FEDERAL COMMUNICATIONS COMMISSION ET AL.  v.  ITT WORLD COMMUNICATIONS, INC., ET AL" party2="111162_8" party2_string="ITT WORLD COMMUNICATIONS, INC., ET AL"></RELATION>
+<RELATION id="111162_17" relation_type="equivalence" gram_type="multi_line" standard_case="111162_1" standard_case_string="466 U.S. 463 (1984)" X_vs_Y="111162_6" X_vs_Y_string="FEDERAL COMMUNICATIONS COMMISSION ET AL.  v.  ITT WORLD COMMUNICATIONS, INC., ET AL"></RELATION>
+<RELATION id="111162_18" relation_type="asymmetric" gram_type="multi_line" theme="111162_6" theme_string="FEDERAL COMMUNICATIONS COMMISSION ET AL.  v.  ITT WORLD COMMUNICATIONS, INC., ET AL" includes_docket="111162_14" includes_docket_string="83-371"></RELATION>
+<RELATION id="111162_34" relation_type="asymmetric" gram_type="pre_nom" profession="111162_31" profession_string="JUSTICE" theme="111162_32" theme_string="POWELL"></RELATION>
+<RELATION id="111162_92" legal_role="111162_77" legal_role_string="Respondent" relation_type="asymmetric" gram_type="pre_nom" theme="111162_78" theme_string="ITT"></RELATION>
+<RELATION id="111162_93" legal_role="111162_89" legal_role_string="Respondent" relation_type="asymmetric" gram_type="pre_nom" theme="111162_90" theme_string="ITT"></RELATION>
+<RELATION id="111162_116" relation_type="asymmetric" gram_type="infix" theme="111162_94" theme_string="699 F.2d 1219 (1983)" at_date="111162_95" at_date_string="1983"></RELATION>
+<RELATION id="111162_141" relation_type="asymmetric" gram_type="infix" theme="111162_136" theme_string="464 U.S. 932 (1983)" at_date="111162_137" at_date_string="1983"></RELATION>
+<RELATION id="111162_172" relation_type="equivalence" gram_type="apposition" standard_case="111162_142" standard_case_string="400 U.S. 62, 69 (1970)" X_vs_Y="111162_144" X_vs_Y_string="Port of Boston Marine Terminal Assn. v. Rederiaktiebolaget Transatlantic"></RELATION>
+<RELATION id="111162_170" relation_type="asymmetric" gram_type="infix" theme="111162_144" theme_string="Port of Boston Marine Terminal Assn. v. Rederiaktiebolaget Transatlantic" party1="111162_146" party1_string="Port of Boston Marine Terminal Assn."></RELATION>
+<RELATION id="111162_171" relation_type="asymmetric" gram_type="infix" theme="111162_144" theme_string="Port of Boston Marine Terminal Assn. v. Rederiaktiebolaget Transatlantic" party2="111162_147" party2_string="Rederiaktiebolaget Transatlantic"></RELATION>
+<RELATION id="111162_173" relation_type="asymmetric" gram_type="infix" theme="111162_142" theme_string="400 U.S. 62, 69 (1970)" at_date="111162_150" at_date_string="1970"></RELATION>
+<RELATION id="111162_176" relation_type="equivalence" gram_type="apposition" standard_case="111162_143" standard_case_string="379 U.S. 411, 419-422 (1965)" X_vs_Y="111162_145" X_vs_Y_string="Whitney National Bank v. Bank of New Orleans"></RELATION>
+<RELATION id="111162_174" relation_type="asymmetric" gram_type="infix" theme="111162_145" theme_string="Whitney National Bank v. Bank of New Orleans" party1="111162_148" party1_string="Whitney National Bank"></RELATION>
+<RELATION id="111162_175" relation_type="asymmetric" gram_type="infix" theme="111162_145" theme_string="Whitney National Bank v. Bank of New Orleans" party2="111162_149" party2_string="Bank of New Orleans"></RELATION>
+<RELATION id="111162_177" relation_type="asymmetric" gram_type="infix" theme="111162_143" theme_string="379 U.S. 411, 419-422 (1965)" at_date="111162_151" at_date_string="1965"></RELATION>
+<RELATION id="111162_194" relation_type="equivalence" gram_type="apposition" standard_case="111162_178" standard_case_string="446 U.S. 578, 593-594 (1980)" X_vs_Y="111162_179" X_vs_Y_string="Harrison v. PPG Industries, Inc"></RELATION>
+<RELATION id="111162_192" relation_type="asymmetric" gram_type="infix" theme="111162_179" theme_string="Harrison v. PPG Industries, Inc" party1="111162_180" party1_string="Harrison"></RELATION>
+<RELATION id="111162_193" relation_type="asymmetric" gram_type="infix" theme="111162_179" theme_string="Harrison v. PPG Industries, Inc" party2="111162_181" party2_string="PPG Industries, Inc"></RELATION>
+<RELATION id="111162_195" relation_type="asymmetric" gram_type="infix" theme="111162_178" theme_string="446 U.S. 578, 593-594 (1980)" at_date="111162_182" at_date_string="1980"></RELATION>
+<RELATION id="111162_222" relation_type="asymmetric" gram_type="infix" theme="111162_207" theme_string="470 p. 19 (1975)" at_date="111162_210" at_date_string="1975"></RELATION>
+<RELATION id="111162_263" legal_role="111162_252" legal_role_string="respondent" relation_type="asymmetric" gram_type="pre_nom" theme="111162_253" theme_string="ITT"></RELATION>
+<RELATION id="111162_361" relation_type="equivalence" gram_type="apposition" standard_case="111162_341" standard_case_string="300 U.S. 227, 240-241 (1937)" X_vs_Y="111162_344" X_vs_Y_string="Aetna Life Ins. Co. v. Haworth"></RELATION>
+<RELATION id="111162_359" relation_type="asymmetric" gram_type="infix" theme="111162_344" theme_string="Aetna Life Ins. Co. v. Haworth" party1="111162_347" party1_string="Aetna Life Ins. Co."></RELATION>
+<RELATION id="111162_360" relation_type="asymmetric" gram_type="infix" theme="111162_344" theme_string="Aetna Life Ins. Co. v. Haworth" party2="111162_348" party2_string="Haworth"></RELATION>
+<RELATION id="111162_362" relation_type="asymmetric" gram_type="infix" theme="111162_341" theme_string="300 U.S. 227, 240-241 (1937)" at_date="111162_353" at_date_string="1937"></RELATION>
+<RELATION id="111162_365" relation_type="equivalence" gram_type="apposition" standard_case="111162_342" standard_case_string="379 U.S. 411, 421" X_vs_Y="111162_345" X_vs_Y_string="Whitney National Bank v. Bank of New Orleans"></RELATION>
+<RELATION id="111162_363" relation_type="asymmetric" gram_type="infix" theme="111162_345" theme_string="Whitney National Bank v. Bank of New Orleans" party1="111162_349" party1_string="Whitney National Bank"></RELATION>
+<RELATION id="111162_364" relation_type="asymmetric" gram_type="infix" theme="111162_345" theme_string="Whitney National Bank v. Bank of New Orleans" party2="111162_350" party2_string="Bank of New Orleans"></RELATION>
+<RELATION id="111162_368" relation_type="equivalence" gram_type="apposition" standard_case="111162_343" standard_case_string="342 U.S. 570, 574" X_vs_Y="111162_346" X_vs_Y_string="Far East Conference v. United States"></RELATION>
+<RELATION id="111162_366" relation_type="asymmetric" gram_type="infix" theme="111162_346" theme_string="Far East Conference v. United States" party1="111162_351" party1_string="Far East Conference"></RELATION>
+<RELATION id="111162_367" relation_type="asymmetric" gram_type="infix" theme="111162_346" theme_string="Far East Conference v. United States" party2="111162_352" party2_string="United States"></RELATION>
+<RELATION id="111162_410" relation_type="asymmetric" gram_type="infix" theme="111162_397" theme_string="Interpretive Guide, at v. [11]  Memorandum" party1="111162_398" party1_string="Interpretive Guide, at"></RELATION>
+<RELATION id="111162_411" relation_type="asymmetric" gram_type="infix" theme="111162_397" theme_string="Interpretive Guide, at v. [11]  Memorandum" party2="111162_399" party2_string="Memorandum"></RELATION>

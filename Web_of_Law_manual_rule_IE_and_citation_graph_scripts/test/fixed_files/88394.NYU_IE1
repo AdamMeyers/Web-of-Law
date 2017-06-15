@@ -1,0 +1,86 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="315" id1="88394" id="88394_1" lookup_key="u.s._79_315" alternative_keys="['perrinstates#1', 'wall._12_315']" citation_local_level_id="0" start="1" citation_global_level_id="119.002" end="19" volume="79" line="2" >79 U.S. 315 (____)</CITATION>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="315" id1="88394" id="88394_2" lookup_key="wall._12_315" alternative_keys="['u.s._79_315', 'perrinstates#1']" citation_local_level_id="1" start="20" citation_global_level_id="119.003" end="32" volume="12" line="3" >12 Wall. 315</CITATION>
+
+<CITATION id1="88394" entry_type="party_key" party1="PERRIN" line="6" id="88394_4" lookup_key="perrinstates#1" alternative_keys="['u.s._79_315', 'wall._12_315']" party2="UNITED STATES" citation_local_level_id="2" start="33" party2_short="STATES" end="58" citation_global_level_id="119.001" party1_short="PERRIN" >PERRIN v. UNITED STATES</CITATION>
+
+<NAME start="33" local_name_id="1" end="39" all_names="PERRIN" party1_of="88394_4" id="88394_5" >PERRIN</NAME>
+
+<NAME start="45" party2_of="88394_4" end="58" all_names="UNITED STATES" id="88394_6" local_name_id="2" >UNITED STATES</NAME>
+
+<ORGANIZATION start="60" end="90" id="88394_9" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="98" local_name_id="3" end="112" all_names="MR WW BOICE" id="88394_12" >Mr. W.W. Boice</NAME>
+
+<LEGAL_ROLE start="122" end="132" plural="True" id="88394_13" >appellants</LEGAL_ROLE>
+
+<NAME start="134" local_name_id="4" end="145" all_names="MR AKERMAN" id="88394_14" >Mr. Akerman</NAME>
+
+<NAME start="147" local_name_id="5" end="163" all_names="ATTORNEY-GENERAL" id="88394_15" >Attorney-General</NAME>
+
+<NAME start="169" local_name_id="6" end="182" all_names="MR CH HILL" id="88394_16" >Mr. C.H. Hill</NAME>
+
+<NAME start="192" local_name_id="7" end="212" all_names="MR JUSTICE CLIFFORD" id="88394_17" >Mr. Justice CLIFFORD</NAME>
+
+<PROFESSION start="196" end="203" id="88394_18" >Justice</PROFESSION>
+
+<ORGANIZATION start="264" end="269" id="88394_19" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="275" end="286" plural="True" id="88394_21" >petitioners</LEGAL_ROLE>
+
+<ORGANIZATION start="302" end="307" id="88394_22" >court</ORGANIZATION>
+
+<NAME start="357" local_name_id="2" end="370" all_names="UNITED STATES" id="88394_23" >United States</NAME>
+
+<DATE start="401" end="411" id="88394_20" >July, 1854</DATE>
+
+<NAME start="429" local_name_id="8" end="437" all_names="SAN JUAN" id="88394_24" >San Juan</NAME>
+
+<NAME start="442" local_name_id="9" end="447" all_names="NORTE" id="88394_25" >Norte</NAME>
+
+<NAME start="452" local_name_id="10" end="460" all_names="GREYTOWN" id="88394_26" >Greytown</NAME>
+
+<NAME start="580" local_name_id="11" end="595" all_names="CENTRAL AMERICA" id="88394_27" >Central America</NAME>
+
+<NAME start="626" local_name_id="8" end="634" all_names="SAN JUAN" id="88394_28" >San Juan</NAME>
+
+<NAME start="666" local_name_id="2" end="679" all_names="UNITED STATES" id="88394_29" >United States</NAME>
+
+<NAME start="693" local_name_id="12" end="698" all_names="CYANE" id="88394_30" >Cyane</NAME>
+
+<LEGAL_ROLE start="750" end="761" plural="True" id="88394_31" >petitioners</LEGAL_ROLE>
+
+<NAME start="801" local_name_id="13" end="811" all_names="APPEARANCE" id="88394_32" >Appearance</NAME>
+
+<PROFESSION start="831" end="840" party="ATTORNEY-GENERAL" document_level_name_id="5" id="88394_33" >Assistant</PROFESSION>
+
+<NAME start="841" local_name_id="5" end="857" all_names="ATTORNEY-GENERAL" id="88394_34" >Attorney-General</NAME>
+
+<ORGANIZATION start="978" end="983" id="88394_35" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="1055" end="1066" plural="True" id="88394_36" >petitioners</LEGAL_ROLE>
+
+<ORGANIZATION start="1084" end="1089" id="88394_37" >court</ORGANIZATION>
+
+<ORGANIZATION start="1168" end="1173" id="88394_38" >court</ORGANIZATION>
+
+<NAME start="1238" local_name_id="14" end="1246" all_names="CONGRESS" id="88394_39" >Congress</NAME>
+
+<ORGANIZATION start="1277" end="1297" id="88394_40" >executive department</ORGANIZATION>
+
+<PROFESSION start="1350" end="1381" id="88394_41" >government of the United States</PROFESSION>
+
+<ORGANIZATION start="1412" end="1427" id="88394_42" >Court of Claims</ORGANIZATION>
+
+<NAME start="1444" local_name_id="15" end="1474" all_names="DECREE DISMISSING THE PETITION" id="88394_44" >DECREE DISMISSING THE PETITION</NAME>
+
+<RELATION party1_string="PERRIN" party1="88394_5" theme_string="PERRIN  v.  UNITED STATES" id="88394_7" relation_type="asymmetric" theme="88394_4" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES" theme_string="PERRIN  v.  UNITED STATES" id="88394_8" relation_type="asymmetric" party2="88394_6" theme="88394_4" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="PERRIN  v.  UNITED STATES" gram_type="multi_line" standard_case="88394_1" relation_type="equivalence" id="88394_10" X_vs_Y="88394_4" standard_case_string="79 U.S. 315 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="PERRIN  v.  UNITED STATES" gram_type="multi_line" standard_case="88394_2" relation_type="equivalence" id="88394_11" X_vs_Y="88394_4" standard_case_string="12 Wall. 315" ></RELATION>
+
+<RELATION profession="88394_33" gram_type="pre_nom" id="88394_43" profession_string="Assistant" relation_type="asymmetric" theme="88394_34" theme_string="Attorney-General" ></RELATION>
+

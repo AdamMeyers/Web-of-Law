@@ -1,0 +1,30 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1039" id1="115917" id="115917_1" lookup_key="u.s._510_1039" alternative_keys="['richardsonfurniture#1']" citation_local_level_id="0" start="0" citation_global_level_id="122.002" end="13" volume="510" line="1" >510 U.S. 1039</CITATION>
+
+<CITATION id1="115917" entry_type="party_key" party1="Richardson, Chapter 7 Panel Trustee" line="1" id="115917_3" lookup_key="richardsonfurniture#1" alternative_keys="['u.s._510_1039']" party2="Mt. Adams Furniture" citation_local_level_id="1" start="18" party2_short="Furniture" end="76" citation_global_level_id="122.003" party1_short="Richardson" >Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture</CITATION>
+
+<NAME start="18" local_name_id="1" end="53" all_names="RICHARDSON CHAPTER 7 PANEL TRUSTEE" party1_of="115917_3" id="115917_4" >Richardson, Chapter 7 Panel Trustee</NAME>
+
+<NAME start="18" local_name_id="2" end="28" all_names="RICHARDSON" id="115917_7" >Richardson</NAME>
+
+<ORGANIZATION start="30" end="53" id="115917_8" >Chapter 7 Panel Trustee</ORGANIZATION>
+
+<NAME start="57" party2_of="115917_3" end="76" all_names="MT ADAMS FURNITURE" id="115917_5" local_name_id="3" >Mt. Adams Furniture</NAME>
+
+<DOCKET start="86" citation_global_level_id="122.002" entry_type="docket" line="1" id1="115917" id="115917_2" lookup_key="u.s._510_1039" end="93" citation_local_level_id="0" >92-1398</DOCKET>
+
+<DATE start="135" end="151" id="115917_6" >January 10, 1994</DATE>
+
+<NAME start="229" local_name_id="4" end="239" all_names="CERTIORARI" id="115917_15" >Certiorari</NAME>
+
+<CITATION reporter="F. 2d" entry_type="standard_key" standard_reporter="F.2D" page_number="590" id1="Dummy_File_1960" id="115917_14" lookup_key="f.2d_980_590" citation_local_level_id="2" start="264" citation_global_level_id="2112.001" end="277" volume="980" no_current_file="True" line="3" >980 F. 2d 590</CITATION>
+
+<RELATION includes_docket_string="92-1398" theme_string="510 U.S. 1039" id="115917_13" relation_type="asymmetric" includes_docket="115917_2" theme="115917_1" gram_type="apposition" ></RELATION>
+
+<RELATION X_vs_Y_string="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" gram_type="pre_nom" standard_case="115917_1" relation_type="equivalence" id="115917_9" X_vs_Y="115917_3" standard_case_string="510 U.S. 1039" ></RELATION>
+
+<RELATION includes_docket_string="92-1398" theme_string="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" id="115917_12" relation_type="asymmetric" includes_docket="115917_2" theme="115917_3" gram_type="apposition" ></RELATION>
+
+<RELATION party1_string="Richardson, Chapter 7 Panel Trustee" party1="115917_4" theme_string="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" id="115917_10" relation_type="asymmetric" theme="115917_3" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Mt. Adams Furniture" theme_string="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" id="115917_11" relation_type="asymmetric" party2="115917_5" theme="115917_3" gram_type="infix" ></RELATION>
+

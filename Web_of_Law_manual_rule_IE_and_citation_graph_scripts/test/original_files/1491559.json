@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1491559/",
+  "absolute_url": "/opinion/1491559/members-of-the-peanut-quota-holders-assn-inc-v-uni/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1491559/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T06:28:14.114505Z",
+  "date_modified": "2016-02-29T13:55:13.900879Z",
+  "type": "010combined",
+  "sha1": "afeb679ede160d5dc3535da22a6ec489b79b949a",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>548 U.S. 904 (2006)</b></center>\n<center><h1>MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-1225.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">548</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">904</span></span> (2006)</b></center>\n<center><h1>MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.<br>\nv.<br>\nUNITED STATES.</h1></center>\n<center>No. 05-1225.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 26, 2006.</center>\n<p>Certiorari denied.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,132 @@
+<citation id="85592_1" entry_type="standard_case" start="1" end="19" reporter="U.S." standard_reporter="U.S." volume="26" page_number="469" line="2">26 U.S. 469 (____)</citation>
+<NAME id="85592_2" start="22" end="25">Pet</NAME>
+<citation id="85592_3" entry_type="case_citation_other" start="22" end="25" name="Pet" line="3">Pet</citation>
+<citation id="85592_11" entry_type="case_X_vs_Y" start="31" end="152" party1="DOE ON THE DEMISE OF JOHN A. ELMORE," party2="WILLIAM A. GRYMES, AND JOHN J. BEATIE" party1_role="plaintiff in error" party2_role="defendants in error" line="6">DOE ON THE DEMISE OF JOHN A. ELMORE, PLAINTIFF IN ERROR,  vs.  WILLIAM A. GRYMES, AND JOHN J. BEATIE, DEFENDANTS IN ERROR</citation>
+<NAME id="85592_12" start="31" end="67" party1_of="85592_11">DOE ON THE DEMISE OF JOHN A. ELMORE,</NAME>
+<LEGAL_ROLE id="85592_14" start="68" end="86">PLAINTIFF IN ERROR</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_16" start="68" end="77">PLAINTIFF</LEGAL_ROLE>
+<NAME id="85592_13" start="94" end="131" party2_of="85592_11">WILLIAM A. GRYMES, AND JOHN J. BEATIE</NAME>
+<LEGAL_ROLE id="85592_15" start="133" end="152">DEFENDANTS IN ERROR</LEGAL_ROLE>
+<ORGANIZATION id="85592_19" start="154" end="184">Supreme Court of United States</ORGANIZATION>
+<LEGAL_ROLE id="85592_22" start="215" end="258">Mr. Wild and Mr. M'Duffie for the plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_23" start="276" end="305">Mr. Berrien for the defendant</LEGAL_ROLE>
+<NAME id="85592_24" start="307" end="318">Mr. Berrien</NAME>
+<NAME id="85592_25" start="328" end="354">Mr. Wilde and Mr. M'Duffie</NAME>
+<LEGAL_ROLE id="85592_26" start="364" end="373">plaintiff</LEGAL_ROLE>
+<PROFESSION id="85592_27" start="397" end="414">Mr. Chief Justice</PROFESSION>
+<NAME id="85592_28" start="415" end="423">MARSHALL</NAME>
+<ORGANIZATION id="85592_29" start="453" end="458">Court</ORGANIZATION>
+<ORGANIZATION id="85592_31" start="466" end="471">Court</ORGANIZATION>
+<ORGANIZATION id="85592_32" start="542" end="555">Circuit Court</ORGANIZATION>
+<LEGAL_ROLE id="85592_33" start="628" end="637">plaintiff</LEGAL_ROLE>
+<NAME id="85592_34" start="639" end="641">He</NAME>
+<ORGANIZATION id="85592_35" start="794" end="799">Court</ORGANIZATION>
+<ORGANIZATION id="85592_36" start="887" end="892">Court</ORGANIZATION>
+<NAME id="85592_37" start="1007" end="1030">Circuit Court. Although</NAME>
+<ORGANIZATION id="85592_38" start="1015" end="1020">Court</ORGANIZATION>
+<LEGAL_ROLE id="85592_39" start="1128" end="1137">plaintiff</LEGAL_ROLE>
+<PROFESSION id="85592_40" start="1268" end="1275">counsel</PROFESSION>
+<PROFESSION id="85592_41" start="1317" end="1323">client</PROFESSION>
+<NAME id="85592_42" start="1325" end="1344">Mr. Justice JOHNSON</NAME>
+<PROFESSION id="85592_43" start="1329" end="1336">Justice</PROFESSION>
+<ORGANIZATION id="85592_44" start="1425" end="1438">Circuit Court</ORGANIZATION>
+<LEGAL_ROLE id="85592_45" start="1465" end="1474">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_46" start="1506" end="1515">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="85592_47" start="1714" end="1719">Court</ORGANIZATION>
+<LEGAL_ROLE id="85592_48" start="1770" end="1779">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_49" start="1809" end="1818">defendant</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_50" start="2039" end="2048">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_51" start="2219" end="2228">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="85592_52" start="2344" end="2350" plural="True">Courts</ORGANIZATION>
+<NAME id="85592_53" start="2364" end="2371">Circuit</NAME>
+<LEGAL_ROLE id="85592_54" start="2456" end="2465">plaintiff</LEGAL_ROLE>
+<NAME id="85592_55" start="2504" end="2512">Circuits</NAME>
+<LEGAL_ROLE id="85592_58" start="2579" end="2588">defendant</LEGAL_ROLE>
+<PROFESSION id="85592_59" start="2627" end="2633" plural="True">Judges</PROFESSION>
+<ORGANIZATION id="85592_60" start="2642" end="2647">Court</ORGANIZATION>
+<NAME id="85592_61" start="2691" end="2699">Circuits</NAME>
+<ORGANIZATION id="85592_62" start="2866" end="2891">administration of justice</ORGANIZATION>
+<ORGANIZATION id="85592_63" start="2930" end="2942" plural="True">Courts. Such</ORGANIZATION>
+<NAME id="85592_64" start="2994" end="3001">Circuit</NAME>
+<NAME id="85592_65" start="3020" end="3024">Acts</NAME>
+<date id="85592_56" start="3028" end="3032">1789</date>
+<date id="85592_57" start="3037" end="3041">1792</date>
+<ORGANIZATION id="85592_66" start="3065" end="3092" plural="True">Courts of the United States</ORGANIZATION>
+<NAME id="85592_67" start="3112" end="3120">Circuits</NAME>
+<NAME id="85592_68" start="3367" end="3374">Circuit</NAME>
+<ORGANIZATION id="85592_69" start="3441" end="3446">Court</ORGANIZATION>
+<NAME id="85592_70" start="3474" end="3481">Circuit</NAME>
+<LEGAL_ROLE id="85592_71" start="3558" end="3567">defendant</LEGAL_ROLE>
+<ORGANIZATION id="85592_72" start="3732" end="3737">Court</ORGANIZATION>
+<NAME id="85592_73" start="3767" end="3775">Circuits</NAME>
+<ORGANIZATION id="85592_74" start="3899" end="3904">Court</ORGANIZATION>
+<ORGANIZATION id="85592_75" start="3911" end="3916">Court</ORGANIZATION>
+<NAME id="85592_76" start="3997" end="4004">Circuit</NAME>
+<NAME id="85592_77" start="4173" end="4206">Process Acts of the United States</NAME>
+<ORGANIZATION id="85592_78" start="4345" end="4359" plural="True">Circuit Courts</ORGANIZATION>
+<ORGANIZATION id="85592_79" start="4374" end="4379">Court</ORGANIZATION>
+<NAME id="85592_80" start="4401" end="4411">Nisi Prius</NAME>
+<ORGANIZATION id="85592_81" start="4465" end="4470">Court</ORGANIZATION>
+<ORGANIZATION id="85592_82" start="4690" end="4698">province</ORGANIZATION>
+<NAME id="85592_83" start="4801" end="4811">Nisi Prius</NAME>
+<NAME id="85592_84" start="4890" end="4897">England</NAME>
+<NAME id="85592_85" start="4954" end="4969">Archb. Practice</NAME>
+<NAME id="85592_86" start="5078" end="5088">Nisi Prius</NAME>
+<PROFESSION id="85592_87" start="5239" end="5246">justice</PROFESSION>
+<PROFESSION id="85592_88" start="5597" end="5603">client</PROFESSION>
+<PROFESSION id="85592_89" start="5639" end="5645">client</PROFESSION>
+<PROFESSION id="85592_90" start="5729" end="5737">attorney</PROFESSION>
+<ORGANIZATION id="85592_94" start="5804" end="5829">administration of justice</ORGANIZATION>
+<citation id="85592_91" entry_type="case_X_vs_Y" start="5925" end="6034" party1="Great Britain, Massachusetts and New-York, with some confidence," party2="Pennsylvania, Maryland, and Virginia" line="22">Great Britain, Massachusetts and New-York, with some confidence, against Pennsylvania, Maryland, and Virginia</citation>
+<NAME id="85592_92" start="5925" end="5989" party1_of="85592_91">Great Britain, Massachusetts and New-York, with some confidence,</NAME>
+<NAME id="85592_93" start="5998" end="6034" party2_of="85592_91">Pennsylvania, Maryland, and Virginia</NAME>
+<LEGAL_ROLE id="85592_97" start="6066" end="6087">England the plaintiff</LEGAL_ROLE>
+<NAME id="85592_98" start="6182" end="6189">England</NAME>
+<ORGANIZATION id="85592_99" start="6237" end="6264" plural="True">Courts of the United States</ORGANIZATION>
+<NAME id="85592_100" start="6311" end="6318">Circuit</NAME>
+<ORGANIZATION id="85592_104" start="6486" end="6509" plural="True">Courts of Great Britain</ORGANIZATION>
+<NAME id="85592_105" start="6548" end="6555">Circuit</NAME>
+<ORGANIZATION id="85592_106" start="6610" end="6624" plural="True">English Courts</ORGANIZATION>
+<NAME id="85592_107" start="6705" end="6715">Mr. Morgan</NAME>
+<NAME id="85592_108" start="6718" end="6726">Treatise</NAME>
+<NAME id="85592_109" start="6765" end="6771">Essays</NAME>
+<ORGANIZATION id="85592_110" start="6832" end="6838" plural="True">Courts</ORGANIZATION>
+<ORGANIZATION id="85592_111" start="7085" end="7091" plural="True">Courts</ORGANIZATION>
+<citation id="85592_101" entry_type="case_X_vs_Y" start="7165" end="7185" party1="Macbeth" party2="Haldeman" line="24">Macbeth vs. Haldeman</citation>
+<NAME id="85592_102" start="7165" end="7172" party1_of="85592_101">Macbeth</NAME>
+<NAME id="85592_103" start="7177" end="7185" party2_of="85592_101">Haldeman</NAME>
+<NAME id="85592_112" start="7189" end="7195">Term R</NAME>
+<LEGAL_ROLE id="85592_113" start="7228" end="7237">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="85592_114" start="7421" end="7435" plural="True">British Courts</ORGANIZATION>
+<LEGAL_ROLE id="85592_115" start="7502" end="7511">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_116" start="7583" end="7593" plural="True">plaintiffs</LEGAL_ROLE>
+<NAME id="85592_117" start="7597" end="7603">Blackf</NAME>
+<LEGAL_ROLE id="85592_118" start="7810" end="7819">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="85592_119" start="7878" end="7883">Court</ORGANIZATION>
+<citation id="85592_122" entry_type="case_X_vs_Y" start="8372" end="8392" party1="Macbeth" party2="Haldeman" line="25">Macbeth vs. Haldeman</citation>
+<NAME id="85592_123" start="8372" end="8379" party1_of="85592_122">Macbeth</NAME>
+<NAME id="85592_124" start="8384" end="8392" party2_of="85592_122">Haldeman</NAME>
+<ORGANIZATION id="85592_125" start="8429" end="8434">Court</ORGANIZATION>
+<LEGAL_ROLE id="85592_126" start="8545" end="8554">defendant</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_127" start="8689" end="8698">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_128" start="8784" end="8793">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="85592_129" start="9222" end="9231">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="85592_130" start="9486" end="9503" plural="True">Courts of Justice</ORGANIZATION>
+<PROFESSION id="85592_131" start="9736" end="9743">justice</PROFESSION>
+<NAME id="85592_135" start="9869" end="9876">Circuit</NAME>
+<NAME id="85592_136" start="9900" end="9908">Circuits</NAME>
+<ORGANIZATION id="85592_137" start="9941" end="9946">Court</ORGANIZATION>
+<ORGANIZATION id="85592_138" start="9991" end="9996">Court</ORGANIZATION>
+<NAME id="85592_139" start="10071" end="10078">Circuit</NAME>
+<RELATION id="85592_17" relation_type="asymmetric" gram_type="infix" theme="85592_11" theme_string="DOE ON THE DEMISE OF JOHN A. ELMORE, PLAINTIFF IN ERROR,  vs.  WILLIAM A. GRYMES, AND JOHN J. BEATIE, DEFENDANTS IN ERROR" party1="85592_12" party1_string="DOE ON THE DEMISE OF JOHN A. ELMORE,"></RELATION>
+<RELATION id="85592_18" relation_type="asymmetric" gram_type="infix" theme="85592_11" theme_string="DOE ON THE DEMISE OF JOHN A. ELMORE, PLAINTIFF IN ERROR,  vs.  WILLIAM A. GRYMES, AND JOHN J. BEATIE, DEFENDANTS IN ERROR" party2="85592_13" party2_string="WILLIAM A. GRYMES, AND JOHN J. BEATIE"></RELATION>
+<RELATION id="85592_21" relation_type="equivalence" gram_type="multi_line" standard_case="85592_1" standard_case_string="26 U.S. 469 (____)" X_vs_Y="85592_11" X_vs_Y_string="DOE ON THE DEMISE OF JOHN A. ELMORE, PLAINTIFF IN ERROR,  vs.  WILLIAM A. GRYMES, AND JOHN J. BEATIE, DEFENDANTS IN ERROR"></RELATION>
+<RELATION id="85592_20" relation_type="equivalence" gram_type="multi_line" X_vs_Y="85592_11" X_vs_Y_string="DOE ON THE DEMISE OF JOHN A. ELMORE, PLAINTIFF IN ERROR,  vs.  WILLIAM A. GRYMES, AND JOHN J. BEATIE, DEFENDANTS IN ERROR" case_citation_other="85592_3" case_citation_other_string="Pet"></RELATION>
+<RELATION id="85592_30" relation_type="asymmetric" gram_type="pre_nom" profession="85592_27" profession_string="Mr. Chief Justice" theme="85592_28" theme_string="MARSHALL"></RELATION>
+<RELATION id="85592_95" relation_type="asymmetric" gram_type="infix" theme="85592_91" theme_string="Great Britain, Massachusetts and New-York, with some confidence, against Pennsylvania, Maryland, and Virginia" party1="85592_92" party1_string="Great Britain, Massachusetts and New-York, with some confidence,"></RELATION>
+<RELATION id="85592_96" relation_type="asymmetric" gram_type="infix" theme="85592_91" theme_string="Great Britain, Massachusetts and New-York, with some confidence, against Pennsylvania, Maryland, and Virginia" party2="85592_93" party2_string="Pennsylvania, Maryland, and Virginia"></RELATION>
+<RELATION id="85592_120" relation_type="asymmetric" gram_type="infix" theme="85592_101" theme_string="Macbeth vs. Haldeman" party1="85592_102" party1_string="Macbeth"></RELATION>
+<RELATION id="85592_121" relation_type="asymmetric" gram_type="infix" theme="85592_101" theme_string="Macbeth vs. Haldeman" party2="85592_103" party2_string="Haldeman"></RELATION>
+<RELATION id="85592_132" relation_type="asymmetric" gram_type="infix" theme="85592_122" theme_string="Macbeth vs. Haldeman" party1="85592_123" party1_string="Macbeth"></RELATION>
+<RELATION id="85592_133" relation_type="asymmetric" gram_type="infix" theme="85592_122" theme_string="Macbeth vs. Haldeman" party2="85592_124" party2_string="Haldeman"></RELATION>
+<RELATION id="85592_134" legal_role="85592_126" legal_role_string="defendant" relation_type="asymmetric" gram_type="as_predication" theme="85592_125" theme_string="Court"></RELATION>

@@ -1,0 +1,11 @@
+<date id="1211999_1" start="2" end="6">2006</date>
+<citation id="1211999_3" entry_type="case_X_vs_Y" start="8" end="64" party1="BRADLEY S. WHITMAN" party2="BARTOW, DIR., WI RESOURCE CENTER" line="5">BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER</citation>
+<NAME id="1211999_4" start="8" end="26" party1_of="1211999_3">BRADLEY S. WHITMAN</NAME>
+<NAME id="1211999_5" start="32" end="64" party2_of="1211999_3">BARTOW, DIR., WI RESOURCE CENTER</NAME>
+<docket id="1211999_8" entry_type="docket" start="69" end="77" line="6">05-10881</docket>
+<ORGANIZATION id="1211999_9" start="78" end="108">Supreme Court of United States</ORGANIZATION>
+<date id="1211999_10" start="110" end="123">June 12, 2006</date>
+<RELATION id="1211999_6" relation_type="asymmetric" gram_type="infix" theme="1211999_3" theme_string="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" party1="1211999_4" party1_string="BRADLEY S. WHITMAN"></RELATION>
+<RELATION id="1211999_7" relation_type="asymmetric" gram_type="infix" theme="1211999_3" theme_string="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" party2="1211999_5" party2_string="BARTOW, DIR., WI RESOURCE CENTER"></RELATION>
+<RELATION id="1211999_12" relation_type="asymmetric" gram_type="multi_line" theme="1211999_3" theme_string="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" at_date="1211999_10" at_date_string="June 12, 2006"></RELATION>
+<RELATION id="1211999_11" relation_type="asymmetric" gram_type="multi_line" theme="1211999_3" theme_string="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" includes_docket="1211999_8" includes_docket_string="05-10881"></RELATION>

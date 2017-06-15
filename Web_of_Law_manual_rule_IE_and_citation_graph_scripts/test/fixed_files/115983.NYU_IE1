@@ -1,0 +1,28 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1045" id1="115983" id="115983_1" lookup_key="u.s._510_1045" alternative_keys="['engstates#1']" citation_local_level_id="0" start="0" citation_global_level_id="136.002" end="13" volume="510" line="1" >510 U.S. 1045</CITATION>
+
+<CITATION id1="115983" entry_type="party_key" party1="Shu Yan Eng, aka Ah Shu" line="1" id="115983_3" lookup_key="engstates#1" alternative_keys="['u.s._510_1045']" party2="United States" citation_local_level_id="1" start="18" party2_short="States" end="58" citation_global_level_id="136.001" party1_short="Eng" >Shu Yan Eng, aka Ah Shu v. United States</CITATION>
+
+<NAME start="18" local_name_id="1" end="41" all_names="SHU YAN ENG AKA AH SHU" party1_of="115983_3" id="115983_4" >Shu Yan Eng, aka Ah Shu</NAME>
+
+<NAME start="18" local_name_id="2" end="29" all_names="SHU YAN ENG" id="115983_7" >Shu Yan Eng</NAME>
+
+<NAME start="45" party2_of="115983_3" end="58" all_names="UNITED STATES" id="115983_5" local_name_id="3" >United States</NAME>
+
+<DOCKET start="68" citation_global_level_id="136.002" entry_type="docket" line="1" id1="115983" id="115983_2" lookup_key="u.s._510_1045" end="74" citation_local_level_id="0" >93-740</DOCKET>
+
+<DATE start="116" end="132" id="115983_6" >January 10, 1994</DATE>
+
+<NAME start="209" local_name_id="4" end="219" all_names="CERTIORARI" id="115983_14" >Certiorari</NAME>
+
+<CITATION reporter="F. 2d" entry_type="standard_key" standard_reporter="F.2D" page_number="987" id1="Dummy_File_1118" id="115983_13" lookup_key="f.2d_997_987" citation_local_level_id="2" start="244" citation_global_level_id="1270.001" end="257" volume="997" no_current_file="True" line="3" >997 F. 2d 987</CITATION>
+
+<RELATION includes_docket_string="93-740" theme_string="510 U.S. 1045" id="115983_12" relation_type="asymmetric" includes_docket="115983_2" theme="115983_1" gram_type="apposition" ></RELATION>
+
+<RELATION X_vs_Y_string="Shu Yan Eng, aka Ah Shu v. United States" gram_type="pre_nom" standard_case="115983_1" relation_type="equivalence" id="115983_8" X_vs_Y="115983_3" standard_case_string="510 U.S. 1045" ></RELATION>
+
+<RELATION includes_docket_string="93-740" theme_string="Shu Yan Eng, aka Ah Shu v. United States" id="115983_11" relation_type="asymmetric" includes_docket="115983_2" theme="115983_3" gram_type="apposition" ></RELATION>
+
+<RELATION party2_string="United States" theme_string="Shu Yan Eng, aka Ah Shu v. United States" id="115983_10" relation_type="asymmetric" party2="115983_5" theme="115983_3" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Shu Yan Eng, aka Ah Shu" party1="115983_4" theme_string="Shu Yan Eng, aka Ah Shu v. United States" id="115983_9" relation_type="asymmetric" theme="115983_3" gram_type="infix" ></RELATION>
+

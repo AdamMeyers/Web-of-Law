@@ -1,0 +1,13 @@
+<citation id="120585_1" entry_type="standard_case" start="0" end="13" reporter="U.S." standard_reporter="U.S." volume="535" page_number="1077" line="1">535 U.S. 1077</citation>
+<citation id="120585_2" entry_type="case_citation_other" start="18" end="32" name="IN RE WILLIAMS" line="2">IN RE WILLIAMS</citation>
+<citation id="120585_3" entry_type="case_citation_other" start="38" end="49" name="IN RE JONES" line="2">IN RE JONES</citation>
+<docket id="120585_4" entry_type="docket" start="59" end="66" line="3">01-9223</docket>
+<docket id="120585_5" entry_type="docket" start="76" end="83" line="4">01-9234</docket>
+<date id="120585_12" start="129" end="141">May 20, 2002</date>
+<NAME id="120585_13" start="163" end="172">Petitions</NAME>
+<RELATION id="120585_9" relation_type="equivalence" gram_type="multi_line" standard_case="120585_1" standard_case_string="535 U.S. 1077" case_citation_other="120585_3" case_citation_other_string="IN RE JONES"></RELATION>
+<RELATION id="120585_6" relation_type="equivalence" gram_type="multi_line" standard_case="120585_1" standard_case_string="535 U.S. 1077" case_citation_other="120585_2" case_citation_other_string="IN RE WILLIAMS"></RELATION>
+<RELATION id="120585_8" relation_type="asymmetric" gram_type="multi_line" theme="120585_2" theme_string="IN RE WILLIAMS" includes_docket="120585_5" includes_docket_string="01-9234"></RELATION>
+<RELATION id="120585_7" relation_type="asymmetric" gram_type="multi_line" theme="120585_2" theme_string="IN RE WILLIAMS" includes_docket="120585_4" includes_docket_string="01-9223"></RELATION>
+<RELATION id="120585_11" relation_type="asymmetric" gram_type="multi_line" theme="120585_3" theme_string="IN RE JONES" includes_docket="120585_5" includes_docket_string="01-9234"></RELATION>
+<RELATION id="120585_10" relation_type="asymmetric" gram_type="multi_line" theme="120585_3" theme_string="IN RE JONES" includes_docket="120585_4" includes_docket_string="01-9223"></RELATION>

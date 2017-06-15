@@ -1,0 +1,28 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="957" id1="128643" id="128643_1" lookup_key="u.s._538_957" alternative_keys="['kimschool#2']" citation_local_level_id="0" start="0" citation_global_level_id="82.002" end="12" volume="538" line="1" >538 U.S. 957</CITATION>
+
+<CITATION id1="128643" entry_type="party_key" party1="KIM" line="2" id="128643_2" lookup_key="kimschool#2" alternative_keys="['u.s._538_957']" party2="w[PG] MAXEY TRAINING SCHOOL ET AL" citation_local_level_id="1" start="17" party2_short="SCHOOL" end="57" citation_global_level_id="82.003" party1_short="KIM" >KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL</CITATION>
+
+<NAME start="17" local_name_id="1" end="20" all_names="KIM" party1_of="128643_2" id="128643_3" >KIM</NAME>
+
+<NAME start="24" party2_of="128643_2" end="57" all_names="W[PG] MAXEY TRAINING SCHOOL" id="128643_4" local_name_id="2" >w[PG] MAXEY TRAINING SCHOOL ET AL</NAME>
+
+<DOCKET start="68" citation_global_level_id="82.003" entry_type="docket" line="3" id1="128643" id="128643_7" lookup_key="kimschool#2" alternative_keys="['u.s._538_957']" end="75" citation_local_level_id="1" >02-7218</DOCKET>
+
+<ORGANIZATION start="81" end="111" id="128643_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="117" citation_global_level_id="82.003" end="131" citation_local_level_id="1" id="128643_9" >March 31, 2003</DATE>
+
+<NAME start="153" local_name_id="3" end="162" all_names="PETITIONS" id="128643_14" >Petitions</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="1123" id1="Dummy_File_270" id="128643_13" lookup_key="u.s._537_1123" citation_local_level_id="2" start="185" citation_global_level_id="422.001" end="199" volume="537" no_current_file="True" line="8" >537 U. S. 1123</CITATION>
+
+<RELATION party1_string="KIM" party1="128643_3" theme_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" id="128643_5" relation_type="asymmetric" theme="128643_2" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="w[PG] MAXEY TRAINING SCHOOL ET AL" theme_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" id="128643_6" relation_type="asymmetric" party2="128643_4" theme="128643_2" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" gram_type="multi_line" standard_case="128643_1" relation_type="equivalence" id="128643_10" X_vs_Y="128643_2" standard_case_string="538 U.S. 957" ></RELATION>
+
+<RELATION at_date_string="March 31, 2003" theme_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" id="128643_12" relation_type="asymmetric" theme="128643_2" at_date="128643_9" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="02-7218" theme_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" id="128643_11" relation_type="asymmetric" includes_docket="128643_7" theme="128643_2" gram_type="multi_line" ></RELATION>
+

@@ -1,0 +1,168 @@
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="802972" id="802972_1" lookup_key="u.s._567_____" alternative_keys="['partnershipgeneral#1']" citation_local_level_id="0" start="26" citation_global_level_id="86.002" end="47" volume="567" year="2012" line="1" >567 U. S. ____ (2012)</CITATION>
+
+<DATE start="42" citation_global_level_id="86.002" end="46" citation_local_level_id="0" id="802972_11" >2012</DATE>
+
+<CITATION id1="802972" entry_type="party_key" party1="AMERICAN TRADITION PARTNERSHIP, INC., FKA      WESTERN TRADITION PARTNERSHIP, INC.,         ET AL." line="1" id="802972_5" lookup_key="partnershipgeneral#1" alternative_keys="['u.s._567_____']" party2="STEVE BULLOCK, ATTORNEY           GENERAL OF MONTANA, ET AL" citation_local_level_id="1" start="143" party2_short="GENERAL" end="304" citation_global_level_id="86.004" party1_short="PARTNERSHIP" >AMERICAN TRADITION PARTNERSHIP, INC., FKA WESTERN TRADITION PARTNERSHIP, INC., ET AL. v. STEVE BULLOCK, ATTORNEY GENERAL OF MONTANA, ET AL</CITATION>
+
+<NAME start="143" local_name_id="1" end="241" all_names="AMERICAN TRADITION PARTNERSHIP INC FKA WESTERN TRADITION PARTNERSHIP INC	AMERICAN TRADITION PARTNERSHIP INC" party1_of="802972_5" id="802972_7" >AMERICAN TRADITION PARTNERSHIP, INC., FKA WESTERN TRADITION PARTNERSHIP, INC., ET AL.</NAME>
+
+<ORGANIZATION start="190" end="224" id="802972_16" >WESTERN TRADITION PARTNERSHIP, INC</ORGANIZATION>
+
+<NAME start="245" party2_of="802972_5" end="304" all_names="STEVE BULLOCK ATTORNEY GENERAL OF MONTANA	MONTANA" id="802972_8" local_name_id="2" >STEVE BULLOCK, ATTORNEY GENERAL OF MONTANA, ET AL</NAME>
+
+<PROFESSION start="260" end="297" id="802972_17" >ATTORNEY GENERAL OF MONTANA</PROFESSION>
+
+<ORGANIZATION start="313" end="385" id="802972_18" >PETITION FOR WRIT OF CERTIORARI TO THE SUPREME COURT</ORGANIZATION>
+
+<DOCKET start="416" entry_type="docket" line="1" end="423" id="802972_4" >11–1179</DOCKET>
+
+<DATE start="433" end="446" id="802972_12" >June 25, 2012</DATE>
+
+<DATE start="698" end="702" id="802972_13" >2011</DATE>
+
+<DATE start="807" end="811" id="802972_14" >2011</DATE>
+
+<CITATION reporter="P.3d" entry_type="standard_key" standard_reporter="P.3D" page_number="1" id1="802972" id="802972_2" lookup_key="p.3d_271_1" alternative_keys="['unitedcommission#1']" citation_local_level_id="2" start="835" citation_global_level_id="86.003" end="845" volume="271" line="1" >271 P.3d 1</CITATION>
+
+<CITATION id1="802972" entry_type="party_key" party1="Citizens United" line="1" id="802972_6" lookup_key="unitedcommission#1" alternative_keys="['p.3d_271_1']" party2="Federal Election Commission" citation_local_level_id="3" start="850" party2_short="Commission" end="896" citation_global_level_id="86.005" party1_short="United" >Citizens United v. Federal Election Commission</CITATION>
+
+<NAME start="850" local_name_id="3" end="865" all_names="CITIZENS UNITED" party1_of="802972_6" id="802972_9" >Citizens United</NAME>
+
+<NAME start="869" party2_of="802972_6" end="896" all_names="FEDERAL ELECTION COMMISSION" id="802972_10" local_name_id="4" >Federal Election Commission</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="___" id1="214947" id="802972_3" lookup_key="u.s._558____" alternative_keys="['kiyembaobama#1']" citation_local_level_id="4" start="1061" citation_global_level_id="24.004" end="1074" volume="558" line="1" >558 U. S. ___</CITATION>
+
+<DATE start="1081" end="1085" id="802972_15" >2010</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="802972" id="802972_26" lookup_key="u.s._567_____" citation_local_level_id="5" start="1680" citation_global_level_id="86.002" end="1701" volume="567" year="2012" line="3" >567 U. S. ____ (2012)</CITATION>
+
+<DATE start="1696" citation_global_level_id="86.002" end="1700" citation_local_level_id="5" id="802972_27" >2012</DATE>
+
+<NAME start="1737" local_name_id="5" end="1743" all_names="BREYER" id="802972_29" >BREYER</NAME>
+
+<ORGANIZATION start="1798" end="1833" id="802972_30" >AMERICAN TRADITION PARTNERSHIP, INC</ORGANIZATION>
+
+<NAME start="1836" local_name_id="6" end="1839" all_names="FKA" id="802972_31" >FKA</NAME>
+
+<ORGANIZATION start="1845" end="1879" id="802972_32" >WESTERN TRADITION PARTNERSHIP, INC</ORGANIZATION>
+
+<CITATION id1="Dummy_File_946" entry_type="party_key" party1="ET AL." line="6" id="802972_33" lookup_key="etattorney#1" party2="STEVE BULLOCK, ATTORNEY" citation_local_level_id="6" start="1890" party2_short="ATTORNEY" end="1923" citation_global_level_id="1098.001" no_current_file="True" party1_short="ET" >ET AL. v. STEVE BULLOCK, ATTORNEY</CITATION>
+
+<NAME start="1890" local_name_id="7" end="1896" all_names="" party1_of="802972_33" id="802972_34" >ET AL.</NAME>
+
+<NAME start="1900" party2_of="802972_33" end="1923" all_names="STEVE BULLOCK ATTORNEY" id="802972_35" local_name_id="8" >STEVE BULLOCK, ATTORNEY</NAME>
+
+<PROFESSION start="1915" end="1923" id="802972_36" >ATTORNEY</PROFESSION>
+
+<PROFESSION start="1934" end="1952" id="802972_40" >GENERAL OF MONTANA</PROFESSION>
+
+<NAME start="1954" local_name_id="7" end="1959" all_names="" id="802972_41" >ET AL</NAME>
+
+<NAME start="1968" local_name_id="9" end="1999" all_names="PETITION FOR WRIT OF CERTIORARI" id="802972_42" >PETITION FOR WRIT OF CERTIORARI</NAME>
+
+<CITATION start="2003" id1="Dummy_File_947" entry_type="case_key" citation_global_level_id="1099.001" line="7" no_current_file="True" name="THE SUPREME" id="802972_39" lookup_key="the supreme#1" end="2014" citation_local_level_id="7" >THE SUPREME</CITATION>
+
+<ORGANIZATION start="2035" end="2051" id="802972_43" >COURT OF MONTANA</ORGANIZATION>
+
+<DOCKET start="2071" entry_type="docket" line="9" end="2078" id="802972_44" >11–1179</DOCKET>
+
+<NAME start="2080" local_name_id="10" end="2087" all_names="DECIDED" id="802972_46" >Decided</NAME>
+
+<DATE start="2088" end="2101" id="802972_45" >June 25, 2012</DATE>
+
+<PROFESSION start="2107" end="2114" party="BREYER" document_level_name_id="5" id="802972_47" >JUSTICE</PROFESSION>
+
+<NAME start="2115" local_name_id="5" end="2121" all_names="BREYER" id="802972_48" >BREYER</NAME>
+
+<PROFESSION start="2133" end="2140" party="BREYER" document_level_name_id="5" id="802972_49" >JUSTICE</PROFESSION>
+
+<NAME start="2141" local_name_id="11" end="2149" all_names="GINSBURG" id="802972_50" >GINSBURG</NAME>
+
+<NAME start="2151" local_name_id="12" end="2170" all_names="JUS- TICE SOTOMAYOR" id="802972_51" >JUS- TICE SOTOMAYOR</NAME>
+
+<PROFESSION start="2176" end="2183" party="BREYER" document_level_name_id="5" id="802972_52" >JUSTICE</PROFESSION>
+
+<NAME start="2184" local_name_id="13" end="2189" all_names="KAGAN" id="802972_53" >KAGAN</NAME>
+
+<CITATION id1="Dummy_File_948" entry_type="party_key" party1="Citizens United" line="11" id="802972_58" lookup_key="unitedcourt#1" party2="Federal Election Commission, the Court" citation_local_level_id="8" start="2214" party2_short="Court" end="2271" citation_global_level_id="1100.001" no_current_file="True" party1_short="United" >Citizens United v. Federal Election Commission, the Court</CITATION>
+
+<NAME start="2214" local_name_id="3" end="2229" all_names="CITIZENS UNITED" party1_of="802972_58" id="802972_59" >Citizens United</NAME>
+
+<NAME start="2233" party2_of="802972_58" end="2271" all_names="FEDERAL ELECTION COMMISSION THE COURT" id="802972_60" local_name_id="14" >Federal Election Commission, the Court</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="___" id1="214947" id="802972_57" lookup_key="u.s._558____" alternative_keys="['kiyembaobama#1']" citation_local_level_id="9" start="2421" citation_global_level_id="24.004" end="2434" volume="558" line="11" >558 U. S. ___</CITATION>
+
+<DATE start="2441" end="2445" id="802972_61" >2010</DATE>
+
+<NAME start="3072" local_name_id="3" end="3087" all_names="CITIZENS UNITED" id="802972_69" >Citizens United</NAME>
+
+<ORGANIZATION start="3094" end="3099" id="802972_70" >Court</ORGANIZATION>
+
+<NAME start="3138" local_name_id="15" end="3148" all_names="MONTANA SU" id="802972_71" >Montana Su</NAME>
+
+<ORGANIZATION start="3156" end="3161" id="802972_72" >Court</ORGANIZATION>
+
+<ORGANIZATION start="3236" end="3248" plural="True" id="802972_73" >corporations</ORGANIZATION>
+
+<NAME start="3315" local_name_id="2" end="3322" all_names="STEVE BULLOCK ATTORNEY GENERAL OF MONTANA	MONTANA" id="802972_74" >Montana</NAME>
+
+<DATE start="3494" end="3498" id="802972_68" >2011</DATE>
+
+<CITATION reporter="P.3d" entry_type="standard_key" standard_reporter="P.3D" page_number="1" id1="802972" id="802972_64" lookup_key="p.3d_271_1" alternative_keys="['partnershipbullock#1']" citation_local_level_id="10" start="3541" citation_global_level_id="86.003" end="3551" volume="271" line="12" >271 P.3d 1</CITATION>
+
+<CITATION id1="802972" entry_type="party_key" party1="AMERICAN TRADITION PARTNERSHIP, INC." line="12" id="802972_65" lookup_key="partnershipbullock#1" alternative_keys="['p.3d_271_1']" party2="BULLOCK" citation_local_level_id="11" start="3558" party2_short="BULLOCK" end="3605" citation_global_level_id="86.001" party1_short="PARTNERSHIP" >AMERICAN TRADITION PARTNERSHIP, INC. v. BULLOCK</CITATION>
+
+<NAME start="3558" local_name_id="1" end="3594" all_names="AMERICAN TRADITION PARTNERSHIP INC FKA WESTERN TRADITION PARTNERSHIP INC	AMERICAN TRADITION PARTNERSHIP INC" party1_of="802972_65" id="802972_66" >AMERICAN TRADITION PARTNERSHIP, INC.</NAME>
+
+<NAME start="3598" party2_of="802972_65" end="3605" all_names="BULLOCK" id="802972_67" local_name_id="16" >BULLOCK</NAME>
+
+<NAME start="3628" local_name_id="5" end="3634" all_names="BREYER" id="802972_78" >BREYER</NAME>
+
+<NAME start="3665" local_name_id="2" end="3672" all_names="STEVE BULLOCK ATTORNEY GENERAL OF MONTANA	MONTANA" id="802972_79" >Montana</NAME>
+
+<ORGANIZATION start="3738" end="3743" id="802972_80" >Court</ORGANIZATION>
+
+<NAME start="3758" local_name_id="3" end="3773" all_names="CITIZENS UNITED" id="802972_81" >Citizens United</NAME>
+
+<ORGANIZATION start="3800" end="3805" id="802972_82" >Court</ORGANIZATION>
+
+<NAME start="3986" local_name_id="3" end="4001" all_names="CITIZENS UNITED" id="802972_83" >Citizens United</NAME>
+
+<ORGANIZATION start="4060" end="4065" id="802972_84" >Court</ORGANIZATION>
+
+<RELATION X_vs_Y_string="AMERICAN TRADITION PARTNERSHIP, INC., FKA      WESTERN TRADITION PARTNERSHIP, INC.,         ET AL. v. STEVE BULLOCK, ATTORNEY           GENERAL OF MONTANA, ET AL" gram_type="pre_nom" standard_case="802972_1" relation_type="equivalence" id="802972_20" X_vs_Y="802972_5" standard_case_string="567 U. S. ____ (2012)" ></RELATION>
+
+<RELATION at_date_string="2012" theme_string="567 U. S. ____ (2012)" id="802972_19" relation_type="asymmetric" theme="802972_1" at_date="802972_11" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="AMERICAN TRADITION PARTNERSHIP, INC., FKA      WESTERN TRADITION PARTNERSHIP, INC.,         ET AL." party1="802972_7" theme_string="AMERICAN TRADITION PARTNERSHIP, INC., FKA      WESTERN TRADITION PARTNERSHIP, INC.,         ET AL. v. STEVE BULLOCK, ATTORNEY           GENERAL OF MONTANA, ET AL" id="802972_21" relation_type="asymmetric" theme="802972_5" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="STEVE BULLOCK, ATTORNEY           GENERAL OF MONTANA, ET AL" theme_string="AMERICAN TRADITION PARTNERSHIP, INC., FKA      WESTERN TRADITION PARTNERSHIP, INC.,         ET AL. v. STEVE BULLOCK, ATTORNEY           GENERAL OF MONTANA, ET AL" id="802972_22" relation_type="asymmetric" party2="802972_8" theme="802972_5" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Citizens United v. Federal Election Commission" gram_type="pre_nom" standard_case="802972_2" relation_type="equivalence" id="802972_23" X_vs_Y="802972_6" standard_case_string="271 P.3d 1" ></RELATION>
+
+<RELATION party1_string="Citizens United" party1="802972_9" theme_string="Citizens United v. Federal Election Commission" id="802972_24" relation_type="asymmetric" theme="802972_6" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Federal Election Commission" theme_string="Citizens United v. Federal Election Commission" id="802972_25" relation_type="asymmetric" party2="802972_10" theme="802972_6" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2012" theme_string="567 U. S. ____ (2012)" id="802972_28" relation_type="asymmetric" theme="802972_26" at_date="802972_27" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="ET AL." party1="802972_34" theme_string="ET AL. v. STEVE BULLOCK, ATTORNEY" id="802972_37" relation_type="asymmetric" theme="802972_33" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="STEVE BULLOCK, ATTORNEY" theme_string="ET AL. v. STEVE BULLOCK, ATTORNEY" id="802972_38" relation_type="asymmetric" party2="802972_35" theme="802972_33" gram_type="infix" ></RELATION>
+
+<RELATION profession="802972_47" gram_type="pre_nom" id="802972_54" profession_string="JUSTICE" relation_type="asymmetric" theme="802972_48" theme_string="BREYER" ></RELATION>
+
+<RELATION profession="802972_49" gram_type="pre_nom" id="802972_55" profession_string="JUSTICE" relation_type="asymmetric" theme="802972_50" theme_string="GINSBURG" ></RELATION>
+
+<RELATION profession="802972_52" gram_type="pre_nom" id="802972_56" profession_string="JUSTICE" relation_type="asymmetric" theme="802972_53" theme_string="KAGAN" ></RELATION>
+
+<RELATION party1_string="Citizens United" party1="802972_59" theme_string="Citizens United v. Federal Election Commission, the Court" id="802972_62" relation_type="asymmetric" theme="802972_58" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Federal Election Commission, the Court" theme_string="Citizens United v. Federal Election Commission, the Court" id="802972_63" relation_type="asymmetric" party2="802972_60" theme="802972_58" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="AMERICAN TRADITION PARTNERSHIP, INC. v. BULLOCK" gram_type="pre_nom" standard_case="802972_64" relation_type="equivalence" id="802972_75" X_vs_Y="802972_65" standard_case_string="271 P.3d 1" ></RELATION>
+
+<RELATION party1_string="AMERICAN TRADITION PARTNERSHIP, INC." party1="802972_66" theme_string="AMERICAN TRADITION PARTNERSHIP, INC. v. BULLOCK" id="802972_76" relation_type="asymmetric" theme="802972_65" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="BULLOCK" theme_string="AMERICAN TRADITION PARTNERSHIP, INC. v. BULLOCK" id="802972_77" relation_type="asymmetric" party2="802972_67" theme="802972_65" gram_type="infix" ></RELATION>
+

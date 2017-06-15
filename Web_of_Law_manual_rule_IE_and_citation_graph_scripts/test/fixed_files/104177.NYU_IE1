@@ -1,0 +1,44 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="898" id1="104177" id="104177_1" lookup_key="u.s._325_898" alternative_keys="['estate of john s garrett jr#1', 's.ct._65_1562', 'l.ed._89_2007']" citation_local_level_id="0" start="0" citation_global_level_id="105.002" end="12" volume="325" name="ESTATE OF John S. GARRETT, Jr." line="1" >325 U.S. 898</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="1562" id1="104177" id="104177_2" lookup_key="s.ct._65_1562" alternative_keys="['u.s._325_898', 'estate of john s garrett jr#1', 'l.ed._89_2007']" citation_local_level_id="1" start="17" citation_global_level_id="105.003" end="31" volume="65" name="ESTATE OF John S. GARRETT, Jr." line="1" >65 S. Ct. 1562</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" all_names="S CT" id="104177_7" >S. Ct</NAME>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="2007" id1="104177" id="104177_3" lookup_key="l.ed._89_2007" alternative_keys="['u.s._325_898', 's.ct._65_1562', 'estate of john s garrett jr#1']" citation_local_level_id="2" start="36" citation_global_level_id="105.004" end="50" volume="89" name="ESTATE OF John S. GARRETT, Jr." line="1" >89 L. Ed. 2007</CITATION>
+
+<DATE start="46" citation_global_level_id="105.004" end="50" citation_local_level_id="2" id="104177_4" >2007</DATE>
+
+<CITATION start="55" id1="104177" entry_type="case_key" citation_global_level_id="105.005" line="1" name="ESTATE OF John S. GARRETT, Jr." id="104177_6" lookup_key="estate of john s garrett jr#1" alternative_keys="['s.ct._65_1562', 'l.ed._89_2007', 'u.s._325_898']" end="85" citation_local_level_id="3" >ESTATE OF John S. GARRETT, Jr.</CITATION>
+
+<NAME start="97" local_name_id="2" end="105" all_names="BANKRUPT" id="104177_8" >Bankrupt</NAME>
+
+<DATE start="168" end="181" id="104177_5" >June 18, 1945</DATE>
+
+<NAME start="193" local_name_id="3" end="220" all_names="MESSRS VINCENT P MCDEVITT" id="104177_9" >Messrs. Vincent P. McDevitt</NAME>
+
+<NAME start="225" local_name_id="4" end="241" all_names="PHILADELPHIA PA" id="104177_10" >Philadelphia, Pa</NAME>
+
+<LEGAL_ROLE start="248" end="258" id="104177_11" >petitioner</LEGAL_ROLE>
+
+<NAME start="266" local_name_id="5" end="312" all_names="MESSRS ERNEST SCOTT AND JOSEPH S CONWELL JR" id="104177_16" >Messrs. Ernest Scott and Joseph S. Conwell, Jr</NAME>
+
+<NAME start="323" local_name_id="4" end="339" all_names="PHILADELPHIA PA" id="104177_17" >Philadelphia, Pa</NAME>
+
+<NAME start="342" local_name_id="6" end="361" all_names="W EDWARD GREENWOOD" id="104177_18" >W. Edward Greenwood</NAME>
+
+<NAME start="371" local_name_id="7" end="382" all_names="CHESTER PA" id="104177_19" >Chester, Pa</NAME>
+
+<NAME start="389" local_name_id="8" end="400" all_names="DAVID ROSEN" id="104177_20" >David Rosen</NAME>
+
+<NAME start="405" local_name_id="4" end="421" all_names="PHILADELPHIA PA" id="104177_21" >Philadelphia, Pa</NAME>
+
+<LEGAL_ROLE start="428" end="438" id="104177_22" >respondent</LEGAL_ROLE>
+
+<RELATION case_citation_other_string="ESTATE OF John S. GARRETT, Jr." gram_type="pre_nom" standard_case="104177_1" relation_type="equivalence" id="104177_14" standard_case_string="325 U.S. 898" case_citation_other="104177_6" ></RELATION>
+
+<RELATION case_citation_other_string="ESTATE OF John S. GARRETT, Jr." gram_type="pre_nom" standard_case="104177_2" relation_type="equivalence" id="104177_15" standard_case_string="65 S. Ct. 1562" case_citation_other="104177_6" ></RELATION>
+
+<RELATION case_citation_other_string="ESTATE OF John S. GARRETT, Jr." gram_type="pre_nom" standard_case="104177_3" relation_type="equivalence" id="104177_13" standard_case_string="89 L. Ed. 2007" case_citation_other="104177_6" ></RELATION>
+
+<RELATION at_date_string="2007" theme_string="89 L. Ed. 2007" id="104177_12" relation_type="asymmetric" theme="104177_3" at_date="104177_4" gram_type="infix" ></RELATION>
+

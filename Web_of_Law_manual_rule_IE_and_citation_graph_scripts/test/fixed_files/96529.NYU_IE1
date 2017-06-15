@@ -1,0 +1,474 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="335" id1="96529" id="96529_1" lookup_key="u.s._203_335" alternative_keys="['commissioncompany#1']" citation_local_level_id="0" start="1" citation_global_level_id="30.002" end="20" volume="203" year="1906" line="2" >203 U.S. 335 (1906)</CITATION>
+
+<DATE start="15" citation_global_level_id="30.002" end="19" citation_local_level_id="0" id="96529_2" >1906</DATE>
+
+<CITATION id1="96529" entry_type="party_key" party1="MISSISSIPPI RAILROAD COMMISSION" line="5" id="96529_6" lookup_key="commissioncompany#1" alternative_keys="['u.s._203_335']" party2="ILLINOIS CENTRAL RAILROAD COMPANY" citation_local_level_id="1" start="21" party2_short="COMPANY" end="91" citation_global_level_id="30.003" party1_short="COMMISSION" >MISSISSIPPI RAILROAD COMMISSION v. ILLINOIS CENTRAL RAILROAD COMPANY</CITATION>
+
+<NAME start="21" local_name_id="1" end="52" all_names="MISSISSIPPI RAILROAD COMMISSION	RAILROAD COMMISSION" party1_of="96529_6" id="96529_7" >MISSISSIPPI RAILROAD COMMISSION</NAME>
+
+<NAME start="58" party2_of="96529_6" end="91" all_names="ILLINOIS CENTRAL RAILROAD COMPANY" id="96529_8" local_name_id="2" >ILLINOIS CENTRAL RAILROAD COMPANY</NAME>
+
+<ORGANIZATION start="101" end="131" id="96529_12" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="140" end="156" id="96529_13" >October 26, 1906</DATE>
+
+<NAME start="158" local_name_id="3" end="165" all_names="DECIDED" id="96529_15" >Decided</NAME>
+
+<DATE start="166" end="182" id="96529_14" >December 3, 1906</DATE>
+
+<ORGANIZATION start="184" end="246" id="96529_16" >APPEAL FROM THE CIRCUIT COURT OF APPEALS FOR THE FIFTH CIRCUIT</ORGANIZATION>
+
+<NAME start="253" local_name_id="4" end="272" all_names="MR MARCELLUS GREEN" id="96529_17" >Mr. Marcellus Green</NAME>
+
+<NAME start="284" local_name_id="5" end="304" all_names="MR WILLIAM WILLIAMS" id="96529_18" >Mr. William Williams</NAME>
+
+<PROFESSION start="306" end="350" party="MR WILLIAM WILLIAMS" document_level_name_id="5" id="96529_19" >Attorney General of the State of Mississippi</PROFESSION>
+
+<NAME start="352" local_name_id="6" end="394" all_names="MR GARNER WYNN GREEN AND MR JN FLOWERS" id="96529_20" >Mr. Garner Wynn Green and Mr. J.N. Flowers</NAME>
+
+<LEGAL_ROLE start="418" end="428" plural="True" id="96529_21" >plaintiffs</LEGAL_ROLE>
+
+<NAME start="439" local_name_id="7" end="455" all_names="MR EDWARD MAYES" id="96529_23" >Mr. Edward Mayes</NAME>
+
+<NAME start="467" local_name_id="8" end="485" all_names="MR JM DICKINSON" id="96529_24" >Mr. J.M. Dickinson</NAME>
+
+<LEGAL_ROLE start="508" end="518" plural="True" id="96529_25" >defendants</LEGAL_ROLE>
+
+<NAME start="529" local_name_id="9" end="531" all_names="MR" id="96529_26" >MR</NAME>
+
+<ORGANIZATION start="657" end="681" id="96529_27" >Circuit Court of Appeals</ORGANIZATION>
+
+<PROFESSION start="701" end="709" id="96529_28" >Fed. Rep</PROFESSION>
+
+<ORGANIZATION start="830" end="835" id="96529_29" >court</ORGANIZATION>
+
+<NAME start="837" local_name_id="10" end="839" all_names="IT" id="96529_30" >It</NAME>
+
+<LEGAL_ROLE start="903" end="912" party="party1" id="96529_47" >appellant</LEGAL_ROLE>
+
+<ORGANIZATION start="964" end="985" id="96529_48" >State. The commission</ORGANIZATION>
+
+<NAME start="1005" local_name_id="11" end="1025" all_names="STATE OF MISSISSIPPI	CODE OF MISSISSIPPI" id="96529_49" >State of Mississippi</NAME>
+
+<ORGANIZATION start="1188" end="1212" id="96529_50" >State. Such a commission</ORGANIZATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2114" entry_type="party_key" party1="Reagan" line="15" id="96529_35" lookup_key="reagantrust#1" alternative_keys="['u.s._154_362']" party2="Trust Co" citation_local_level_id="2" start="1248" party2_short="Trust" end="1266" citation_global_level_id="2266.003" volume="154" no_current_file="True" page_number="362" party1_short="Reagan" >Reagan v. Trust Co</CITATION>
+
+<NAME start="1248" local_name_id="12" end="1254" all_names="REAGAN" party1_of="96529_35" id="96529_39" >Reagan</NAME>
+
+<NAME start="1258" party2_of="96529_35" end="1266" all_names="TRUST CO" id="96529_40" local_name_id="13" >Trust Co</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="362" id1="Dummy_File_2114" id="96529_31" lookup_key="u.s._154_362" alternative_keys="['reagantrust#1']" citation_local_level_id="3" start="1269" citation_global_level_id="2266.003" end="1281" volume="154" no_current_file="True" line="15" >154 U.S. 362</CITATION>
+
+<CITATION id1="94919" entry_type="party_key" party1="Smyth" line="15" id="96529_36" lookup_key="smythames#1" alternative_keys="['u.s._169_466']" party2="Ames" citation_local_level_id="4" start="1283" party2_short="Ames" end="1296" citation_global_level_id="94.001" party1_short="Smyth" >Smyth v. Ames</CITATION>
+
+<NAME start="1283" local_name_id="14" end="1288" all_names="SMYTH" party1_of="96529_36" id="96529_41" >Smyth</NAME>
+
+<NAME start="1292" party2_of="96529_36" end="1296" all_names="AMES" id="96529_42" local_name_id="15" >Ames</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="466" id1="94919" id="96529_32" lookup_key="u.s._169_466" alternative_keys="['smythames#1']" citation_local_level_id="5" start="1298" citation_global_level_id="94.005" end="1310" volume="169" no_current_file="True" line="15" >169 U.S. 466</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2115" entry_type="party_key" party1="Prout" line="15" id="96529_37" lookup_key="proutstarr#1" alternative_keys="['u.s._188_537']" party2="Starr" citation_local_level_id="6" start="1312" party2_short="Starr" end="1326" citation_global_level_id="2267.003" volume="188" no_current_file="True" page_number="537" party1_short="Prout" >Prout v. Starr</CITATION>
+
+<NAME start="1312" local_name_id="16" end="1317" all_names="PROUT" party1_of="96529_37" id="96529_43" >Prout</NAME>
+
+<NAME start="1321" party2_of="96529_37" end="1326" all_names="STARR" id="96529_44" local_name_id="17" >Starr</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="537" id1="Dummy_File_2115" id="96529_33" lookup_key="u.s._188_537" alternative_keys="['proutstarr#1']" citation_local_level_id="7" start="1328" citation_global_level_id="2267.003" end="1340" volume="188" no_current_file="True" line="15" >188 U.S. 537</CITATION>
+
+<NAME start="1342" local_name_id="18" end="1344" all_names="WE" id="96529_51" >We</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2116" entry_type="party_key" party1="Arbuckle" line="15" id="96529_38" lookup_key="arbuckleblackburn#1" alternative_keys="['u.s._191_405']" party2="Blackburn" citation_local_level_id="8" start="1361" party2_short="Blackburn" end="1382" citation_global_level_id="2268.003" volume="191" no_current_file="True" page_number="405" party1_short="Arbuckle" >Arbuckle v. Blackburn</CITATION>
+
+<NAME start="1361" local_name_id="19" end="1369" all_names="ARBUCKLE" party1_of="96529_38" id="96529_45" >Arbuckle</NAME>
+
+<NAME start="1373" party2_of="96529_38" end="1382" all_names="BLACKBURN" id="96529_46" local_name_id="20" >Blackburn</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="405" id1="Dummy_File_2116" id="96529_34" lookup_key="u.s._191_405" alternative_keys="['arbuckleblackburn#1']" citation_local_level_id="9" start="1384" citation_global_level_id="2268.003" end="1396" volume="191" no_current_file="True" line="15" >191 U.S. 405</CITATION>
+
+<ORGANIZATION start="1482" end="1501" id="96529_67" >United States court</ORGANIZATION>
+
+<ORGANIZATION start="1533" end="1538" id="96529_68" >court</ORGANIZATION>
+
+<NAME start="1582" local_name_id="21" end="1612" all_names="UNITED STATES REVISED STATUTES" id="96529_69" >United States Revised Statutes</NAME>
+
+<NAME start="1616" local_name_id="22" end="1620" all_names="COMP" id="96529_70" >Comp</NAME>
+
+<CITATION id1="Dummy_File_2117" entry_type="party_key" party1="Telegraph Co." line="16" id="96529_64" lookup_key="telegraphcommission#1" party2="Railroad Commission" citation_local_level_id="10" start="1758" party2_short="Commission" end="1794" citation_global_level_id="2269.001" no_current_file="True" party1_short="Telegraph" >Telegraph Co. v. Railroad Commission</CITATION>
+
+<NAME start="1758" local_name_id="23" end="1771" all_names="TELEGRAPH CO" party1_of="96529_64" id="96529_65" >Telegraph Co.</NAME>
+
+<NAME start="1775" party2_of="96529_64" end="1794" all_names="MISSISSIPPI RAILROAD COMMISSION	RAILROAD COMMISSION" id="96529_66" local_name_id="1" >Railroad Commission</NAME>
+
+<ORGANIZATION start="1866" end="1871" id="96529_73" >court</ORGANIZATION>
+
+<NAME start="1942" local_name_id="24" end="1950" all_names="MAGNOLIA" id="96529_74" >Magnolia</NAME>
+
+<ORGANIZATION start="1967" end="1977" id="96529_75" >commission</ORGANIZATION>
+
+<ORGANIZATION start="1995" end="2005" id="96529_76" >commission</ORGANIZATION>
+
+<ORGANIZATION start="2089" end="2094" id="96529_77" >court</ORGANIZATION>
+
+<ORGANIZATION start="2200" end="2205" id="96529_78" >court</ORGANIZATION>
+
+<ORGANIZATION start="2329" end="2334" id="96529_79" >court</ORGANIZATION>
+
+<ORGANIZATION start="2364" end="2374" id="96529_80" >commission</ORGANIZATION>
+
+<ORGANIZATION start="2408" end="2418" id="96529_81" >commission</ORGANIZATION>
+
+<ORGANIZATION start="2464" end="2469" id="96529_82" >court</ORGANIZATION>
+
+<ORGANIZATION start="2499" end="2512" id="96529_83" >Federal court</ORGANIZATION>
+
+<ORGANIZATION start="2527" end="2537" id="96529_84" >commission</ORGANIZATION>
+
+<NAME start="2615" local_name_id="25" end="2635" all_names="FEDERAL CONSTITUTION	CONSTITUTION" id="96529_85" >Federal Constitution</NAME>
+
+<LEGAL_ROLE start="2672" end="2682" plural="True" id="96529_101" >appellants</LEGAL_ROLE>
+
+<ORGANIZATION start="2704" end="2728" id="96529_102" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="2779" end="2792" id="96529_103" >Circuit Court</ORGANIZATION>
+
+<NAME start="3057" local_name_id="25" end="3077" all_names="FEDERAL CONSTITUTION	CONSTITUTION" id="96529_104" >Federal Constitution</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2118" entry_type="party_key" party1="Circuit Court, and Field" line="18" id="96529_89" lookup_key="courtasphalt#1" alternative_keys="['u.s._194_618']" party2="Barber Asphalt Co" citation_local_level_id="11" start="3144" party2_short="Asphalt" end="3189" citation_global_level_id="2270.003" volume="194" no_current_file="True" page_number="618" party1_short="Court" >Circuit Court, and Field v. Barber Asphalt Co</CITATION>
+
+<NAME start="3144" local_name_id="26" end="3168" all_names="CIRCUIT COURT AND FIELD	FIELD" party1_of="96529_89" id="96529_93" >Circuit Court, and Field</NAME>
+
+<ORGANIZATION start="3144" end="3157" id="96529_105" >Circuit Court</ORGANIZATION>
+
+<NAME start="3172" party2_of="96529_89" end="3189" all_names="BARBER ASPHALT CO	ASPHALT CO" id="96529_94" local_name_id="27" >Barber Asphalt Co</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="618" id1="Dummy_File_2118" id="96529_86" lookup_key="u.s._194_618" alternative_keys="['courtasphalt#1']" citation_local_level_id="12" start="3192" citation_global_level_id="2270.003" end="3204" volume="194" no_current_file="True" line="18" >194 U.S. 618</CITATION>
+
+<LEGAL_ROLE start="3233" end="3244" id="96529_106" >complainant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="3371" end="3382" id="96529_107" >complainant</LEGAL_ROLE>
+
+<ORGANIZATION start="3461" end="3477" id="96529_108" >Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="3564" end="3569" id="96529_109" >court</ORGANIZATION>
+
+<NAME start="3571" local_name_id="28" end="3585" all_names="AMERICAN SUGAR" id="96529_110" >American Sugar</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2119" entry_type="party_key" party1="Refining Co." line="18" id="96529_90" lookup_key="coorleans#1" alternative_keys="['u.s._181_277']" party2="New Orleans" citation_local_level_id="13" start="3591" party2_short="Orleans" end="3618" citation_global_level_id="2271.003" volume="181" no_current_file="True" page_number="277" party1_short="Co" >Refining Co. v. New Orleans</CITATION>
+
+<NAME start="3591" local_name_id="29" end="3603" all_names="REFINING CO" party1_of="96529_90" id="96529_95" >Refining Co.</NAME>
+
+<ORGANIZATION start="3600" end="3602" id="96529_111" >Co</ORGANIZATION>
+
+<NAME start="3607" party2_of="96529_90" end="3618" all_names="NEW ORLEANS" id="96529_96" local_name_id="30" >New Orleans</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="277" id1="Dummy_File_2119" id="96529_87" lookup_key="u.s._181_277" alternative_keys="['coorleans#1']" citation_local_level_id="14" start="3620" citation_global_level_id="2271.003" end="3637" paragraph_number="281" volume="181" no_current_file="True" line="18" >181 U.S. 277, 281</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2120" entry_type="party_key" party1="Huguley Manufacturing Co." line="18" id="96529_91" lookup_key="manufacturingmills#1" alternative_keys="['u.s._184_290']" party2="Galeton Cotton Mills" citation_local_level_id="15" start="3639" party2_short="Mills" end="3688" citation_global_level_id="2272.003" volume="184" no_current_file="True" page_number="290" party1_short="Manufacturing" >Huguley Manufacturing Co. v. Galeton Cotton Mills</CITATION>
+
+<NAME start="3639" local_name_id="31" end="3664" all_names="HUGULEY MANUFACTURING CO" party1_of="96529_91" id="96529_97" >Huguley Manufacturing Co.</NAME>
+
+<ORGANIZATION start="3639" end="3663" id="96529_112" >Huguley Manufacturing Co</ORGANIZATION>
+
+<NAME start="3668" party2_of="96529_91" end="3688" all_names="GALETON COTTON MILLS" id="96529_98" local_name_id="32" >Galeton Cotton Mills</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="290" id1="Dummy_File_2120" id="96529_88" lookup_key="u.s._184_290" alternative_keys="['manufacturingmills#1']" citation_local_level_id="16" start="3690" citation_global_level_id="2272.003" end="3707" paragraph_number="295" volume="184" no_current_file="True" line="18" >184 U.S. 290, 295</CITATION>
+
+<CITATION id1="Dummy_File_2121" entry_type="party_key" party1="Field" line="18" id="96529_92" lookup_key="fieldasphalt#1" party2="Asphalt Co" citation_local_level_id="17" start="3721" party2_short="Asphalt" end="3740" citation_global_level_id="2273.001" no_current_file="True" party1_short="Field" >Field v. Asphalt Co</CITATION>
+
+<NAME start="3721" local_name_id="26" end="3726" all_names="CIRCUIT COURT AND FIELD	FIELD" party1_of="96529_92" id="96529_99" >Field</NAME>
+
+<NAME start="3730" party2_of="96529_92" end="3740" all_names="BARBER ASPHALT CO	ASPHALT CO" id="96529_100" local_name_id="27" >Asphalt Co</NAME>
+
+<ORGANIZATION start="3826" end="3848" id="96529_113" >Circuit Court attaches</ORGANIZATION>
+
+<ORGANIZATION start="3994" end="3999" id="96529_114" >court</ORGANIZATION>
+
+<ORGANIZATION start="4086" end="4110" id="96529_115" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="4151" end="4156" id="96529_128" >court</ORGANIZATION>
+
+<ORGANIZATION start="4189" end="4199" id="96529_129" >commission</ORGANIZATION>
+
+<NAME start="4231" local_name_id="33" end="4257" all_names="FEDERAL CONSTITUTION THAT" id="96529_130" >Federal Constitution. That</NAME>
+
+<PROFESSION start="4391" end="4397" id="96529_131" >police</PROFESSION>
+
+<NAME start="4412" local_name_id="34" end="4417" all_names="STATE" id="96529_132" >State</NAME>
+
+<ORGANIZATION start="4500" end="4507" id="96529_133" >company</ORGANIZATION>
+
+<NAME start="4556" local_name_id="34" end="4561" all_names="STATE" id="96529_134" >State</NAME>
+
+<ORGANIZATION start="4584" end="4594" id="96529_135" >commission</ORGANIZATION>
+
+<NAME start="4652" local_name_id="35" end="4672" all_names="MISSISSIPPI SECTION	SECTION" id="96529_136" >Mississippi. Section</NAME>
+
+<NAME start="4679" local_name_id="36" end="4686" all_names="CHAPTER" id="96529_137" >Chapter</NAME>
+
+<NAME start="4692" local_name_id="11" end="4711" all_names="STATE OF MISSISSIPPI	CODE OF MISSISSIPPI" id="96529_138" >Code of Mississippi</NAME>
+
+<DATE start="4713" end="4717" id="96529_127" >1892</DATE>
+
+<ORGANIZATION start="4992" end="5002" id="96529_139" >commission</ORGANIZATION>
+
+<NAME start="5005" local_name_id="36" end="5012" all_names="CHAPTER" id="96529_140" >Chapter</NAME>
+
+<NAME start="5081" local_name_id="35" end="5088" all_names="MISSISSIPPI SECTION	SECTION" id="96529_141" >Section</NAME>
+
+<NAME start="5121" local_name_id="37" end="5130" all_names="NECESSARY" id="96529_142" >Necessary</NAME>
+
+<ORGANIZATION start="5406" end="5416" id="96529_143" >commission</ORGANIZATION>
+
+<ORGANIZATION start="5793" end="5803" id="96529_144" >commission</ORGANIZATION>
+
+<ORGANIZATION start="5831" end="5841" id="96529_145" >commission</ORGANIZATION>
+
+<ORGANIZATION start="5938" end="5945" id="96529_146" >company</ORGANIZATION>
+
+<ORGANIZATION start="6244" end="6254" id="96529_147" >commission</ORGANIZATION>
+
+<NAME start="6323" local_name_id="24" end="6331" all_names="MAGNOLIA" id="96529_148" >Magnolia</NAME>
+
+<ORGANIZATION start="6479" end="6489" id="96529_149" >commission</ORGANIZATION>
+
+<ORGANIZATION start="6915" end="6924" plural="True" id="96529_166" >companies</ORGANIZATION>
+
+<ORGANIZATION start="6997" end="7002" id="96529_167" >court</ORGANIZATION>
+
+<NAME start="7071" local_name_id="38" end="7079" all_names="ILLINOIS	STATE OF ILLINOIS" id="96529_168" >Illinois</NAME>
+
+<NAME start="7100" local_name_id="39" end="7125" all_names="ILLINOIS CENTRAL RAILROAD" id="96529_169" >Illinois Central Railroad</NAME>
+
+<NAME start="7159" local_name_id="40" end="7190" all_names="CHICAGO TO NEW ORLEANS AT CAIRO" id="96529_170" >Chicago to New Orleans at Cairo</NAME>
+
+<NAME start="7199" local_name_id="38" end="7216" all_names="ILLINOIS	STATE OF ILLINOIS" id="96529_171" >State of Illinois</NAME>
+
+<ORGANIZATION start="7271" end="7278" id="96529_172" >company</ORGANIZATION>
+
+<NAME start="7365" local_name_id="41" end="7376" all_names="CAIRO THAT" id="96529_173" >Cairo. That</NAME>
+
+<ORGANIZATION start="7417" end="7428" id="96529_174" >corporation</ORGANIZATION>
+
+<NAME start="7492" local_name_id="34" end="7497" all_names="STATE" id="96529_175" >State</NAME>
+
+<PROFESSION start="7567" end="7573" id="96529_176" >police</PROFESSION>
+
+<NAME start="7587" local_name_id="34" end="7592" all_names="STATE" id="96529_177" >State</NAME>
+
+<NAME start="7658" local_name_id="34" end="7663" all_names="STATE" id="96529_178" >State</NAME>
+
+<NAME start="7679" local_name_id="34" end="7684" all_names="STATE" id="96529_179" >State</NAME>
+
+<ORGANIZATION start="7761" end="7770" plural="True" id="96529_180" >companies</ORGANIZATION>
+
+<ORGANIZATION start="7793" end="7800" id="96529_181" >company</ORGANIZATION>
+
+<NAME start="7876" local_name_id="42" end="7883" all_names="SUNDAYS" id="96529_182" >Sundays</NAME>
+
+<NAME start="7993" local_name_id="43" end="8001" all_names="CONGRESS" id="96529_183" >Congress</NAME>
+
+<NAME start="8203" local_name_id="44" end="8224" all_names="ST LOUIS TO NEW YORK" id="96529_184" >St. Louis to New York</NAME>
+
+<ORGANIZATION start="8261" end="8268" id="96529_185" >company</ORGANIZATION>
+
+<NAME start="8350" local_name_id="34" end="8355" all_names="STATE" id="96529_186" >State</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2122" entry_type="party_key" party1="Illinois Central R.R. Co." line="24" id="96529_154" lookup_key="rillinois#1" alternative_keys="['u.s._163_142']" party2="Illinois" citation_local_level_id="18" start="8442" party2_short="Illinois" end="8479" citation_global_level_id="2274.003" volume="163" no_current_file="True" page_number="142" party1_short="R" >Illinois Central R.R. Co. v. Illinois</CITATION>
+
+<NAME start="8442" local_name_id="45" end="8467" all_names="ILLINOIS CENTRAL RR CO" party1_of="96529_154" id="96529_158" >Illinois Central R.R. Co.</NAME>
+
+<ORGANIZATION start="8442" end="8466" id="96529_187" >Illinois Central R.R. Co</ORGANIZATION>
+
+<NAME start="8471" party2_of="96529_154" end="8479" all_names="ILLINOIS	STATE OF ILLINOIS" id="96529_159" local_name_id="38" >Illinois</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="142" id1="Dummy_File_2122" id="96529_150" lookup_key="u.s._163_142" alternative_keys="['rillinois#1']" citation_local_level_id="19" start="8481" citation_global_level_id="2274.003" end="8493" volume="163" no_current_file="True" line="24" >163 U.S. 142</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2123" entry_type="party_key" party1="Gladson" line="24" id="96529_155" lookup_key="gladsonminnesota#1" alternative_keys="['u.s._166_427']" party2="Minnesota" citation_local_level_id="20" start="8495" party2_short="Minnesota" end="8515" citation_global_level_id="2275.003" volume="166" no_current_file="True" page_number="427" party1_short="Gladson" >Gladson v. Minnesota</CITATION>
+
+<NAME start="8495" local_name_id="46" end="8502" all_names="GLADSON" party1_of="96529_155" id="96529_160" >Gladson</NAME>
+
+<NAME start="8506" party2_of="96529_155" end="8515" all_names="MINNESOTA" id="96529_161" local_name_id="47" >Minnesota</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="427" id1="Dummy_File_2123" id="96529_151" lookup_key="u.s._166_427" alternative_keys="['gladsonminnesota#1']" citation_local_level_id="21" start="8517" citation_global_level_id="2275.003" end="8529" volume="166" no_current_file="True" line="24" >166 U.S. 427</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2124" entry_type="party_key" party1="Lake Shore &amp;c. Ry. Co." line="24" id="96529_156" lookup_key="ryohio#1" alternative_keys="['u.s._173_285']" party2="Ohio" citation_local_level_id="22" start="8531" party2_short="Ohio" end="8561" citation_global_level_id="2276.003" volume="173" no_current_file="True" page_number="285" party1_short="Ry" >Lake Shore &amp;c. Ry. Co. v. Ohio</CITATION>
+
+<NAME start="8531" local_name_id="48" end="8553" all_names="LAKE SHORE &amp;C RY CO	CLEVELAND &amp;C RY CO" party1_of="96529_156" id="96529_162" >Lake Shore &amp;c. Ry. Co.</NAME>
+
+<ORGANIZATION start="8546" end="8552" id="96529_188" >Ry. Co</ORGANIZATION>
+
+<NAME start="8557" party2_of="96529_156" end="8561" all_names="OHIO" id="96529_163" local_name_id="49" >Ohio</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="285" id1="Dummy_File_2124" id="96529_152" lookup_key="u.s._173_285" alternative_keys="['ryohio#1']" citation_local_level_id="23" start="8563" citation_global_level_id="2276.003" end="8575" volume="173" no_current_file="True" line="24" >173 U.S. 285</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2125" entry_type="party_key" party1="Cleveland &amp;c. Ry. Co." line="24" id="96529_157" lookup_key="ryillinois#1" alternative_keys="['u.s._177_514']" party2="Illinois" citation_local_level_id="24" start="8577" party2_short="Illinois" end="8610" citation_global_level_id="2277.003" volume="177" no_current_file="True" page_number="514" party1_short="Ry" >Cleveland &amp;c. Ry. Co. v. Illinois</CITATION>
+
+<NAME start="8577" local_name_id="48" end="8598" all_names="LAKE SHORE &amp;C RY CO	CLEVELAND &amp;C RY CO" party1_of="96529_157" id="96529_164" >Cleveland &amp;c. Ry. Co.</NAME>
+
+<ORGANIZATION start="8591" end="8597" id="96529_189" >Ry. Co</ORGANIZATION>
+
+<NAME start="8602" party2_of="96529_157" end="8610" all_names="ILLINOIS	STATE OF ILLINOIS" id="96529_165" local_name_id="38" >Illinois</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="514" id1="Dummy_File_2125" id="96529_153" lookup_key="u.s._177_514" alternative_keys="['ryillinois#1']" citation_local_level_id="25" start="8612" citation_global_level_id="2277.003" end="8624" volume="177" no_current_file="True" line="24" >177 U.S. 514</CITATION>
+
+<NAME start="8626" local_name_id="50" end="8630" all_names="UPON" id="96529_190" >Upon</NAME>
+
+<ORGANIZATION start="8687" end="8697" id="96529_191" >commission</ORGANIZATION>
+
+<ORGANIZATION start="8783" end="8790" id="96529_192" >company</ORGANIZATION>
+
+<ORGANIZATION start="8907" end="8914" id="96529_193" >company</ORGANIZATION>
+
+<ORGANIZATION start="9301" end="9308" id="96529_194" >company</ORGANIZATION>
+
+<ORGANIZATION start="9579" end="9586" id="96529_195" >company</ORGANIZATION>
+
+<ORGANIZATION start="9633" end="9643" id="96529_196" >commission</ORGANIZATION>
+
+<NAME start="9754" local_name_id="34" end="9759" all_names="STATE" id="96529_197" >State</NAME>
+
+<ORGANIZATION start="9833" end="9840" id="96529_198" >company</ORGANIZATION>
+
+<NAME start="9888" local_name_id="25" end="9900" all_names="FEDERAL CONSTITUTION	CONSTITUTION" id="96529_199" >Constitution</NAME>
+
+<ORGANIZATION start="9981" end="9991" id="96529_212" >commission</ORGANIZATION>
+
+<NAME start="10207" local_name_id="34" end="10212" all_names="STATE" id="96529_213" >State</NAME>
+
+<ORGANIZATION start="10220" end="10230" id="96529_214" >commission</ORGANIZATION>
+
+<ORGANIZATION start="10469" end="10493" id="96529_215" >Circuit Court of Appeals</ORGANIZATION>
+
+<PROFESSION start="10568" end="10576" id="96529_216" >Fed. Rep</PROFESSION>
+
+<ORGANIZATION start="10604" end="10611" id="96529_217" >company</ORGANIZATION>
+
+<NAME start="10656" local_name_id="51" end="10669" all_names="UNITED STATES	STATES" id="96529_218" >United States</NAME>
+
+<PROFESSION start="10796" end="10803" id="96529_219" >general</PROFESSION>
+
+<NAME start="10901" local_name_id="34" end="10906" all_names="STATE" id="96529_220" >State</NAME>
+
+<NAME start="10944" local_name_id="43" end="10952" all_names="CONGRESS" id="96529_221" >Congress</NAME>
+
+<ORGANIZATION start="11099" end="11106" id="96529_222" >company</ORGANIZATION>
+
+<ORGANIZATION start="11317" end="11327" id="96529_223" >commission</ORGANIZATION>
+
+<ORGANIZATION start="11453" end="11469" id="96529_224" >Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="11551" end="11556" id="96529_225" >Court</ORGANIZATION>
+
+<NAME start="11631" local_name_id="24" end="11639" all_names="MAGNOLIA" id="96529_226" >Magnolia</NAME>
+
+<ORGANIZATION start="11741" end="11746" id="96529_227" >court</ORGANIZATION>
+
+<ORGANIZATION start="11851" end="11875" id="96529_228" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="11891" end="11896" id="96529_229" >court</ORGANIZATION>
+
+<ORGANIZATION start="12023" end="12030" id="96529_230" >company</ORGANIZATION>
+
+<ORGANIZATION start="12711" end="12721" id="96529_231" >commission</ORGANIZATION>
+
+<PROFESSION start="12974" end="13013" id="96529_232" >Mississippi. The legislature of a State</PROFESSION>
+
+<ORGANIZATION start="13089" end="13099" id="96529_233" >commission</ORGANIZATION>
+
+<NAME start="13331" local_name_id="52" end="13342" all_names="COMPETITION" id="96529_234" >Competition</NAME>
+
+<NAME start="13487" local_name_id="51" end="13493" all_names="UNITED STATES	STATES" id="96529_235" >States</NAME>
+
+<ORGANIZATION start="13793" end="13798" id="96529_236" >court</ORGANIZATION>
+
+<NAME start="13968" local_name_id="34" end="13973" all_names="STATE" id="96529_237" >State</NAME>
+
+<NAME start="14121" local_name_id="34" end="14126" all_names="STATE" id="96529_238" >State</NAME>
+
+<NAME start="14494" local_name_id="53" end="14512" all_names="CIRCUIT OF APPEALS" id="96529_239" >Circuit of Appeals</NAME>
+
+<RELATION at_date_string="1906" theme_string="203 U.S. 335 (1906)" id="96529_3" relation_type="asymmetric" theme="96529_1" at_date="96529_2" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="ILLINOIS CENTRAL RAILROAD COMPANY" theme_string="MISSISSIPPI RAILROAD COMMISSION  v.  ILLINOIS CENTRAL RAILROAD COMPANY" id="96529_10" relation_type="asymmetric" party2="96529_8" theme="96529_6" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="MISSISSIPPI RAILROAD COMMISSION" party1="96529_7" theme_string="MISSISSIPPI RAILROAD COMMISSION  v.  ILLINOIS CENTRAL RAILROAD COMPANY" id="96529_9" relation_type="asymmetric" theme="96529_6" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="MISSISSIPPI RAILROAD COMMISSION  v.  ILLINOIS CENTRAL RAILROAD COMPANY" gram_type="multi_line" standard_case="96529_1" relation_type="equivalence" id="96529_11" X_vs_Y="96529_6" standard_case_string="203 U.S. 335 (1906)" ></RELATION>
+
+<RELATION profession="96529_19" gram_type="apposition" id="96529_22" profession_string="Attorney General of the State of Mississippi" relation_type="asymmetric" theme="96529_18" theme_string="Mr. William Williams" ></RELATION>
+
+<RELATION X_vs_Y_string="Reagan v. Trust Co" gram_type="apposition" standard_case="96529_31" relation_type="equivalence" id="96529_54" X_vs_Y="96529_35" standard_case_string="154 U.S. 362" ></RELATION>
+
+<RELATION party1_string="Reagan" party1="96529_39" theme_string="Reagan v. Trust Co" id="96529_52" relation_type="asymmetric" theme="96529_35" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Trust Co" theme_string="Reagan v. Trust Co" id="96529_53" relation_type="asymmetric" party2="96529_40" theme="96529_35" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Smyth v. Ames" gram_type="apposition" standard_case="96529_32" relation_type="equivalence" id="96529_57" X_vs_Y="96529_36" standard_case_string="169 U.S. 466" ></RELATION>
+
+<RELATION party1_string="Smyth" party1="96529_41" theme_string="Smyth v. Ames" id="96529_55" relation_type="asymmetric" theme="96529_36" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Ames" theme_string="Smyth v. Ames" id="96529_56" relation_type="asymmetric" party2="96529_42" theme="96529_36" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Prout v. Starr" gram_type="apposition" standard_case="96529_33" relation_type="equivalence" id="96529_60" X_vs_Y="96529_37" standard_case_string="188 U.S. 537" ></RELATION>
+
+<RELATION party1_string="Prout" party1="96529_43" theme_string="Prout v. Starr" id="96529_58" relation_type="asymmetric" theme="96529_37" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Starr" theme_string="Prout v. Starr" id="96529_59" relation_type="asymmetric" party2="96529_44" theme="96529_37" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Arbuckle v. Blackburn" gram_type="apposition" standard_case="96529_34" relation_type="equivalence" id="96529_63" X_vs_Y="96529_38" standard_case_string="191 U.S. 405" ></RELATION>
+
+<RELATION party1_string="Arbuckle" party1="96529_45" theme_string="Arbuckle v. Blackburn" id="96529_61" relation_type="asymmetric" theme="96529_38" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Blackburn" theme_string="Arbuckle v. Blackburn" id="96529_62" relation_type="asymmetric" party2="96529_46" theme="96529_38" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Telegraph Co." party1="96529_65" theme_string="Telegraph Co. v. Railroad Commission" id="96529_71" relation_type="asymmetric" theme="96529_64" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Railroad Commission" theme_string="Telegraph Co. v. Railroad Commission" id="96529_72" relation_type="asymmetric" party2="96529_66" theme="96529_64" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Circuit Court, and Field v. Barber Asphalt Co" gram_type="apposition" standard_case="96529_86" relation_type="equivalence" id="96529_118" X_vs_Y="96529_89" standard_case_string="194 U.S. 618" ></RELATION>
+
+<RELATION party1_string="Circuit Court, and Field" party1="96529_93" theme_string="Circuit Court, and Field v. Barber Asphalt Co" id="96529_116" relation_type="asymmetric" theme="96529_89" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Barber Asphalt Co" theme_string="Circuit Court, and Field v. Barber Asphalt Co" id="96529_117" relation_type="asymmetric" party2="96529_94" theme="96529_89" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Refining Co. v. New Orleans" gram_type="apposition" standard_case="96529_87" relation_type="equivalence" id="96529_121" X_vs_Y="96529_90" standard_case_string="181 U.S. 277, 281" ></RELATION>
+
+<RELATION party1_string="Refining Co." party1="96529_95" theme_string="Refining Co. v. New Orleans" id="96529_119" relation_type="asymmetric" theme="96529_90" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="New Orleans" theme_string="Refining Co. v. New Orleans" id="96529_120" relation_type="asymmetric" party2="96529_96" theme="96529_90" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Huguley Manufacturing Co. v. Galeton Cotton Mills" gram_type="apposition" standard_case="96529_88" relation_type="equivalence" id="96529_124" X_vs_Y="96529_91" standard_case_string="184 U.S. 290, 295" ></RELATION>
+
+<RELATION party1_string="Huguley Manufacturing Co." party1="96529_97" theme_string="Huguley Manufacturing Co. v. Galeton Cotton Mills" id="96529_122" relation_type="asymmetric" theme="96529_91" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Galeton Cotton Mills" theme_string="Huguley Manufacturing Co. v. Galeton Cotton Mills" id="96529_123" relation_type="asymmetric" party2="96529_98" theme="96529_91" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Field" party1="96529_99" theme_string="Field v. Asphalt Co" id="96529_125" relation_type="asymmetric" theme="96529_92" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Asphalt Co" theme_string="Field v. Asphalt Co" id="96529_126" relation_type="asymmetric" party2="96529_100" theme="96529_92" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Illinois Central R.R. Co. v. Illinois" gram_type="apposition" standard_case="96529_150" relation_type="equivalence" id="96529_202" X_vs_Y="96529_154" standard_case_string="163 U.S. 142" ></RELATION>
+
+<RELATION party1_string="Illinois Central R.R. Co." party1="96529_158" theme_string="Illinois Central R.R. Co. v. Illinois" id="96529_200" relation_type="asymmetric" theme="96529_154" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Illinois" theme_string="Illinois Central R.R. Co. v. Illinois" id="96529_201" relation_type="asymmetric" party2="96529_159" theme="96529_154" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Gladson v. Minnesota" gram_type="apposition" standard_case="96529_151" relation_type="equivalence" id="96529_205" X_vs_Y="96529_155" standard_case_string="166 U.S. 427" ></RELATION>
+
+<RELATION party1_string="Gladson" party1="96529_160" theme_string="Gladson v. Minnesota" id="96529_203" relation_type="asymmetric" theme="96529_155" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Minnesota" theme_string="Gladson v. Minnesota" id="96529_204" relation_type="asymmetric" party2="96529_161" theme="96529_155" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Lake Shore &amp;c. Ry. Co. v. Ohio" gram_type="apposition" standard_case="96529_152" relation_type="equivalence" id="96529_208" X_vs_Y="96529_156" standard_case_string="173 U.S. 285" ></RELATION>
+
+<RELATION party1_string="Lake Shore &amp;c. Ry. Co." party1="96529_162" theme_string="Lake Shore &amp;c. Ry. Co. v. Ohio" id="96529_206" relation_type="asymmetric" theme="96529_156" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Ohio" theme_string="Lake Shore &amp;c. Ry. Co. v. Ohio" id="96529_207" relation_type="asymmetric" party2="96529_163" theme="96529_156" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Cleveland &amp;c. Ry. Co. v. Illinois" gram_type="apposition" standard_case="96529_153" relation_type="equivalence" id="96529_211" X_vs_Y="96529_157" standard_case_string="177 U.S. 514" ></RELATION>
+
+<RELATION party1_string="Cleveland &amp;c. Ry. Co." party1="96529_164" theme_string="Cleveland &amp;c. Ry. Co. v. Illinois" id="96529_209" relation_type="asymmetric" theme="96529_157" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Illinois" theme_string="Cleveland &amp;c. Ry. Co. v. Illinois" id="96529_210" relation_type="asymmetric" party2="96529_165" theme="96529_157" gram_type="infix" ></RELATION>
+

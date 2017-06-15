@@ -1,0 +1,18 @@
+<citation id="91473_1" entry_type="standard_case" start="0" end="12" reporter="S. Ct." standard_reporter="S.CT." volume="6" page_number="114" line="1">6 S. Ct. 114</citation>
+<citation id="91473_2" entry_type="standard_case" start="17" end="29" reporter="U.S." standard_reporter="U.S." volume="115" page_number="523" line="2">115 U.S. 523</citation>
+<citation id="91473_3" entry_type="standard_case" start="34" end="47" reporter="L. Ed." standard_reporter="L.ED." volume="29" page_number="467" line="3">29 L. Ed. 467</citation>
+<citation id="91473_4" entry_type="case_X_vs_Y" start="52" end="82" party1="MISSOURI PAC. RY. CO." party2="TERRY" line="4">MISSOURI PAC. RY. CO. v. TERRY</citation>
+<NAME id="91473_5" start="52" end="73" party1_of="91473_4">MISSOURI PAC. RY. CO.</NAME>
+<NAME id="91473_6" start="77" end="82" party2_of="91473_4">TERRY</NAME>
+<date id="91473_9" start="94" end="111">November 23, 1885</date>
+<NAME id="91473_16" start="199" end="211">Missouri Pac</NAME>
+<citation id="91473_13" entry_type="case_X_vs_Y" start="213" end="229" party1="Ry. Co." party2="Humes" line="8">Ry. Co. v. Humes</citation>
+<NAME id="91473_14" start="213" end="220" party1_of="91473_13">Ry. Co.</NAME>
+<NAME id="91473_15" start="224" end="229" party2_of="91473_13">Humes</NAME>
+<RELATION id="91473_7" relation_type="asymmetric" gram_type="infix" theme="91473_4" theme_string="MISSOURI PAC. RY. CO. v. TERRY" party1="91473_5" party1_string="MISSOURI PAC. RY. CO."></RELATION>
+<RELATION id="91473_8" relation_type="asymmetric" gram_type="infix" theme="91473_4" theme_string="MISSOURI PAC. RY. CO. v. TERRY" party2="91473_6" party2_string="TERRY"></RELATION>
+<RELATION id="91473_10" relation_type="equivalence" gram_type="multi_line" standard_case="91473_1" standard_case_string="6 S. Ct. 114" X_vs_Y="91473_4" X_vs_Y_string="MISSOURI PAC. RY. CO. v. TERRY"></RELATION>
+<RELATION id="91473_11" relation_type="equivalence" gram_type="multi_line" standard_case="91473_2" standard_case_string="115 U.S. 523" X_vs_Y="91473_4" X_vs_Y_string="MISSOURI PAC. RY. CO. v. TERRY"></RELATION>
+<RELATION id="91473_12" relation_type="equivalence" gram_type="multi_line" standard_case="91473_3" standard_case_string="29 L. Ed. 467" X_vs_Y="91473_4" X_vs_Y_string="MISSOURI PAC. RY. CO. v. TERRY"></RELATION>
+<RELATION id="91473_17" relation_type="asymmetric" gram_type="infix" theme="91473_13" theme_string="Ry. Co. v. Humes" party1="91473_14" party1_string="Ry. Co."></RELATION>
+<RELATION id="91473_18" relation_type="asymmetric" gram_type="infix" theme="91473_13" theme_string="Ry. Co. v. Humes" party2="91473_15" party2_string="Humes"></RELATION>

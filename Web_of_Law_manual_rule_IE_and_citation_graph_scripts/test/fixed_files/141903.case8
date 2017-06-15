@@ -1,0 +1,30 @@
+<citation id="141903_1" entry_type="standard_case" start="0" end="13" reporter="U.S." standard_reporter="U.S." volume="543" page_number="1116" line="1">543 U.S. 1116</citation>
+<citation id="141903_2" entry_type="case_X_vs_Y" start="18" end="40" party1="SALAS" party2="UNITED STATES" line="2">SALAS v. UNITED STATES</citation>
+<NAME id="141903_4" start="18" end="23" party1_of="141903_2">SALAS</NAME>
+<NAME id="141903_5" start="27" end="40" party2_of="141903_2">UNITED STATES</NAME>
+<citation id="141903_3" entry_type="case_X_vs_Y" start="46" end="77" party1="TORRES-VASQUEZ" party2="UNITED STATES" line="2">TORRES-VASQUEZ v. UNITED STATES</citation>
+<NAME id="141903_6" start="46" end="60" party1_of="141903_3">TORRES-VASQUEZ</NAME>
+<NAME id="141903_7" start="64" end="77" party2_of="141903_3">UNITED STATES</NAME>
+<docket id="141903_12" entry_type="docket" start="87" end="95" line="3">03-10427</docket>
+<ORGANIZATION id="141903_13" start="101" end="131">Supreme Court of United States</ORGANIZATION>
+<date id="141903_14" start="137" end="153">January 24, 2005</date>
+<citation id="141903_21" entry_type="standard_case" start="175" end="187" reporter="U.S." standard_reporter="U.S." volume="542" page_number="927" line="8">542 U.S. 927</citation>
+<NAME id="141903_25" start="189" end="198">Petitions</NAME>
+<NAME id="141903_26" start="222" end="228">Orders</NAME>
+<LEGAL_ROLE id="141903_27" start="280" end="302" plural="True">Motions of petitioners</LEGAL_ROLE>
+<NAME id="141903_28" start="351" end="361">Certiorari</NAME>
+<citation id="141903_22" entry_type="case_X_vs_Y" start="447" end="470" party1="United States" party2="Booker" line="8">United States v. Booker</citation>
+<NAME id="141903_23" start="447" end="460" party1_of="141903_22">United States</NAME>
+<NAME id="141903_24" start="464" end="470" party2_of="141903_22">Booker</NAME>
+<RELATION id="141903_8" relation_type="asymmetric" gram_type="infix" theme="141903_2" theme_string="SALAS v. UNITED STATES" party1="141903_4" party1_string="SALAS"></RELATION>
+<RELATION id="141903_9" relation_type="asymmetric" gram_type="infix" theme="141903_2" theme_string="SALAS v. UNITED STATES" party2="141903_5" party2_string="UNITED STATES"></RELATION>
+<RELATION id="141903_10" relation_type="asymmetric" gram_type="infix" theme="141903_3" theme_string="TORRES-VASQUEZ v. UNITED STATES" party1="141903_6" party1_string="TORRES-VASQUEZ"></RELATION>
+<RELATION id="141903_11" relation_type="asymmetric" gram_type="infix" theme="141903_3" theme_string="TORRES-VASQUEZ v. UNITED STATES" party2="141903_7" party2_string="UNITED STATES"></RELATION>
+<RELATION id="141903_18" relation_type="equivalence" gram_type="multi_line" standard_case="141903_1" standard_case_string="543 U.S. 1116" X_vs_Y="141903_3" X_vs_Y_string="TORRES-VASQUEZ v. UNITED STATES"></RELATION>
+<RELATION id="141903_15" relation_type="equivalence" gram_type="multi_line" standard_case="141903_1" standard_case_string="543 U.S. 1116" X_vs_Y="141903_2" X_vs_Y_string="SALAS v. UNITED STATES"></RELATION>
+<RELATION id="141903_17" relation_type="asymmetric" gram_type="multi_line" theme="141903_2" theme_string="SALAS v. UNITED STATES" at_date="141903_14" at_date_string="January 24, 2005"></RELATION>
+<RELATION id="141903_16" relation_type="asymmetric" gram_type="multi_line" theme="141903_2" theme_string="SALAS v. UNITED STATES" includes_docket="141903_12" includes_docket_string="03-10427"></RELATION>
+<RELATION id="141903_20" relation_type="asymmetric" gram_type="multi_line" theme="141903_3" theme_string="TORRES-VASQUEZ v. UNITED STATES" at_date="141903_14" at_date_string="January 24, 2005"></RELATION>
+<RELATION id="141903_19" relation_type="asymmetric" gram_type="multi_line" theme="141903_3" theme_string="TORRES-VASQUEZ v. UNITED STATES" includes_docket="141903_12" includes_docket_string="03-10427"></RELATION>
+<RELATION id="141903_29" relation_type="asymmetric" gram_type="infix" theme="141903_22" theme_string="United States v. Booker" party1="141903_23" party1_string="United States"></RELATION>
+<RELATION id="141903_30" relation_type="asymmetric" gram_type="infix" theme="141903_22" theme_string="United States v. Booker" party2="141903_24" party2_string="Booker"></RELATION>

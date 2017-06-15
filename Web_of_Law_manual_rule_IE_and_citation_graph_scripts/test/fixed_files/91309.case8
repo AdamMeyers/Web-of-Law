@@ -1,0 +1,70 @@
+<citation id="91309_1" entry_type="standard_case" start="1" end="20" reporter="U.S." standard_reporter="U.S." volume="113" page_number="527" year="1885" line="2">113 U.S. 527 (1885)</citation>
+<date id="91309_2" start="15" end="19">1885</date>
+<citation id="91309_5" entry_type="case_X_vs_Y" start="21" end="48" party1="ERHARDT" party2="BOARO &amp; Others" line="5">ERHARDT  v.  BOARO &amp; Others</citation>
+<NAME id="91309_6" start="21" end="28" party1_of="91309_5">ERHARDT</NAME>
+<NAME id="91309_7" start="34" end="48" party2_of="91309_5">BOARO &amp; Others</NAME>
+<ORGANIZATION id="91309_10" start="50" end="80">Supreme Court of United States</ORGANIZATION>
+<date id="91309_11" start="89" end="105">January 14, 1885</date>
+<NAME id="91309_14" start="107" end="114">Decided</NAME>
+<date id="91309_13" start="115" end="128">March 2, 1885</date>
+<ORGANIZATION id="91309_15" start="133" end="209">ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF COLORADO</ORGANIZATION>
+<LEGAL_ROLE id="91309_16" start="216" end="244">Mr. Elihu Root for plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="91309_17" start="255" end="308" plural="True">Mr. C.S. Thomas and Mr. T.M. Patterson for defendants</LEGAL_ROLE>
+<NAME id="91309_18" start="324" end="326">MR</NAME>
+<ORGANIZATION id="91309_19" start="477" end="482">court</ORGANIZATION>
+<NAME id="91309_20" start="553" end="560">Carroll</NAME>
+<ORGANIZATION id="91309_21" start="790" end="795">court</ORGANIZATION>
+<ORGANIZATION id="91309_24" start="1108" end="1113">court</ORGANIZATION>
+<NAME id="91309_25" start="1370" end="1379">Hawk Lode</NAME>
+<NAME id="91309_26" start="2009" end="2016">Greater</NAME>
+<PROFESSION id="91309_27" start="2728" end="2735">general</PROFESSION>
+<NAME id="91309_28" start="2899" end="2908">Rev. Stat</NAME>
+<PROFESSION id="91309_29" start="2918" end="2921">Gen</PROFESSION>
+<NAME id="91309_30" start="2923" end="2939">Laws of Colorado</NAME>
+<date id="91309_22" start="2944" end="2948">1813</date>
+<date id="91309_23" start="2949" end="2953">1814</date>
+<PROFESSION id="91309_35" start="3052" end="3059">general</PROFESSION>
+<NAME id="91309_36" start="3170" end="3177">Carroll</NAME>
+<NAME id="91309_37" start="3459" end="3467">Colorado</NAME>
+<LEGAL_ROLE id="91309_38" start="3883" end="3892">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="91309_39" start="3971" end="3981" plural="True">defendants</LEGAL_ROLE>
+<NAME id="91309_40" start="4071" end="4078">Carroll</NAME>
+<LEGAL_ROLE id="91309_41" start="4377" end="4386">plaintiff</LEGAL_ROLE>
+<citation id="91309_31" entry_type="case_X_vs_Y" start="4860" end="4885" party1="As" party2="the" party2_role="defendants" line="15">As against the defendants</citation>
+<NAME id="91309_32" start="4860" end="4862" party1_of="91309_31">As</NAME>
+<NAME id="91309_33" start="4871" end="4874" party2_of="91309_31">the</NAME>
+<LEGAL_ROLE id="91309_34" start="4875" end="4885">defendants</LEGAL_ROLE>
+<PROFESSION id="91309_46" start="5163" end="5194">government of the United States</PROFESSION>
+<date id="91309_44" start="5416" end="5420">1866</date>
+<PROFESSION id="91309_47" start="5739" end="5751" plural="True">legislatures</PROFESSION>
+<NAME id="91309_48" start="5814" end="5827">United States</NAME>
+<NAME id="91309_49" start="5839" end="5844">State</NAME>
+<NAME id="91309_50" start="5848" end="5857">Territory</NAME>
+<date id="91309_45" start="6035" end="6039">1866</date>
+<NAME id="91309_51" start="6040" end="6048">Congress</NAME>
+<NAME id="91309_52" start="6334" end="6347">United States</NAME>
+<NAME id="91309_53" start="6358" end="6363">State</NAME>
+<NAME id="91309_54" start="6367" end="6376">Territory</NAME>
+<NAME id="91309_55" start="6519" end="6540">Rev. Stat. § 2324. In</NAME>
+<NAME id="91309_56" start="6569" end="6577">Congress</NAME>
+<NAME id="91309_57" start="6588" end="6593">State</NAME>
+<NAME id="91309_58" start="6597" end="6606">Territory</NAME>
+<ORGANIZATION id="91309_59" start="7296" end="7301">force</ORGANIZATION>
+<LEGAL_ROLE id="91309_60" start="7413" end="7422" plural="True">claimants</LEGAL_ROLE>
+<NAME id="91309_61" start="7521" end="7530">Hawk Lode</NAME>
+<NAME id="91309_62" start="7720" end="7733">United States</NAME>
+<NAME id="91309_63" start="7750" end="7758">Colorado</NAME>
+<NAME id="91309_64" start="7795" end="7808">United States</NAME>
+<NAME id="91309_65" start="7982" end="7987">State</NAME>
+<PROFESSION id="91309_66" start="8214" end="8225">legislature</PROFESSION>
+<NAME id="91309_67" start="8234" end="8239">State</NAME>
+<PROFESSION id="91309_68" start="8372" end="8379">counsel</PROFESSION>
+<NAME id="91309_69" start="9896" end="9903">Erhardt</NAME>
+<NAME id="91309_70" start="9976" end="9983">Carroll</NAME>
+<ORGANIZATION id="91309_71" start="10248" end="10253">court</ORGANIZATION>
+<RELATION id="91309_3" relation_type="asymmetric" gram_type="infix" theme="91309_1" theme_string="113 U.S. 527 (1885)" at_date="91309_2" at_date_string="1885"></RELATION>
+<RELATION id="91309_8" relation_type="asymmetric" gram_type="infix" theme="91309_5" theme_string="ERHARDT  v.  BOARO &amp; Others" party1="91309_6" party1_string="ERHARDT"></RELATION>
+<RELATION id="91309_9" relation_type="asymmetric" gram_type="infix" theme="91309_5" theme_string="ERHARDT  v.  BOARO &amp; Others" party2="91309_7" party2_string="BOARO &amp; Others"></RELATION>
+<RELATION id="91309_12" relation_type="equivalence" gram_type="multi_line" standard_case="91309_1" standard_case_string="113 U.S. 527 (1885)" X_vs_Y="91309_5" X_vs_Y_string="ERHARDT  v.  BOARO &amp; Others"></RELATION>
+<RELATION id="91309_42" relation_type="asymmetric" gram_type="infix" theme="91309_31" theme_string="As against the defendants" party1="91309_32" party1_string="As"></RELATION>
+<RELATION id="91309_43" relation_type="asymmetric" gram_type="infix" theme="91309_31" theme_string="As against the defendants" party2="91309_33" party2_string="the"></RELATION>

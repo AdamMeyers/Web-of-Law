@@ -1,0 +1,50 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1201" id1="108314" id="108314_1" lookup_key="u.s._401_1201" alternative_keys="['karrschmidt#1', 's.ct._91_592', 'l.ed.2d_27_797']" citation_local_level_id="0" start="0" citation_global_level_id="4.002" end="13" volume="401" line="1" >401 U.S. 1201</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="592" id1="108314" id="108314_2" lookup_key="s.ct._91_592" alternative_keys="['u.s._401_1201', 'karrschmidt#1', 'l.ed.2d_27_797']" citation_local_level_id="1" start="18" citation_global_level_id="4.003" end="31" volume="91" line="1" >91 S. Ct. 592</CITATION>
+
+<NAME start="21" local_name_id="1" end="26" all_names="S CT" id="108314_8" >S. Ct</NAME>
+
+<CITATION reporter="L. Ed. 2d" entry_type="standard_key" standard_reporter="L.ED.2D" page_number="797" id1="108314" id="108314_3" lookup_key="l.ed.2d_27_797" alternative_keys="['u.s._401_1201', 's.ct._91_592', 'karrschmidt#1']" citation_local_level_id="2" start="36" citation_global_level_id="4.004" end="52" volume="27" line="1" >27 L. Ed. 2d 797</CITATION>
+
+<CITATION id1="108314" entry_type="party_key" party1="Chesley KARR, a minor, individually, and John R. Karr,  Individually and as next friend and Guardian ad litem on  behalf of themselves and all others similarly situated," line="1" id="108314_4" lookup_key="karrschmidt#1" alternative_keys="['u.s._401_1201', 's.ct._91_592', 'l.ed.2d_27_797']" party2="Clifford SCHMIDT, Principal of Coronado High  School, et al" citation_local_level_id="3" start="57" party2_short="SCHMIDT" end="289" citation_global_level_id="4.001" party1_short="KARR" >Chesley KARR, a minor, individually, and John R. Karr, Individually and as next friend and Guardian ad litem on behalf of themselves and all others similarly situated, v. Clifford SCHMIDT, Principal of Coronado High School, et al</CITATION>
+
+<NAME start="57" local_name_id="2" end="226" all_names="CHESLEY KARR A MINOR INDIVIDUALLY AND JOHN R KARR INDIVIDUALLY AND AS NEXT FRIEND AND GUARDIAN AD LITEM ON BEHALF OF THEMSELVES AND ALL OTHERS SIMILARLY SITUATED" party1_of="108314_4" id="108314_5" >Chesley KARR, a minor, individually, and John R. Karr, Individually and as next friend and Guardian ad litem on behalf of themselves and all others similarly situated,</NAME>
+
+<NAME start="230" party2_of="108314_4" end="289" all_names="CLIFFORD SCHMIDT PRINCIPAL OF CORONADO HIGH SCHOOL" id="108314_6" local_name_id="3" >Clifford SCHMIDT, Principal of Coronado High School, et al</NAME>
+
+<ORGANIZATION start="248" end="282" id="108314_9" >Principal of Coronado High School</ORGANIZATION>
+
+<DATE start="309" end="322" id="108314_7" >Feb. 11, 1971</DATE>
+
+<ORGANIZATION start="1846" end="1852" plural="True" id="108314_15" >courts</ORGANIZATION>
+
+<ORGANIZATION start="1920" end="1926" id="108314_16" >school</ORGANIZATION>
+
+<NAME start="1950" local_name_id="4" end="1956" all_names="STATES" id="108314_17" >States</NAME>
+
+<NAME start="3065" local_name_id="5" end="3081" all_names="EMERGENCY MOTION	MOTION" id="108314_18" >Emergency Motion</NAME>
+
+<NAME start="3455" local_name_id="6" end="3475" all_names="FEDERAL CONSTITUTION" id="108314_19" >Federal Constitution</NAME>
+
+<ORGANIZATION start="3491" end="3511" plural="True" id="108314_20" >United States courts</ORGANIZATION>
+
+<ORGANIZATION start="3569" end="3575" id="108314_21" >school</ORGANIZATION>
+
+<ORGANIZATION start="3625" end="3631" plural="True" id="108314_22" >courts</ORGANIZATION>
+
+<ORGANIZATION start="3755" end="3761" plural="True" id="108314_23" >courts</ORGANIZATION>
+
+<ORGANIZATION start="3836" end="3843" id="108314_24" >society</ORGANIZATION>
+
+<NAME start="4882" local_name_id="5" end="4888" all_names="EMERGENCY MOTION	MOTION" id="108314_25" >Motion</NAME>
+
+<RELATION X_vs_Y_string="Chesley KARR, a minor, individually, and John R. Karr,  Individually and as next friend and Guardian ad litem on  behalf of themselves and all others similarly situated, v. Clifford SCHMIDT, Principal of Coronado High  School, et al" gram_type="pre_nom" standard_case="108314_1" relation_type="equivalence" id="108314_11" X_vs_Y="108314_4" standard_case_string="401 U.S. 1201" ></RELATION>
+
+<RELATION X_vs_Y_string="Chesley KARR, a minor, individually, and John R. Karr,  Individually and as next friend and Guardian ad litem on  behalf of themselves and all others similarly situated, v. Clifford SCHMIDT, Principal of Coronado High  School, et al" gram_type="pre_nom" standard_case="108314_2" relation_type="equivalence" id="108314_12" X_vs_Y="108314_4" standard_case_string="91 S. Ct. 592" ></RELATION>
+
+<RELATION X_vs_Y_string="Chesley KARR, a minor, individually, and John R. Karr,  Individually and as next friend and Guardian ad litem on  behalf of themselves and all others similarly situated, v. Clifford SCHMIDT, Principal of Coronado High  School, et al" gram_type="pre_nom" standard_case="108314_3" relation_type="equivalence" id="108314_10" X_vs_Y="108314_4" standard_case_string="27 L. Ed. 2d 797" ></RELATION>
+
+<RELATION party1_string="Chesley KARR, a minor, individually, and John R. Karr,  Individually and as next friend and Guardian ad litem on  behalf of themselves and all others similarly situated," party1="108314_5" theme_string="Chesley KARR, a minor, individually, and John R. Karr,  Individually and as next friend and Guardian ad litem on  behalf of themselves and all others similarly situated, v. Clifford SCHMIDT, Principal of Coronado High  School, et al" id="108314_13" relation_type="asymmetric" theme="108314_4" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Clifford SCHMIDT, Principal of Coronado High  School, et al" theme_string="Chesley KARR, a minor, individually, and John R. Karr,  Individually and as next friend and Guardian ad litem on  behalf of themselves and all others similarly situated, v. Clifford SCHMIDT, Principal of Coronado High  School, et al" id="108314_14" relation_type="asymmetric" party2="108314_6" theme="108314_4" gram_type="infix" ></RELATION>
+

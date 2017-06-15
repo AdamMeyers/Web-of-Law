@@ -1,0 +1,36 @@
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="114" id1="91473" id="91473_1" lookup_key="s.ct._6_114" alternative_keys="['ryterry#2', 'u.s._115_523', 'l.ed._29_467']" citation_local_level_id="0" start="0" citation_global_level_id="62.002" end="12" volume="6" line="1" >6 S. Ct. 114</CITATION>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="523" id1="91473" id="91473_2" lookup_key="u.s._115_523" alternative_keys="['s.ct._6_114', 'ryterry#2', 'l.ed._29_467']" citation_local_level_id="1" start="17" citation_global_level_id="62.003" end="29" volume="115" line="2" >115 U.S. 523</CITATION>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="467" id1="91473" id="91473_3" lookup_key="l.ed._29_467" alternative_keys="['s.ct._6_114', 'u.s._115_523', 'ryterry#2']" citation_local_level_id="2" start="34" citation_global_level_id="62.004" end="47" volume="29" line="3" >29 L. Ed. 467</CITATION>
+
+<CITATION id1="91473" entry_type="party_key" party1="MISSOURI PAC. RY. CO." line="4" id="91473_4" lookup_key="ryterry#2" alternative_keys="['u.s._115_523', 'l.ed._29_467', 's.ct._6_114']" party2="TERRY" citation_local_level_id="3" start="52" party2_short="TERRY" end="82" citation_global_level_id="62.005" party1_short="RY" >MISSOURI PAC. RY. CO. v. TERRY</CITATION>
+
+<NAME start="52" local_name_id="1" end="73" all_names="MISSOURI PAC RY CO	RY CO" party1_of="91473_4" id="91473_5" >MISSOURI PAC. RY. CO.</NAME>
+
+<NAME start="77" party2_of="91473_4" end="82" all_names="TERRY" id="91473_6" local_name_id="2" >TERRY</NAME>
+
+<DATE start="94" end="111" id="91473_9" >November 23, 1885</DATE>
+
+<NAME start="199" local_name_id="3" end="211" all_names="MISSOURI PAC" id="91473_16" >Missouri Pac</NAME>
+
+<CITATION id1="Dummy_File_955" entry_type="party_key" party1="Ry. Co." line="8" id="91473_13" lookup_key="ryhumes#1" party2="Humes" citation_local_level_id="4" start="213" party2_short="Humes" end="229" citation_global_level_id="1107.001" no_current_file="True" party1_short="Ry" >Ry. Co. v. Humes</CITATION>
+
+<NAME start="213" local_name_id="1" end="220" all_names="MISSOURI PAC RY CO	RY CO" party1_of="91473_13" id="91473_14" >Ry. Co.</NAME>
+
+<NAME start="224" party2_of="91473_13" end="229" all_names="HUMES" id="91473_15" local_name_id="4" >Humes</NAME>
+
+<RELATION party1_string="MISSOURI PAC. RY. CO." party1="91473_5" theme_string="MISSOURI PAC. RY. CO. v. TERRY" id="91473_7" relation_type="asymmetric" theme="91473_4" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="TERRY" theme_string="MISSOURI PAC. RY. CO. v. TERRY" id="91473_8" relation_type="asymmetric" party2="91473_6" theme="91473_4" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="MISSOURI PAC. RY. CO. v. TERRY" gram_type="multi_line" standard_case="91473_1" relation_type="equivalence" id="91473_10" X_vs_Y="91473_4" standard_case_string="6 S. Ct. 114" ></RELATION>
+
+<RELATION X_vs_Y_string="MISSOURI PAC. RY. CO. v. TERRY" gram_type="multi_line" standard_case="91473_2" relation_type="equivalence" id="91473_11" X_vs_Y="91473_4" standard_case_string="115 U.S. 523" ></RELATION>
+
+<RELATION X_vs_Y_string="MISSOURI PAC. RY. CO. v. TERRY" gram_type="multi_line" standard_case="91473_3" relation_type="equivalence" id="91473_12" X_vs_Y="91473_4" standard_case_string="29 L. Ed. 467" ></RELATION>
+
+<RELATION party1_string="Ry. Co." party1="91473_14" theme_string="Ry. Co. v. Humes" id="91473_17" relation_type="asymmetric" theme="91473_13" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Humes" theme_string="Ry. Co. v. Humes" id="91473_18" relation_type="asymmetric" party2="91473_15" theme="91473_13" gram_type="infix" ></RELATION>
+

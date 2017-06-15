@@ -1,0 +1,13 @@
+<citation id="123575_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="537" page_number="903" line="1">537 U.S. 903</citation>
+<citation id="123575_3" entry_type="case_X_vs_Y" start="17" end="68" party1="ARREOLA-GARCIA, AKA GARCIA ARREOLA" party2="UNITED STATES" line="1">ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES</citation>
+<NAME id="123575_4" start="17" end="51" party1_of="123575_3">ARREOLA-GARCIA, AKA GARCIA ARREOLA</NAME>
+<NAME id="123575_7" start="17" end="31">ARREOLA-GARCIA</NAME>
+<NAME id="123575_5" start="55" end="68" party2_of="123575_3">UNITED STATES</NAME>
+<docket id="123575_2" entry_type="docket" start="78" end="85" line="1">02-5239</docket>
+<date id="123575_6" start="127" end="142">October 7, 2002</date>
+<NAME id="123575_13" start="271" end="274">Cir</NAME>
+<RELATION id="123575_12" relation_type="asymmetric" gram_type="apposition" theme="123575_1" theme_string="537 U.S. 903" includes_docket="123575_2" includes_docket_string="02-5239"></RELATION>
+<RELATION id="123575_8" relation_type="equivalence" gram_type="pre_nom" standard_case="123575_1" standard_case_string="537 U.S. 903" X_vs_Y="123575_3" X_vs_Y_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES"></RELATION>
+<RELATION id="123575_11" relation_type="asymmetric" gram_type="apposition" theme="123575_3" theme_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" includes_docket="123575_2" includes_docket_string="02-5239"></RELATION>
+<RELATION id="123575_10" relation_type="asymmetric" gram_type="infix" theme="123575_3" theme_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" party2="123575_5" party2_string="UNITED STATES"></RELATION>
+<RELATION id="123575_9" relation_type="asymmetric" gram_type="infix" theme="123575_3" theme_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" party1="123575_4" party1_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA"></RELATION>

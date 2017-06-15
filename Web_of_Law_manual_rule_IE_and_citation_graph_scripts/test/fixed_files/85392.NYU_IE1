@@ -1,0 +1,222 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="312" id1="85392" id="85392_1" lookup_key="u.s._21_312" alternative_keys="['buelness#1', 'wheat._8_312']" citation_local_level_id="0" start="1" citation_global_level_id="17.002" end="19" volume="21" line="2" >21 U.S. 312 (____)</CITATION>
+
+<CITATION reporter="Wheat." entry_type="standard_key" standard_reporter="WHEAT." page_number="312" id1="85392" id="85392_2" lookup_key="wheat._8_312" alternative_keys="['u.s._21_312', 'buelness#1']" citation_local_level_id="1" start="20" citation_global_level_id="17.003" end="32" volume="8" line="3" >8 Wheat. 312</CITATION>
+
+<CITATION id1="85392" entry_type="party_key" party1="BUEL" line="6" id="85392_4" lookup_key="buelness#1" alternative_keys="['u.s._21_312', 'wheat._8_312']" party2="VAN NESS" citation_local_level_id="2" start="33" party2_short="NESS" end="51" citation_global_level_id="17.001" party1_short="BUEL" >BUEL v. VAN NESS</CITATION>
+
+<NAME start="33" local_name_id="1" end="37" all_names="BUEL" party1_of="85392_4" id="85392_5" >BUEL</NAME>
+
+<NAME start="43" party2_of="85392_4" end="51" all_names="VAN NESS" id="85392_6" local_name_id="2" >VAN NESS</NAME>
+
+<ORGANIZATION start="53" end="83" id="85392_9" >Supreme Court of United States</ORGANIZATION>
+
+<PROFESSION start="91" end="103" id="85392_12" >Mr. Sergeant</PROFESSION>
+
+<LEGAL_ROLE start="113" end="122" id="85392_13" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="128" end="144" id="85392_14" >Attorney General</PROFESSION>
+
+<NAME start="159" local_name_id="3" end="178" all_names="MR JUSTICE JOHNSON" id="85392_15" >Mr. Justice JOHNSON</NAME>
+
+<PROFESSION start="163" end="170" id="85392_16" >Justice</PROFESSION>
+
+<ORGANIZATION start="208" end="213" id="85392_17" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="247" end="256" id="85392_18" >plaintiff</LEGAL_ROLE>
+
+<NAME start="294" local_name_id="4" end="313" all_names="DISTRICT OF VERMONT" id="85392_19" >District of Vermont</NAME>
+
+<ORGANIZATION start="355" end="361" id="85392_20" >office</ORGANIZATION>
+
+<NAME start="431" local_name_id="1" end="435" all_names="BUEL" id="85392_21" >Buel</NAME>
+
+<ORGANIZATION start="443" end="449" id="85392_22" >office</ORGANIZATION>
+
+<LEGAL_ROLE start="506" end="515" id="85392_23" >defendant</LEGAL_ROLE>
+
+<NAME start="530" local_name_id="1" end="534" all_names="BUEL" id="85392_27" >Buel</NAME>
+
+<CITATION id1="Dummy_File_1957" entry_type="party_key" party1="Court. (Jones" line="13" id="85392_24" lookup_key="jonesshore#1" party2="Shore" citation_local_level_id="3" start="630" party2_short="Shore" end="652" citation_global_level_id="2109.001" no_current_file="True" party1_short="Jones" >Court. (Jones v. Shore</CITATION>
+
+<NAME start="630" local_name_id="5" end="643" all_names="COURT (JONES" party1_of="85392_24" id="85392_25" >Court. (Jones</NAME>
+
+<ORGANIZATION start="630" end="635" id="85392_28" >Court</ORGANIZATION>
+
+<NAME start="647" party2_of="85392_24" end="652" all_names="SHORE" id="85392_26" local_name_id="6" >Shore</NAME>
+
+<PROFESSION start="656" end="666" id="85392_29" >Wheat. Rep</PROFESSION>
+
+<ORGANIZATION start="759" end="770" id="85392_30" >State Court</ORGANIZATION>
+
+<NAME start="785" local_name_id="2" end="793" all_names="VAN NESS" id="85392_31" >Van Ness</NAME>
+
+<NAME start="860" local_name_id="7" end="873" all_names="JUDICIARY ACT" id="85392_32" >Judiciary Act</NAME>
+
+<LEGAL_ROLE start="921" end="930" id="85392_33" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1045" end="1054" id="85392_36" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="1057" end="1064" id="85392_37" >counsel</PROFESSION>
+
+<ORGANIZATION start="1176" end="1181" id="85392_38" >Court</ORGANIZATION>
+
+<NAME start="1189" local_name_id="8" end="1194" all_names="STATE" id="85392_39" >State</NAME>
+
+<ORGANIZATION start="1281" end="1286" id="85392_40" >Court</ORGANIZATION>
+
+<ORGANIZATION start="1330" end="1335" id="85392_41" >Court</ORGANIZATION>
+
+<ORGANIZATION start="1382" end="1387" id="85392_42" >Court</ORGANIZATION>
+
+<ORGANIZATION start="1551" end="1575" id="85392_43" >Judge of the State Court</ORGANIZATION>
+
+<ORGANIZATION start="1582" end="1629" id="85392_44" >Judge of the Supreme Court of the United States</ORGANIZATION>
+
+<ORGANIZATION start="1713" end="1718" id="85392_45" >Court</ORGANIZATION>
+
+<ORGANIZATION start="1733" end="1739" id="85392_46" >office</ORGANIZATION>
+
+<ORGANIZATION start="1869" end="1893" id="85392_48" >Circuit Court of Vermont</ORGANIZATION>
+
+<PROFESSION start="1920" end="1925" id="85392_49" >clerk</PROFESSION>
+
+<DATE start="2259" end="2263" id="85392_47" >1792</DATE>
+
+<ORGANIZATION start="2341" end="2378" id="85392_50" >Supreme Court of the State of Vermont</ORGANIZATION>
+
+<ORGANIZATION start="2394" end="2399" id="85392_51" >Court</ORGANIZATION>
+
+<NAME start="2407" local_name_id="8" end="2412" all_names="STATE" id="85392_52" >State</NAME>
+
+<ORGANIZATION start="2498" end="2503" id="85392_53" >Court</ORGANIZATION>
+
+<ORGANIZATION start="2669" end="2674" id="85392_54" >Court</ORGANIZATION>
+
+<PROFESSION start="2892" end="2897" id="85392_55" >Judge</PROFESSION>
+
+<ORGANIZATION start="2999" end="3004" id="85392_56" >Court</ORGANIZATION>
+
+<ORGANIZATION start="3224" end="3229" id="85392_57" >Court</ORGANIZATION>
+
+<ORGANIZATION start="3288" end="3293" id="85392_59" >Court</ORGANIZATION>
+
+<DATE start="3349" end="3353" id="85392_58" >1789</DATE>
+
+<NAME start="4142" local_name_id="7" end="4155" all_names="JUDICIARY ACT" id="85392_61" >Judiciary Act</NAME>
+
+<DATE start="4159" end="4163" id="85392_60" >1789</DATE>
+
+<ORGANIZATION start="4421" end="4455" id="85392_62" >Supreme Court of the United States</ORGANIZATION>
+
+<ORGANIZATION start="4668" end="4681" id="85392_63" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="5204" end="5209" id="85392_64" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="5857" end="5866" id="85392_65" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="5869" end="5876" id="85392_66" >counsel</PROFESSION>
+
+<NAME start="5878" local_name_id="9" end="5887" all_names="QUESTIONS" id="85392_67" >Questions</NAME>
+
+<PROFESSION start="6239" end="6250" id="85392_68" >Legislature</PROFESSION>
+
+<LEGAL_ROLE start="6310" end="6319" id="85392_69" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="6322" end="6329" id="85392_70" >counsel</PROFESSION>
+
+<ORGANIZATION start="6360" end="6371" id="85392_71" >State Court</ORGANIZATION>
+
+<NAME start="6432" local_name_id="10" end="6445" all_names="UNITED STATES	JUDICIARY ACT OF THE UNITED STATES" id="85392_72" >United States</NAME>
+
+<NAME start="6496" local_name_id="7" end="6509" all_names="JUDICIARY ACT" id="85392_73" >Judiciary Act</NAME>
+
+<NAME start="6581" local_name_id="11" end="6589" all_names="CONGRESS" id="85392_74" >Congress</NAME>
+
+<CITATION id1="Dummy_File_1958" entry_type="party_key" party1="Matthews" line="27" id="85392_76" lookup_key="matthewszane#1" party2="Zane" citation_local_level_id="4" start="6649" party2_short="Zane" end="6665" citation_global_level_id="2110.001" no_current_file="True" party1_short="Matthews" >Matthews v. Zane</CITATION>
+
+<NAME start="6649" local_name_id="12" end="6657" all_names="MATTHEWS" party1_of="85392_76" id="85392_77" >Matthews</NAME>
+
+<NAME start="6661" party2_of="85392_76" end="6665" all_names="ZANE" id="85392_78" local_name_id="13" >Zane</NAME>
+
+<CITATION reporter="Cranch" entry_type="standard_key" standard_reporter="CRANCH" page_number="382" id1="Dummy_File_1959" id="85392_75" lookup_key="cranch_4_382" citation_local_level_id="5" start="6668" citation_global_level_id="2111.001" end="6687" volume="4" no_current_file="True" line="27" >4 Cranch's Rep. 382</CITATION>
+
+<PROFESSION start="6679" end="6682" id="85392_79" >Rep</PROFESSION>
+
+<ORGANIZATION start="6898" end="6909" id="85392_80" >State Court</ORGANIZATION>
+
+<NAME start="6962" local_name_id="10" end="6975" all_names="UNITED STATES	JUDICIARY ACT OF THE UNITED STATES" id="85392_81" >United States</NAME>
+
+<NAME start="6978" local_name_id="1" end="6982" all_names="BUEL" id="85392_82" >Buel</NAME>
+
+<NAME start="7036" local_name_id="14" end="7054" all_names="UNITED STATES NOR" id="85392_83" >United States. Nor</NAME>
+
+<ORGANIZATION start="7081" end="7092" id="85392_84" >State Court</ORGANIZATION>
+
+<NAME start="7127" local_name_id="8" end="7132" all_names="STATE" id="85392_85" >State</NAME>
+
+<LEGAL_ROLE start="7142" end="7151" id="85392_86" >defendant</LEGAL_ROLE>
+
+<NAME start="7177" local_name_id="10" end="7211" all_names="UNITED STATES	JUDICIARY ACT OF THE UNITED STATES" id="85392_87" >Judiciary Act of the United States</NAME>
+
+<ORGANIZATION start="7251" end="7283" plural="True" id="85392_88" >Courts of the United States. Had</ORGANIZATION>
+
+<PROFESSION start="7366" end="7377" id="85392_89" >Legislature</PROFESSION>
+
+<ORGANIZATION start="7417" end="7422" id="85392_90" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="7490" end="7499" id="85392_91" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="7551" end="7560" id="85392_92" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="7570" end="7581" id="85392_93" >State Court</ORGANIZATION>
+
+<NAME start="7635" local_name_id="10" end="7648" all_names="UNITED STATES	JUDICIARY ACT OF THE UNITED STATES" id="85392_94" >United States</NAME>
+
+<NAME start="7713" local_name_id="11" end="7721" all_names="CONGRESS" id="85392_95" >Congress</NAME>
+
+<ORGANIZATION start="7817" end="7822" id="85392_96" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="7860" end="7869" id="85392_99" >defendant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="7884" end="7893" id="85392_100" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="8061" end="8068" id="85392_101" >officer</PROFESSION>
+
+<LEGAL_ROLE start="8206" end="8215" id="85392_102" >plaintiff</LEGAL_ROLE>
+
+<FAMILY start="8408" end="8416" id="85392_103" >relative</FAMILY>
+
+<NAME start="8472" local_name_id="15" end="8479" all_names="PECKHAM" id="85392_104" >Peckham</NAME>
+
+<LEGAL_ROLE start="8530" end="8539" id="85392_105" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="8668" end="8677" id="85392_106" >plaintiff</LEGAL_ROLE>
+
+<NAME start="8881" local_name_id="16" end="8895" all_names="COLLECTION LAW" id="85392_107" >Collection Law</NAME>
+
+<PROFESSION start="8908" end="8915" id="85392_108" >officer</PROFESSION>
+
+<NAME start="8940" local_name_id="4" end="8959" all_names="DISTRICT OF VERMONT" id="85392_109" >District of Vermont</NAME>
+
+<NAME start="9072" local_name_id="17" end="9080" all_names="DISTRICT" id="85392_110" >District</NAME>
+
+<PROFESSION start="9277" end="9301" id="85392_111" >officer for the District</PROFESSION>
+
+<LEGAL_ROLE start="9425" end="9434" id="85392_112" >plaintiff</LEGAL_ROLE>
+
+<RELATION party1_string="BUEL" party1="85392_5" theme_string="BUEL  v.  VAN NESS" id="85392_7" relation_type="asymmetric" theme="85392_4" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="VAN NESS" theme_string="BUEL  v.  VAN NESS" id="85392_8" relation_type="asymmetric" party2="85392_6" theme="85392_4" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="BUEL  v.  VAN NESS" gram_type="multi_line" standard_case="85392_1" relation_type="equivalence" id="85392_10" X_vs_Y="85392_4" standard_case_string="21 U.S. 312 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="BUEL  v.  VAN NESS" gram_type="multi_line" standard_case="85392_2" relation_type="equivalence" id="85392_11" X_vs_Y="85392_4" standard_case_string="8 Wheat. 312" ></RELATION>
+
+<RELATION party1_string="Court. (Jones" party1="85392_25" theme_string="Court. (Jones v. Shore" id="85392_34" relation_type="asymmetric" theme="85392_24" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Shore" theme_string="Court. (Jones v. Shore" id="85392_35" relation_type="asymmetric" party2="85392_26" theme="85392_24" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Matthews" party1="85392_77" theme_string="Matthews v. Zane" id="85392_97" relation_type="asymmetric" theme="85392_76" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Zane" theme_string="Matthews v. Zane" id="85392_98" relation_type="asymmetric" party2="85392_78" theme="85392_76" gram_type="infix" ></RELATION>
+

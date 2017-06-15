@@ -1,0 +1,312 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="570" id1="87049" id="87049_1" lookup_key="u.s._59_570" alternative_keys="['heirnturner#1', 'heirnjoseph#1', 'how._18_570']" citation_local_level_id="0" start="1" citation_global_level_id="72.002" end="19" volume="59" year="1855" line="2" >59 U.S. 570 (1855)</CITATION>
+
+<DATE start="14" citation_global_level_id="72.002" end="18" citation_local_level_id="0" id="87049_2" >1855</DATE>
+
+<CITATION reporter="How." entry_type="standard_key" standard_reporter="HOW." page_number="570" id1="87049" id="87049_4" lookup_key="how._18_570" alternative_keys="['u.s._59_570', 'heirnturner#1', 'heirnjoseph#1']" citation_local_level_id="1" start="20" citation_global_level_id="72.003" end="31" volume="18" line="3" >18 How. 570</CITATION>
+
+<CITATION id1="87049" entry_type="party_key" party1="THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER," line="8" id="87049_19" party2_short="JOSEPH" alternative_keys="['heirnturner#1', 'how._18_570', 'u.s._59_570']" party2="JOSEPH" citation_local_level_id="2" start="32" lookup_key="heirnjoseph#1" end="113" party1_role="appellant" party1_short="HEIRN" citation_global_level_id="72.005" >THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT, v. JOSEPH</CITATION>
+
+<NAME start="32" local_name_id="1" end="90" all_names="THE STEAMER OREGON ROGER A HEIRN MASTER AND PART-OWNER	AND FRANCIS ROCCA THE STEAMER OREGON ROGER A HEIRN MASTER AND PART-OWNER" party1_of="87049_19" id="87049_21" >THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER,</NAME>
+
+<PROFESSION start="68" end="89" id="87049_27" >MASTER AND PART-OWNER</PROFESSION>
+
+<LEGAL_ROLE start="91" end="100" party="party1" id="87049_23" >APPELLANT</LEGAL_ROLE>
+
+<NAME start="107" party2_of="87049_19" end="113" all_names="JOSEPH" id="87049_22" local_name_id="2" >JOSEPH</NAME>
+
+<CITATION id1="87049" entry_type="party_key" party1="AND FRANCIS ROCCA. THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER," line="8" id="87049_20" party2_short="TURNER" alternative_keys="['heirnjoseph#1', 'how._18_570', 'u.s._59_570']" party2="ROBERT TURNER AND WILLIAM TWIFORD" citation_local_level_id="3" start="114" lookup_key="heirnturner#1" end="241" party1_role="appellant" party1_short="HEIRN" citation_global_level_id="72.004" >AND FRANCIS ROCCA. THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT, v. ROBERT TURNER AND WILLIAM TWIFORD</CITATION>
+
+<NAME start="114" local_name_id="1" end="191" all_names="THE STEAMER OREGON ROGER A HEIRN MASTER AND PART-OWNER	AND FRANCIS ROCCA THE STEAMER OREGON ROGER A HEIRN MASTER AND PART-OWNER" party1_of="87049_20" id="87049_24" >AND FRANCIS ROCCA. THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER,</NAME>
+
+<LEGAL_ROLE start="192" end="201" party="party1" id="87049_26" >APPELLANT</LEGAL_ROLE>
+
+<NAME start="208" party2_of="87049_20" end="241" all_names="ROBERT TURNER AND WILLIAM TWIFORD" id="87049_25" local_name_id="3" >ROBERT TURNER AND WILLIAM TWIFORD</NAME>
+
+<ORGANIZATION start="243" end="273" id="87049_32" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="306" local_name_id="4" end="317" all_names="MR JOHNSON" id="87049_37" >Mr. Johnson</NAME>
+
+<NAME start="347" local_name_id="5" end="357" all_names="MR NELSON" id="87049_38" >Mr. Nelson</NAME>
+
+<LEGAL_ROLE start="367" end="377" plural="True" id="87049_39" >appellants</LEGAL_ROLE>
+
+<NAME start="386" local_name_id="6" end="398" all_names="MR PHILLIPS" id="87049_40" >Mr. Phillips</NAME>
+
+<LEGAL_ROLE start="408" end="416" party="party2" id="87049_41" >appellee</LEGAL_ROLE>
+
+<NAME start="418" local_name_id="7" end="436" all_names="MR JUSTICE MCLEAN" id="87049_42" >Mr. Justice McLEAN</NAME>
+
+<PROFESSION start="422" end="429" id="87049_43" >Justice</PROFESSION>
+
+<ORGANIZATION start="466" end="471" id="87049_44" >court</ORGANIZATION>
+
+<ORGANIZATION start="522" end="527" id="87049_45" >court</ORGANIZATION>
+
+<NAME start="557" local_name_id="8" end="564" all_names="ALABAMA" id="87049_46" >Alabama</NAME>
+
+<ORGANIZATION start="625" end="630" id="87049_48" >court</ORGANIZATION>
+
+<NAME start="691" local_name_id="9" end="704" all_names="WILLIAM OZMAN" id="87049_49" >William Ozman</NAME>
+
+<NAME start="721" local_name_id="10" end="727" all_names="OREGON" id="87049_50" >Oregon</NAME>
+
+<NAME start="743" local_name_id="11" end="749" all_names="MOBILE	NEW ORLEANS TO MOBILE" id="87049_51" >Mobile</NAME>
+
+<DATE start="765" end="780" id="87049_47" >September, 1849</DATE>
+
+<ORGANIZATION start="831" end="836" id="87049_52" >board</ORGANIZATION>
+
+<LEGAL_ROLE start="877" end="886" party="party2" plural="True" id="87049_53" >appellees</LEGAL_ROLE>
+
+<LEGAL_ROLE start="958" end="967" party="party2" plural="True" id="87049_54" >appellees</LEGAL_ROLE>
+
+<NAME start="1172" local_name_id="11" end="1178" all_names="MOBILE	NEW ORLEANS TO MOBILE" id="87049_55" >Mobile</NAME>
+
+<NAME start="1364" local_name_id="10" end="1370" all_names="OREGON" id="87049_56" >Oregon</NAME>
+
+<NAME start="1395" local_name_id="11" end="1416" all_names="MOBILE	NEW ORLEANS TO MOBILE" id="87049_57" >New Orleans to Mobile</NAME>
+
+<ORGANIZATION start="1748" end="1764" id="87049_58" >board The Oregon</ORGANIZATION>
+
+<ORGANIZATION start="1907" end="1912" id="87049_59" >board</ORGANIZATION>
+
+<PROFESSION start="2361" end="2366" id="87049_60" >pilot</PROFESSION>
+
+<NAME start="2811" local_name_id="10" end="2817" all_names="OREGON" id="87049_61" >Oregon</NAME>
+
+<NAME start="3542" local_name_id="10" end="3548" all_names="OREGON" id="87049_62" >Oregon</NAME>
+
+<CITATION standard_reporter="HOW." id1="Dummy_File_323" entry_type="party_key" party1="St. John" line="20" id="87049_64" lookup_key="johnpaine#1" alternative_keys="['how._10_557']" party2="Paine" citation_local_level_id="4" start="3682" party2_short="Paine" end="3699" citation_global_level_id="475.003" volume="10" no_current_file="True" page_number="557" party1_short="John" >St. John v. Paine</CITATION>
+
+<NAME start="3682" local_name_id="12" end="3690" all_names="ST JOHN" party1_of="87049_64" id="87049_65" >St. John</NAME>
+
+<NAME start="3694" party2_of="87049_64" end="3699" all_names="PAINE" id="87049_66" local_name_id="13" >Paine</NAME>
+
+<CITATION reporter="How." entry_type="standard_key" standard_reporter="HOW." page_number="557" id1="Dummy_File_323" id="87049_63" lookup_key="how._10_557" alternative_keys="['johnpaine#1']" citation_local_level_id="5" start="3701" citation_global_level_id="475.003" end="3712" volume="10" no_current_file="True" line="20" >10 How. 557</CITATION>
+
+<ORGANIZATION start="3719" end="3724" id="87049_67" >court</ORGANIZATION>
+
+<PROFESSION start="3736" end="3743" id="87049_68" >general</PROFESSION>
+
+<PROFESSION start="4209" end="4216" plural="True" id="87049_69" >masters</PROFESSION>
+
+<PROFESSION start="4650" end="4665" plural="True" id="87049_70" >Trinity masters</PROFESSION>
+
+<ORGANIZATION start="4690" end="4695" id="87049_71" >court</ORGANIZATION>
+
+<ORGANIZATION start="5103" end="5108" id="87049_75" >court</ORGANIZATION>
+
+<NAME start="5417" local_name_id="10" end="5423" all_names="OREGON" id="87049_76" >Oregon</NAME>
+
+<ORGANIZATION start="5469" end="5474" id="87049_77" >court</ORGANIZATION>
+
+<NAME start="5501" local_name_id="14" end="5542" all_names="MR JUSTICE CATRON AND MR JUSTICE DANIEL	MR JUSTICE DANIEL" id="87049_78" >Mr. Justice CATRON and Mr. Justice DANIEL</NAME>
+
+<PROFESSION start="5528" end="5535" id="87049_79" >Justice</PROFESSION>
+
+<NAME start="5554" local_name_id="14" end="5572" all_names="MR JUSTICE CATRON AND MR JUSTICE DANIEL	MR JUSTICE DANIEL" id="87049_80" >Mr. Justice DANIEL</NAME>
+
+<PROFESSION start="5558" end="5565" id="87049_81" >Justice</PROFESSION>
+
+<ORGANIZATION start="5629" end="5634" id="87049_82" >court</ORGANIZATION>
+
+<NAME start="5887" local_name_id="15" end="5900" all_names="UNITED STATES	STATES	THE UNITED STATES" id="87049_83" >United States</NAME>
+
+<ORGANIZATION start="5936" end="5941" id="87049_84" >court</ORGANIZATION>
+
+<ORGANIZATION start="5965" end="5971" plural="True" id="87049_85" >courts</ORGANIZATION>
+
+<ORGANIZATION start="6224" end="6229" id="87049_86" >court</ORGANIZATION>
+
+<PROFESSION start="6244" end="6250" plural="True" id="87049_87" >judges</PROFESSION>
+
+<ORGANIZATION start="6394" end="6399" id="87049_88" >court</ORGANIZATION>
+
+<ORGANIZATION start="6455" end="6460" id="87049_89" >court</ORGANIZATION>
+
+<ORGANIZATION start="6700" end="6705" id="87049_90" >court</ORGANIZATION>
+
+<PROFESSION start="6815" end="6840" plural="True" id="87049_91" >ministers and consuls. In</PROFESSION>
+
+<ORGANIZATION start="6913" end="6918" id="87049_92" >court</ORGANIZATION>
+
+<ORGANIZATION start="7148" end="7153" id="87049_93" >court</ORGANIZATION>
+
+<ORGANIZATION start="7277" end="7282" id="87049_94" >court</ORGANIZATION>
+
+<ORGANIZATION start="7313" end="7319" id="87049_95" >agency</ORGANIZATION>
+
+<ORGANIZATION start="7404" end="7409" id="87049_96" >court</ORGANIZATION>
+
+<ORGANIZATION start="7929" end="7941" id="87049_97" >organization</ORGANIZATION>
+
+<ORGANIZATION start="7949" end="7955" plural="True" id="87049_98" >courts</ORGANIZATION>
+
+<PROFESSION start="8020" end="8031" id="87049_99" >legislature</PROFESSION>
+
+<ORGANIZATION start="8080" end="8086" plural="True" id="87049_100" >courts</ORGANIZATION>
+
+<NAME start="8258" local_name_id="16" end="8261" all_names="ACT" id="87049_101" >Act</NAME>
+
+<ORGANIZATION start="8288" end="8315" plural="True" id="87049_102" >courts of the United States</ORGANIZATION>
+
+<ORGANIZATION start="8448" end="8453" id="87049_103" >court</ORGANIZATION>
+
+<ORGANIZATION start="8513" end="8518" id="87049_104" >court</ORGANIZATION>
+
+<ORGANIZATION start="9097" end="9102" id="87049_105" >court</ORGANIZATION>
+
+<NAME start="9104" local_name_id="17" end="9107" all_names="CAN" id="87049_106" >Can</NAME>
+
+<NAME start="9578" local_name_id="18" end="9585" all_names="TURNING" id="87049_108" >Turning</NAME>
+
+<ORGANIZATION start="9626" end="9635" plural="True" id="87049_109" >divisions</ORGANIZATION>
+
+<ORGANIZATION start="9686" end="9691" id="87049_110" >court</ORGANIZATION>
+
+<NAME start="9737" local_name_id="16" end="9740" all_names="ACT" id="87049_111" >Act</NAME>
+
+<DATE start="9744" end="9758" id="87049_107" >April 29, 1802</DATE>
+
+<NAME start="9767" local_name_id="19" end="9782" all_names="STATS AT LARGE" id="87049_112" >Stats. at Large</NAME>
+
+<ORGANIZATION start="9846" end="9851" id="87049_113" >court</ORGANIZATION>
+
+<PROFESSION start="9884" end="9890" plural="True" id="87049_114" >judges</PROFESSION>
+
+<PROFESSION start="10031" end="10038" id="87049_115" >counsel</PROFESSION>
+
+<PROFESSION start="10077" end="10083" plural="True" id="87049_116" >judges</PROFESSION>
+
+<ORGANIZATION start="10121" end="10126" id="87049_117" >court</ORGANIZATION>
+
+<ORGANIZATION start="10142" end="10147" id="87049_118" >court</ORGANIZATION>
+
+<ORGANIZATION start="10207" end="10215" id="87049_119" >division</ORGANIZATION>
+
+<ORGANIZATION start="10346" end="10351" id="87049_120" >court</ORGANIZATION>
+
+<PROFESSION start="10407" end="10413" plural="True" id="87049_121" >judges</PROFESSION>
+
+<PROFESSION start="10478" end="10484" plural="True" id="87049_122" >judges</PROFESSION>
+
+<NAME start="11040" local_name_id="20" end="11043" all_names="LET" id="87049_123" >Let</NAME>
+
+<ORGANIZATION start="11182" end="11187" id="87049_124" >court</ORGANIZATION>
+
+<NAME start="11240" local_name_id="15" end="11246" all_names="UNITED STATES	STATES	THE UNITED STATES" id="87049_125" >States</NAME>
+
+<ORGANIZATION start="11255" end="11260" id="87049_126" >Union</ORGANIZATION>
+
+<NAME start="11433" local_name_id="21" end="11443" all_names="STATES IN" id="87049_127" >States. In</NAME>
+
+<NAME start="11471" local_name_id="15" end="11477" all_names="UNITED STATES	STATES	THE UNITED STATES" id="87049_128" >States</NAME>
+
+<ORGANIZATION start="11525" end="11530" id="87049_129" >court</ORGANIZATION>
+
+<ORGANIZATION start="11554" end="11559" id="87049_130" >court</ORGANIZATION>
+
+<ORGANIZATION start="11620" end="11625" id="87049_131" >court</ORGANIZATION>
+
+<ORGANIZATION start="11684" end="11690" plural="True" id="87049_132" >courts</ORGANIZATION>
+
+<ORGANIZATION start="11729" end="11734" id="87049_133" >court</ORGANIZATION>
+
+<ORGANIZATION start="11754" end="11759" id="87049_134" >court</ORGANIZATION>
+
+<NAME start="11789" local_name_id="15" end="11795" all_names="UNITED STATES	STATES	THE UNITED STATES" id="87049_135" >States</NAME>
+
+<ORGANIZATION start="11935" end="11941" plural="True" id="87049_136" >courts</ORGANIZATION>
+
+<ORGANIZATION start="12232" end="12237" id="87049_137" >court</ORGANIZATION>
+
+<ORGANIZATION start="12419" end="12433" id="87049_138" >administration</ORGANIZATION>
+
+<ORGANIZATION start="12460" end="12466" plural="True" id="87049_139" >courts</ORGANIZATION>
+
+<ORGANIZATION start="12598" end="12603" id="87049_140" >court</ORGANIZATION>
+
+<NAME start="12605" local_name_id="22" end="12607" all_names="IT" id="87049_141" >It</NAME>
+
+<ORGANIZATION start="12984" end="12990" plural="True" id="87049_142" >courts</ORGANIZATION>
+
+<PROFESSION start="13398" end="13405" id="87049_157" >justice</PROFESSION>
+
+<CITATION id1="Dummy_File_324" entry_type="party_key" party1="White" line="37" id="87049_145" lookup_key="whiteturk#1" party2="Turk et al" citation_local_level_id="6" start="13994" party2_short="Turk" end="14013" citation_global_level_id="476.001" no_current_file="True" party1_short="White" >White v. Turk et al</CITATION>
+
+<NAME start="13994" local_name_id="23" end="13999" all_names="WHITE" party1_of="87049_145" id="87049_149" >White</NAME>
+
+<NAME start="14003" party2_of="87049_145" end="14013" all_names="TURK" id="87049_150" local_name_id="24" >Turk et al</NAME>
+
+<NAME start="14018" local_name_id="25" end="14021" all_names="PET" id="87049_158" >Pet</NAME>
+
+<CITATION id1="Dummy_File_325" entry_type="party_key" party1="The United States" line="37" id="87049_146" lookup_key="statesstone#1" party2="Stone" citation_local_level_id="7" start="14031" party2_short="Stone" end="14057" citation_global_level_id="477.001" no_current_file="True" party1_short="States" >The United States v. Stone</CITATION>
+
+<NAME start="14031" local_name_id="15" end="14048" all_names="UNITED STATES	STATES	THE UNITED STATES" party1_of="87049_146" id="87049_151" >The United States</NAME>
+
+<NAME start="14052" party2_of="87049_146" end="14057" all_names="STONE" id="87049_152" local_name_id="26" >Stone</NAME>
+
+<NAME start="14062" local_name_id="25" end="14065" all_names="PET" id="87049_159" >Pet</NAME>
+
+<CITATION standard_reporter="HOW." id1="Dummy_File_326" entry_type="party_key" party1="Nesmith" line="37" id="87049_147" lookup_key="nesmithsheldon#1" alternative_keys="['how._6_41']" party2="Sheldon et al" citation_local_level_id="8" start="14075" party2_short="Sheldon" end="14099" citation_global_level_id="478.003" volume="6" no_current_file="True" page_number="41" party1_short="Nesmith" >Nesmith v. Sheldon et al</CITATION>
+
+<NAME start="14075" local_name_id="27" end="14082" all_names="NESMITH" party1_of="87049_147" id="87049_153" >Nesmith</NAME>
+
+<NAME start="14086" party2_of="87049_147" end="14099" all_names="SHELDON" id="87049_154" local_name_id="28" >Sheldon et al</NAME>
+
+<CITATION reporter="How." entry_type="standard_key" standard_reporter="HOW." page_number="41" id1="Dummy_File_326" id="87049_143" lookup_key="how._6_41" alternative_keys="['nesmithsheldon#1']" citation_local_level_id="9" start="14101" citation_global_level_id="478.003" end="14110" volume="6" no_current_file="True" line="37" >6 How. 41</CITATION>
+
+<CITATION standard_reporter="HOW." id1="Dummy_File_327" entry_type="party_key" party1="Webster" line="37" id="87049_148" lookup_key="webstercooper#1" alternative_keys="['how._10_54']" party2="Cooper" citation_local_level_id="10" start="14119" party2_short="Cooper" end="14136" citation_global_level_id="479.003" volume="10" no_current_file="True" page_number="54" party1_short="Webster" >Webster v. Cooper</CITATION>
+
+<NAME start="14119" local_name_id="29" end="14126" all_names="WEBSTER" party1_of="87049_148" id="87049_155" >Webster</NAME>
+
+<NAME start="14130" party2_of="87049_148" end="14136" all_names="COOPER" id="87049_156" local_name_id="30" >Cooper</NAME>
+
+<CITATION reporter="How." entry_type="standard_key" standard_reporter="HOW." page_number="54" id1="Dummy_File_327" id="87049_144" lookup_key="how._10_54" alternative_keys="['webstercooper#1']" citation_local_level_id="11" start="14138" citation_global_level_id="479.003" end="14148" volume="10" no_current_file="True" line="37" >10 How. 54</CITATION>
+
+<PROFESSION start="14726" end="14737" plural="True" id="87049_170" >governments</PROFESSION>
+
+<RELATION at_date_string="1855" theme_string="59 U.S. 570 (1855)" id="87049_3" relation_type="asymmetric" theme="87049_1" at_date="87049_2" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER," party1="87049_21" theme_string="THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT,  v.  JOSEPH" id="87049_28" relation_type="asymmetric" theme="87049_19" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="JOSEPH" theme_string="THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT,  v.  JOSEPH" id="87049_29" relation_type="asymmetric" party2="87049_22" theme="87049_19" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="AND FRANCIS ROCCA. THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER," party1="87049_24" theme_string="AND FRANCIS ROCCA. THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT,  v.  ROBERT TURNER AND WILLIAM TWIFORD" id="87049_30" relation_type="asymmetric" theme="87049_20" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="ROBERT TURNER AND WILLIAM TWIFORD" theme_string="AND FRANCIS ROCCA. THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT,  v.  ROBERT TURNER AND WILLIAM TWIFORD" id="87049_31" relation_type="asymmetric" party2="87049_25" theme="87049_20" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="AND FRANCIS ROCCA. THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT,  v.  ROBERT TURNER AND WILLIAM TWIFORD" gram_type="multi_line" standard_case="87049_1" relation_type="equivalence" id="87049_35" X_vs_Y="87049_20" standard_case_string="59 U.S. 570 (1855)" ></RELATION>
+
+<RELATION X_vs_Y_string="THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT,  v.  JOSEPH" gram_type="multi_line" standard_case="87049_1" relation_type="equivalence" id="87049_33" X_vs_Y="87049_19" standard_case_string="59 U.S. 570 (1855)" ></RELATION>
+
+<RELATION X_vs_Y_string="AND FRANCIS ROCCA. THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT,  v.  ROBERT TURNER AND WILLIAM TWIFORD" gram_type="multi_line" standard_case="87049_4" relation_type="equivalence" id="87049_36" X_vs_Y="87049_20" standard_case_string="18 How. 570" ></RELATION>
+
+<RELATION X_vs_Y_string="THE STEAMER OREGON, ROGER A. HEIRN, MASTER AND PART-OWNER, APPELLANT,  v.  JOSEPH" gram_type="multi_line" standard_case="87049_4" relation_type="equivalence" id="87049_34" X_vs_Y="87049_19" standard_case_string="18 How. 570" ></RELATION>
+
+<RELATION X_vs_Y_string="St. John v. Paine" gram_type="apposition" standard_case="87049_63" relation_type="equivalence" id="87049_74" X_vs_Y="87049_64" standard_case_string="10 How. 557" ></RELATION>
+
+<RELATION party1_string="St. John" party1="87049_65" theme_string="St. John v. Paine" id="87049_72" relation_type="asymmetric" theme="87049_64" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Paine" theme_string="St. John v. Paine" id="87049_73" relation_type="asymmetric" party2="87049_66" theme="87049_64" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="White" party1="87049_149" theme_string="White v. Turk et al" id="87049_160" relation_type="asymmetric" theme="87049_145" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Turk et al" theme_string="White v. Turk et al" id="87049_161" relation_type="asymmetric" party2="87049_150" theme="87049_145" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="The United States" party1="87049_151" theme_string="The United States v. Stone" id="87049_162" relation_type="asymmetric" theme="87049_146" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Stone" theme_string="The United States v. Stone" id="87049_163" relation_type="asymmetric" party2="87049_152" theme="87049_146" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Nesmith v. Sheldon et al" gram_type="apposition" standard_case="87049_143" relation_type="equivalence" id="87049_166" X_vs_Y="87049_147" standard_case_string="6 How. 41" ></RELATION>
+
+<RELATION party1_string="Nesmith" party1="87049_153" theme_string="Nesmith v. Sheldon et al" id="87049_164" relation_type="asymmetric" theme="87049_147" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Sheldon et al" theme_string="Nesmith v. Sheldon et al" id="87049_165" relation_type="asymmetric" party2="87049_154" theme="87049_147" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Webster v. Cooper" gram_type="apposition" standard_case="87049_144" relation_type="equivalence" id="87049_169" X_vs_Y="87049_148" standard_case_string="10 How. 54" ></RELATION>
+
+<RELATION party1_string="Webster" party1="87049_155" theme_string="Webster v. Cooper" id="87049_167" relation_type="asymmetric" theme="87049_148" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Cooper" theme_string="Webster v. Cooper" id="87049_168" relation_type="asymmetric" party2="87049_156" theme="87049_148" gram_type="infix" ></RELATION>
+

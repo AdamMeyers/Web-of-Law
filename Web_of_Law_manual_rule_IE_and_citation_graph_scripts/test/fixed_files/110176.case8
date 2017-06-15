@@ -1,0 +1,814 @@
+<citation id="110176_1" entry_type="standard_case" start="1" end="20" reporter="U.S." standard_reporter="U.S." volume="444" page_number="437" year="1980" line="2">444 U.S. 437 (1980)</citation>
+<date id="110176_2" start="15" end="19">1980</date>
+<citation id="110176_5" entry_type="case_X_vs_Y" start="21" end="86" party1="ESTES ET AL." party2="METROPOLITAN BRANCHES OF THE DALLAS NAACP ET AL" line="5">ESTES ET AL.  v.  METROPOLITAN BRANCHES OF THE DALLAS NAACP ET AL</citation>
+<NAME id="110176_6" start="21" end="33" party1_of="110176_5">ESTES ET AL.</NAME>
+<NAME id="110176_7" start="39" end="86" party2_of="110176_5">METROPOLITAN BRANCHES OF THE DALLAS NAACP ET AL</NAME>
+<docket id="110176_10" entry_type="docket" start="92" end="98" line="6">78-253</docket>
+<ORGANIZATION id="110176_11" start="100" end="130">Supreme Court of United States</ORGANIZATION>
+<date id="110176_12" start="139" end="155">October 29, 1979</date>
+<NAME id="110176_16" start="157" end="164">Decided</NAME>
+<date id="110176_15" start="165" end="181">January 21, 1980</date>
+<ORGANIZATION id="110176_17" start="186" end="256">CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT</ORGANIZATION>
+<NAME id="110176_21" start="258" end="272">Warren Whitham</NAME>
+<LEGAL_ROLE id="110176_22" start="294" end="305" plural="True">petitioners</LEGAL_ROLE>
+<docket id="110176_18" entry_type="docket" start="313" end="319" line="11">78-253</docket>
+<NAME id="110176_23" start="347" end="380">Mark Martin. Robert L. Blumenthal</NAME>
+<LEGAL_ROLE id="110176_24" start="402" end="413" plural="True">petitioners</LEGAL_ROLE>
+<docket id="110176_19" entry_type="docket" start="421" end="427" line="11">78-282</docket>
+<NAME id="110176_25" start="456" end="491">Robert H. Mow, Jr. James A. Donohoe</NAME>
+<LEGAL_ROLE id="110176_26" start="531" end="542" plural="True">petitioners</LEGAL_ROLE>
+<docket id="110176_20" entry_type="docket" start="550" end="556" line="11">78-283</docket>
+<NAME id="110176_27" start="561" end="577">Brice Cunningham</NAME>
+<LEGAL_ROLE id="110176_28" start="599" end="610" plural="True">respondents</LEGAL_ROLE>
+<NAME id="110176_29" start="611" end="652">Metropolitan Branches of the Dallas NAACP</NAME>
+<NAME id="110176_30" start="687" end="705">Nathaniel R. Jones</NAME>
+<NAME id="110176_31" start="707" end="721">Merle W. Loper</NAME>
+<NAME id="110176_32" start="727" end="741">Louis R. Lucas</NAME>
+<NAME id="110176_33" start="743" end="765">Edward B. Cloutman III</NAME>
+<LEGAL_ROLE id="110176_34" start="787" end="798" plural="True">respondents</LEGAL_ROLE>
+<NAME id="110176_35" start="799" end="804">Tasby</NAME>
+<NAME id="110176_36" start="839" end="853">Jack Greenberg</NAME>
+<NAME id="110176_37" start="855" end="874">James M. Nabrit III</NAME>
+<NAME id="110176_38" start="880" end="893">Bill Lann Lee</NAME>
+<PROFESSION id="110176_41" start="895" end="919">Deputy Solicitor General</PROFESSION>
+<NAME id="110176_42" start="920" end="927">Wallace</NAME>
+<NAME id="110176_43" start="953" end="966">United States</NAME>
+<PROFESSION id="110176_44" start="1030" end="1047">Solicitor General</PROFESSION>
+<NAME id="110176_45" start="1048" end="1054">McCree</NAME>
+<PROFESSION id="110176_46" start="1056" end="1082">Assistant Attorney General</PROFESSION>
+<NAME id="110176_47" start="1083" end="1087">Days</NAME>
+<NAME id="110176_48" start="1089" end="1103">Sara Sun Beale</NAME>
+<NAME id="110176_49" start="1105" end="1123">Brian K. Landsberg</NAME>
+<NAME id="110176_50" start="1129" end="1148">Mildred M. Matesich</NAME>
+<NAME id="110176_56" start="1157" end="1163">CURIAM</NAME>
+<NAME id="110176_57" start="1234" end="1236">MR</NAME>
+<NAME id="110176_58" start="1317" end="1319">MR</NAME>
+<ORGANIZATION id="110176_59" start="1415" end="1420">Court</ORGANIZATION>
+<ORGANIZATION id="110176_60" start="1526" end="1542">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_61" start="1581" end="1595">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_62" start="1620" end="1625">court</ORGANIZATION>
+<NAME id="110176_63" start="1712" end="1718">Dallas</NAME>
+<ORGANIZATION id="110176_64" start="1726" end="1733" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_65" start="1739" end="1755">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_66" start="1775" end="1780">court</ORGANIZATION>
+<ORGANIZATION id="110176_67" start="1950" end="1962" plural="True">high schools</ORGANIZATION>
+<ORGANIZATION id="110176_68" start="2054" end="2068">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_69" start="2151" end="2184" plural="True">schools of the Dallas Independent</ORGANIZATION>
+<ORGANIZATION id="110176_70" start="2185" end="2191">School</ORGANIZATION>
+<NAME id="110176_71" start="2192" end="2200">District</NAME>
+<PROFESSION id="110176_72" start="2254" end="2259">judge</PROFESSION>
+<ORGANIZATION id="110176_73" start="2289" end="2311" plural="True">Dallas and its schools</ORGANIZATION>
+<ORGANIZATION id="110176_74" start="2349" end="2355" plural="True">groups</ORGANIZATION>
+<ORGANIZATION id="110176_75" start="2415" end="2431">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_76" start="2473" end="2487">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_87" start="2838" end="2849" plural="True">schools. In</ORGANIZATION>
+<ORGANIZATION id="110176_88" start="2888" end="2893">court</ORGANIZATION>
+<NAME id="110176_89" start="2978" end="2984">Dallas</NAME>
+<ORGANIZATION id="110176_90" start="3065" end="3079">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_91" start="3125" end="3141">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_92" start="3209" end="3222">Dallas school</ORGANIZATION>
+<citation id="110176_79" entry_type="case_X_vs_Y" start="3318" end="3336" party1="Plessy" party2="Ferguson" line="20">Plessy v. Ferguson</citation>
+<NAME id="110176_81" start="3318" end="3324" party1_of="110176_79">Plessy</NAME>
+<NAME id="110176_82" start="3328" end="3336" party2_of="110176_79">Ferguson</NAME>
+<citation id="110176_77" entry_type="standard_case" start="3338" end="3357" reporter="U.S." standard_reporter="U.S." volume="163" page_number="537" year="1896" line="20">163 U.S. 537 (1896)</citation>
+<date id="110176_85" start="3352" end="3356">1896</date>
+<ORGANIZATION id="110176_93" start="3426" end="3432" plural="True">courts</ORGANIZATION>
+<citation id="110176_80" entry_type="case_X_vs_Y" start="3469" end="3496" party1="Brown" party2="Board of Education" line="20">Brown v. Board of Education</citation>
+<NAME id="110176_83" start="3469" end="3474" party1_of="110176_80">Brown</NAME>
+<NAME id="110176_84" start="3478" end="3496" party2_of="110176_80">Board of Education</NAME>
+<citation id="110176_78" entry_type="standard_case" start="3498" end="3517" reporter="U.S." standard_reporter="U.S." volume="347" page_number="483" year="1954" line="20">347 U.S. 483 (1954)</citation>
+<date id="110176_86" start="3512" end="3516">1954</date>
+<NAME id="110176_107" start="3598" end="3632">Dallas Independent School District</NAME>
+<ORGANIZATION id="110176_108" start="3617" end="3623">School</ORGANIZATION>
+<ORGANIZATION id="110176_109" start="3634" end="3640">School</ORGANIZATION>
+<NAME id="110176_110" start="3641" end="3649">District</NAME>
+<date id="110176_102" start="3694" end="3698">1955</date>
+<ORGANIZATION id="110176_111" start="3798" end="3804">School</ORGANIZATION>
+<NAME id="110176_112" start="3805" end="3813">District</NAME>
+<ORGANIZATION id="110176_113" start="3848" end="3854">school</ORGANIZATION>
+<date id="110176_103" start="3993" end="3997">1971</date>
+<NAME id="110176_114" start="4064" end="4069">Total</NAME>
+<NAME id="110176_115" start="4181" end="4186">Anglo</NAME>
+<date id="110176_104" start="4190" end="4194">1971</date>
+<NAME id="110176_116" start="4204" end="4209">Anglo</NAME>
+<NAME id="110176_117" start="4234" end="4250">Mexican-American</NAME>
+<date id="110176_105" start="4254" end="4258">1979</date>
+<NAME id="110176_118" start="4279" end="4284">Anglo</NAME>
+<ORGANIZATION id="110176_119" start="4301" end="4307">School</ORGANIZATION>
+<NAME id="110176_120" start="4308" end="4316">District</NAME>
+<date id="110176_106" start="4320" end="4324">1970</date>
+<FAMILY id="110176_133" start="4392" end="4399" plural="True">parents</FAMILY>
+<FAMILY id="110176_134" start="4427" end="4435" plural="True">children</FAMILY>
+<ORGANIZATION id="110176_135" start="4449" end="4489">superintendent and the Board of Trustees</ORGANIZATION>
+<ORGANIZATION id="110176_136" start="4497" end="4503">School</ORGANIZATION>
+<NAME id="110176_137" start="4504" end="4512">District</NAME>
+<ORGANIZATION id="110176_138" start="4514" end="4519">Board</ORGANIZATION>
+<ORGANIZATION id="110176_139" start="4522" end="4542" plural="True">Other parents groups</ORGANIZATION>
+<date id="110176_130" start="4592" end="4596">1971</date>
+<ORGANIZATION id="110176_140" start="4602" end="4616">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_141" start="4655" end="4661">school</ORGANIZATION>
+<ORGANIZATION id="110176_142" start="4691" end="4705" plural="True">Dallas schools</ORGANIZATION>
+<citation id="110176_124" entry_type="case_X_vs_Y" start="4707" end="4721" party1="Tasby" party2="Estes" line="24">Tasby v. Estes</citation>
+<NAME id="110176_126" start="4707" end="4712" party1_of="110176_124">Tasby</NAME>
+<NAME id="110176_127" start="4716" end="4721" party2_of="110176_124">Estes</NAME>
+<citation id="110176_121" entry_type="standard_case" start="4723" end="4759" reporter="F. Supp." standard_reporter="F.SUPP." volume="342" page_number="945" paragraph_number="947" year="1971" line="24">342 F. Supp. 945, 947 (ND Tex. 1971)</citation>
+<date id="110176_131" start="4754" end="4758">1971</date>
+<ORGANIZATION id="110176_143" start="4765" end="4770">court</ORGANIZATION>
+<LEGAL_ROLE id="110176_144" start="4874" end="4884" plural="True">plaintiffs</LEGAL_ROLE>
+<ORGANIZATION id="110176_145" start="4901" end="4939">Court of Appeals for the Fifth Circuit</ORGANIZATION>
+<ORGANIZATION id="110176_146" start="5007" end="5012">court</ORGANIZATION>
+<ORGANIZATION id="110176_147" start="5088" end="5095" plural="True">schools</ORGANIZATION>
+<citation id="110176_125" entry_type="case_X_vs_Y" start="5133" end="5147" party1="Tasby" party2="Estes" line="24">Tasby v. Estes</citation>
+<NAME id="110176_128" start="5133" end="5138" party1_of="110176_125">Tasby</NAME>
+<NAME id="110176_129" start="5142" end="5147" party2_of="110176_125">Estes</NAME>
+<citation id="110176_122" entry_type="standard_case" start="5149" end="5165" reporter="F.2d" standard_reporter="F.2D" volume="517" page_number="92" paragraph_number="103" line="24">517 F.2d 92, 103</citation>
+<citation id="110176_123" entry_type="standard_case" start="5181" end="5200" reporter="U.S." standard_reporter="U.S." volume="423" page_number="939" year="1975" line="24">423 U.S. 939 (1975)</citation>
+<date id="110176_132" start="5195" end="5199">1975</date>
+<NAME id="110176_148" start="5202" end="5209">Finding</NAME>
+<ORGANIZATION id="110176_149" start="5219" end="5233">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_150" start="5280" end="5296">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_172" start="5392" end="5406">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_173" start="5616" end="5621">court</ORGANIZATION>
+<ORGANIZATION id="110176_174" start="5662" end="5668" plural="True">groups</ORGANIZATION>
+<ORGANIZATION id="110176_175" start="5706" end="5751">Educational Task Force of the Dallas Alliance</ORGANIZATION>
+<NAME id="110176_176" start="5753" end="5761">Alliance</NAME>
+<ORGANIZATION id="110176_177" start="5791" end="5803">organization</ORGANIZATION>
+<citation id="110176_162" entry_type="case_X_vs_Y" start="5831" end="5845" party1="Tasby" party2="Estes" line="25">Tasby v. Estes</citation>
+<NAME id="110176_164" start="5831" end="5836" party1_of="110176_162">Tasby</NAME>
+<NAME id="110176_165" start="5840" end="5845" party2_of="110176_162">Estes</NAME>
+<citation id="110176_159" entry_type="standard_case" start="5847" end="5879" reporter="F. Supp." standard_reporter="F.SUPP." volume="412" page_number="1192" year="1976" line="25">412 F. Supp. 1192 (ND Tex. 1976)</citation>
+<date id="110176_168" start="5874" end="5878">1976</date>
+<ORGANIZATION id="110176_178" start="5885" end="5899">District Court</ORGANIZATION>
+<NAME id="110176_179" start="5926" end="5931">Anglo</NAME>
+<date id="110176_169" start="5951" end="5955">1971</date>
+<date id="110176_170" start="5960" end="5964">1976</date>
+<ORGANIZATION id="110176_180" start="6008" end="6013">Board</ORGANIZATION>
+<NAME id="110176_181" start="6015" end="6017">In</NAME>
+<ORGANIZATION id="110176_182" start="6028" end="6033">court</ORGANIZATION>
+<ORGANIZATION id="110176_183" start="6044" end="6049">Board</ORGANIZATION>
+<ORGANIZATION id="110176_184" start="6107" end="6113">school</ORGANIZATION>
+<NAME id="110176_185" start="6122" end="6124">Id</NAME>
+<NAME id="110176_186" start="6136" end="6139">See</NAME>
+<citation id="110176_163" entry_type="case_X_vs_Y" start="6140" end="6182" party1="Pasadena City Bd. of Education" party2="Spangler" line="25">Pasadena City Bd. of Education v. Spangler</citation>
+<NAME id="110176_166" start="6140" end="6170" party1_of="110176_163">Pasadena City Bd. of Education</NAME>
+<NAME id="110176_167" start="6174" end="6182" party2_of="110176_163">Spangler</NAME>
+<citation id="110176_160" entry_type="standard_case" start="6184" end="6212" reporter="U.S." standard_reporter="U.S." volume="427" page_number="424" paragraph_number="435-436" year="1976" line="25">427 U.S. 424, 435-436 (1976)</citation>
+<date id="110176_171" start="6207" end="6211">1976</date>
+<ORGANIZATION id="110176_187" start="6218" end="6223">court</ORGANIZATION>
+<ORGANIZATION id="110176_188" start="6374" end="6380">School</ORGANIZATION>
+<NAME id="110176_189" start="6381" end="6389">District</NAME>
+<citation id="110176_161" entry_type="standard_case" start="6391" end="6412" reporter="F. Supp." standard_reporter="F.SUPP." volume="412" page_number="1207" line="25">412 F. Supp., at 1207</citation>
+<ORGANIZATION id="110176_198" start="6487" end="6493">School</ORGANIZATION>
+<NAME id="110176_199" start="6494" end="6502">District</NAME>
+<ORGANIZATION id="110176_200" start="6508" end="6522">District Court</ORGANIZATION>
+<NAME id="110176_201" start="6614" end="6622">Alliance</NAME>
+<ORGANIZATION id="110176_202" start="6684" end="6690">School</ORGANIZATION>
+<NAME id="110176_203" start="6691" end="6699">District</NAME>
+<FAMILY id="110176_204" start="6844" end="6852" plural="True">children</FAMILY>
+<NAME id="110176_205" start="6863" end="6865">K-</NAME>
+<ORGANIZATION id="110176_206" start="6890" end="6897" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_207" start="6943" end="6950" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_208" start="6976" end="6987">high school</ORGANIZATION>
+<ORGANIZATION id="110176_209" start="7013" end="7020" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_210" start="7136" end="7148" plural="True">high schools</ORGANIZATION>
+<ORGANIZATION id="110176_211" start="7391" end="7405">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_212" start="7455" end="7460">court</ORGANIZATION>
+<NAME id="110176_213" start="7533" end="7541">Alliance</NAME>
+<ORGANIZATION id="110176_214" start="7572" end="7577">court</ORGANIZATION>
+<ORGANIZATION id="110176_215" start="7637" end="7642">court</ORGANIZATION>
+<NAME id="110176_216" start="7822" end="7831">Oak Cliff</NAME>
+<NAME id="110176_217" start="7856" end="7858">Id</NAME>
+<LEGAL_ROLE id="110176_225" start="7870" end="7881" plural="True">Respondents</LEGAL_ROLE>
+<ORGANIZATION id="110176_226" start="7897" end="7911">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_227" start="7929" end="7936" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_228" start="7965" end="7972" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_229" start="8115" end="8122" plural="True">schools</ORGANIZATION>
+<NAME id="110176_230" start="8158" end="8163">Anglo</NAME>
+<NAME id="110176_231" start="8173" end="8189">Mexican-American</NAME>
+<ORGANIZATION id="110176_232" start="8220" end="8227" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_233" start="8244" end="8258">District Court</ORGANIZATION>
+<FAMILY id="110176_234" start="8287" end="8295" plural="True">children</FAMILY>
+<ORGANIZATION id="110176_235" start="8305" end="8310">Court</ORGANIZATION>
+<FAMILY id="110176_236" start="8369" end="8385" plural="True">younger children</FAMILY>
+<citation id="110176_220" entry_type="case_X_vs_Y" start="8453" end="8500" party1="Swann" party2="Charlotte-Mecklenburg Bd. of Education" line="28">Swann v. Charlotte-Mecklenburg Bd. of Education</citation>
+<NAME id="110176_221" start="8453" end="8458" party1_of="110176_220">Swann</NAME>
+<NAME id="110176_222" start="8462" end="8500" party2_of="110176_220">Charlotte-Mecklenburg Bd. of Education</NAME>
+<citation id="110176_218" entry_type="standard_case" start="8502" end="8523" reporter="U.S." standard_reporter="U.S." volume="402" page_number="1" paragraph_number="31" year="1971" line="28">402 U.S. 1, 31 (1971)</citation>
+<date id="110176_223" start="8518" end="8522">1971</date>
+<LEGAL_ROLE id="110176_237" start="8529" end="8540" plural="True">respondents</LEGAL_ROLE>
+<ORGANIZATION id="110176_238" start="8576" end="8590">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_239" start="8619" end="8631" plural="True">high schools</ORGANIZATION>
+<ORGANIZATION id="110176_240" start="8673" end="8687">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_241" start="8720" end="8731">high school</ORGANIZATION>
+<NAME id="110176_242" start="8780" end="8786">Anglos</NAME>
+<ORGANIZATION id="110176_243" start="8835" end="8847" plural="True">high schools</ORGANIZATION>
+<ORGANIZATION id="110176_244" start="8859" end="8864">Court</ORGANIZATION>
+<date id="110176_224" start="8867" end="8871">1971</date>
+<NAME id="110176_245" start="8911" end="8916">Anglo</NAME>
+<ORGANIZATION id="110176_246" start="8939" end="8946" plural="True">schools</ORGANIZATION>
+<citation id="110176_219" entry_type="standard_case" start="8955" end="8976" reporter="F. Supp." standard_reporter="F.SUPP." volume="412" page_number="1205" line="28">412 F. Supp., at 1205</citation>
+<ORGANIZATION id="110176_247" start="8982" end="8987">court</ORGANIZATION>
+<ORGANIZATION id="110176_248" start="9017" end="9030">establishment</ORGANIZATION>
+<ORGANIZATION id="110176_249" start="9041" end="9053" plural="True">high schools</ORGANIZATION>
+<ORGANIZATION id="110176_250" start="9160" end="9166">school</ORGANIZATION>
+<NAME id="110176_251" start="9201" end="9205">Ibid</NAME>
+<ORGANIZATION id="110176_261" start="9277" end="9284" plural="True">schools</ORGANIZATION>
+<NAME id="110176_262" start="9293" end="9302">Oak Cliff</NAME>
+<NAME id="110176_263" start="9328" end="9341">Trinity River</NAME>
+<NAME id="110176_264" start="9368" end="9378">Interstate</NAME>
+<ORGANIZATION id="110176_265" start="9400" end="9405">court</ORGANIZATION>
+<ORGANIZATION id="110176_266" start="9500" end="9507" plural="True">schools</ORGANIZATION>
+<NAME id="110176_267" start="9545" end="9547">Id</NAME>
+<NAME id="110176_268" start="9576" end="9586">Seagoville</NAME>
+<NAME id="110176_269" start="9628" end="9638">Seagoville</NAME>
+<citation id="110176_257" entry_type="case_X_vs_Y" start="9705" end="9719" party1="Tasby" party2="Estes" line="29">Tasby v. Estes</citation>
+<NAME id="110176_258" start="9705" end="9710" party1_of="110176_257">Tasby</NAME>
+<NAME id="110176_259" start="9714" end="9719" party2_of="110176_257">Estes</NAME>
+<citation id="110176_256" entry_type="standard_case" start="9721" end="9751" reporter="F.2d" standard_reporter="F.2D" volume="572" page_number="1010" paragraph_number="1013" court="CA5" year="1978" line="29">572 F.2d 1010, 1013 (CA5 1978)</citation>
+<date id="110176_260" start="9746" end="9750">1978</date>
+<ORGANIZATION id="110176_270" start="9761" end="9767">school</ORGANIZATION>
+<ORGANIZATION id="110176_271" start="9810" end="9816">School</ORGANIZATION>
+<NAME id="110176_272" start="9817" end="9825">District</NAME>
+<ORGANIZATION id="110176_277" start="9846" end="9862">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_278" start="9888" end="9902">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_279" start="10000" end="10007" plural="True">schools</ORGANIZATION>
+<NAME id="110176_280" start="10022" end="10032">Dallas. Id</NAME>
+<ORGANIZATION id="110176_281" start="10116" end="10123" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_282" start="10187" end="10192">court</ORGANIZATION>
+<ORGANIZATION id="110176_283" start="10483" end="10490" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_284" start="10562" end="10569" plural="True">schools</ORGANIZATION>
+<NAME id="110176_285" start="10587" end="10589">Id</NAME>
+<ORGANIZATION id="110176_286" start="10605" end="10621">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_287" start="10745" end="10752" plural="True">schools</ORGANIZATION>
+<NAME id="110176_288" start="10785" end="10787">Id</NAME>
+<ORGANIZATION id="110176_294" start="10935" end="10941">school</ORGANIZATION>
+<ORGANIZATION id="110176_295" start="10966" end="10978">school board</ORGANIZATION>
+<ORGANIZATION id="110176_296" start="10987" end="10992">court</ORGANIZATION>
+<ORGANIZATION id="110176_297" start="11114" end="11120" plural="True">Courts</ORGANIZATION>
+<NAME id="110176_298" start="11298" end="11301">See</NAME>
+<citation id="110176_290" entry_type="case_X_vs_Y" start="11302" end="11337" party1="Columbus Bd. of Education" party2="Penick" line="36">Columbus Bd. of Education v. Penick</citation>
+<NAME id="110176_291" start="11302" end="11327" party1_of="110176_290">Columbus Bd. of Education</NAME>
+<NAME id="110176_292" start="11331" end="11337" party2_of="110176_290">Penick</NAME>
+<citation id="110176_289" entry_type="standard_case" start="11339" end="11367" reporter="U.S." standard_reporter="U.S." volume="443" page_number="449" paragraph_number="486-488" year="1979" line="36">443 U.S. 449, 486-488 (1979)</citation>
+<date id="110176_293" start="11362" end="11366">1979</date>
+<NAME id="110176_299" start="11369" end="11375">POWELL</NAME>
+<ORGANIZATION id="110176_300" start="11413" end="11418">Court</ORGANIZATION>
+<PROFESSION id="110176_301" start="11456" end="11463">general</PROFESSION>
+<ORGANIZATION id="110176_302" start="11639" end="11650" plural="True">courts. See</ORGANIZATION>
+<ORGANIZATION id="110176_317" start="11753" end="11759" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="110176_318" start="11781" end="11787">school</ORGANIZATION>
+<citation id="110176_309" entry_type="case_X_vs_Y" start="11934" end="11953" party1="Milliken" party2="Bradley" line="37">Milliken v. Bradley</citation>
+<NAME id="110176_311" start="11934" end="11942" party1_of="110176_309">Milliken</NAME>
+<NAME id="110176_312" start="11946" end="11953" party2_of="110176_309">Bradley</NAME>
+<citation id="110176_307" entry_type="standard_case" start="11955" end="11979" reporter="U.S." standard_reporter="U.S." volume="433" page_number="267" paragraph_number="280" year="1977" line="37">433 U.S. 267, 280 (1977)</citation>
+<date id="110176_315" start="11974" end="11978">1977</date>
+<NAME id="110176_319" start="11981" end="11992">Milliken II</NAME>
+<ORGANIZATION id="110176_320" start="12198" end="12212" plural="True">courts. Second</ORGANIZATION>
+<citation id="110176_310" entry_type="case_X_vs_Y" start="12278" end="12318" party1="Davis" party2="School Comm'rs of Mobile County" line="37">Davis v. School Comm'rs of Mobile County</citation>
+<NAME id="110176_313" start="12278" end="12283" party1_of="110176_310">Davis</NAME>
+<NAME id="110176_314" start="12287" end="12318" party2_of="110176_310">School Comm'rs of Mobile County</NAME>
+<ORGANIZATION id="110176_321" start="12287" end="12293">School</ORGANIZATION>
+<citation id="110176_308" entry_type="standard_case" start="12320" end="12342" reporter="U.S." standard_reporter="U.S." volume="402" page_number="33" paragraph_number="37" year="1971" line="37">402 U.S. 33, 37 (1971)</citation>
+<date id="110176_316" start="12337" end="12341">1971</date>
+<ORGANIZATION id="110176_322" start="12346" end="12351">court</ORGANIZATION>
+<ORGANIZATION id="110176_323" start="12498" end="12505" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_332" start="12613" end="12627">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_333" start="12731" end="12747">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_334" start="12835" end="12841" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="110176_335" start="12884" end="12890">school</ORGANIZATION>
+<ORGANIZATION id="110176_336" start="13041" end="13048" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_360" start="13092" end="13108">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_361" start="13149" end="13156" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_362" start="13174" end="13180">School</ORGANIZATION>
+<NAME id="110176_363" start="13181" end="13195">District. This</NAME>
+<citation id="110176_342" entry_type="case_X_vs_Y" start="13263" end="13291" party1="Green" party2="County School Board" line="41">Green v. County School Board</citation>
+<NAME id="110176_347" start="13263" end="13268" party1_of="110176_342">Green</NAME>
+<NAME id="110176_348" start="13272" end="13291" party2_of="110176_342">County School Board</NAME>
+<citation id="110176_337" entry_type="standard_case" start="13293" end="13317" reporter="U.S." standard_reporter="U.S." volume="391" page_number="430" paragraph_number="442" year="1968" line="41">391 U.S. 430, 442 (1968)</citation>
+<date id="110176_357" start="13312" end="13316">1968</date>
+<ORGANIZATION id="110176_364" start="13378" end="13384">school</ORGANIZATION>
+<ORGANIZATION id="110176_365" start="13393" end="13406">Negro' school</ORGANIZATION>
+<ORGANIZATION id="110176_366" start="13497" end="13502">Court</ORGANIZATION>
+<ORGANIZATION id="110176_367" start="13543" end="13550" plural="True">schools</ORGANIZATION>
+<NAME id="110176_368" start="13676" end="13710">Dallas Independent School District</NAME>
+<ORGANIZATION id="110176_369" start="13695" end="13701">School</ORGANIZATION>
+<PROFESSION id="110176_370" start="13718" end="13723">major</PROFESSION>
+<ORGANIZATION id="110176_371" start="13737" end="13743">school</ORGANIZATION>
+<PROFESSION id="110176_372" start="13775" end="13784">principal</PROFESSION>
+<ORGANIZATION id="110176_373" start="13813" end="13820" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_374" start="13923" end="13929">school</ORGANIZATION>
+<citation id="110176_343" entry_type="case_X_vs_Y" start="13966" end="14008" party1="Pasadena City Bd. of Education" party2="Spangler" line="41">Pasadena City Bd. of Education v. Spangler</citation>
+<NAME id="110176_349" start="13966" end="13996" party1_of="110176_343">Pasadena City Bd. of Education</NAME>
+<NAME id="110176_350" start="14000" end="14008" party2_of="110176_343">Spangler</NAME>
+<citation id="110176_338" entry_type="standard_case" start="14010" end="14027" reporter="U. S." standard_reporter="U.S." volume="427" page_number="435" line="41">427 U. S., at 435</citation>
+<citation id="110176_344" entry_type="case_X_vs_Y" start="14037" end="14057" party1="Keyes" party2="School Dist" line="41">Keyes v. School Dist</citation>
+<NAME id="110176_351" start="14037" end="14042" party1_of="110176_344">Keyes</NAME>
+<NAME id="110176_352" start="14046" end="14057" party2_of="110176_344">School Dist</NAME>
+<NAME id="110176_375" start="14066" end="14072">Denver</NAME>
+<NAME id="110176_376" start="14074" end="14078">Colo</NAME>
+<citation id="110176_339" entry_type="standard_case" start="14081" end="14109" reporter="U.S." standard_reporter="U.S." volume="413" page_number="189" paragraph_number="222-223" year="1973" line="41">413 U.S. 189, 222-223 (1973)</citation>
+<date id="110176_358" start="14104" end="14108">1973</date>
+<NAME id="110176_377" start="14111" end="14117">POWELL</NAME>
+<NAME id="110176_378" start="14186" end="14191">Green</NAME>
+<ORGANIZATION id="110176_379" start="14197" end="14202">Court</ORGANIZATION>
+<ORGANIZATION id="110176_380" start="14297" end="14304" plural="True">schools</ORGANIZATION>
+<NAME id="110176_381" start="14347" end="14359">Constitution</NAME>
+<citation id="110176_345" entry_type="case_X_vs_Y" start="14362" end="14397" party1="Dayton Bd. of Education" party2="Brinkman" line="41">Dayton Bd. of Education v. Brinkman</citation>
+<NAME id="110176_353" start="14362" end="14385" party1_of="110176_345">Dayton Bd. of Education</NAME>
+<NAME id="110176_354" start="14389" end="14397" party2_of="110176_345">Brinkman</NAME>
+<citation id="110176_340" entry_type="standard_case" start="14399" end="14423" reporter="U.S." standard_reporter="U.S." volume="433" page_number="406" paragraph_number="417" year="1977" line="41">433 U.S. 406, 417 (1977)</citation>
+<date id="110176_359" start="14418" end="14422">1977</date>
+<NAME id="110176_382" start="14425" end="14436">Milliken II</NAME>
+<citation id="110176_346" entry_type="case_X_vs_Y" start="14460" end="14507" party1="Swann" party2="Charlotte-Mecklenburg Bd. of Education" line="41">Swann v. Charlotte-Mecklenburg Bd. of Education</citation>
+<NAME id="110176_355" start="14460" end="14465" party1_of="110176_346">Swann</NAME>
+<NAME id="110176_356" start="14469" end="14507" party2_of="110176_346">Charlotte-Mecklenburg Bd. of Education</NAME>
+<citation id="110176_341" entry_type="standard_case" start="14509" end="14525" reporter="U. S." standard_reporter="U.S." volume="402" page_number="26" line="41">402 U. S., at 26</citation>
+<ORGANIZATION id="110176_383" start="14576" end="14582" plural="True">courts</ORGANIZATION>
+<NAME id="110176_384" start="14604" end="14609">Green</NAME>
+<ORGANIZATION id="110176_407" start="14722" end="14729" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_408" start="14747" end="14761" plural="True">schools. There</ORGANIZATION>
+<ORGANIZATION id="110176_409" start="14825" end="14832" plural="True">schools</ORGANIZATION>
+<citation id="110176_403" entry_type="case_X_vs_Y" start="14863" end="14882" party1="Milliken" party2="Bradley" line="42">Milliken v. Bradley</citation>
+<NAME id="110176_404" start="14863" end="14871" party1_of="110176_403">Milliken</NAME>
+<NAME id="110176_405" start="14875" end="14882" party2_of="110176_403">Bradley</NAME>
+<citation id="110176_402" entry_type="standard_case" start="14884" end="14912" reporter="U.S." standard_reporter="U.S." volume="418" page_number="717" paragraph_number="740-741" year="1974" line="42">418 U.S. 717, 740-741 (1974)</citation>
+<date id="110176_406" start="14907" end="14911">1974</date>
+<NAME id="110176_410" start="14914" end="14924">Milliken I</NAME>
+<NAME id="110176_411" start="14939" end="14951">Constitution</NAME>
+<ORGANIZATION id="110176_412" start="14969" end="14975">school</ORGANIZATION>
+<NAME id="110176_413" start="15057" end="15062">Swann</NAME>
+<ORGANIZATION id="110176_419" start="15146" end="15152">school</ORGANIZATION>
+<ORGANIZATION id="110176_420" start="15217" end="15223">school</ORGANIZATION>
+<ORGANIZATION id="110176_421" start="15424" end="15431" plural="True">schools</ORGANIZATION>
+<citation id="110176_418" entry_type="standard_case" start="15434" end="15450" reporter="U. S." standard_reporter="U.S." volume="402" page_number="23" line="43">402 U. S., at 23</citation>
+<NAME id="110176_423" start="15763" end="15774">Milliken II</NAME>
+<citation id="110176_422" entry_type="standard_case" start="15776" end="15793" reporter="U. S." standard_reporter="U.S." volume="433" page_number="280" line="44">433 U. S., at 280</citation>
+<NAME id="110176_424" start="15803" end="15813">Milliken I</NAME>
+<ORGANIZATION id="110176_425" start="15838" end="15844" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="110176_432" start="16021" end="16035">District Court</ORGANIZATION>
+<date id="110176_430" start="16077" end="16081">1971</date>
+<citation id="110176_426" entry_type="standard_case" start="16083" end="16103" reporter="F. Supp." standard_reporter="F.SUPP." volume="342" page_number="956" line="45">342 F. Supp., at 956</citation>
+<NAME id="110176_433" start="16197" end="16200">See</NAME>
+<ORGANIZATION id="110176_434" start="16279" end="16284">court</ORGANIZATION>
+<ORGANIZATION id="110176_435" start="16438" end="16443">Court</ORGANIZATION>
+<date id="110176_431" start="16521" end="16525">1975</date>
+<ORGANIZATION id="110176_436" start="16540" end="16554">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_437" start="16629" end="16636" plural="True">schools</ORGANIZATION>
+<NAME id="110176_438" start="16717" end="16730">Pet. for Cert</NAME>
+<docket id="110176_428" entry_type="docket" start="16739" end="16745" line="45">78-253</docket>
+<ORGANIZATION id="110176_439" start="16769" end="16774">Board</ORGANIZATION>
+<LEGAL_ROLE id="110176_440" start="16780" end="16800">principal petitioner</LEGAL_ROLE>
+<NAME id="110176_441" start="16815" end="16830">Dallas Alliance</NAME>
+<ORGANIZATION id="110176_442" start="16856" end="16870">District Court</ORGANIZATION>
+<LEGAL_ROLE id="110176_443" start="16894" end="16919" plural="True">See Brief for Petitioners</LEGAL_ROLE>
+<docket id="110176_429" entry_type="docket" start="16927" end="16933" line="45">78-253</docket>
+<NAME id="110176_444" start="16946" end="17005">Brief for Dallas Alliance as Amicus Curiae 28. Consequently</NAME>
+<ORGANIZATION id="110176_445" start="17022" end="17027">Court</ORGANIZATION>
+<ORGANIZATION id="110176_446" start="17108" end="17124">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_447" start="17134" end="17148">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_448" start="17181" end="17188" plural="True">schools</ORGANIZATION>
+<NAME id="110176_449" start="17199" end="17205">Dallas</NAME>
+<citation id="110176_427" entry_type="standard_case" start="17207" end="17225" reporter="F. 2d" standard_reporter="F.2D" volume="572" page_number="1018" line="45">572 F. 2d, at 1018</citation>
+<ORGANIZATION id="110176_459" start="17230" end="17235">Court</ORGANIZATION>
+<ORGANIZATION id="110176_460" start="17304" end="17310">school</ORGANIZATION>
+<citation id="110176_453" entry_type="case_X_vs_Y" start="17400" end="17428" party1="Green" party2="County School Board" line="48">Green v. County School Board</citation>
+<NAME id="110176_455" start="17400" end="17405" party1_of="110176_453">Green</NAME>
+<NAME id="110176_456" start="17409" end="17428" party2_of="110176_453">County School Board</NAME>
+<citation id="110176_451" entry_type="standard_case" start="17430" end="17447" reporter="U. S." standard_reporter="U.S." volume="391" page_number="439" line="48">391 U. S., at 439</citation>
+<citation id="110176_454" entry_type="case_X_vs_Y" start="17508" end="17548" party1="Davis" party2="School Comm'rs of Mobile County" line="48">Davis v. School Comm'rs of Mobile County</citation>
+<NAME id="110176_457" start="17508" end="17513" party1_of="110176_454">Davis</NAME>
+<NAME id="110176_458" start="17517" end="17548" party2_of="110176_454">School Comm'rs of Mobile County</NAME>
+<ORGANIZATION id="110176_461" start="17517" end="17523">School</ORGANIZATION>
+<citation id="110176_452" entry_type="standard_case" start="17550" end="17566" reporter="U. S." standard_reporter="U.S." volume="402" page_number="37" line="48">402 U. S., at 37</citation>
+<ORGANIZATION id="110176_462" start="17582" end="17587">Court</ORGANIZATION>
+<PROFESSION id="110176_463" start="17643" end="17650">general</PROFESSION>
+<ORGANIZATION id="110176_464" start="17899" end="17904">court</ORGANIZATION>
+<ORGANIZATION id="110176_465" start="17915" end="17921">school</ORGANIZATION>
+<ORGANIZATION id="110176_466" start="18022" end="18027">court</ORGANIZATION>
+<FAMILY id="110176_467" start="18064" end="18071" plural="True">parents</FAMILY>
+<ORGANIZATION id="110176_468" start="18103" end="18108">court</ORGANIZATION>
+<ORGANIZATION id="110176_469" start="18191" end="18198" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_470" start="18269" end="18275">school</ORGANIZATION>
+<ORGANIZATION id="110176_480" start="18291" end="18296">Court</ORGANIZATION>
+<citation id="110176_477" entry_type="case_X_vs_Y" start="18439" end="18481" party1="Pasadena City Bd. of Education" party2="Spangler" line="49">Pasadena City Bd. of Education v. Spangler</citation>
+<NAME id="110176_478" start="18439" end="18469" party1_of="110176_477">Pasadena City Bd. of Education</NAME>
+<NAME id="110176_479" start="18473" end="18481" party2_of="110176_477">Spangler</NAME>
+<NAME id="110176_481" start="18598" end="18610">Constitution</NAME>
+<ORGANIZATION id="110176_482" start="18751" end="18757">school</ORGANIZATION>
+<ORGANIZATION id="110176_483" start="18772" end="18777">Court</ORGANIZATION>
+<NAME id="110176_484" start="18829" end="18834">State</NAME>
+<ORGANIZATION id="110176_485" start="18971" end="18977" plural="True">courts</ORGANIZATION>
+<NAME id="110176_486" start="19059" end="19067">Pasadena</NAME>
+<ORGANIZATION id="110176_487" start="19128" end="19134" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="110176_502" start="19198" end="19204" plural="True">courts</ORGANIZATION>
+<NAME id="110176_503" start="19291" end="19301">Milliken I</NAME>
+<citation id="110176_490" entry_type="standard_case" start="19303" end="19322" reporter="U.S." standard_reporter="U.S." volume="418" page_number="717" year="1974" line="50">418 U.S. 717 (1974)</citation>
+<date id="110176_499" start="19317" end="19321">1974</date>
+<ORGANIZATION id="110176_504" start="19375" end="19382" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_505" start="19403" end="19441">Court of Appeals for the Sixth Circuit</ORGANIZATION>
+<ORGANIZATION id="110176_506" start="19447" end="19452">court</ORGANIZATION>
+<NAME id="110176_507" start="19569" end="19576">Detroit</NAME>
+<ORGANIZATION id="110176_508" start="19579" end="19586" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_509" start="19635" end="19641">school</ORGANIZATION>
+<citation id="110176_493" entry_type="case_X_vs_Y" start="19662" end="19681" party1="Bradley" party2="Milliken" line="50">Bradley v. Milliken</citation>
+<NAME id="110176_495" start="19662" end="19669" party1_of="110176_493">Bradley</NAME>
+<NAME id="110176_496" start="19673" end="19681" party2_of="110176_493">Milliken</NAME>
+<citation id="110176_491" entry_type="standard_case" start="19683" end="19707" reporter="F.2d" standard_reporter="F.2D" volume="540" page_number="229" paragraph_number="239" year="1976" line="50">540 F.2d 229, 239 (1976)</citation>
+<date id="110176_500" start="19702" end="19706">1976</date>
+<NAME id="110176_510" start="19716" end="19727">Milliken II</NAME>
+<ORGANIZATION id="110176_511" start="19762" end="19768">school</ORGANIZATION>
+<NAME id="110176_512" start="19781" end="19788">Alabama</NAME>
+<ORGANIZATION id="110176_513" start="19808" end="19846">Court of Appeals for the Fifth Circuit</ORGANIZATION>
+<citation id="110176_494" entry_type="case_X_vs_Y" start="20051" end="20087" party1="Lee" party2="Macon County Bd. of Education" line="50">Lee v. Macon County Bd. of Education</citation>
+<NAME id="110176_497" start="20051" end="20054" party1_of="110176_494">Lee</NAME>
+<NAME id="110176_498" start="20058" end="20087" party2_of="110176_494">Macon County Bd. of Education</NAME>
+<citation id="110176_492" entry_type="standard_case" start="20089" end="20113" reporter="F.2d" standard_reporter="F.2D" volume="465" page_number="369" paragraph_number="370" year="1972" line="50">465 F.2d 369, 370 (1972)</citation>
+<date id="110176_501" start="20108" end="20112">1972</date>
+<ORGANIZATION id="110176_514" start="20131" end="20136">court</ORGANIZATION>
+<ORGANIZATION id="110176_515" start="20235" end="20247">school board</ORGANIZATION>
+<ORGANIZATION id="110176_516" start="20323" end="20336" plural="True">schools. Ibid</ORGANIZATION>
+<NAME id="110176_531" start="20407" end="20412">Green</NAME>
+<ORGANIZATION id="110176_532" start="20495" end="20501" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="110176_533" start="20577" end="20584" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_534" start="20586" end="20592" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="110176_535" start="20614" end="20620">school</ORGANIZATION>
+<FAMILY id="110176_536" start="20630" end="20637" plural="True">Parents</FAMILY>
+<FAMILY id="110176_537" start="20654" end="20662" plural="True">children</FAMILY>
+<ORGANIZATION id="110176_538" start="20702" end="20709" plural="True">schools</ORGANIZATION>
+<FAMILY id="110176_539" start="20961" end="20969" plural="True">children</FAMILY>
+<ORGANIZATION id="110176_540" start="21020" end="21025">court</ORGANIZATION>
+<FAMILY id="110176_541" start="21112" end="21128" plural="True">See Parents Assn</FAMILY>
+<citation id="110176_527" entry_type="case_X_vs_Y" start="21138" end="21174" party1="Andrew Jackson High School" party2="Ambach" line="51">Andrew Jackson High School v. Ambach</citation>
+<NAME id="110176_528" start="21138" end="21164" party1_of="110176_527">Andrew Jackson High School</NAME>
+<NAME id="110176_529" start="21168" end="21174" party2_of="110176_527">Ambach</NAME>
+<citation id="110176_526" entry_type="standard_case" start="21176" end="21204" reporter="F.2d" standard_reporter="F.2D" volume="598" page_number="705" paragraph_number="717" court="CA2" year="1979" line="51">598 F.2d 705, 717 (CA2 1979)</citation>
+<date id="110176_530" start="21199" end="21203">1979</date>
+<PROFESSION id="110176_542" start="21210" end="21217">general</PROFESSION>
+<ORGANIZATION id="110176_543" start="21233" end="21240" plural="True">schools</ORGANIZATION>
+<FAMILY id="110176_548" start="21599" end="21606" plural="True">parents</FAMILY>
+<ORGANIZATION id="110176_549" start="21645" end="21650">court</ORGANIZATION>
+<ORGANIZATION id="110176_550" start="21708" end="21715" plural="True">schools</ORGANIZATION>
+<FAMILY id="110176_551" start="21747" end="21752">child</FAMILY>
+<ORGANIZATION id="110176_552" start="21788" end="21795">society</ORGANIZATION>
+<ORGANIZATION id="110176_554" start="21810" end="21824">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_555" start="21916" end="21930" plural="True">Dallas schools</ORGANIZATION>
+<ORGANIZATION id="110176_556" start="21957" end="21962">court</ORGANIZATION>
+<date id="110176_553" start="22026" end="22030">1971</date>
+<NAME id="110176_557" start="22071" end="22076">Anglo</NAME>
+<NAME id="110176_558" start="22093" end="22099">Dallas</NAME>
+<ORGANIZATION id="110176_559" start="22107" end="22114" plural="True">schools</ORGANIZATION>
+<NAME id="110176_560" start="22137" end="22147">half. That</NAME>
+<ORGANIZATION id="110176_561" start="22194" end="22200">School</ORGANIZATION>
+<NAME id="110176_562" start="22201" end="22209">District</NAME>
+<NAME id="110176_563" start="22259" end="22305">Year              Percentage of Anglo Students</NAME>
+<date id="110176_564" start="22367" end="22371">1971</date>
+<date id="110176_565" start="22407" end="22411">1975</date>
+<date id="110176_566" start="22449" end="22453">1979</date>
+<ORGANIZATION id="110176_567" start="22969" end="22983">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_568" start="23108" end="23124">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_569" start="23268" end="23273">Court</ORGANIZATION>
+<ORGANIZATION id="110176_570" start="23391" end="23396">Court</ORGANIZATION>
+<ORGANIZATION id="110176_571" start="23444" end="23458">District Court</ORGANIZATION>
+<NAME id="110176_572" start="23509" end="23514">NOTES</NAME>
+<docket id="110176_573" entry_type="docket" start="23538" end="23544" line="67">78-282</docket>
+<citation id="110176_575" entry_type="case_X_vs_Y" start="23546" end="23609" party1="Curry et al." party2="Metropolitan Branches of the Dallas NAACP et al" line="67">Curry et al. v. Metropolitan Branches of the Dallas NAACP et al</citation>
+<NAME id="110176_577" start="23546" end="23558" party1_of="110176_575">Curry et al.</NAME>
+<NAME id="110176_578" start="23562" end="23609" party2_of="110176_575">Metropolitan Branches of the Dallas NAACP et al</NAME>
+<docket id="110176_574" entry_type="docket" start="23620" end="23626" line="67">78-283</docket>
+<citation id="110176_576" entry_type="case_X_vs_Y" start="23628" end="23694" party1="Brinegar et al." party2="Metropolitan Branches of the Dallas NAACP et al" line="67">Brinegar et al. v. Metropolitan Branches of the Dallas NAACP et al</citation>
+<NAME id="110176_579" start="23628" end="23643" party1_of="110176_576">Brinegar et al.</NAME>
+<NAME id="110176_580" start="23647" end="23694" party2_of="110176_576">Metropolitan Branches of the Dallas NAACP et al</NAME>
+<ORGANIZATION id="110176_581" start="23728" end="23733">court</ORGANIZATION>
+<NAME id="110176_588" start="23740" end="23752">H. Ron White</NAME>
+<NAME id="110176_589" start="23775" end="23790">Dallas Alliance</NAME>
+<LEGAL_ROLE id="110176_590" start="23862" end="23872" plural="True">plaintiffs</LEGAL_ROLE>
+<LEGAL_ROLE id="110176_591" start="23874" end="23885" plural="True">respondents</LEGAL_ROLE>
+<NAME id="110176_592" start="23923" end="23939">Mexican-American</NAME>
+<ORGANIZATION id="110176_593" start="24126" end="24136">Task Force</ORGANIZATION>
+<NAME id="110176_594" start="24156" end="24173">Mexican-Americans</NAME>
+<NAME id="110176_595" start="24181" end="24187">Anglos</NAME>
+<NAME id="110176_596" start="24209" end="24224">American Indian</NAME>
+<NAME id="110176_597" start="24230" end="24245">Dallas Alliance</NAME>
+<ORGANIZATION id="110176_598" start="24271" end="24284" plural="True">organizations</ORGANIZATION>
+<NAME id="110176_599" start="24318" end="24353">AFL-CIO and the Chamber of Commerce</NAME>
+<ORGANIZATION id="110176_600" start="24365" end="24371" plural="True">groups</ORGANIZATION>
+<ORGANIZATION id="110176_601" start="24379" end="24392" plural="True">organizations</ORGANIZATION>
+<NAME id="110176_602" start="24428" end="24433">NAACP</NAME>
+<ORGANIZATION id="110176_603" start="24802" end="24807">Court</ORGANIZATION>
+<NAME id="110176_604" start="24813" end="24821">Alliance</NAME>
+<ORGANIZATION id="110176_605" start="24860" end="24882">Educational Task Force</ORGANIZATION>
+<NAME id="110176_606" start="24935" end="24977">Brief for Dallas Alliance as Amicus Curiae</NAME>
+<ORGANIZATION id="110176_613" start="24991" end="25005">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_614" start="25018" end="25024">School</ORGANIZATION>
+<NAME id="110176_615" start="25025" end="25033">District</NAME>
+<ORGANIZATION id="110176_616" start="25064" end="25076" plural="True">high schools</ORGANIZATION>
+<date id="110176_611" start="25080" end="25084">1979</date>
+<NAME id="110176_617" start="25086" end="25090">Each</NAME>
+<ORGANIZATION id="110176_618" start="25157" end="25163">school</ORGANIZATION>
+<ORGANIZATION id="110176_619" start="25217" end="25223">School</ORGANIZATION>
+<NAME id="110176_620" start="25224" end="25232">District</NAME>
+<ORGANIZATION id="110176_621" start="25235" end="25246">high school</ORGANIZATION>
+<citation id="110176_608" entry_type="case_X_vs_Y" start="25259" end="25273" party1="Tasby" party2="Estes" line="72">Tasby v. Estes</citation>
+<NAME id="110176_609" start="25259" end="25264" party1_of="110176_608">Tasby</NAME>
+<NAME id="110176_610" start="25268" end="25273" party2_of="110176_608">Estes</NAME>
+<citation id="110176_607" entry_type="standard_case" start="25275" end="25318" reporter="F. Supp." standard_reporter="F.SUPP." volume="412" page_number="1192" paragraph_number="1215-1216" year="1976" line="72">412 F. Supp. 1192, 1215-1216 (ND Tex. 1976)</citation>
+<date id="110176_612" start="25313" end="25317">1976</date>
+<ORGANIZATION id="110176_631" start="25394" end="25410">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="110176_632" start="25441" end="25455">District Court</ORGANIZATION>
+<FAMILY id="110176_633" start="25540" end="25548" plural="True">children</FAMILY>
+<citation id="110176_627" entry_type="case_X_vs_Y" start="25575" end="25589" party1="Tasby" party2="Estes" line="73">Tasby v. Estes</citation>
+<NAME id="110176_628" start="25575" end="25580" party1_of="110176_627">Tasby</NAME>
+<NAME id="110176_629" start="25584" end="25589" party2_of="110176_627">Estes</NAME>
+<citation id="110176_626" entry_type="standard_case" start="25591" end="25621" reporter="F.2d" standard_reporter="F.2D" volume="572" page_number="1010" paragraph_number="1015" court="CA5" year="1978" line="73">572 F.2d 1010, 1015 (CA5 1978)</citation>
+<date id="110176_630" start="25616" end="25620">1978</date>
+<ORGANIZATION id="110176_643" start="25640" end="25654">District Court</ORGANIZATION>
+<LEGAL_ROLE id="110176_644" start="25712" end="25722" plural="True">plaintiffs</LEGAL_ROLE>
+<FAMILY id="110176_645" start="25729" end="25734">staff</FAMILY>
+<ORGANIZATION id="110176_646" start="25750" end="25756">school</ORGANIZATION>
+<NAME id="110176_647" start="25795" end="25812">Mexican-Americans</NAME>
+<citation id="110176_639" entry_type="case_X_vs_Y" start="25896" end="25910" party1="Tasby" party2="Estes" line="74">Tasby v. Estes</citation>
+<NAME id="110176_640" start="25896" end="25901" party1_of="110176_639">Tasby</NAME>
+<NAME id="110176_641" start="25905" end="25910" party2_of="110176_639">Estes</NAME>
+<citation id="110176_638" entry_type="standard_case" start="25912" end="25948" reporter="F. Supp." standard_reporter="F.SUPP." volume="342" page_number="945" paragraph_number="953" year="1971" line="74">342 F. Supp. 945, 953 (ND Tex. 1971)</citation>
+<date id="110176_642" start="25943" end="25947">1971</date>
+<ORGANIZATION id="110176_652" start="26123" end="26128">Board</ORGANIZATION>
+<NAME id="110176_653" start="26149" end="26171">NAACP plaintiffs' Plan</NAME>
+<LEGAL_ROLE id="110176_654" start="26155" end="26165" plural="True">plaintiffs</LEGAL_ROLE>
+<NAME id="110176_655" start="26180" end="26182">Tr</NAME>
+<ORGANIZATION id="110176_656" start="26229" end="26234">Court</ORGANIZATION>
+<LEGAL_ROLE id="110176_657" start="26240" end="26257" plural="True">NAACP respondents</LEGAL_ROLE>
+<ORGANIZATION id="110176_658" start="26302" end="26309" plural="True">schools</ORGANIZATION>
+<NAME id="110176_659" start="26339" end="26341">K-</NAME>
+<NAME id="110176_661" start="26397" end="26406">See Yudof</NAME>
+<ORGANIZATION id="110176_662" start="26408" end="26414">School</ORGANIZATION>
+<NAME id="110176_663" start="26415" end="26428">Desegregation</NAME>
+<NAME id="110176_664" start="26430" end="26443">Legal Realism</NAME>
+<NAME id="110176_665" start="26445" end="26465">Reasoned Elaboration</NAME>
+<NAME id="110176_666" start="26471" end="26494">Social Science Research</NAME>
+<ORGANIZATION id="110176_667" start="26502" end="26515">Supreme Court</ORGANIZATION>
+<NAME id="110176_668" start="26520" end="26533">Law &amp; Contemp</NAME>
+<NAME id="110176_669" start="26535" end="26539">Prob</NAME>
+<date id="110176_660" start="26560" end="26564">1978</date>
+<NAME id="110176_675" start="26604" end="26606">MR</NAME>
+<citation id="110176_671" entry_type="case_X_vs_Y" start="26648" end="26665" party1="Stump" party2="Sparkman" line="79">Stump v. Sparkman</citation>
+<NAME id="110176_672" start="26648" end="26653" party1_of="110176_671">Stump</NAME>
+<NAME id="110176_673" start="26657" end="26665" party2_of="110176_671">Sparkman</NAME>
+<citation id="110176_670" entry_type="standard_case" start="26667" end="26691" reporter="U.S." standard_reporter="U.S." volume="435" page_number="349" paragraph_number="367" year="1978" line="79">435 U.S. 349, 367 (1978)</citation>
+<date id="110176_674" start="26686" end="26690">1978</date>
+<NAME id="110176_682" start="26699" end="26710">See Coleman</NAME>
+<NAME id="110176_683" start="26712" end="26744">New Incentives for Desegregation</NAME>
+<NAME id="110176_684" start="26748" end="26760">Human Rights</NAME>
+<DATE id="110176_685" start="26769" end="26773" plural="True">Fall</DATE>
+<date id="110176_680" start="26774" end="26778">1978</date>
+<NAME id="110176_686" start="26781" end="26787">Farley</NAME>
+<ORGANIZATION id="110176_687" start="26789" end="26844">Residential Segregation and Its Implications for School</ORGANIZATION>
+<NAME id="110176_688" start="26845" end="26856">Integration</NAME>
+<NAME id="110176_689" start="26861" end="26874">Law &amp; Contemp</NAME>
+<NAME id="110176_690" start="26876" end="26880">Prob</NAME>
+<date id="110176_681" start="26894" end="26898">1975</date>
+<ORGANIZATION id="110176_708" start="26920" end="26926" plural="True">courts</ORGANIZATION>
+<citation id="110176_694" entry_type="case_X_vs_Y" start="26944" end="26977" party1="Swann" party2="Charlotte-Mecklenburg Bd" line="81">Swann v. Charlotte-Mecklenburg Bd</citation>
+<NAME id="110176_698" start="26944" end="26949" party1_of="110176_694">Swann</NAME>
+<NAME id="110176_699" start="26953" end="26977" party2_of="110176_694">Charlotte-Mecklenburg Bd</NAME>
+<citation id="110176_691" entry_type="standard_case" start="27140" end="27156" reporter="U. S." standard_reporter="U.S." volume="402" page_number="26" line="81">402 U. S., at 26</citation>
+<citation id="110176_695" entry_type="case_X_vs_Y" start="28086" end="28105" party1="Milliken" party2="Bradley" line="81">Milliken v. Bradley</citation>
+<NAME id="110176_700" start="28086" end="28094" party1_of="110176_695">Milliken</NAME>
+<NAME id="110176_701" start="28098" end="28105" party2_of="110176_695">Bradley</NAME>
+<citation id="110176_692" entry_type="standard_case" start="28107" end="28126" reporter="U.S." standard_reporter="U.S." volume="418" page_number="717" year="1974" line="81">418 U.S. 717 (1974)</citation>
+<date id="110176_706" start="28121" end="28125">1974</date>
+<citation id="110176_696" entry_type="case_X_vs_Y" start="28128" end="28176" party1="Milliken I), Dayton Bd. of Education" party2="Brinkman" line="81">Milliken I), Dayton Bd. of Education v. Brinkman</citation>
+<NAME id="110176_702" start="28128" end="28164" party1_of="110176_696">Milliken I), Dayton Bd. of Education</NAME>
+<NAME id="110176_703" start="28168" end="28176" party2_of="110176_696">Brinkman</NAME>
+<citation id="110176_697" entry_type="case_X_vs_Y" start="28247" end="28261" party1="Tasby" party2="Estes" line="81">Tasby v. Estes</citation>
+<NAME id="110176_704" start="28247" end="28252" party1_of="110176_697">Tasby</NAME>
+<NAME id="110176_705" start="28256" end="28261" party2_of="110176_697">Estes</NAME>
+<citation id="110176_693" entry_type="standard_case" start="28263" end="28286" reporter="F.2d" standard_reporter="F.2D" volume="517" page_number="92" paragraph_number="103" year="1975" line="81">517 F.2d 92, 103 (1975)</citation>
+<date id="110176_707" start="28281" end="28285">1975</date>
+<NAME id="110176_735" start="28299" end="28303">Term</NAME>
+<ORGANIZATION id="110176_736" start="28309" end="28314">Court</ORGANIZATION>
+<ORGANIZATION id="110176_737" start="28323" end="28329">school</ORGANIZATION>
+<citation id="110176_726" entry_type="case_X_vs_Y" start="28355" end="28417" party1="Columbus and Dayton, Ohio. Columbus Bd. of Education" party2="Penick" line="82">Columbus and Dayton, Ohio. Columbus Bd. of Education v. Penick</citation>
+<NAME id="110176_728" start="28355" end="28407" party1_of="110176_726">Columbus and Dayton, Ohio. Columbus Bd. of Education</NAME>
+<NAME id="110176_729" start="28411" end="28417" party2_of="110176_726">Penick</NAME>
+<citation id="110176_721" entry_type="standard_case" start="28419" end="28438" reporter="U.S." standard_reporter="U.S." volume="443" page_number="449" year="1979" line="82">443 U.S. 449 (1979)</citation>
+<date id="110176_732" start="28433" end="28437">1979</date>
+<citation id="110176_727" entry_type="case_X_vs_Y" start="28440" end="28475" party1="Dayton Bd. of Education" party2="Brinkman" line="82">Dayton Bd. of Education v. Brinkman</citation>
+<NAME id="110176_730" start="28440" end="28463" party1_of="110176_727">Dayton Bd. of Education</NAME>
+<NAME id="110176_731" start="28467" end="28475" party2_of="110176_727">Brinkman</NAME>
+<citation id="110176_722" entry_type="standard_case" start="28477" end="28496" reporter="U.S." standard_reporter="U.S." volume="443" page_number="526" year="1979" line="82">443 U.S. 526 (1979)</citation>
+<date id="110176_733" start="28491" end="28495">1979</date>
+<citation id="110176_723" entry_type="standard_case" start="28962" end="28979" reporter="U. S." standard_reporter="U.S." volume="443" page_number="466" line="82">443 U. S., at 466</citation>
+<citation id="110176_724" entry_type="standard_case" start="28988" end="29009" reporter="F. Supp." standard_reporter="F.SUPP." volume="429" page_number="229" paragraph_number="252" line="82">429 F. Supp. 229, 252</citation>
+<date id="110176_734" start="29038" end="29042">1977</date>
+<citation id="110176_725" entry_type="standard_case" start="29268" end="29285" reporter="U. S." standard_reporter="U.S." volume="443" page_number="538" line="82">443 U. S., at 538</citation>
+<ORGANIZATION id="110176_746" start="29325" end="29339">District Court</ORGANIZATION>
+<ORGANIZATION id="110176_747" start="29348" end="29364">Court of Appeals</ORGANIZATION>
+<citation id="110176_749" entry_type="case_X_vs_Y" start="29400" end="29447" party1="United States" party2="Scotland Neck Bd. of Education" line="85">United States v. Scotland Neck Bd. of Education</citation>
+<NAME id="110176_750" start="29400" end="29413" party1_of="110176_749">United States</NAME>
+<NAME id="110176_751" start="29417" end="29447" party2_of="110176_749">Scotland Neck Bd. of Education</NAME>
+<citation id="110176_748" entry_type="standard_case" start="29449" end="29473" reporter="U.S." standard_reporter="U.S." volume="407" page_number="484" paragraph_number="491" year="1972" line="85">407 U.S. 484, 491 (1972)</citation>
+<date id="110176_752" start="29468" end="29472">1972</date>
+<NAME id="110176_769" start="30165" end="30168">See</NAME>
+<citation id="110176_760" entry_type="case_X_vs_Y" start="30169" end="30191" party1="Mapp" party2="Chattanooga Bd" line="86">Mapp v. Chattanooga Bd</citation>
+<NAME id="110176_762" start="30169" end="30173" party1_of="110176_760">Mapp</NAME>
+<NAME id="110176_763" start="30177" end="30191" party2_of="110176_760">Chattanooga Bd</NAME>
+<citation id="110176_757" entry_type="standard_case" start="30207" end="30230" reporter="F.2d" standard_reporter="F.2D" volume="525" page_number="169" court="CA6" year="1975" line="86">525 F.2d 169 (CA6 1975)</citation>
+<date id="110176_766" start="30225" end="30229">1975</date>
+<citation id="110176_758" entry_type="standard_case" start="30246" end="30265" reporter="U.S." standard_reporter="U.S." volume="427" page_number="911" year="1976" line="86">427 U.S. 911 (1976)</citation>
+<date id="110176_767" start="30260" end="30264">1976</date>
+<citation id="110176_761" entry_type="case_X_vs_Y" start="30438" end="30478" party1="Crawford" party2="Los Angeles Bd. of Education" line="86">Crawford v. Los Angeles Bd. of Education</citation>
+<NAME id="110176_764" start="30438" end="30446" party1_of="110176_761">Crawford</NAME>
+<NAME id="110176_765" start="30450" end="30478" party2_of="110176_761">Los Angeles Bd. of Education</NAME>
+<citation id="110176_759" entry_type="standard_case" start="30505" end="30527" reporter="P.2d" standard_reporter="P.2D" volume="551" page_number="28" paragraph_number="47" year="1976" line="86">551 P.2d 28, 47 (1976)</citation>
+<date id="110176_768" start="30522" end="30526">1976</date>
+<PROFESSION id="110176_780" start="30557" end="30564">counsel</PROFESSION>
+<ORGANIZATION id="110176_781" start="30573" end="30593">group of respondents</ORGANIZATION>
+<ORGANIZATION id="110176_782" start="30637" end="30642">court</ORGANIZATION>
+<citation id="110176_777" entry_type="case_X_vs_Y" start="30646" end="30682" party1="Lee" party2="Macon County Bd. of Education" line="87">Lee v. Macon County Bd. of Education</citation>
+<NAME id="110176_778" start="30646" end="30649" party1_of="110176_777">Lee</NAME>
+<NAME id="110176_779" start="30653" end="30682" party2_of="110176_777">Macon County Bd. of Education</NAME>
+<NAME id="110176_787" start="31188" end="31196">Columbus</NAME>
+<ORGANIZATION id="110176_788" start="31203" end="31209" plural="True">courts</ORGANIZATION>
+<PROFESSION id="110176_789" start="31228" end="31238">government</PROFESSION>
+<FAMILY id="110176_790" start="31467" end="31474" plural="True">parents</FAMILY>
+<PROFESSION id="110176_791" start="31493" end="31528">legislators and executive officials</PROFESSION>
+<NAME id="110176_792" start="31530" end="31533">See</NAME>
+<citation id="110176_785" entry_type="standard_case" start="31534" end="31551" reporter="U. S." standard_reporter="U.S." volume="443" page_number="480" line="88">443 U. S., at 480</citation>
+<NAME id="110176_793" start="31557" end="31563">POWELL</NAME>
+<NAME id="110176_794" start="31582" end="31585">See</NAME>
+<NAME id="110176_795" start="31591" end="31598">Coleman</NAME>
+<NAME id="110176_796" start="31623" end="31629">Willie</NAME>
+<NAME id="110176_797" start="31631" end="31645">Racial Balance</NAME>
+<NAME id="110176_798" start="31649" end="31666">Quality Education</NAME>
+<ORGANIZATION id="110176_799" start="31672" end="31678">School</ORGANIZATION>
+<NAME id="110176_800" start="31679" end="31692">Desegregation</NAME>
+<NAME id="110176_801" start="31694" end="31714">Shadow and Substance</NAME>
+<NAME id="110176_802" start="31718" end="31736">Levinsohn &amp; Wright</NAME>
+<date id="110176_786" start="31742" end="31746">1976</date>
+<ORGANIZATION id="110176_803" start="31759" end="31773">District Court</ORGANIZATION>
+<NAME id="110176_804" start="31845" end="31851">Dallas</NAME>
+<ORGANIZATION id="110176_805" start="31930" end="31936">school</ORGANIZATION>
+<ORGANIZATION id="110176_806" start="31985" end="31990">court</ORGANIZATION>
+<ORGANIZATION id="110176_807" start="32033" end="32046" plural="True">organizations</ORGANIZATION>
+<ORGANIZATION id="110176_808" start="32066" end="32073" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_809" start="32162" end="32169" plural="True">schools</ORGANIZATION>
+<ORGANIZATION id="110176_810" start="32250" end="32257" plural="True">schools</ORGANIZATION>
+<NAME id="110176_811" start="32320" end="32325">Anglo</NAME>
+<ORGANIZATION id="110176_812" start="32344" end="32350">School</ORGANIZATION>
+<NAME id="110176_813" start="32351" end="32359">District</NAME>
+<NAME id="110176_814" start="32406" end="32411">Anglo</NAME>
+<ORGANIZATION id="110176_815" start="32441" end="32453" plural="True">high schools</ORGANIZATION>
+<RELATION id="110176_3" relation_type="asymmetric" gram_type="infix" theme="110176_1" theme_string="444 U.S. 437 (1980)" at_date="110176_2" at_date_string="1980"></RELATION>
+<RELATION id="110176_8" relation_type="asymmetric" gram_type="infix" theme="110176_5" theme_string="ESTES ET AL.  v.  METROPOLITAN BRANCHES OF THE DALLAS NAACP ET AL" party1="110176_6" party1_string="ESTES ET AL."></RELATION>
+<RELATION id="110176_9" relation_type="asymmetric" gram_type="infix" theme="110176_5" theme_string="ESTES ET AL.  v.  METROPOLITAN BRANCHES OF THE DALLAS NAACP ET AL" party2="110176_7" party2_string="METROPOLITAN BRANCHES OF THE DALLAS NAACP ET AL"></RELATION>
+<RELATION id="110176_13" relation_type="equivalence" gram_type="multi_line" standard_case="110176_1" standard_case_string="444 U.S. 437 (1980)" X_vs_Y="110176_5" X_vs_Y_string="ESTES ET AL.  v.  METROPOLITAN BRANCHES OF THE DALLAS NAACP ET AL"></RELATION>
+<RELATION id="110176_14" relation_type="asymmetric" gram_type="multi_line" theme="110176_5" theme_string="ESTES ET AL.  v.  METROPOLITAN BRANCHES OF THE DALLAS NAACP ET AL" includes_docket="110176_10" includes_docket_string="78-253"></RELATION>
+<RELATION id="110176_39" legal_role="110176_28" legal_role_string="respondents" relation_type="asymmetric" gram_type="pre_nom" theme="110176_29" theme_string="Metropolitan Branches of the Dallas NAACP"></RELATION>
+<RELATION id="110176_40" legal_role="110176_34" legal_role_string="respondents" relation_type="asymmetric" gram_type="pre_nom" theme="110176_35" theme_string="Tasby"></RELATION>
+<RELATION id="110176_51" relation_type="asymmetric" gram_type="pre_nom" profession="110176_41" profession_string="Deputy Solicitor General" theme="110176_42" theme_string="Wallace"></RELATION>
+<RELATION id="110176_52" relation_type="asymmetric" gram_type="as_predication" profession="110176_44" profession_string="Solicitor General" theme="110176_43" theme_string="United States"></RELATION>
+<RELATION id="110176_53" relation_type="asymmetric" gram_type="pre_nom" profession="110176_44" profession_string="Solicitor General" theme="110176_45" theme_string="McCree"></RELATION>
+<RELATION id="110176_54" relation_type="asymmetric" gram_type="apposition" profession="110176_46" profession_string="Assistant Attorney General" theme="110176_45" theme_string="McCree"></RELATION>
+<RELATION id="110176_55" relation_type="asymmetric" gram_type="pre_nom" profession="110176_46" profession_string="Assistant Attorney General" theme="110176_47" theme_string="Days"></RELATION>
+<RELATION id="110176_96" relation_type="equivalence" gram_type="apposition" standard_case="110176_77" standard_case_string="163 U.S. 537 (1896)" X_vs_Y="110176_79" X_vs_Y_string="Plessy v. Ferguson"></RELATION>
+<RELATION id="110176_94" relation_type="asymmetric" gram_type="infix" theme="110176_79" theme_string="Plessy v. Ferguson" party1="110176_81" party1_string="Plessy"></RELATION>
+<RELATION id="110176_95" relation_type="asymmetric" gram_type="infix" theme="110176_79" theme_string="Plessy v. Ferguson" party2="110176_82" party2_string="Ferguson"></RELATION>
+<RELATION id="110176_97" relation_type="asymmetric" gram_type="infix" theme="110176_77" theme_string="163 U.S. 537 (1896)" at_date="110176_85" at_date_string="1896"></RELATION>
+<RELATION id="110176_100" relation_type="equivalence" gram_type="apposition" standard_case="110176_78" standard_case_string="347 U.S. 483 (1954)" X_vs_Y="110176_80" X_vs_Y_string="Brown v. Board of Education"></RELATION>
+<RELATION id="110176_98" relation_type="asymmetric" gram_type="infix" theme="110176_80" theme_string="Brown v. Board of Education" party1="110176_83" party1_string="Brown"></RELATION>
+<RELATION id="110176_99" relation_type="asymmetric" gram_type="infix" theme="110176_80" theme_string="Brown v. Board of Education" party2="110176_84" party2_string="Board of Education"></RELATION>
+<RELATION id="110176_101" relation_type="asymmetric" gram_type="infix" theme="110176_78" theme_string="347 U.S. 483 (1954)" at_date="110176_86" at_date_string="1954"></RELATION>
+<RELATION id="110176_153" relation_type="equivalence" gram_type="apposition" standard_case="110176_121" standard_case_string="342 F. Supp. 945, 947 (ND Tex. 1971)" X_vs_Y="110176_124" X_vs_Y_string="Tasby v. Estes"></RELATION>
+<RELATION id="110176_151" relation_type="asymmetric" gram_type="infix" theme="110176_124" theme_string="Tasby v. Estes" party1="110176_126" party1_string="Tasby"></RELATION>
+<RELATION id="110176_152" relation_type="asymmetric" gram_type="infix" theme="110176_124" theme_string="Tasby v. Estes" party2="110176_127" party2_string="Estes"></RELATION>
+<RELATION id="110176_154" relation_type="asymmetric" gram_type="infix" theme="110176_121" theme_string="342 F. Supp. 945, 947 (ND Tex. 1971)" at_date="110176_131" at_date_string="1971"></RELATION>
+<RELATION id="110176_157" relation_type="equivalence" gram_type="apposition" standard_case="110176_122" standard_case_string="517 F.2d 92, 103" X_vs_Y="110176_125" X_vs_Y_string="Tasby v. Estes"></RELATION>
+<RELATION id="110176_155" relation_type="asymmetric" gram_type="infix" theme="110176_125" theme_string="Tasby v. Estes" party1="110176_128" party1_string="Tasby"></RELATION>
+<RELATION id="110176_156" relation_type="asymmetric" gram_type="infix" theme="110176_125" theme_string="Tasby v. Estes" party2="110176_129" party2_string="Estes"></RELATION>
+<RELATION id="110176_158" relation_type="asymmetric" gram_type="infix" theme="110176_123" theme_string="423 U.S. 939 (1975)" at_date="110176_132" at_date_string="1975"></RELATION>
+<RELATION id="110176_192" relation_type="equivalence" gram_type="apposition" standard_case="110176_159" standard_case_string="412 F. Supp. 1192 (ND Tex. 1976)" X_vs_Y="110176_162" X_vs_Y_string="Tasby v. Estes"></RELATION>
+<RELATION id="110176_190" relation_type="asymmetric" gram_type="infix" theme="110176_162" theme_string="Tasby v. Estes" party1="110176_164" party1_string="Tasby"></RELATION>
+<RELATION id="110176_191" relation_type="asymmetric" gram_type="infix" theme="110176_162" theme_string="Tasby v. Estes" party2="110176_165" party2_string="Estes"></RELATION>
+<RELATION id="110176_193" relation_type="asymmetric" gram_type="infix" theme="110176_159" theme_string="412 F. Supp. 1192 (ND Tex. 1976)" at_date="110176_168" at_date_string="1976"></RELATION>
+<RELATION id="110176_196" relation_type="equivalence" gram_type="apposition" standard_case="110176_160" standard_case_string="427 U.S. 424, 435-436 (1976)" X_vs_Y="110176_163" X_vs_Y_string="Pasadena City Bd. of Education v. Spangler"></RELATION>
+<RELATION id="110176_194" relation_type="asymmetric" gram_type="infix" theme="110176_163" theme_string="Pasadena City Bd. of Education v. Spangler" party1="110176_166" party1_string="Pasadena City Bd. of Education"></RELATION>
+<RELATION id="110176_195" relation_type="asymmetric" gram_type="infix" theme="110176_163" theme_string="Pasadena City Bd. of Education v. Spangler" party2="110176_167" party2_string="Spangler"></RELATION>
+<RELATION id="110176_197" relation_type="asymmetric" gram_type="infix" theme="110176_160" theme_string="427 U.S. 424, 435-436 (1976)" at_date="110176_171" at_date_string="1976"></RELATION>
+<RELATION id="110176_254" relation_type="equivalence" gram_type="apposition" standard_case="110176_218" standard_case_string="402 U.S. 1, 31 (1971)" X_vs_Y="110176_220" X_vs_Y_string="Swann v. Charlotte-Mecklenburg Bd. of Education"></RELATION>
+<RELATION id="110176_252" relation_type="asymmetric" gram_type="infix" theme="110176_220" theme_string="Swann v. Charlotte-Mecklenburg Bd. of Education" party1="110176_221" party1_string="Swann"></RELATION>
+<RELATION id="110176_253" relation_type="asymmetric" gram_type="infix" theme="110176_220" theme_string="Swann v. Charlotte-Mecklenburg Bd. of Education" party2="110176_222" party2_string="Charlotte-Mecklenburg Bd. of Education"></RELATION>
+<RELATION id="110176_255" relation_type="asymmetric" gram_type="infix" theme="110176_218" theme_string="402 U.S. 1, 31 (1971)" at_date="110176_223" at_date_string="1971"></RELATION>
+<RELATION id="110176_275" relation_type="equivalence" gram_type="apposition" standard_case="110176_256" standard_case_string="572 F.2d 1010, 1013 (CA5 1978)" X_vs_Y="110176_257" X_vs_Y_string="Tasby v. Estes"></RELATION>
+<RELATION id="110176_273" relation_type="asymmetric" gram_type="infix" theme="110176_257" theme_string="Tasby v. Estes" party1="110176_258" party1_string="Tasby"></RELATION>
+<RELATION id="110176_274" relation_type="asymmetric" gram_type="infix" theme="110176_257" theme_string="Tasby v. Estes" party2="110176_259" party2_string="Estes"></RELATION>
+<RELATION id="110176_276" relation_type="asymmetric" gram_type="infix" theme="110176_256" theme_string="572 F.2d 1010, 1013 (CA5 1978)" at_date="110176_260" at_date_string="1978"></RELATION>
+<RELATION id="110176_305" relation_type="equivalence" gram_type="apposition" standard_case="110176_289" standard_case_string="443 U.S. 449, 486-488 (1979)" X_vs_Y="110176_290" X_vs_Y_string="Columbus Bd. of Education v. Penick"></RELATION>
+<RELATION id="110176_303" relation_type="asymmetric" gram_type="infix" theme="110176_290" theme_string="Columbus Bd. of Education v. Penick" party1="110176_291" party1_string="Columbus Bd. of Education"></RELATION>
+<RELATION id="110176_304" relation_type="asymmetric" gram_type="infix" theme="110176_290" theme_string="Columbus Bd. of Education v. Penick" party2="110176_292" party2_string="Penick"></RELATION>
+<RELATION id="110176_306" relation_type="asymmetric" gram_type="infix" theme="110176_289" theme_string="443 U.S. 449, 486-488 (1979)" at_date="110176_293" at_date_string="1979"></RELATION>
+<RELATION id="110176_326" relation_type="equivalence" gram_type="apposition" standard_case="110176_307" standard_case_string="433 U.S. 267, 280 (1977)" X_vs_Y="110176_309" X_vs_Y_string="Milliken v. Bradley"></RELATION>
+<RELATION id="110176_324" relation_type="asymmetric" gram_type="infix" theme="110176_309" theme_string="Milliken v. Bradley" party1="110176_311" party1_string="Milliken"></RELATION>
+<RELATION id="110176_325" relation_type="asymmetric" gram_type="infix" theme="110176_309" theme_string="Milliken v. Bradley" party2="110176_312" party2_string="Bradley"></RELATION>
+<RELATION id="110176_327" relation_type="asymmetric" gram_type="infix" theme="110176_307" theme_string="433 U.S. 267, 280 (1977)" at_date="110176_315" at_date_string="1977"></RELATION>
+<RELATION id="110176_330" relation_type="equivalence" gram_type="apposition" standard_case="110176_308" standard_case_string="402 U.S. 33, 37 (1971)" X_vs_Y="110176_310" X_vs_Y_string="Davis v. School Comm'rs of Mobile County"></RELATION>
+<RELATION id="110176_328" relation_type="asymmetric" gram_type="infix" theme="110176_310" theme_string="Davis v. School Comm'rs of Mobile County" party1="110176_313" party1_string="Davis"></RELATION>
+<RELATION id="110176_329" relation_type="asymmetric" gram_type="infix" theme="110176_310" theme_string="Davis v. School Comm'rs of Mobile County" party2="110176_314" party2_string="School Comm'rs of Mobile County"></RELATION>
+<RELATION id="110176_331" relation_type="asymmetric" gram_type="infix" theme="110176_308" theme_string="402 U.S. 33, 37 (1971)" at_date="110176_316" at_date_string="1971"></RELATION>
+<RELATION id="110176_387" relation_type="equivalence" gram_type="apposition" standard_case="110176_337" standard_case_string="391 U.S. 430, 442 (1968)" X_vs_Y="110176_342" X_vs_Y_string="Green v. County School Board"></RELATION>
+<RELATION id="110176_385" relation_type="asymmetric" gram_type="infix" theme="110176_342" theme_string="Green v. County School Board" party1="110176_347" party1_string="Green"></RELATION>
+<RELATION id="110176_386" relation_type="asymmetric" gram_type="infix" theme="110176_342" theme_string="Green v. County School Board" party2="110176_348" party2_string="County School Board"></RELATION>
+<RELATION id="110176_388" relation_type="asymmetric" gram_type="infix" theme="110176_337" theme_string="391 U.S. 430, 442 (1968)" at_date="110176_357" at_date_string="1968"></RELATION>
+<RELATION id="110176_391" relation_type="equivalence" gram_type="apposition" standard_case="110176_338" standard_case_string="427 U. S., at 435" X_vs_Y="110176_343" X_vs_Y_string="Pasadena City Bd. of Education v. Spangler"></RELATION>
+<RELATION id="110176_389" relation_type="asymmetric" gram_type="infix" theme="110176_343" theme_string="Pasadena City Bd. of Education v. Spangler" party1="110176_349" party1_string="Pasadena City Bd. of Education"></RELATION>
+<RELATION id="110176_390" relation_type="asymmetric" gram_type="infix" theme="110176_343" theme_string="Pasadena City Bd. of Education v. Spangler" party2="110176_350" party2_string="Spangler"></RELATION>
+<RELATION id="110176_392" relation_type="asymmetric" gram_type="infix" theme="110176_344" theme_string="Keyes v. School Dist" party1="110176_351" party1_string="Keyes"></RELATION>
+<RELATION id="110176_393" relation_type="asymmetric" gram_type="infix" theme="110176_344" theme_string="Keyes v. School Dist" party2="110176_352" party2_string="School Dist"></RELATION>
+<RELATION id="110176_394" relation_type="asymmetric" gram_type="infix" theme="110176_339" theme_string="413 U.S. 189, 222-223 (1973)" at_date="110176_358" at_date_string="1973"></RELATION>
+<RELATION id="110176_397" relation_type="equivalence" gram_type="apposition" standard_case="110176_340" standard_case_string="433 U.S. 406, 417 (1977)" X_vs_Y="110176_345" X_vs_Y_string="Dayton Bd. of Education v. Brinkman"></RELATION>
+<RELATION id="110176_395" relation_type="asymmetric" gram_type="infix" theme="110176_345" theme_string="Dayton Bd. of Education v. Brinkman" party1="110176_353" party1_string="Dayton Bd. of Education"></RELATION>
+<RELATION id="110176_396" relation_type="asymmetric" gram_type="infix" theme="110176_345" theme_string="Dayton Bd. of Education v. Brinkman" party2="110176_354" party2_string="Brinkman"></RELATION>
+<RELATION id="110176_398" relation_type="asymmetric" gram_type="infix" theme="110176_340" theme_string="433 U.S. 406, 417 (1977)" at_date="110176_359" at_date_string="1977"></RELATION>
+<RELATION id="110176_401" relation_type="equivalence" gram_type="apposition" standard_case="110176_341" standard_case_string="402 U. S., at 26" X_vs_Y="110176_346" X_vs_Y_string="Swann v. Charlotte-Mecklenburg Bd. of Education"></RELATION>
+<RELATION id="110176_399" relation_type="asymmetric" gram_type="infix" theme="110176_346" theme_string="Swann v. Charlotte-Mecklenburg Bd. of Education" party1="110176_355" party1_string="Swann"></RELATION>
+<RELATION id="110176_400" relation_type="asymmetric" gram_type="infix" theme="110176_346" theme_string="Swann v. Charlotte-Mecklenburg Bd. of Education" party2="110176_356" party2_string="Charlotte-Mecklenburg Bd. of Education"></RELATION>
+<RELATION id="110176_416" relation_type="equivalence" gram_type="apposition" standard_case="110176_402" standard_case_string="418 U.S. 717, 740-741 (1974)" X_vs_Y="110176_403" X_vs_Y_string="Milliken v. Bradley"></RELATION>
+<RELATION id="110176_414" relation_type="asymmetric" gram_type="infix" theme="110176_403" theme_string="Milliken v. Bradley" party1="110176_404" party1_string="Milliken"></RELATION>
+<RELATION id="110176_415" relation_type="asymmetric" gram_type="infix" theme="110176_403" theme_string="Milliken v. Bradley" party2="110176_405" party2_string="Bradley"></RELATION>
+<RELATION id="110176_417" relation_type="asymmetric" gram_type="infix" theme="110176_402" theme_string="418 U.S. 717, 740-741 (1974)" at_date="110176_406" at_date_string="1974"></RELATION>
+<RELATION id="110176_450" relation_type="asymmetric" gram_type="apposition" theme="110176_426" theme_string="342 F. Supp., at 956" at_date="110176_430" at_date_string="1971"></RELATION>
+<RELATION id="110176_473" relation_type="equivalence" gram_type="apposition" standard_case="110176_451" standard_case_string="391 U. S., at 439" X_vs_Y="110176_453" X_vs_Y_string="Green v. County School Board"></RELATION>
+<RELATION id="110176_471" relation_type="asymmetric" gram_type="infix" theme="110176_453" theme_string="Green v. County School Board" party1="110176_455" party1_string="Green"></RELATION>
+<RELATION id="110176_472" relation_type="asymmetric" gram_type="infix" theme="110176_453" theme_string="Green v. County School Board" party2="110176_456" party2_string="County School Board"></RELATION>
+<RELATION id="110176_476" relation_type="equivalence" gram_type="apposition" standard_case="110176_452" standard_case_string="402 U. S., at 37" X_vs_Y="110176_454" X_vs_Y_string="Davis v. School Comm'rs of Mobile County"></RELATION>
+<RELATION id="110176_474" relation_type="asymmetric" gram_type="infix" theme="110176_454" theme_string="Davis v. School Comm'rs of Mobile County" party1="110176_457" party1_string="Davis"></RELATION>
+<RELATION id="110176_475" relation_type="asymmetric" gram_type="infix" theme="110176_454" theme_string="Davis v. School Comm'rs of Mobile County" party2="110176_458" party2_string="School Comm'rs of Mobile County"></RELATION>
+<RELATION id="110176_488" relation_type="asymmetric" gram_type="infix" theme="110176_477" theme_string="Pasadena City Bd. of Education v. Spangler" party1="110176_478" party1_string="Pasadena City Bd. of Education"></RELATION>
+<RELATION id="110176_489" relation_type="asymmetric" gram_type="infix" theme="110176_477" theme_string="Pasadena City Bd. of Education v. Spangler" party2="110176_479" party2_string="Spangler"></RELATION>
+<RELATION id="110176_517" relation_type="asymmetric" gram_type="infix" theme="110176_490" theme_string="418 U.S. 717 (1974)" at_date="110176_499" at_date_string="1974"></RELATION>
+<RELATION id="110176_520" relation_type="equivalence" gram_type="apposition" standard_case="110176_491" standard_case_string="540 F.2d 229, 239 (1976)" X_vs_Y="110176_493" X_vs_Y_string="Bradley v. Milliken"></RELATION>
+<RELATION id="110176_518" relation_type="asymmetric" gram_type="infix" theme="110176_493" theme_string="Bradley v. Milliken" party1="110176_495" party1_string="Bradley"></RELATION>
+<RELATION id="110176_519" relation_type="asymmetric" gram_type="infix" theme="110176_493" theme_string="Bradley v. Milliken" party2="110176_496" party2_string="Milliken"></RELATION>
+<RELATION id="110176_521" relation_type="asymmetric" gram_type="infix" theme="110176_491" theme_string="540 F.2d 229, 239 (1976)" at_date="110176_500" at_date_string="1976"></RELATION>
+<RELATION id="110176_524" relation_type="equivalence" gram_type="apposition" standard_case="110176_492" standard_case_string="465 F.2d 369, 370 (1972)" X_vs_Y="110176_494" X_vs_Y_string="Lee v. Macon County Bd. of Education"></RELATION>
+<RELATION id="110176_522" relation_type="asymmetric" gram_type="infix" theme="110176_494" theme_string="Lee v. Macon County Bd. of Education" party1="110176_497" party1_string="Lee"></RELATION>
+<RELATION id="110176_523" relation_type="asymmetric" gram_type="infix" theme="110176_494" theme_string="Lee v. Macon County Bd. of Education" party2="110176_498" party2_string="Macon County Bd. of Education"></RELATION>
+<RELATION id="110176_525" relation_type="asymmetric" gram_type="infix" theme="110176_492" theme_string="465 F.2d 369, 370 (1972)" at_date="110176_501" at_date_string="1972"></RELATION>
+<RELATION id="110176_546" relation_type="equivalence" gram_type="apposition" standard_case="110176_526" standard_case_string="598 F.2d 705, 717 (CA2 1979)" X_vs_Y="110176_527" X_vs_Y_string="Andrew Jackson High School v. Ambach"></RELATION>
+<RELATION id="110176_544" relation_type="asymmetric" gram_type="infix" theme="110176_527" theme_string="Andrew Jackson High School v. Ambach" party1="110176_528" party1_string="Andrew Jackson High School"></RELATION>
+<RELATION id="110176_545" relation_type="asymmetric" gram_type="infix" theme="110176_527" theme_string="Andrew Jackson High School v. Ambach" party2="110176_529" party2_string="Ambach"></RELATION>
+<RELATION id="110176_547" relation_type="asymmetric" gram_type="infix" theme="110176_526" theme_string="598 F.2d 705, 717 (CA2 1979)" at_date="110176_530" at_date_string="1979"></RELATION>
+<RELATION id="110176_582" relation_type="asymmetric" gram_type="pre_nom" theme="110176_575" theme_string="Curry et al. v. Metropolitan Branches of the Dallas NAACP et al" includes_docket="110176_573" includes_docket_string="78-282"></RELATION>
+<RELATION id="110176_583" relation_type="asymmetric" gram_type="infix" theme="110176_575" theme_string="Curry et al. v. Metropolitan Branches of the Dallas NAACP et al" party1="110176_577" party1_string="Curry et al."></RELATION>
+<RELATION id="110176_584" relation_type="asymmetric" gram_type="infix" theme="110176_575" theme_string="Curry et al. v. Metropolitan Branches of the Dallas NAACP et al" party2="110176_578" party2_string="Metropolitan Branches of the Dallas NAACP et al"></RELATION>
+<RELATION id="110176_585" relation_type="asymmetric" gram_type="pre_nom" theme="110176_576" theme_string="Brinegar et al. v. Metropolitan Branches of the Dallas NAACP et al" includes_docket="110176_574" includes_docket_string="78-283"></RELATION>
+<RELATION id="110176_586" relation_type="asymmetric" gram_type="infix" theme="110176_576" theme_string="Brinegar et al. v. Metropolitan Branches of the Dallas NAACP et al" party1="110176_579" party1_string="Brinegar et al."></RELATION>
+<RELATION id="110176_587" relation_type="asymmetric" gram_type="infix" theme="110176_576" theme_string="Brinegar et al. v. Metropolitan Branches of the Dallas NAACP et al" party2="110176_580" party2_string="Metropolitan Branches of the Dallas NAACP et al"></RELATION>
+<RELATION id="110176_624" relation_type="equivalence" gram_type="apposition" standard_case="110176_607" standard_case_string="412 F. Supp. 1192, 1215-1216 (ND Tex. 1976)" X_vs_Y="110176_608" X_vs_Y_string="Tasby v. Estes"></RELATION>
+<RELATION id="110176_622" relation_type="asymmetric" gram_type="infix" theme="110176_608" theme_string="Tasby v. Estes" party1="110176_609" party1_string="Tasby"></RELATION>
+<RELATION id="110176_623" relation_type="asymmetric" gram_type="infix" theme="110176_608" theme_string="Tasby v. Estes" party2="110176_610" party2_string="Estes"></RELATION>
+<RELATION id="110176_625" relation_type="asymmetric" gram_type="infix" theme="110176_607" theme_string="412 F. Supp. 1192, 1215-1216 (ND Tex. 1976)" at_date="110176_612" at_date_string="1976"></RELATION>
+<RELATION id="110176_636" relation_type="equivalence" gram_type="apposition" standard_case="110176_626" standard_case_string="572 F.2d 1010, 1015 (CA5 1978)" X_vs_Y="110176_627" X_vs_Y_string="Tasby v. Estes"></RELATION>
+<RELATION id="110176_634" relation_type="asymmetric" gram_type="infix" theme="110176_627" theme_string="Tasby v. Estes" party1="110176_628" party1_string="Tasby"></RELATION>
+<RELATION id="110176_635" relation_type="asymmetric" gram_type="infix" theme="110176_627" theme_string="Tasby v. Estes" party2="110176_629" party2_string="Estes"></RELATION>
+<RELATION id="110176_637" relation_type="asymmetric" gram_type="infix" theme="110176_626" theme_string="572 F.2d 1010, 1015 (CA5 1978)" at_date="110176_630" at_date_string="1978"></RELATION>
+<RELATION id="110176_650" relation_type="equivalence" gram_type="apposition" standard_case="110176_638" standard_case_string="342 F. Supp. 945, 953 (ND Tex. 1971)" X_vs_Y="110176_639" X_vs_Y_string="Tasby v. Estes"></RELATION>
+<RELATION id="110176_648" relation_type="asymmetric" gram_type="infix" theme="110176_639" theme_string="Tasby v. Estes" party1="110176_640" party1_string="Tasby"></RELATION>
+<RELATION id="110176_649" relation_type="asymmetric" gram_type="infix" theme="110176_639" theme_string="Tasby v. Estes" party2="110176_641" party2_string="Estes"></RELATION>
+<RELATION id="110176_651" relation_type="asymmetric" gram_type="infix" theme="110176_638" theme_string="342 F. Supp. 945, 953 (ND Tex. 1971)" at_date="110176_642" at_date_string="1971"></RELATION>
+<RELATION id="110176_678" relation_type="equivalence" gram_type="apposition" standard_case="110176_670" standard_case_string="435 U.S. 349, 367 (1978)" X_vs_Y="110176_671" X_vs_Y_string="Stump v. Sparkman"></RELATION>
+<RELATION id="110176_676" relation_type="asymmetric" gram_type="infix" theme="110176_671" theme_string="Stump v. Sparkman" party1="110176_672" party1_string="Stump"></RELATION>
+<RELATION id="110176_677" relation_type="asymmetric" gram_type="infix" theme="110176_671" theme_string="Stump v. Sparkman" party2="110176_673" party2_string="Sparkman"></RELATION>
+<RELATION id="110176_679" relation_type="asymmetric" gram_type="infix" theme="110176_670" theme_string="435 U.S. 349, 367 (1978)" at_date="110176_674" at_date_string="1978"></RELATION>
+<RELATION id="110176_709" relation_type="asymmetric" gram_type="infix" theme="110176_694" theme_string="Swann v. Charlotte-Mecklenburg Bd" party1="110176_698" party1_string="Swann"></RELATION>
+<RELATION id="110176_710" relation_type="asymmetric" gram_type="infix" theme="110176_694" theme_string="Swann v. Charlotte-Mecklenburg Bd" party2="110176_699" party2_string="Charlotte-Mecklenburg Bd"></RELATION>
+<RELATION id="110176_713" relation_type="equivalence" gram_type="apposition" standard_case="110176_692" standard_case_string="418 U.S. 717 (1974)" X_vs_Y="110176_695" X_vs_Y_string="Milliken v. Bradley"></RELATION>
+<RELATION id="110176_711" relation_type="asymmetric" gram_type="infix" theme="110176_695" theme_string="Milliken v. Bradley" party1="110176_700" party1_string="Milliken"></RELATION>
+<RELATION id="110176_712" relation_type="asymmetric" gram_type="infix" theme="110176_695" theme_string="Milliken v. Bradley" party2="110176_701" party2_string="Bradley"></RELATION>
+<RELATION id="110176_714" relation_type="asymmetric" gram_type="infix" theme="110176_692" theme_string="418 U.S. 717 (1974)" at_date="110176_706" at_date_string="1974"></RELATION>
+<RELATION id="110176_715" relation_type="asymmetric" gram_type="infix" theme="110176_696" theme_string="Milliken I), Dayton Bd. of Education v. Brinkman" party1="110176_702" party1_string="Milliken I), Dayton Bd. of Education"></RELATION>
+<RELATION id="110176_716" relation_type="asymmetric" gram_type="infix" theme="110176_696" theme_string="Milliken I), Dayton Bd. of Education v. Brinkman" party2="110176_703" party2_string="Brinkman"></RELATION>
+<RELATION id="110176_719" relation_type="equivalence" gram_type="apposition" standard_case="110176_693" standard_case_string="517 F.2d 92, 103 (1975)" X_vs_Y="110176_697" X_vs_Y_string="Tasby v. Estes"></RELATION>
+<RELATION id="110176_717" relation_type="asymmetric" gram_type="infix" theme="110176_697" theme_string="Tasby v. Estes" party1="110176_704" party1_string="Tasby"></RELATION>
+<RELATION id="110176_718" relation_type="asymmetric" gram_type="infix" theme="110176_697" theme_string="Tasby v. Estes" party2="110176_705" party2_string="Estes"></RELATION>
+<RELATION id="110176_720" relation_type="asymmetric" gram_type="infix" theme="110176_693" theme_string="517 F.2d 92, 103 (1975)" at_date="110176_707" at_date_string="1975"></RELATION>
+<RELATION id="110176_740" relation_type="equivalence" gram_type="apposition" standard_case="110176_721" standard_case_string="443 U.S. 449 (1979)" X_vs_Y="110176_726" X_vs_Y_string="Columbus and Dayton, Ohio. Columbus Bd. of Education v. Penick"></RELATION>
+<RELATION id="110176_738" relation_type="asymmetric" gram_type="infix" theme="110176_726" theme_string="Columbus and Dayton, Ohio. Columbus Bd. of Education v. Penick" party1="110176_728" party1_string="Columbus and Dayton, Ohio. Columbus Bd. of Education"></RELATION>
+<RELATION id="110176_739" relation_type="asymmetric" gram_type="infix" theme="110176_726" theme_string="Columbus and Dayton, Ohio. Columbus Bd. of Education v. Penick" party2="110176_729" party2_string="Penick"></RELATION>
+<RELATION id="110176_741" relation_type="asymmetric" gram_type="infix" theme="110176_721" theme_string="443 U.S. 449 (1979)" at_date="110176_732" at_date_string="1979"></RELATION>
+<RELATION id="110176_744" relation_type="equivalence" gram_type="apposition" standard_case="110176_722" standard_case_string="443 U.S. 526 (1979)" X_vs_Y="110176_727" X_vs_Y_string="Dayton Bd. of Education v. Brinkman"></RELATION>
+<RELATION id="110176_742" relation_type="asymmetric" gram_type="infix" theme="110176_727" theme_string="Dayton Bd. of Education v. Brinkman" party1="110176_730" party1_string="Dayton Bd. of Education"></RELATION>
+<RELATION id="110176_743" relation_type="asymmetric" gram_type="infix" theme="110176_727" theme_string="Dayton Bd. of Education v. Brinkman" party2="110176_731" party2_string="Brinkman"></RELATION>
+<RELATION id="110176_745" relation_type="asymmetric" gram_type="infix" theme="110176_722" theme_string="443 U.S. 526 (1979)" at_date="110176_733" at_date_string="1979"></RELATION>
+<RELATION id="110176_755" relation_type="equivalence" gram_type="apposition" standard_case="110176_748" standard_case_string="407 U.S. 484, 491 (1972)" X_vs_Y="110176_749" X_vs_Y_string="United States v. Scotland Neck Bd. of Education"></RELATION>
+<RELATION id="110176_753" relation_type="asymmetric" gram_type="infix" theme="110176_749" theme_string="United States v. Scotland Neck Bd. of Education" party1="110176_750" party1_string="United States"></RELATION>
+<RELATION id="110176_754" relation_type="asymmetric" gram_type="infix" theme="110176_749" theme_string="United States v. Scotland Neck Bd. of Education" party2="110176_751" party2_string="Scotland Neck Bd. of Education"></RELATION>
+<RELATION id="110176_756" relation_type="asymmetric" gram_type="infix" theme="110176_748" theme_string="407 U.S. 484, 491 (1972)" at_date="110176_752" at_date_string="1972"></RELATION>
+<RELATION id="110176_770" relation_type="asymmetric" gram_type="infix" theme="110176_760" theme_string="Mapp v. Chattanooga Bd" party1="110176_762" party1_string="Mapp"></RELATION>
+<RELATION id="110176_771" relation_type="asymmetric" gram_type="infix" theme="110176_760" theme_string="Mapp v. Chattanooga Bd" party2="110176_763" party2_string="Chattanooga Bd"></RELATION>
+<RELATION id="110176_772" relation_type="asymmetric" gram_type="infix" theme="110176_757" theme_string="525 F.2d 169 (CA6 1975)" at_date="110176_766" at_date_string="1975"></RELATION>
+<RELATION id="110176_773" relation_type="asymmetric" gram_type="infix" theme="110176_758" theme_string="427 U.S. 911 (1976)" at_date="110176_767" at_date_string="1976"></RELATION>
+<RELATION id="110176_774" relation_type="asymmetric" gram_type="infix" theme="110176_761" theme_string="Crawford v. Los Angeles Bd. of Education" party1="110176_764" party1_string="Crawford"></RELATION>
+<RELATION id="110176_775" relation_type="asymmetric" gram_type="infix" theme="110176_761" theme_string="Crawford v. Los Angeles Bd. of Education" party2="110176_765" party2_string="Los Angeles Bd. of Education"></RELATION>
+<RELATION id="110176_776" relation_type="asymmetric" gram_type="infix" theme="110176_759" theme_string="551 P.2d 28, 47 (1976)" at_date="110176_768" at_date_string="1976"></RELATION>
+<RELATION id="110176_783" relation_type="asymmetric" gram_type="infix" theme="110176_777" theme_string="Lee v. Macon County Bd. of Education" party1="110176_778" party1_string="Lee"></RELATION>
+<RELATION id="110176_784" relation_type="asymmetric" gram_type="infix" theme="110176_777" theme_string="Lee v. Macon County Bd. of Education" party2="110176_779" party2_string="Macon County Bd. of Education"></RELATION>

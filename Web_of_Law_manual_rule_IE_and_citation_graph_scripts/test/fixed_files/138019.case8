@@ -1,0 +1,14 @@
+<citation id="138019_2" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="543" page_number="822" line="3">543 U.S. 822</citation>
+<citation id="138019_4" entry_type="case_X_vs_Y" start="17" end="34" party1="CROSS" party2="ILLINOIS" line="3">CROSS v. ILLINOIS</citation>
+<NAME id="138019_5" start="17" end="22" party1_of="138019_4">CROSS</NAME>
+<NAME id="138019_6" start="26" end="34" party2_of="138019_4">ILLINOIS</NAME>
+<docket id="138019_3" entry_type="docket" start="44" end="51" line="3">03-8407</docket>
+<ORGANIZATION id="138019_12" start="57" end="87">Supreme Court of United States</ORGANIZATION>
+<date id="138019_13" start="93" end="108">October 4, 2004</date>
+<NAME id="138019_15" start="130" end="133">App</NAME>
+<RELATION id="138019_11" relation_type="asymmetric" gram_type="apposition" theme="138019_2" theme_string="543 U.S. 822" includes_docket="138019_3" includes_docket_string="03-8407"></RELATION>
+<RELATION id="138019_7" relation_type="equivalence" gram_type="pre_nom" standard_case="138019_2" standard_case_string="543 U.S. 822" X_vs_Y="138019_4" X_vs_Y_string="CROSS v. ILLINOIS"></RELATION>
+<RELATION id="138019_10" relation_type="asymmetric" gram_type="apposition" theme="138019_4" theme_string="CROSS v. ILLINOIS" includes_docket="138019_3" includes_docket_string="03-8407"></RELATION>
+<RELATION id="138019_8" relation_type="asymmetric" gram_type="infix" theme="138019_4" theme_string="CROSS v. ILLINOIS" party1="138019_5" party1_string="CROSS"></RELATION>
+<RELATION id="138019_9" relation_type="asymmetric" gram_type="infix" theme="138019_4" theme_string="CROSS v. ILLINOIS" party2="138019_6" party2_string="ILLINOIS"></RELATION>
+<RELATION id="138019_14" relation_type="asymmetric" gram_type="multi_line" theme="138019_4" theme_string="CROSS v. ILLINOIS" at_date="138019_13" at_date_string="October 4, 2004"></RELATION>

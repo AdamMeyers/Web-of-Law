@@ -1,0 +1,104 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="114" id1="88926" id="88926_1" lookup_key="u.s._87_114" alternative_keys="['claims of marcuard#1', 'l.ed._22_327', 'wall._20_114']" citation_local_level_id="0" start="0" citation_global_level_id="69.002" end="11" volume="87" name="CLAIMS OF MARCUARD ET AL" line="1" >87 U.S. 114</CITATION>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="327" id1="88926" id="88926_2" lookup_key="l.ed._22_327" alternative_keys="['u.s._87_114', 'claims of marcuard#1', 'wall._20_114']" citation_local_level_id="1" start="16" citation_global_level_id="69.003" end="29" volume="22" name="CLAIMS OF MARCUARD ET AL" line="2" >22 L. Ed. 327</CITATION>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="114" id1="88926" id="88926_3" lookup_key="wall._20_114" alternative_keys="['u.s._87_114', 'l.ed._22_327', 'claims of marcuard#1']" citation_local_level_id="2" start="34" citation_global_level_id="69.004" end="46" volume="20" name="CLAIMS OF MARCUARD ET AL" line="3" >20 Wall. 114</CITATION>
+
+<CITATION start="51" id1="88926" entry_type="case_key" citation_global_level_id="69.001" line="4" name="CLAIMS OF MARCUARD ET AL" id="88926_4" lookup_key="claims of marcuard#1" alternative_keys="['u.s._87_114', 'l.ed._22_327', 'wall._20_114']" end="75" citation_local_level_id="3" >CLAIMS OF MARCUARD ET AL</CITATION>
+
+<NAME start="81" local_name_id="1" end="93" all_names="OCTOBER TERM" id="88926_6" >October Term</NAME>
+
+<DATE start="95" citation_global_level_id="69.001" end="99" citation_local_level_id="3" id="88926_5" >1873</DATE>
+
+<ORGANIZATION start="238" end="281" id="88926_11" >Circuit Court for the District of Louisiana</ORGANIZATION>
+
+<NAME start="283" local_name_id="2" end="291" all_names="MARCUARD" id="88926_12" >Marcuard</NAME>
+
+<ORGANIZATION start="297" end="324" id="88926_13" >Citizens' Bank of Louisiana</ORGANIZATION>
+
+<ORGANIZATION start="334" end="364" id="88926_14" >Merchants' Bank of New Orleans</ORGANIZATION>
+
+<ORGANIZATION start="456" end="466" id="88926_15" >foundation</ORGANIZATION>
+
+<NAME start="564" local_name_id="3" end="575" all_names="NEW ORLEANS" id="88926_16" >New Orleans</NAME>
+
+<NAME start="586" local_name_id="4" end="593" all_names="SLIDELL	JOHN SLIDELL" id="88926_17" >Slidell</NAME>
+
+<ORGANIZATION start="682" end="688" plural="True" id="88926_18" >courts</ORGANIZATION>
+
+<ORGANIZATION start="750" end="756" plural="True" id="88926_19" >courts</ORGANIZATION>
+
+<ORGANIZATION start="770" end="790" id="88926_20" >District Court first</ORGANIZATION>
+
+<ORGANIZATION start="800" end="813" id="88926_21" >Circuit Court</ORGANIZATION>
+
+<NAME start="989" local_name_id="5" end="1012" all_names="MR THOMAS ALLEN CLARKE" id="88926_22" >Mr. Thomas Allen Clarke</NAME>
+
+<LEGAL_ROLE start="1030" end="1039" party="party1" id="88926_23" >appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1043" end="1053" plural="True" id="88926_24" >plaintiffs</LEGAL_ROLE>
+
+<NAME start="1090" local_name_id="6" end="1104" all_names="MR C H HILL" id="88926_25" >Mr. C. H. Hill</NAME>
+
+<PROFESSION start="1106" end="1115" party="MR C H HILL" document_level_name_id="6" id="88926_26" >Assistant</PROFESSION>
+
+<NAME start="1116" local_name_id="7" end="1132" all_names="ATTORNEY-GENERAL" id="88926_27" >Attorney-General</NAME>
+
+<NAME start="1148" local_name_id="8" end="1166" all_names="MR JUSTICE STRONG" id="88926_30" >Mr. Justice STRONG</NAME>
+
+<PROFESSION start="1152" end="1159" id="88926_31" >Justice</PROFESSION>
+
+<ORGANIZATION start="1196" end="1201" id="88926_32" >court</ORGANIZATION>
+
+<NAME start="1490" local_name_id="4" end="1502" all_names="SLIDELL	JOHN SLIDELL" id="88926_39" >John Slidell</NAME>
+
+<NAME start="1681" local_name_id="9" end="1694" all_names="UNITED STATES" id="88926_40" >United States</NAME>
+
+<NAME start="1724" local_name_id="4" end="1731" all_names="SLIDELL	JOHN SLIDELL" id="88926_41" >Slidell</NAME>
+
+<NAME start="1853" local_name_id="10" end="1869" all_names="CONFISCATION ACT" id="88926_42" >Confiscation Act</NAME>
+
+<CITATION id1="Dummy_File_51" entry_type="party_key" party1="Bigelow" line="15" id="88926_33" lookup_key="bigelowforrest#1" party2="Forrest" citation_local_level_id="4" start="1891" party2_short="Forrest" end="1909" citation_global_level_id="203.001" no_current_file="True" party1_short="Bigelow" >Bigelow v. Forrest</CITATION>
+
+<NAME start="1891" local_name_id="11" end="1898" all_names="BIGELOW" party1_of="88926_33" id="88926_35" >Bigelow</NAME>
+
+<NAME start="1902" party2_of="88926_33" end="1909" all_names="FORREST" id="88926_36" local_name_id="12" >Forrest</NAME>
+
+<CITATION id1="Dummy_File_52" entry_type="party_key" party1="Day" line="15" id="88926_34" lookup_key="daycourt#1" party2="Micou2 The District Court" citation_local_level_id="5" start="1933" party2_short="Court" end="1965" citation_global_level_id="204.001" no_current_file="True" party1_short="Day" >Day v. Micou2 The District Court</CITATION>
+
+<NAME start="1933" local_name_id="13" end="1936" all_names="DAY" party1_of="88926_34" id="88926_37" >Day</NAME>
+
+<NAME start="1940" party2_of="88926_34" end="1965" all_names="MICOU2 THE DISTRICT COURT" id="88926_38" local_name_id="14" >Micou2 The District Court</NAME>
+
+<ORGANIZATION start="2247" end="2260" id="88926_47" >Circuit Court</ORGANIZATION>
+
+<CITATION start="2316" id1="Dummy_File_53" entry_type="case_key" citation_global_level_id="205.001" line="23" no_current_file="True" name="AFFIRMED IN EACH OF THE CASES" id="88926_48" lookup_key="affirmed in each of the cases#1" end="2345" citation_local_level_id="6" >AFFIRMED IN EACH OF THE CASES</CITATION>
+
+<NAME start="2371" local_name_id="15" end="2390" all_names="MR JUSTICE BRADLEY" id="88926_49" >Mr. Justice BRADLEY</NAME>
+
+<PROFESSION start="2375" end="2382" id="88926_50" >Justice</PROFESSION>
+
+<NAME start="2523" local_name_id="16" end="2530" all_names="WALLACE" id="88926_51" >Wallace</NAME>
+
+<NAME start="2573" local_name_id="17" end="2575" all_names="ID" id="88926_52" >Id</NAME>
+
+<RELATION case_citation_other_string="CLAIMS OF MARCUARD ET AL" gram_type="multi_line" standard_case="88926_1" relation_type="equivalence" id="88926_7" standard_case_string="87 U.S. 114" case_citation_other="88926_4" ></RELATION>
+
+<RELATION case_citation_other_string="CLAIMS OF MARCUARD ET AL" gram_type="multi_line" standard_case="88926_2" relation_type="equivalence" id="88926_8" standard_case_string="22 L. Ed. 327" case_citation_other="88926_4" ></RELATION>
+
+<RELATION case_citation_other_string="CLAIMS OF MARCUARD ET AL" gram_type="multi_line" standard_case="88926_3" relation_type="equivalence" id="88926_9" standard_case_string="20 Wall. 114" case_citation_other="88926_4" ></RELATION>
+
+<RELATION at_date_string="1873" theme_string="CLAIMS OF MARCUARD ET AL" id="88926_10" relation_type="asymmetric" theme="88926_4" at_date="88926_5" gram_type="multi_line" ></RELATION>
+
+<RELATION profession="88926_26" gram_type="apposition" id="88926_28" profession_string="Assistant" relation_type="asymmetric" theme="88926_25" theme_string="Mr. C. H. Hill" ></RELATION>
+
+<RELATION profession="88926_26" gram_type="pre_nom" id="88926_29" profession_string="Assistant" relation_type="asymmetric" theme="88926_27" theme_string="Attorney-General" ></RELATION>
+
+<RELATION party1_string="Bigelow" party1="88926_35" theme_string="Bigelow v. Forrest" id="88926_43" relation_type="asymmetric" theme="88926_33" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Forrest" theme_string="Bigelow v. Forrest" id="88926_44" relation_type="asymmetric" party2="88926_36" theme="88926_33" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Day" party1="88926_37" theme_string="Day v. Micou2 The District Court" id="88926_45" relation_type="asymmetric" theme="88926_34" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Micou2 The District Court" theme_string="Day v. Micou2 The District Court" id="88926_46" relation_type="asymmetric" party2="88926_38" theme="88926_34" gram_type="infix" ></RELATION>
+

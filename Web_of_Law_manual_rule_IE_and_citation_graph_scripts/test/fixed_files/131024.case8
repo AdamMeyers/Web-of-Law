@@ -1,0 +1,15 @@
+<citation id="131024_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="539" page_number="976" line="1">539 U.S. 976</citation>
+<citation id="131024_3" entry_type="case_X_vs_Y" start="17" end="32" party1="Hall" party2="Florida" line="2">Hall v. Florida</citation>
+<NAME id="131024_4" start="17" end="21" party1_of="131024_3">Hall</NAME>
+<NAME id="131024_5" start="25" end="32" party2_of="131024_3">Florida</NAME>
+<citation id="131024_2" entry_type="standard_case" start="34" end="48" reporter="U. S." standard_reporter="U.S." volume="538" page_number="1059" line="2">538 U. S. 1059</citation>
+<docket id="131024_9" entry_type="docket" start="58" end="65" line="3">02-9683</docket>
+<ORGANIZATION id="131024_10" start="71" end="101">Supreme Court of United States</ORGANIZATION>
+<date id="131024_11" start="107" end="121">August 4, 2003</date>
+<NAME id="131024_15" start="143" end="151">Petition</NAME>
+<RELATION id="131024_8" relation_type="equivalence" gram_type="apposition" standard_case="131024_2" standard_case_string="538 U. S. 1059" X_vs_Y="131024_3" X_vs_Y_string="Hall v. Florida"></RELATION>
+<RELATION id="131024_6" relation_type="asymmetric" gram_type="infix" theme="131024_3" theme_string="Hall v. Florida" party1="131024_4" party1_string="Hall"></RELATION>
+<RELATION id="131024_7" relation_type="asymmetric" gram_type="infix" theme="131024_3" theme_string="Hall v. Florida" party2="131024_5" party2_string="Florida"></RELATION>
+<RELATION id="131024_12" relation_type="equivalence" gram_type="multi_line" standard_case="131024_1" standard_case_string="539 U.S. 976" X_vs_Y="131024_3" X_vs_Y_string="Hall v. Florida"></RELATION>
+<RELATION id="131024_14" relation_type="asymmetric" gram_type="multi_line" theme="131024_3" theme_string="Hall v. Florida" at_date="131024_11" at_date_string="August 4, 2003"></RELATION>
+<RELATION id="131024_13" relation_type="asymmetric" gram_type="multi_line" theme="131024_3" theme_string="Hall v. Florida" includes_docket="131024_9" includes_docket_string="02-9683"></RELATION>

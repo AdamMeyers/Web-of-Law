@@ -1,0 +1,14 @@
+<citation id="108673_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="409" page_number="921" line="1">409 U.S. 921</citation>
+<citation id="108673_2" entry_type="standard_case" start="17" end="31" reporter="S. Ct." standard_reporter="S.CT." volume="93" page_number="1350" line="2">93 S. Ct. 1350</citation>
+<citation id="108673_3" entry_type="standard_case" start="36" end="52" reporter="L. Ed. 2d" standard_reporter="L.ED.2D" volume="35" page_number="583" line="3">35 L. Ed. 2d 583</citation>
+<citation id="108673_5" entry_type="case_citation_other" start="57" end="109" name="In the Matter of the Disbarment of Seymour R. THALER" line="4">In the Matter of the Disbarment of Seymour R. THALER</citation>
+<docket id="108673_4" entry_type="docket" start="115" end="118" line="4">D-9</docket>
+<date id="108673_10" start="163" end="180">February 20, 1973</date>
+<NAME id="108673_11" start="220" end="249">Seymour R. Thaler of New York</NAME>
+<NAME id="108673_12" start="251" end="259">New York</NAME>
+<ORGANIZATION id="108673_13" start="307" end="312">Court</ORGANIZATION>
+<ORGANIZATION id="108673_14" start="456" end="461">Court</ORGANIZATION>
+<RELATION id="108673_6" relation_type="asymmetric" gram_type="apposition" theme="108673_5" theme_string="In the Matter of the Disbarment of Seymour R. THALER" includes_docket="108673_4" includes_docket_string="D-9"></RELATION>
+<RELATION id="108673_7" relation_type="equivalence" gram_type="multi_line" standard_case="108673_1" standard_case_string="409 U.S. 921" case_citation_other="108673_5" case_citation_other_string="In the Matter of the Disbarment of Seymour R. THALER"></RELATION>
+<RELATION id="108673_8" relation_type="equivalence" gram_type="multi_line" standard_case="108673_2" standard_case_string="93 S. Ct. 1350" case_citation_other="108673_5" case_citation_other_string="In the Matter of the Disbarment of Seymour R. THALER"></RELATION>
+<RELATION id="108673_9" relation_type="equivalence" gram_type="multi_line" standard_case="108673_3" standard_case_string="35 L. Ed. 2d 583" case_citation_other="108673_5" case_citation_other_string="In the Matter of the Disbarment of Seymour R. THALER"></RELATION>

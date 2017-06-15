@@ -1,0 +1,15 @@
+<citation id="115917_1" entry_type="standard_case" start="0" end="13" reporter="U.S." standard_reporter="U.S." volume="510" page_number="1039" line="1">510 U.S. 1039</citation>
+<citation id="115917_3" entry_type="case_X_vs_Y" start="18" end="76" party1="Richardson, Chapter 7 Panel Trustee" party2="Mt. Adams Furniture" line="1">Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture</citation>
+<NAME id="115917_4" start="18" end="53" party1_of="115917_3">Richardson, Chapter 7 Panel Trustee</NAME>
+<NAME id="115917_7" start="18" end="28">Richardson</NAME>
+<ORGANIZATION id="115917_8" start="30" end="53">Chapter 7 Panel Trustee</ORGANIZATION>
+<NAME id="115917_5" start="57" end="76" party2_of="115917_3">Mt. Adams Furniture</NAME>
+<docket id="115917_2" entry_type="docket" start="86" end="93" line="1">92-1398</docket>
+<date id="115917_6" start="135" end="151">January 10, 1994</date>
+<NAME id="115917_15" start="229" end="239">Certiorari</NAME>
+<citation id="115917_14" entry_type="standard_case" start="264" end="277" reporter="F. 2d" standard_reporter="F.2D" volume="980" page_number="590" line="3">980 F. 2d 590</citation>
+<RELATION id="115917_13" relation_type="asymmetric" gram_type="apposition" theme="115917_1" theme_string="510 U.S. 1039" includes_docket="115917_2" includes_docket_string="92-1398"></RELATION>
+<RELATION id="115917_9" relation_type="equivalence" gram_type="pre_nom" standard_case="115917_1" standard_case_string="510 U.S. 1039" X_vs_Y="115917_3" X_vs_Y_string="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture"></RELATION>
+<RELATION id="115917_12" relation_type="asymmetric" gram_type="apposition" theme="115917_3" theme_string="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" includes_docket="115917_2" includes_docket_string="92-1398"></RELATION>
+<RELATION id="115917_10" relation_type="asymmetric" gram_type="infix" theme="115917_3" theme_string="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" party1="115917_4" party1_string="Richardson, Chapter 7 Panel Trustee"></RELATION>
+<RELATION id="115917_11" relation_type="asymmetric" gram_type="infix" theme="115917_3" theme_string="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" party2="115917_5" party2_string="Mt. Adams Furniture"></RELATION>

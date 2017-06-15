@@ -1,0 +1,63 @@
+<citation id="88617_1" entry_type="standard_case" start="0" end="11" reporter="U.S." standard_reporter="U.S." volume="82" page_number="387" line="1">82 U.S. 387</citation>
+<citation id="88617_2" entry_type="standard_case" start="16" end="29" reporter="L. Ed." standard_reporter="L.ED." volume="21" page_number="176" line="2">21 L. Ed. 176</citation>
+<citation id="88617_3" entry_type="standard_case" start="34" end="46" reporter="Wall." standard_reporter="WALL." volume="15" page_number="387" line="3">15 Wall. 387</citation>
+<citation id="88617_4" entry_type="case_X_vs_Y" start="51" end="69" party1="MOSES" party2="THE MAYOR" line="4">MOSES v. THE MAYOR</citation>
+<NAME id="88617_5" start="51" end="56" party1_of="88617_4">MOSES</NAME>
+<NAME id="88617_6" start="60" end="69" party2_of="88617_4">THE MAYOR</NAME>
+<NAME id="88617_10" start="75" end="88">December Term</NAME>
+<date id="88617_9" start="90" end="94">1872</date>
+<NAME id="88617_15" start="127" end="142">Mr. P. Phillips</NAME>
+<NAME id="88617_16" start="227" end="232">Moses</NAME>
+<ORGANIZATION id="88617_17" start="271" end="293">State court of Alabama</ORGANIZATION>
+<NAME id="88617_18" start="324" end="329">State</NAME>
+<PROFESSION id="88617_19" start="535" end="540">mayor</PROFESSION>
+<PROFESSION id="88617_20" start="543" end="549">police</PROFESSION>
+<PROFESSION id="88617_21" start="688" end="693">mayor</PROFESSION>
+<ORGANIZATION id="88617_24" start="1837" end="1863">Supreme Court of the State</ORGANIZATION>
+<ORGANIZATION id="88617_25" start="1895" end="1900">court</ORGANIZATION>
+<NAME id="88617_26" start="1966" end="1971">Moses</NAME>
+<ORGANIZATION id="88617_27" start="2009" end="2014">court</ORGANIZATION>
+<NAME id="88617_28" start="2110" end="2123">Judiciary Act</NAME>
+<date id="88617_22" start="2127" end="2131">1789</date>
+<date id="88617_23" start="2191" end="2195">1867</date>
+<LEGAL_ROLE id="88617_29" start="2211" end="2223" plural="True">complainants</LEGAL_ROLE>
+<NAME id="88617_30" start="2314" end="2319">State</NAME>
+<NAME id="88617_31" start="2356" end="2361">State</NAME>
+<NAME id="88617_32" start="2445" end="2457">Mr. Phillips</NAME>
+<NAME id="88617_33" start="2524" end="2531">Federal</NAME>
+<PROFESSION id="88617_34" start="3070" end="3080">chancellor</PROFESSION>
+<NAME id="88617_35" start="3173" end="3180">Federal</NAME>
+<ORGANIZATION id="88617_36" start="3273" end="3286">Supreme Court</ORGANIZATION>
+<NAME id="88617_37" start="3367" end="3374">Federal</NAME>
+<NAME id="88617_38" start="3417" end="3428">Independent</NAME>
+<ORGANIZATION id="88617_39" start="3632" end="3637">court</ORGANIZATION>
+<NAME id="88617_40" start="3792" end="3812">Messrs. J. A. Elmore</NAME>
+<NAME id="88617_41" start="3814" end="3824">S. F. Rice</NAME>
+<NAME id="88617_42" start="3830" end="3842">J. T. Morgan</NAME>
+<citation id="88617_43" entry_type="case_X_vs_Y" start="3887" end="3939" party1="Manaway" party2="The State,** the Supreme Court of Alabama" line="53">Manaway v. The State,** the Supreme Court of Alabama</citation>
+<NAME id="88617_44" start="3887" end="3894" party1_of="88617_43">Manaway</NAME>
+<NAME id="88617_45" start="3898" end="3939" party2_of="88617_43">The State,** the Supreme Court of Alabama</NAME>
+<NAME id="88617_48" start="4140" end="4173">Constitution of the United States</NAME>
+<ORGANIZATION id="88617_49" start="4184" end="4189">court</ORGANIZATION>
+<ORGANIZATION id="88617_50" start="4266" end="4284">court of the State</ORGANIZATION>
+<ORGANIZATION id="88617_51" start="4363" end="4368">court</ORGANIZATION>
+<ORGANIZATION id="88617_52" start="4447" end="4452">court</ORGANIZATION>
+<ORGANIZATION id="88617_53" start="4511" end="4523" plural="True">State courts</ORGANIZATION>
+<ORGANIZATION id="88617_54" start="4631" end="4643" plural="True">State courts</ORGANIZATION>
+<ORGANIZATION id="88617_55" start="4856" end="4861">court</ORGANIZATION>
+<PROFESSION id="88617_56" start="5256" end="5269">CHIEF JUSTICE</PROFESSION>
+<NAME id="88617_58" start="5392" end="5405">Judiciary Act</NAME>
+<date id="88617_57" start="5409" end="5413">1867</date>
+<ORGANIZATION id="88617_59" start="5433" end="5457">Supreme Court of Alabama</ORGANIZATION>
+<NAME id="88617_60" start="5952" end="5966">WRIT DISMISSED</NAME>
+<NAME id="88617_61" start="6004" end="6007">See</NAME>
+<NAME id="88617_62" start="6037" end="6044">Wallace</NAME>
+<NAME id="88617_63" start="6088" end="6095">Alabama</NAME>
+<RELATION id="88617_7" relation_type="asymmetric" gram_type="infix" theme="88617_4" theme_string="MOSES v. THE MAYOR" party1="88617_5" party1_string="MOSES"></RELATION>
+<RELATION id="88617_8" relation_type="asymmetric" gram_type="infix" theme="88617_4" theme_string="MOSES v. THE MAYOR" party2="88617_6" party2_string="THE MAYOR"></RELATION>
+<RELATION id="88617_11" relation_type="equivalence" gram_type="multi_line" standard_case="88617_1" standard_case_string="82 U.S. 387" X_vs_Y="88617_4" X_vs_Y_string="MOSES v. THE MAYOR"></RELATION>
+<RELATION id="88617_12" relation_type="equivalence" gram_type="multi_line" standard_case="88617_2" standard_case_string="21 L. Ed. 176" X_vs_Y="88617_4" X_vs_Y_string="MOSES v. THE MAYOR"></RELATION>
+<RELATION id="88617_13" relation_type="equivalence" gram_type="multi_line" standard_case="88617_3" standard_case_string="15 Wall. 387" X_vs_Y="88617_4" X_vs_Y_string="MOSES v. THE MAYOR"></RELATION>
+<RELATION id="88617_14" relation_type="asymmetric" gram_type="multi_line" theme="88617_4" theme_string="MOSES v. THE MAYOR" at_date="88617_9" at_date_string="1872"></RELATION>
+<RELATION id="88617_46" relation_type="asymmetric" gram_type="infix" theme="88617_43" theme_string="Manaway v. The State,** the Supreme Court of Alabama" party1="88617_44" party1_string="Manaway"></RELATION>
+<RELATION id="88617_47" relation_type="asymmetric" gram_type="infix" theme="88617_43" theme_string="Manaway v. The State,** the Supreme Court of Alabama" party2="88617_45" party2_string="The State,** the Supreme Court of Alabama"></RELATION>

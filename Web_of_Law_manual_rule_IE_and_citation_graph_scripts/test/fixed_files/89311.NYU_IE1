@@ -1,0 +1,986 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="575" id1="89311" id="89311_1" lookup_key="u.s._92_575" alternative_keys="['collectorkidder#1', 'collectorjessup#1', 'taylorsecor#1']" citation_local_level_id="0" start="1" citation_global_level_id="78.002" end="19" volume="92" line="2" >92 U.S. 575 (____)</CITATION>
+
+<CITATION id1="89311" entry_type="party_key" party1="TAYLOR, COLLECTOR, ET AL.," line="5" id="89311_5" lookup_key="taylorsecor#1" alternative_keys="['u.s._92_575', 'collectorkidder#1', 'collectorjessup#1']" party2="SECOR ET AL" citation_local_level_id="1" start="20" party2_short="SECOR" end="63" citation_global_level_id="78.001" party1_short="TAYLOR" >TAYLOR, COLLECTOR, ET AL., v. SECOR ET AL</CITATION>
+
+<NAME start="20" local_name_id="1" end="46" all_names="TAYLOR COLLECTOR" party1_of="89311_5" id="89311_6" >TAYLOR, COLLECTOR, ET AL.,</NAME>
+
+<NAME start="52" party2_of="89311_5" end="63" all_names="SECOR" id="89311_7" local_name_id="2" >SECOR ET AL</NAME>
+
+<CITATION id1="89311" entry_type="party_key" party1="MILLER, COLLECTOR, ET AL.," line="8" id="89311_13" lookup_key="collectorjessup#1" alternative_keys="['collectorkidder#1', 'taylorsecor#1', 'u.s._92_575']" party2="JESSUP ET AL" citation_local_level_id="2" start="66" party2_short="JESSUP" end="110" citation_global_level_id="78.004" party1_short="COLLECTOR" >MILLER, COLLECTOR, ET AL., v. JESSUP ET AL</CITATION>
+
+<NAME start="66" local_name_id="3" end="92" all_names="MILLER COLLECTOR" party1_of="89311_13" id="89311_14" >MILLER, COLLECTOR, ET AL.,</NAME>
+
+<NAME start="98" party2_of="89311_13" end="110" all_names="JESSUP" id="89311_15" local_name_id="4" >JESSUP ET AL</NAME>
+
+<CITATION id1="89311" entry_type="party_key" party1="MILLER, COLLECTOR, ET AL.," line="11" id="89311_21" lookup_key="collectorkidder#1" alternative_keys="['collectorjessup#1', 'taylorsecor#1', 'u.s._92_575']" party2="KIDDER ET AL" citation_local_level_id="3" start="113" party2_short="KIDDER" end="157" citation_global_level_id="78.003" party1_short="COLLECTOR" >MILLER, COLLECTOR, ET AL., v. KIDDER ET AL</CITATION>
+
+<NAME start="113" local_name_id="3" end="139" all_names="MILLER COLLECTOR" party1_of="89311_21" id="89311_22" >MILLER, COLLECTOR, ET AL.,</NAME>
+
+<NAME start="145" party2_of="89311_21" end="157" all_names="KIDDER" id="89311_23" local_name_id="5" >KIDDER ET AL</NAME>
+
+<ORGANIZATION start="159" end="189" id="89311_26" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="197" local_name_id="6" end="239" all_names="MR LYMAN TRUMBULL AND MR JAMES K EDSALL	MR JAMES K EDSALL" id="89311_30" >Mr. Lyman Trumbull and Mr. James K. Edsall</NAME>
+
+<NAME start="241" local_name_id="7" end="269" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_31" >Attorney-General of Illinois</NAME>
+
+<LEGAL_ROLE start="279" end="289" plural="True" id="89311_32" >appellants</LEGAL_ROLE>
+
+<NAME start="309" local_name_id="8" end="327" all_names="MR RG INGERSOLL" id="89311_33" >Mr. R.G. Ingersoll</NAME>
+
+<LEGAL_ROLE start="337" end="346" party="party2" plural="True" id="89311_34" >appellees</LEGAL_ROLE>
+
+<LEGAL_ROLE start="380" end="433" plural="True" id="89311_35" >Mr. C. Beckwith and Mr. Obadiah Jackson for appellees</LEGAL_ROLE>
+
+<NAME start="454" local_name_id="9" end="469" all_names="MR P PHILLIPS" id="89311_36" >Mr. P. Phillips</NAME>
+
+<LEGAL_ROLE start="479" end="488" party="party2" plural="True" id="89311_37" >appellees</LEGAL_ROLE>
+
+<NAME start="509" local_name_id="6" end="528" all_names="MR LYMAN TRUMBULL AND MR JAMES K EDSALL	MR JAMES K EDSALL" id="89311_38" >Mr. James K. Edsall</NAME>
+
+<NAME start="530" local_name_id="7" end="571" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_39" >Attorney-General of the State of Illinois</NAME>
+
+<NAME start="577" local_name_id="10" end="595" all_names="MR LYMAN TRUMBULL" id="89311_40" >Mr. Lyman Trumbull</NAME>
+
+<LEGAL_ROLE start="614" end="624" plural="True" id="89311_41" >appellants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="626" end="681" plural="True" id="89311_42" >Mr. O.H. Browning and Mr. Wirt Dexter for the appellees</LEGAL_ROLE>
+
+<NAME start="688" local_name_id="11" end="690" all_names="MR" id="89311_43" >MR</NAME>
+
+<ORGANIZATION start="838" end="889" id="89311_44" >Circuit Court for the Northern District of Illinois</ORGANIZATION>
+
+<LEGAL_ROLE start="905" end="915" plural="True" id="89311_45" >appellants</LEGAL_ROLE>
+
+<PROFESSION start="968" end="1001" plural="True" id="89311_46" >officers of the State of Illinois</PROFESSION>
+
+<ORGANIZATION start="1033" end="1042" plural="True" id="89311_47" >companies</ORGANIZATION>
+
+<NAME start="1077" local_name_id="12" end="1082" all_names="STATE" id="89311_48" >State</NAME>
+
+<LEGAL_ROLE start="1114" end="1124" plural="True" id="89311_49" >plaintiffs</LEGAL_ROLE>
+
+<NAME start="1185" local_name_id="13" end="1191" all_names="TOLEDO" id="89311_50" >Toledo</NAME>
+
+<NAME start="1193" local_name_id="14" end="1199" all_names="PEORIA" id="89311_51" >Peoria</NAME>
+
+<NAME start="1205" local_name_id="15" end="1232" all_names="WARSAW RAILROAD COMPANY IN" id="89311_52" >Warsaw Railroad Company. In</NAME>
+
+<ORGANIZATION start="1221" end="1228" id="89311_53" >Company</ORGANIZATION>
+
+<LEGAL_ROLE start="1257" end="1269" plural="True" id="89311_54" >complainants</LEGAL_ROLE>
+
+<ORGANIZATION start="1305" end="1314" plural="True" id="89311_55" >companies</ORGANIZATION>
+
+<ORGANIZATION start="1359" end="1393" id="89311_56" >Chicago and Alton Railroad Company</ORGANIZATION>
+
+<NAME start="1403" local_name_id="16" end="1410" all_names="CHICAGO" id="89311_57" >Chicago</NAME>
+
+<NAME start="1412" local_name_id="17" end="1422" all_names="BURLINGTON" id="89311_58" >Burlington</NAME>
+
+<ORGANIZATION start="1428" end="1451" id="89311_59" >Quincy Railroad Company</ORGANIZATION>
+
+<PROFESSION start="1468" end="1491" id="89311_61" >legislature of Illinois</PROFESSION>
+
+<DATE start="1495" end="1509" id="89311_60" >March 30, 1872</DATE>
+
+<ORGANIZATION start="1627" end="1639" plural="True" id="89311_62" >corporations</ORGANIZATION>
+
+<NAME start="2082" local_name_id="12" end="2087" all_names="STATE" id="89311_63" >State</NAME>
+
+<ORGANIZATION start="3161" end="3168" id="89311_64" >company</ORGANIZATION>
+
+<NAME start="3176" local_name_id="12" end="3181" all_names="STATE" id="89311_65" >State</NAME>
+
+<PROFESSION start="3229" end="3236" id="89311_66" >officer</PROFESSION>
+
+<ORGANIZATION start="3253" end="3260" id="89311_67" >company</ORGANIZATION>
+
+<ORGANIZATION start="3277" end="3288" id="89311_68" >State board</ORGANIZATION>
+
+<ORGANIZATION start="3380" end="3387" id="89311_69" >company</ORGANIZATION>
+
+<ORGANIZATION start="3521" end="3526" id="89311_70" >board</ORGANIZATION>
+
+<ORGANIZATION start="3616" end="3623" id="89311_71" >company</ORGANIZATION>
+
+<ORGANIZATION start="3776" end="3787" id="89311_72" >corporation</ORGANIZATION>
+
+<NAME start="3944" local_name_id="12" end="3949" all_names="STATE" id="89311_73" >State</NAME>
+
+<ORGANIZATION start="4043" end="4052" plural="True" id="89311_74" >companies</ORGANIZATION>
+
+<ORGANIZATION start="4269" end="4276" id="89311_75" >company</ORGANIZATION>
+
+<ORGANIZATION start="4342" end="4351" plural="True" id="89311_76" >companies</ORGANIZATION>
+
+<NAME start="4685" local_name_id="7" end="4702" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_77" >State of Illinois</NAME>
+
+<ORGANIZATION start="4761" end="4772" id="89311_78" >corporation</ORGANIZATION>
+
+<ORGANIZATION start="4945" end="4950" id="89311_79" >board</ORGANIZATION>
+
+<NAME start="5032" local_name_id="12" end="5037" all_names="STATE" id="89311_80" >State</NAME>
+
+<ORGANIZATION start="5306" end="5313" id="89311_81" >company</ORGANIZATION>
+
+<ORGANIZATION start="5518" end="5527" plural="True" id="89311_82" >companies</ORGANIZATION>
+
+<ORGANIZATION start="5532" end="5544" plural="True" id="89311_83" >associations</ORGANIZATION>
+
+<NAME start="5593" local_name_id="12" end="5598" all_names="STATE" id="89311_84" >State</NAME>
+
+<ORGANIZATION start="5625" end="5636" id="89311_85" >State board</ORGANIZATION>
+
+<ORGANIZATION start="5833" end="5840" id="89311_86" >company</ORGANIZATION>
+
+<ORGANIZATION start="5844" end="5855" id="89311_87" >association</ORGANIZATION>
+
+<ORGANIZATION start="6734" end="6746" plural="True" id="89311_95" >corporations</ORGANIZATION>
+
+<NAME start="6818" local_name_id="12" end="6823" all_names="STATE" id="89311_96" >State</NAME>
+
+<ORGANIZATION start="6938" end="6943" id="89311_97" >court</ORGANIZATION>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_1370" entry_type="party_key" party1="Society for Savings" line="31" id="89311_91" lookup_key="societycoite#1" alternative_keys="['wall._6_607']" party2="Coite" citation_local_level_id="4" start="6947" party2_short="Coite" end="6975" citation_global_level_id="1522.003" volume="6" no_current_file="True" page_number="607" party1_short="Society" >Society for Savings v. Coite</CITATION>
+
+<NAME start="6947" local_name_id="18" end="6966" all_names="SOCIETY FOR SAVINGS" party1_of="89311_91" id="89311_92" >Society for Savings</NAME>
+
+<NAME start="6970" party2_of="89311_91" end="6975" all_names="COITE" id="89311_93" local_name_id="19" >Coite</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="607" id1="Dummy_File_1370" id="89311_88" lookup_key="wall._6_607" alternative_keys="['societycoite#1']" citation_local_level_id="5" start="6977" citation_global_level_id="1522.003" end="6988" volume="6" no_current_file="True" line="31" >6 Wall. 607</CITATION>
+
+<ORGANIZATION start="7044" end="7055" id="89311_98" >corporation</ORGANIZATION>
+
+<NAME start="7149" local_name_id="12" end="7154" all_names="STATE" id="89311_99" >State</NAME>
+
+<PROFESSION start="7176" end="7192" id="89311_100" >State government</PROFESSION>
+
+<CITATION id1="Dummy_File_1371" entry_type="case_key" standard_reporter="WALL." line="31" name="State Freight Tax Case" id="89311_94" lookup_key="state freight tax case#1" alternative_keys="['wall._15_232']" citation_local_level_id="6" start="7195" citation_global_level_id="1523.003" end="7217" volume="15" no_current_file="True" page_number="232" >State Freight Tax Case</CITATION>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="232" id1="Dummy_File_1371" id="89311_89" lookup_key="wall._15_232" alternative_keys="['state freight tax case#1']" name="State Freight Tax Case" citation_local_level_id="7" start="7219" citation_global_level_id="1523.003" end="7231" volume="15" no_current_file="True" line="31" >15 Wall. 232</CITATION>
+
+<NAME start="7233" local_name_id="20" end="7242" all_names="STATE TAX	TAX" id="89311_101" >State Tax</NAME>
+
+<NAME start="7246" local_name_id="21" end="7260" all_names="GROSS RECEIPTS" id="89311_102" >Gross Receipts</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="284" id1="Dummy_File_1372" id="89311_90" lookup_key="wall._15_284" citation_local_level_id="8" start="7262" citation_global_level_id="1524.001" end="7274" volume="15" no_current_file="True" line="31" >15 Wall. 284</CITATION>
+
+<PROFESSION start="7665" end="7675" id="89311_103" >government</PROFESSION>
+
+<CITATION id1="Dummy_File_1370" entry_type="party_key" party1="Society for Savings" line="32" id="89311_108" lookup_key="societycoite#1" alternative_keys="['wall._6_607']" party2="Coite" citation_local_level_id="9" start="7727" party2_short="Coite" end="7755" citation_global_level_id="1522.003" no_current_file="True" party1_short="Society" >Society for Savings v. Coite</CITATION>
+
+<NAME start="7727" local_name_id="18" end="7746" all_names="SOCIETY FOR SAVINGS" party1_of="89311_108" id="89311_109" >Society for Savings</NAME>
+
+<NAME start="7750" party2_of="89311_108" end="7755" all_names="COITE" id="89311_110" local_name_id="19" >Coite</NAME>
+
+<CITATION start="7833" id1="Dummy_File_1373" entry_type="case_key" citation_global_level_id="1525.001" line="32" no_current_file="True" name="Freight Tax Cases" id="89311_111" lookup_key="freight tax cases#1" end="7850" citation_local_level_id="10" >Freight Tax Cases</CITATION>
+
+<NAME start="8020" local_name_id="7" end="8028" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_114" >Illinois</NAME>
+
+<ORGANIZATION start="8058" end="8063" id="89311_115" >board</ORGANIZATION>
+
+<PROFESSION start="8188" end="8195" id="89311_116" >justice</PROFESSION>
+
+<ORGANIZATION start="8341" end="8353" plural="True" id="89311_117" >corporations</ORGANIZATION>
+
+<NAME start="8493" local_name_id="12" end="8498" all_names="STATE" id="89311_118" >State</NAME>
+
+<ORGANIZATION start="8524" end="8529" id="89311_119" >board</ORGANIZATION>
+
+<ORGANIZATION start="8924" end="8933" plural="True" id="89311_120" >companies</ORGANIZATION>
+
+<ORGANIZATION start="8938" end="8950" plural="True" id="89311_121" >associations</ORGANIZATION>
+
+<ORGANIZATION start="9149" end="9158" plural="True" id="89311_122" >companies</ORGANIZATION>
+
+<ORGANIZATION start="9163" end="9175" plural="True" id="89311_123" >associations</ORGANIZATION>
+
+<ORGANIZATION start="9325" end="9330" id="89311_124" >board</ORGANIZATION>
+
+<ORGANIZATION start="9500" end="9505" id="89311_125" >board</ORGANIZATION>
+
+<ORGANIZATION start="9558" end="9567" plural="True" id="89311_126" >companies</ORGANIZATION>
+
+<ORGANIZATION start="9572" end="9584" plural="True" id="89311_127" >associations</ORGANIZATION>
+
+<NAME start="9633" local_name_id="12" end="9638" all_names="STATE" id="89311_128" >State</NAME>
+
+<ORGANIZATION start="9742" end="9749" id="89311_129" >company</ORGANIZATION>
+
+<NAME start="9753" local_name_id="7" end="9761" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_130" >Illinois</NAME>
+
+<NAME start="11003" local_name_id="12" end="11008" all_names="STATE" id="89311_131" >State</NAME>
+
+<NAME start="11138" local_name_id="7" end="11146" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_132" >Illinois</NAME>
+
+<ORGANIZATION start="11245" end="11263" id="89311_133" >State of the Union</ORGANIZATION>
+
+<NAME start="11265" local_name_id="22" end="11267" all_names="IF	STATE IF	CONSTITUTION OF THE UNITED STATES IF" id="89311_134" >If</NAME>
+
+<ORGANIZATION start="11352" end="11363" id="89311_135" >corporation</ORGANIZATION>
+
+<ORGANIZATION start="11427" end="11436" plural="True" id="89311_136" >companies</ORGANIZATION>
+
+<PROFESSION start="11547" end="11569" id="89311_137" >counsel for the Toledo</PROFESSION>
+
+<NAME start="11571" local_name_id="14" end="11577" all_names="PEORIA" id="89311_138" >Peoria</NAME>
+
+<ORGANIZATION start="11583" end="11606" id="89311_139" >Warsaw Railroad Company</ORGANIZATION>
+
+<ORGANIZATION start="11656" end="11661" id="89311_140" >board</ORGANIZATION>
+
+<NAME start="11800" local_name_id="23" end="11806" all_names="STATES	UNITED STATES" id="89311_141" >States</NAME>
+
+<NAME start="12046" local_name_id="12" end="12051" all_names="STATE" id="89311_142" >State</NAME>
+
+<NAME start="12305" local_name_id="7" end="12313" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_143" >Illinois</NAME>
+
+<ORGANIZATION start="12340" end="12345" id="89311_144" >board</ORGANIZATION>
+
+<NAME start="12577" local_name_id="13" end="12583" all_names="TOLEDO" id="89311_145" >Toledo</NAME>
+
+<NAME start="12585" local_name_id="14" end="12591" all_names="PEORIA" id="89311_146" >Peoria</NAME>
+
+<ORGANIZATION start="12597" end="12611" id="89311_147" >Warsaw Company</ORGANIZATION>
+
+<PROFESSION start="12708" end="12715" id="89311_148" >counsel</PROFESSION>
+
+<NAME start="12760" local_name_id="12" end="12765" all_names="STATE" id="89311_149" >State</NAME>
+
+<ORGANIZATION start="12821" end="12828" id="89311_150" >company</ORGANIZATION>
+
+<ORGANIZATION start="12964" end="12969" id="89311_151" >board</ORGANIZATION>
+
+<ORGANIZATION start="13359" end="13366" id="89311_152" >company</ORGANIZATION>
+
+<ORGANIZATION start="13552" end="13564" plural="True" id="89311_153" >corporations</ORGANIZATION>
+
+<NAME start="13868" local_name_id="24" end="13871" all_names="ARE" id="89311_154" >Are</NAME>
+
+<NAME start="14653" local_name_id="7" end="14661" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_155" >Illinois</NAME>
+
+<PROFESSION start="15041" end="15064" id="89311_156" >legislature of Illinois</PROFESSION>
+
+<ORGANIZATION start="15190" end="15201" id="89311_157" >corporation</ORGANIZATION>
+
+<ORGANIZATION start="15528" end="15544" id="89311_158" >court of justice</ORGANIZATION>
+
+<ORGANIZATION start="15764" end="15769" id="89311_159" >board</ORGANIZATION>
+
+<NAME start="15909" local_name_id="16" end="15916" all_names="CHICAGO" id="89311_160" >Chicago</NAME>
+
+<NAME start="15918" local_name_id="17" end="15928" all_names="BURLINGTON" id="89311_161" >Burlington</NAME>
+
+<ORGANIZATION start="15934" end="15957" id="89311_162" >Quincy Railroad Company</ORGANIZATION>
+
+<ORGANIZATION start="16001" end="16008" id="89311_163" >company</ORGANIZATION>
+
+<PROFESSION start="16011" end="16031" id="89311_164" >officer to the State</PROFESSION>
+
+<NAME start="16092" local_name_id="12" end="16097" all_names="STATE" id="89311_165" >State</NAME>
+
+<PROFESSION start="16253" end="16262" id="89311_166" >principal</PROFESSION>
+
+<ORGANIZATION start="16288" end="16299" id="89311_167" >corporation</ORGANIZATION>
+
+<PROFESSION start="16423" end="16430" id="89311_172" >general</PROFESSION>
+
+<ORGANIZATION start="16602" end="16613" id="89311_173" >corporation</ORGANIZATION>
+
+<NAME start="16730" local_name_id="12" end="16735" all_names="STATE" id="89311_174" >State</NAME>
+
+<NAME start="16824" local_name_id="12" end="16829" all_names="STATE" id="89311_175" >State</NAME>
+
+<NAME start="16904" local_name_id="12" end="16909" all_names="STATE" id="89311_176" >State</NAME>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_1374" entry_type="party_key" party1="Green" line="46" id="89311_169" lookup_key="greenbuskirk#1" alternative_keys="['wall._5_312']" party2="Van Buskirk" citation_local_level_id="11" start="16958" party2_short="Buskirk" end="16978" citation_global_level_id="1526.003" volume="5" no_current_file="True" page_number="312" party1_short="Green" >Green v. Van Buskirk</CITATION>
+
+<NAME start="16958" local_name_id="25" end="16963" all_names="GREEN" party1_of="89311_169" id="89311_170" >Green</NAME>
+
+<NAME start="16967" party2_of="89311_169" end="16978" all_names="VAN BUSKIRK" id="89311_171" local_name_id="26" >Van Buskirk</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="312" id1="Dummy_File_1374" id="89311_168" lookup_key="wall._5_312" alternative_keys="['greenbuskirk#1']" citation_local_level_id="12" start="16980" citation_global_level_id="1526.003" end="16991" volume="5" no_current_file="True" line="46" >5 Wall. 312</CITATION>
+
+<NAME start="16993" local_name_id="27" end="16997" all_names="LIKE" id="89311_177" >Like</NAME>
+
+<NAME start="17018" local_name_id="12" end="17023" all_names="STATE" id="89311_178" >State</NAME>
+
+<PROFESSION start="17121" end="17144" id="89311_179" >legislature of Illinois</PROFESSION>
+
+<ORGANIZATION start="17224" end="17233" plural="True" id="89311_180" >companies</ORGANIZATION>
+
+<ORGANIZATION start="17412" end="17424" plural="True" id="89311_181" >corporations</ORGANIZATION>
+
+<NAME start="17499" local_name_id="12" end="17504" all_names="STATE" id="89311_182" >State</NAME>
+
+<ORGANIZATION start="17961" end="17970" plural="True" id="89311_186" >companies</ORGANIZATION>
+
+<ORGANIZATION start="18084" end="18091" id="89311_187" >company</ORGANIZATION>
+
+<PROFESSION start="18154" end="18161" id="89311_188" >general</PROFESSION>
+
+<NAME start="19208" local_name_id="16" end="19215" all_names="CHICAGO" id="89311_189" >Chicago</NAME>
+
+<FAMILY start="19508" end="19516" id="89311_190" >relative</FAMILY>
+
+<PROFESSION start="19579" end="19586" id="89311_191" >counsel</PROFESSION>
+
+<NAME start="19626" local_name_id="7" end="19634" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_192" >Illinois</NAME>
+
+<ORGANIZATION start="19673" end="19682" plural="True" id="89311_193" >companies</ORGANIZATION>
+
+<ORGANIZATION start="19836" end="19841" id="89311_194" >board</ORGANIZATION>
+
+<ORGANIZATION start="19888" end="19893" id="89311_195" >board</ORGANIZATION>
+
+<ORGANIZATION start="20005" end="20017" plural="True" id="89311_196" >corporations</ORGANIZATION>
+
+<PROFESSION start="20075" end="20083" plural="True" id="89311_197" >officers</PROFESSION>
+
+<ORGANIZATION start="20100" end="20109" plural="True" id="89311_198" >companies</ORGANIZATION>
+
+<NAME start="20128" local_name_id="12" end="20133" all_names="STATE" id="89311_199" >State</NAME>
+
+<ORGANIZATION start="20276" end="20281" id="89311_200" >board</ORGANIZATION>
+
+<ORGANIZATION start="20381" end="20390" plural="True" id="89311_201" >companies</ORGANIZATION>
+
+<ORGANIZATION start="20695" end="20700" id="89311_202" >board</ORGANIZATION>
+
+<ORGANIZATION start="20743" end="20752" plural="True" id="89311_203" >companies</ORGANIZATION>
+
+<NAME start="20821" local_name_id="12" end="20826" all_names="STATE" id="89311_204" >State</NAME>
+
+<ORGANIZATION start="20908" end="20913" id="89311_205" >board</ORGANIZATION>
+
+<ORGANIZATION start="21023" end="21028" id="89311_206" >board</ORGANIZATION>
+
+<NAME start="21077" local_name_id="22" end="21086" all_names="IF	STATE IF	CONSTITUTION OF THE UNITED STATES IF" id="89311_207" >State. If</NAME>
+
+<PROFESSION start="21170" end="21177" id="89311_208" >general</PROFESSION>
+
+<ORGANIZATION start="21479" end="21486" id="89311_209" >company</ORGANIZATION>
+
+<ORGANIZATION start="21715" end="21720" id="89311_210" >board</ORGANIZATION>
+
+<ORGANIZATION start="21810" end="21821" id="89311_211" >corporation</ORGANIZATION>
+
+<ORGANIZATION start="21914" end="21919" id="89311_212" >board</ORGANIZATION>
+
+<ORGANIZATION start="22209" end="22214" id="89311_213" >board</ORGANIZATION>
+
+<ORGANIZATION start="22434" end="22439" id="89311_214" >court</ORGANIZATION>
+
+<ORGANIZATION start="22451" end="22464" id="89311_215" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="22525" end="22530" id="89311_216" >board</ORGANIZATION>
+
+<NAME start="22637" local_name_id="7" end="22645" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_217" >Illinois</NAME>
+
+<ORGANIZATION start="22714" end="22726" plural="True" id="89311_218" >corporations</ORGANIZATION>
+
+<NAME start="22929" local_name_id="28" end="22933" all_names="SECT" id="89311_219" >SECT</NAME>
+
+<NAME start="23779" local_name_id="28" end="23783" all_names="SECT" id="89311_220" >SECT</NAME>
+
+<ORGANIZATION start="24317" end="24328" id="89311_221" >corporation</ORGANIZATION>
+
+<ORGANIZATION start="25280" end="25285" id="89311_227" >court</ORGANIZATION>
+
+<ORGANIZATION start="25339" end="25350" id="89311_228" >corporation</ORGANIZATION>
+
+<NAME start="25373" local_name_id="23" end="25379" all_names="STATES	UNITED STATES" id="89311_229" >States</NAME>
+
+<NAME start="25551" local_name_id="12" end="25556" all_names="STATE" id="89311_230" >State</NAME>
+
+<NAME start="25588" local_name_id="29" end="25614" all_names="DELAWARE RAILROAD TAX CASE" id="89311_231" >Delaware Railroad Tax Case</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="208" id1="Dummy_File_1375" id="89311_222" lookup_key="wall._18_208" citation_local_level_id="13" start="25616" citation_global_level_id="1527.001" end="25628" volume="18" no_current_file="True" line="61" >18 Wall. 208</CITATION>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_1376" entry_type="party_key" party1="Erie R.R. Co." line="61" id="89311_224" lookup_key="rpennsylvania#1" alternative_keys="['wall._21_492']" party2="Pennsylvania" citation_local_level_id="14" start="25630" party2_short="Pennsylvania" end="25659" citation_global_level_id="1528.003" volume="21" no_current_file="True" page_number="492" party1_short="R" >Erie R.R. Co. v. Pennsylvania</CITATION>
+
+<NAME start="25630" local_name_id="30" end="25643" all_names="ERIE RR CO	THE CHICAGO BURLINGTON &amp; QUINCY RR CO" party1_of="89311_224" id="89311_225" >Erie R.R. Co.</NAME>
+
+<ORGANIZATION start="25630" end="25642" id="89311_232" >Erie R.R. Co</ORGANIZATION>
+
+<NAME start="25647" party2_of="89311_224" end="25659" all_names="PENNSYLVANIA" id="89311_226" local_name_id="31" >Pennsylvania</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="492" id1="Dummy_File_1376" id="89311_223" lookup_key="wall._21_492" alternative_keys="['rpennsylvania#1']" citation_local_level_id="15" start="25661" citation_global_level_id="1528.003" end="25673" volume="21" no_current_file="True" line="61" >21 Wall. 492</CITATION>
+
+<ORGANIZATION start="25784" end="25789" id="89311_236" >board</ORGANIZATION>
+
+<ORGANIZATION start="25840" end="25849" plural="True" id="89311_237" >companies</ORGANIZATION>
+
+<ORGANIZATION start="25994" end="26003" plural="True" id="89311_238" >companies</ORGANIZATION>
+
+<PROFESSION start="26126" end="26137" id="89311_239" >legislature</PROFESSION>
+
+<ORGANIZATION start="26158" end="26170" plural="True" id="89311_240" >corporations</ORGANIZATION>
+
+<PROFESSION start="26254" end="26261" id="89311_241" >general</PROFESSION>
+
+<ORGANIZATION start="26557" end="26566" plural="True" id="89311_242" >companies</ORGANIZATION>
+
+<PROFESSION start="26589" end="26596" id="89311_243" >general</PROFESSION>
+
+<ORGANIZATION start="26989" end="26998" plural="True" id="89311_244" >companies</ORGANIZATION>
+
+<ORGANIZATION start="27029" end="27038" plural="True" id="89311_245" >companies</ORGANIZATION>
+
+<ORGANIZATION start="27167" end="27188" plural="True" id="89311_246" >companies of Illinois</ORGANIZATION>
+
+<NAME start="27247" local_name_id="12" end="27252" all_names="STATE" id="89311_247" >State</NAME>
+
+<ORGANIZATION start="27376" end="27388" plural="True" id="89311_262" >corporations</ORGANIZATION>
+
+<NAME start="27842" local_name_id="12" end="27847" all_names="STATE" id="89311_263" >State</NAME>
+
+<NAME start="27853" local_name_id="7" end="27861" all_names="ATTORNEY-GENERAL OF ILLINOIS	ATTORNEY-GENERAL OF THE STATE OF ILLINOIS	STATE OF ILLINOIS	ILLINOIS" id="89311_264" >Illinois</NAME>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_1377" entry_type="party_key" party1="Tappan" line="64" id="89311_250" lookup_key="tappanbank#1" alternative_keys="['wall._19_504']" party2="Merchants' National Bank" citation_local_level_id="16" start="28156" party2_short="Bank" end="28190" citation_global_level_id="1529.003" volume="19" no_current_file="True" page_number="504" party1_short="Tappan" >Tappan v. Merchants' National Bank</CITATION>
+
+<NAME start="28156" local_name_id="32" end="28162" all_names="TAPPAN" party1_of="89311_250" id="89311_254" >Tappan</NAME>
+
+<NAME start="28166" party2_of="89311_250" end="28190" all_names="MERCHANTS' NATIONAL BANK" id="89311_255" local_name_id="33" >Merchants' National Bank</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="504" id1="Dummy_File_1377" id="89311_248" lookup_key="wall._19_504" alternative_keys="['tappanbank#1']" citation_local_level_id="17" start="28192" citation_global_level_id="1529.003" end="28204" volume="19" no_current_file="True" line="64" >19 Wall. 504</CITATION>
+
+<CITATION id1="Dummy_File_1378" entry_type="party_key" party1="Weber" line="64" id="89311_251" lookup_key="weberrenhard#1" party2="Renhard" citation_local_level_id="18" start="28206" party2_short="Renhard" end="28222" citation_global_level_id="1530.001" no_current_file="True" party1_short="Weber" >Weber v. Renhard</CITATION>
+
+<NAME start="28206" local_name_id="34" end="28211" all_names="WEBER" party1_of="89311_251" id="89311_256" >Weber</NAME>
+
+<NAME start="28215" party2_of="89311_251" end="28222" all_names="RENHARD" id="89311_257" local_name_id="35" >Renhard</NAME>
+
+<NAME start="28227" local_name_id="36" end="28235" all_names="PENN ST" id="89311_265" >Penn. St</NAME>
+
+<CITATION id1="Dummy_File_1379" entry_type="party_key" party1="Commonwealth" line="64" id="89311_252" lookup_key="commonwealthbank#1" party2="Savings Bank" citation_local_level_id="19" start="28242" party2_short="Bank" end="28270" citation_global_level_id="1531.001" no_current_file="True" party1_short="Commonwealth" >Commonwealth v. Savings Bank</CITATION>
+
+<NAME start="28242" local_name_id="37" end="28254" all_names="COMMONWEALTH" party1_of="89311_252" id="89311_258" >Commonwealth</NAME>
+
+<NAME start="28258" party2_of="89311_252" end="28270" all_names="SAVINGS BANK" id="89311_259" local_name_id="38" >Savings Bank</NAME>
+
+<NAME start="28274" local_name_id="39" end="28279" all_names="ALLEN" id="89311_266" >Allen</NAME>
+
+<CITATION standard_reporter="VT." id1="Dummy_File_1380" entry_type="party_key" party1="Allen" line="64" id="89311_253" lookup_key="allendrew#1" alternative_keys="['vt._44_174']" party2="Drew" citation_local_level_id="20" start="28286" party2_short="Drew" end="28299" citation_global_level_id="1532.003" volume="44" no_current_file="True" page_number="174" party1_short="Allen" >Allen v. Drew</CITATION>
+
+<NAME start="28286" local_name_id="39" end="28291" all_names="ALLEN" party1_of="89311_253" id="89311_260" >Allen</NAME>
+
+<NAME start="28295" party2_of="89311_253" end="28299" all_names="DREW" id="89311_261" local_name_id="40" >Drew</NAME>
+
+<CITATION reporter="Vt." entry_type="standard_key" standard_reporter="VT." page_number="174" id1="Dummy_File_1380" id="89311_249" lookup_key="vt._44_174" alternative_keys="['allendrew#1']" citation_local_level_id="21" start="28301" citation_global_level_id="1532.003" end="28311" volume="44" no_current_file="True" line="64" >44 Vt. 174</CITATION>
+
+<NAME start="28313" local_name_id="41" end="28316" all_names="LET" id="89311_277" >Let</NAME>
+
+<ORGANIZATION start="28434" end="28439" id="89311_278" >board</ORGANIZATION>
+
+<ORGANIZATION start="28714" end="28719" id="89311_279" >board</ORGANIZATION>
+
+<ORGANIZATION start="28776" end="28783" id="89311_280" >company</ORGANIZATION>
+
+<ORGANIZATION start="28965" end="28970" id="89311_281" >court</ORGANIZATION>
+
+<PROFESSION start="29110" end="29117" id="89311_282" >justice</PROFESSION>
+
+<LEGAL_ROLE start="29179" end="29190" id="89311_283" >complainant</LEGAL_ROLE>
+
+<NAME start="29351" local_name_id="23" end="29364" all_names="STATES	UNITED STATES" id="89311_284" >United States</NAME>
+
+<NAME start="29381" local_name_id="23" end="29387" all_names="STATES	UNITED STATES" id="89311_285" >States</NAME>
+
+<ORGANIZATION start="29510" end="29515" id="89311_286" >force</ORGANIZATION>
+
+<ORGANIZATION start="29695" end="29700" id="89311_309" >court</ORGANIZATION>
+
+<CITATION id1="Dummy_File_1381" entry_type="party_key" party1="Mooers" line="67" id="89311_291" lookup_key="mooerssmedley#1" party2="Smedley" citation_local_level_id="22" start="29712" party2_short="Smedley" end="29729" citation_global_level_id="1533.001" no_current_file="True" party1_short="Mooers" >Mooers v. Smedley</CITATION>
+
+<NAME start="29712" local_name_id="42" end="29718" all_names="MOOERS" party1_of="89311_291" id="89311_297" >Mooers</NAME>
+
+<NAME start="29722" party2_of="89311_291" end="29729" all_names="SMEDLEY" id="89311_298" local_name_id="43" >Smedley</NAME>
+
+<NAME start="29733" local_name_id="44" end="29742" all_names="JOHNS CH" id="89311_310" >Johns. Ch</NAME>
+
+<CITATION standard_reporter="CONN." id1="Dummy_File_1382" entry_type="party_key" party1="Dodd" line="67" id="89311_292" lookup_key="doddhartford#1" alternative_keys="['conn._26_239']" party2="Hartford" citation_local_level_id="23" start="29748" party2_short="Hartford" end="29764" citation_global_level_id="1534.003" volume="26" no_current_file="True" page_number="239" party1_short="Dodd" >Dodd v. Hartford</CITATION>
+
+<NAME start="29748" local_name_id="45" end="29752" all_names="DODD" party1_of="89311_292" id="89311_299" >Dodd</NAME>
+
+<NAME start="29756" party2_of="89311_292" end="29764" all_names="HARTFORD" id="89311_300" local_name_id="46" >Hartford</NAME>
+
+<CITATION reporter="Conn." entry_type="standard_key" standard_reporter="CONN." page_number="239" id1="Dummy_File_1382" id="89311_287" lookup_key="conn._26_239" alternative_keys="['doddhartford#1']" citation_local_level_id="24" start="29766" citation_global_level_id="1534.003" end="29778" volume="26" no_current_file="True" line="67" >26 Conn. 239</CITATION>
+
+<CITATION standard_reporter="R.I." id1="Dummy_File_1383" entry_type="party_key" party1="Green" line="67" id="89311_293" lookup_key="greenmunford#1" alternative_keys="['r.i._5_478']" party2="Munford" citation_local_level_id="25" start="29780" party2_short="Munford" end="29796" citation_global_level_id="1535.003" volume="5" no_current_file="True" page_number="478" party1_short="Green" >Green v. Munford</CITATION>
+
+<NAME start="29780" local_name_id="25" end="29785" all_names="GREEN" party1_of="89311_293" id="89311_301" >Green</NAME>
+
+<NAME start="29789" party2_of="89311_293" end="29796" all_names="MUNFORD" id="89311_302" local_name_id="47" >Munford</NAME>
+
+<CITATION reporter="R.I." entry_type="standard_key" standard_reporter="R.I." page_number="478" id1="Dummy_File_1383" id="89311_288" lookup_key="r.i._5_478" alternative_keys="['greenmunford#1']" citation_local_level_id="26" start="29798" citation_global_level_id="1535.003" end="29808" volume="5" no_current_file="True" line="67" >5 R.I. 478</CITATION>
+
+<CITATION id1="Dummy_File_1384" entry_type="party_key" party1="Messert" line="67" id="89311_294" lookup_key="messertsupervisors#1" party2="Supervisors of Columbia" citation_local_level_id="27" start="29810" party2_short="Supervisors" end="29844" citation_global_level_id="1536.001" no_current_file="True" party1_short="Messert" >Messert v. Supervisors of Columbia</CITATION>
+
+<NAME start="29810" local_name_id="48" end="29817" all_names="MESSERT" party1_of="89311_294" id="89311_303" >Messert</NAME>
+
+<NAME start="29821" party2_of="89311_294" end="29844" all_names="SUPERVISORS OF COLUMBIA" id="89311_304" local_name_id="49" >Supervisors of Columbia</NAME>
+
+<NAME start="29849" local_name_id="50" end="29853" all_names="BARB" id="89311_311" >Barb</NAME>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_1385" entry_type="party_key" party1="Dow" line="67" id="89311_295" lookup_key="dowchicago#1" alternative_keys="['wall._11_108']" party2="Chicago" citation_local_level_id="28" start="29860" party2_short="Chicago" end="29874" citation_global_level_id="1537.003" volume="11" no_current_file="True" page_number="108" party1_short="Dow" >Dow v. Chicago</CITATION>
+
+<NAME start="29860" local_name_id="51" end="29863" all_names="DOW" party1_of="89311_295" id="89311_305" >Dow</NAME>
+
+<NAME start="29867" party2_of="89311_295" end="29874" all_names="CHICAGO" id="89311_306" local_name_id="16" >Chicago</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="108" id1="Dummy_File_1385" id="89311_289" lookup_key="wall._11_108" alternative_keys="['dowchicago#1']" citation_local_level_id="29" start="29876" citation_global_level_id="1537.003" end="29888" volume="11" no_current_file="True" line="67" >11 Wall. 108</CITATION>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_1386" entry_type="party_key" party1="Hannewinkle" line="67" id="89311_296" lookup_key="hannewinklegeorgetown#1" alternative_keys="['wall._15_548']" party2="Georgetown" citation_local_level_id="30" start="29890" party2_short="Georgetown" end="29915" citation_global_level_id="1538.003" volume="15" no_current_file="True" page_number="548" party1_short="Hannewinkle" >Hannewinkle v. Georgetown</CITATION>
+
+<NAME start="29890" local_name_id="52" end="29901" all_names="HANNEWINKLE" party1_of="89311_296" id="89311_307" >Hannewinkle</NAME>
+
+<NAME start="29905" party2_of="89311_296" end="29915" all_names="GEORGETOWN" id="89311_308" local_name_id="53" >Georgetown</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="548" id1="Dummy_File_1386" id="89311_290" lookup_key="wall._15_548" alternative_keys="['hannewinklegeorgetown#1']" citation_local_level_id="31" start="29917" citation_global_level_id="1538.003" end="29929" volume="15" no_current_file="True" line="67" >15 Wall. 548</CITATION>
+
+<PROFESSION start="29935" end="29966" id="89311_328" >government of the United States</PROFESSION>
+
+<PROFESSION start="30062" end="30069" id="89311_329" >justice</PROFESSION>
+
+<PROFESSION start="30108" end="30126" id="89311_330" >general government</PROFESSION>
+
+<ORGANIZATION start="30198" end="30223" plural="True" id="89311_331" >executive departments. If</ORGANIZATION>
+
+<PROFESSION start="30386" end="30393" id="89311_332" >officer</PROFESSION>
+
+<ORGANIZATION start="30456" end="30472" id="89311_333" >court of justice</ORGANIZATION>
+
+<DATE start="30612" end="30616" id="89311_345" >1867</DATE>
+
+<ORGANIZATION start="30730" end="30735" id="89311_346" >court</ORGANIZATION>
+
+<NAME start="30738" local_name_id="54" end="30747" all_names="REV STAT" id="89311_347" >Rev. Stat</NAME>
+
+<NAME start="30828" local_name_id="23" end="30841" all_names="STATES	UNITED STATES" id="89311_348" >United States</NAME>
+
+<NAME start="30865" local_name_id="55" end="30873" all_names="CONGRESS" id="89311_349" >Congress</NAME>
+
+<ORGANIZATION start="30903" end="30920" plural="True" id="89311_350" >courts of justice</ORGANIZATION>
+
+<PROFESSION start="31005" end="31015" id="89311_351" >government</PROFESSION>
+
+<ORGANIZATION start="31404" end="31421" plural="True" id="89311_352" >courts of justice</ORGANIZATION>
+
+<NAME start="31423" local_name_id="56" end="31426" all_names="SEE" id="89311_353" >See</NAME>
+
+<CITATION id1="Dummy_File_1387" entry_type="party_key" party1="Cheatham" line="69" id="89311_336" lookup_key="cheathamnorvell#1" party2="Norvell" citation_local_level_id="32" start="31427" party2_short="Norvell" end="31446" citation_global_level_id="1539.001" no_current_file="True" party1_short="Cheatham" >Cheatham v. Norvell</CITATION>
+
+<NAME start="31427" local_name_id="57" end="31435" all_names="CHEATHAM" party1_of="89311_336" id="89311_339" >Cheatham</NAME>
+
+<NAME start="31439" party2_of="89311_336" end="31446" all_names="NORVELL" id="89311_340" local_name_id="58" >Norvell</NAME>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_1388" entry_type="party_key" party1="Nickoll" line="69" id="89311_337" lookup_key="nickollstates#1" alternative_keys="['wall._7_122']" party2="United States" citation_local_level_id="33" start="31470" party2_short="States" end="31494" citation_global_level_id="1540.003" volume="7" no_current_file="True" page_number="122" party1_short="Nickoll" >Nickoll v. United States</CITATION>
+
+<NAME start="31470" local_name_id="59" end="31477" all_names="NICKOLL" party1_of="89311_337" id="89311_341" >Nickoll</NAME>
+
+<NAME start="31481" party2_of="89311_337" end="31494" all_names="STATES	UNITED STATES" id="89311_342" local_name_id="23" >United States</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="122" id1="Dummy_File_1388" id="89311_334" lookup_key="wall._7_122" alternative_keys="['nickollstates#1']" citation_local_level_id="34" start="31496" citation_global_level_id="1540.003" end="31507" volume="7" no_current_file="True" line="69" >7 Wall. 122</CITATION>
+
+<CITATION id1="Dummy_File_1385" entry_type="party_key" party1="Dow" line="69" id="89311_338" lookup_key="dowchicago#1" alternative_keys="['wall._11_108']" party2="Chicago" citation_local_level_id="35" start="31509" party2_short="Chicago" end="31523" citation_global_level_id="1537.003" no_current_file="True" party1_short="Dow" >Dow v. Chicago</CITATION>
+
+<NAME start="31509" local_name_id="51" end="31512" all_names="DOW" party1_of="89311_338" id="89311_343" >Dow</NAME>
+
+<NAME start="31516" party2_of="89311_338" end="31523" all_names="CHICAGO" id="89311_344" local_name_id="16" >Chicago</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="108" id1="Dummy_File_1385" id="89311_335" lookup_key="wall._11_108" alternative_keys="['dowchicago#1']" citation_local_level_id="36" start="31525" citation_global_level_id="1537.003" end="31537" volume="11" no_current_file="True" line="69" >11 Wall. 108</CITATION>
+
+<ORGANIZATION start="31565" end="31570" id="89311_370" >court</ORGANIZATION>
+
+<PROFESSION start="31624" end="31641" plural="True" id="89311_371" >State governments</PROFESSION>
+
+<ORGANIZATION start="31807" end="31812" id="89311_372" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="32232" end="32243" id="89311_373" >complainant</LEGAL_ROLE>
+
+<ORGANIZATION start="32264" end="32269" id="89311_374" >court</ORGANIZATION>
+
+<CITATION id1="Dummy_File_1386" entry_type="party_key" party1="Hannewinkle" line="70" id="89311_364" lookup_key="hannewinklegeorgetown#1" alternative_keys="['wall._15_548']" party2="Georgetown" citation_local_level_id="37" start="32316" party2_short="Georgetown" end="32341" citation_global_level_id="1538.003" no_current_file="True" party1_short="Hannewinkle" >Hannewinkle v. Georgetown</CITATION>
+
+<NAME start="32316" local_name_id="52" end="32327" all_names="HANNEWINKLE" party1_of="89311_364" id="89311_366" >Hannewinkle</NAME>
+
+<NAME start="32331" party2_of="89311_364" end="32341" all_names="GEORGETOWN" id="89311_367" local_name_id="53" >Georgetown</NAME>
+
+<ORGANIZATION start="32347" end="32352" id="89311_375" >court</ORGANIZATION>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="548" id1="Dummy_File_1386" id="89311_362" lookup_key="wall._15_548" alternative_keys="['hannewinklegeorgetown#1']" citation_local_level_id="38" start="32748" citation_global_level_id="1538.003" end="32760" volume="15" no_current_file="True" line="70" >15 Wall. 548</CITATION>
+
+<NAME start="32762" local_name_id="60" end="32764" all_names="WE" id="89311_376" >We</NAME>
+
+<ORGANIZATION start="32850" end="32855" id="89311_377" >court</ORGANIZATION>
+
+<ORGANIZATION start="33045" end="33056" plural="True" id="89311_378" >foundations</ORGANIZATION>
+
+<ORGANIZATION start="33283" end="33288" id="89311_379" >court</ORGANIZATION>
+
+<ORGANIZATION start="33380" end="33385" id="89311_380" >court</ORGANIZATION>
+
+<PROFESSION start="33591" end="33628" plural="True" id="89311_381" >officers of the State. These officers</PROFESSION>
+
+<ORGANIZATION start="33726" end="33731" id="89311_382" >court</ORGANIZATION>
+
+<NAME start="33840" local_name_id="23" end="33846" all_names="STATES	UNITED STATES" id="89311_383" >States</NAME>
+
+<NAME start="33873" local_name_id="61" end="33880" all_names="ENGLISH" id="89311_384" >English</NAME>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_1389" entry_type="party_key" party1="Heine" line="70" id="89311_365" lookup_key="heinecommissioners#1" alternative_keys="['wall._19_660']" party2="The Levee Commissioners" citation_local_level_id="39" start="33917" party2_short="Commissioners" end="33949" citation_global_level_id="1541.003" volume="19" no_current_file="True" page_number="660" party1_short="Heine" >Heine v. The Levee Commissioners</CITATION>
+
+<NAME start="33917" local_name_id="62" end="33922" all_names="HEINE" party1_of="89311_365" id="89311_368" >Heine</NAME>
+
+<NAME start="33926" party2_of="89311_365" end="33949" all_names="THE LEVEE COMMISSIONERS" id="89311_369" local_name_id="63" >The Levee Commissioners</NAME>
+
+<PROFESSION start="33930" end="33949" plural="True" id="89311_385" >Levee Commissioners</PROFESSION>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="660" id1="Dummy_File_1389" id="89311_363" lookup_key="wall._19_660" alternative_keys="['heinecommissioners#1']" citation_local_level_id="40" start="33951" citation_global_level_id="1541.003" end="33963" volume="19" no_current_file="True" line="70" >19 Wall. 660</CITATION>
+
+<ORGANIZATION start="33967" end="33972" id="89311_391" >court</ORGANIZATION>
+
+<PROFESSION start="34153" end="34160" id="89311_392" >justice</PROFESSION>
+
+<LEGAL_ROLE start="34321" end="34332" id="89311_393" >complainant</LEGAL_ROLE>
+
+<ORGANIZATION start="34573" end="34578" id="89311_394" >court</ORGANIZATION>
+
+<NAME start="34728" local_name_id="64" end="34742" all_names="STATE WHETHER" id="89311_395" >State. Whether</NAME>
+
+<ORGANIZATION start="34930" end="34936" plural="True" id="89311_396" >courts</ORGANIZATION>
+
+<ORGANIZATION start="34994" end="35006" plural="True" id="89311_397" >corporations</ORGANIZATION>
+
+<NAME start="35121" local_name_id="65" end="35132" all_names="STATE HIGH" id="89311_398" >State. High</NAME>
+
+<NAME start="35136" local_name_id="66" end="35142" all_names="INJUNC" id="89311_399" >Injunc</NAME>
+
+<ORGANIZATION start="35267" end="35278" id="89311_400" >State board</ORGANIZATION>
+
+<NAME start="35412" local_name_id="12" end="35417" all_names="STATE" id="89311_401" >State</NAME>
+
+<ORGANIZATION start="35606" end="35611" id="89311_402" >court</ORGANIZATION>
+
+<ORGANIZATION start="35736" end="35750" id="89311_403" >administration</ORGANIZATION>
+
+<ORGANIZATION start="35759" end="35764" id="89311_404" >board</ORGANIZATION>
+
+<PROFESSION start="36047" end="36055" plural="True" id="89311_405" >officers</PROFESSION>
+
+<ORGANIZATION start="36133" end="36138" id="89311_406" >court</ORGANIZATION>
+
+<ORGANIZATION start="36340" end="36345" id="89311_407" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="36370" end="36382" plural="True" id="89311_408" >complainants</LEGAL_ROLE>
+
+<NAME start="36384" local_name_id="67" end="36386" all_names="IT" id="89311_409" >It</NAME>
+
+<ORGANIZATION start="36470" end="36475" id="89311_410" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="36502" end="36512" plural="True" id="89311_411" >defendants</LEGAL_ROLE>
+
+<PROFESSION start="36540" end="36561" plural="True" id="89311_412" >clerks and treasurers</PROFESSION>
+
+<PROFESSION start="36585" end="36590" id="89311_413" >clerk</PROFESSION>
+
+<PROFESSION start="36627" end="36636" id="89311_414" >treasurer</PROFESSION>
+
+<NAME start="36686" local_name_id="12" end="36691" all_names="STATE" id="89311_415" >State</NAME>
+
+<LEGAL_ROLE start="37233" end="37245" plural="True" id="89311_416" >complainants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="37830" end="37842" plural="True" id="89311_417" >complainants</LEGAL_ROLE>
+
+<ORGANIZATION start="37863" end="37868" id="89311_418" >court</ORGANIZATION>
+
+<PROFESSION start="37989" end="37996" id="89311_419" >justice</PROFESSION>
+
+<ORGANIZATION start="38030" end="38035" id="89311_420" >court</ORGANIZATION>
+
+<ORGANIZATION start="38079" end="38091" plural="True" id="89311_421" >corporations</ORGANIZATION>
+
+<NAME start="38786" local_name_id="12" end="38791" all_names="STATE" id="89311_422" >State</NAME>
+
+<PROFESSION start="38924" end="38931" id="89311_423" >officer</PROFESSION>
+
+<ORGANIZATION start="39240" end="39250" plural="True" id="89311_442" >courts. We</ORGANIZATION>
+
+<ORGANIZATION start="39303" end="39330" plural="True" id="89311_443" >courts of the United States</ORGANIZATION>
+
+<NAME start="39362" local_name_id="68" end="39368" all_names="COOLEY" id="89311_444" >Cooley</NAME>
+
+<NAME start="39372" local_name_id="20" end="39375" all_names="STATE TAX	TAX" id="89311_445" >Tax</NAME>
+
+<CITATION standard_reporter="MICH." id1="Dummy_File_1390" entry_type="party_key" party1="Palmer" line="77" id="89311_427" lookup_key="palmernapoleon#1" alternative_keys="['mich._16_176']" party2="Napoleon" citation_local_level_id="41" start="39382" party2_short="Napoleon" end="39400" citation_global_level_id="1542.003" volume="16" no_current_file="True" page_number="176" party1_short="Palmer" >Palmer v. Napoleon</CITATION>
+
+<NAME start="39382" local_name_id="69" end="39388" all_names="PALMER" party1_of="89311_427" id="89311_432" >Palmer</NAME>
+
+<NAME start="39392" party2_of="89311_427" end="39400" all_names="NAPOLEON" id="89311_433" local_name_id="70" >Napoleon</NAME>
+
+<CITATION reporter="Mich." entry_type="standard_key" standard_reporter="MICH." page_number="176" id1="Dummy_File_1390" id="89311_424" lookup_key="mich._16_176" alternative_keys="['palmernapoleon#1']" citation_local_level_id="42" start="39402" citation_global_level_id="1542.003" end="39414" volume="16" no_current_file="True" line="77" >16 Mich. 176</CITATION>
+
+<CITATION standard_reporter="WIS." id1="Dummy_File_1391" entry_type="party_key" party1="Hersey" line="77" id="89311_428" lookup_key="herseysupervisors#1" alternative_keys="['wis._16_185']" party2="Supervisors" citation_local_level_id="43" start="39416" party2_short="Supervisors" end="39437" citation_global_level_id="1543.003" volume="16" no_current_file="True" page_number="185" party1_short="Hersey" >Hersey v. Supervisors</CITATION>
+
+<NAME start="39416" local_name_id="71" end="39422" all_names="HERSEY" party1_of="89311_428" id="89311_434" >Hersey</NAME>
+
+<NAME start="39426" party2_of="89311_428" end="39437" all_names="SUPERVISORS" id="89311_435" local_name_id="72" >Supervisors</NAME>
+
+<CITATION reporter="Wis." entry_type="standard_key" standard_reporter="WIS." page_number="185" id1="Dummy_File_1391" id="89311_425" lookup_key="wis._16_185" alternative_keys="['herseysupervisors#1']" citation_local_level_id="44" start="39439" citation_global_level_id="1543.003" end="39450" volume="16" no_current_file="True" line="77" >16 Wis. 185</CITATION>
+
+<CITATION standard_reporter="IND." id1="Dummy_File_1392" entry_type="party_key" party1="Roseberry" line="77" id="89311_429" lookup_key="roseberryhuff#1" alternative_keys="['ind._27_12']" party2="Huff" citation_local_level_id="45" start="39452" party2_short="Huff" end="39469" citation_global_level_id="1544.003" volume="27" no_current_file="True" page_number="12" party1_short="Roseberry" >Roseberry v. Huff</CITATION>
+
+<NAME start="39452" local_name_id="73" end="39461" all_names="ROSEBERRY" party1_of="89311_429" id="89311_436" >Roseberry</NAME>
+
+<NAME start="39465" party2_of="89311_429" end="39469" all_names="HUFF" id="89311_437" local_name_id="74" >Huff</NAME>
+
+<CITATION reporter="Ind." entry_type="standard_key" standard_reporter="IND." page_number="12" id1="Dummy_File_1392" id="89311_426" lookup_key="ind._27_12" alternative_keys="['roseberryhuff#1']" citation_local_level_id="46" start="39471" citation_global_level_id="1544.003" end="39481" volume="27" no_current_file="True" line="77" >27 Ind. 12</CITATION>
+
+<CITATION id1="Dummy_File_1393" entry_type="party_key" party1="Frazer" line="77" id="89311_430" lookup_key="frazerliebon#1" party2="Liebon" citation_local_level_id="47" start="39483" party2_short="Liebon" end="39499" citation_global_level_id="1545.001" no_current_file="True" party1_short="Frazer" >Frazer v. Liebon</CITATION>
+
+<NAME start="39483" local_name_id="75" end="39489" all_names="FRAZER" party1_of="89311_430" id="89311_438" >Frazer</NAME>
+
+<NAME start="39493" party2_of="89311_430" end="39499" all_names="LIEBON" id="89311_439" local_name_id="76" >Liebon</NAME>
+
+<NAME start="39504" local_name_id="77" end="39511" all_names="OHIO ST" id="89311_446" >Ohio St</NAME>
+
+<CITATION id1="Dummy_File_1394" entry_type="party_key" party1="Parmely and Others" line="77" id="89311_431" lookup_key="parmelycompanies#1" party2="The Railroad Companies" citation_local_level_id="48" start="39518" party2_short="Companies" end="39562" citation_global_level_id="1546.001" no_current_file="True" party1_short="Parmely" >Parmely and Others v. The Railroad Companies</CITATION>
+
+<NAME start="39518" local_name_id="78" end="39536" all_names="PARMELY AND OTHERS" party1_of="89311_431" id="89311_440" >Parmely and Others</NAME>
+
+<NAME start="39540" party2_of="89311_431" end="39562" all_names="THE RAILROAD COMPANIES" id="89311_441" local_name_id="79" >The Railroad Companies</NAME>
+
+<ORGANIZATION start="39544" end="39562" plural="True" id="89311_447" >Railroad Companies</ORGANIZATION>
+
+<NAME start="39566" local_name_id="80" end="39570" all_names="DILL" id="89311_448" >Dill</NAME>
+
+<ORGANIZATION start="39642" end="39655" id="89311_470" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="39779" end="39817" id="89311_471" >Supreme Court of the State of Illinois</ORGANIZATION>
+
+<CITATION id1="Dummy_File_1395" entry_type="party_key" party1="Samuel R. Porter, County Treasurer, and John W. Cook, County Clerk," line="78" id="89311_462" lookup_key="treasurerrockford#1" party2="Rockford, Rock Island, &amp; St. Louis Railroad Co" citation_local_level_id="49" start="39894" party2_short="Rockford" end="40011" citation_global_level_id="1547.001" no_current_file="True" party1_short="Treasurer" >Samuel R. Porter, County Treasurer, and John W. Cook, County Clerk, v. Rockford, Rock Island, &amp; St. Louis Railroad Co</CITATION>
+
+<NAME start="39894" local_name_id="81" end="39961" all_names="SAMUEL R PORTER COUNTY TREASURER AND JOHN W COOK COUNTY CLERK" party1_of="89311_462" id="89311_464" >Samuel R. Porter, County Treasurer, and John W. Cook, County Clerk,</NAME>
+
+<PROFESSION start="39912" end="39928" id="89311_472" >County Treasurer</PROFESSION>
+
+<PROFESSION start="39934" end="39946" id="89311_473" >John W. Cook</PROFESSION>
+
+<PROFESSION start="39948" end="39960" id="89311_474" >County Clerk</PROFESSION>
+
+<NAME start="39965" party2_of="89311_462" end="40011" all_names="ROCKFORD ROCK ISLAND &amp; ST LOUIS RAILROAD CO" id="89311_465" local_name_id="82" >Rockford, Rock Island, &amp; St. Louis Railroad Co</NAME>
+
+<ORGANIZATION start="39990" end="40011" id="89311_475" >St. Louis Railroad Co</ORGANIZATION>
+
+<NAME start="40029" local_name_id="83" end="40041" all_names="JANUARY TERM" id="89311_476" >January Term</NAME>
+
+<DATE start="40043" end="40047" id="89311_468" >1874</DATE>
+
+<CITATION id1="Dummy_File_1396" entry_type="party_key" party1="The Chicago, Burlington, &amp; Quincy R.R. Co." line="78" id="89311_463" lookup_key="rcole#1" party2="J.J. Cole and Another" citation_local_level_id="50" start="40053" party2_short="Cole" end="40120" citation_global_level_id="1548.001" no_current_file="True" party1_short="R" >The Chicago, Burlington, &amp; Quincy R.R. Co. v. J.J. Cole and Another</CITATION>
+
+<NAME start="40053" local_name_id="30" end="40095" all_names="ERIE RR CO	THE CHICAGO BURLINGTON &amp; QUINCY RR CO" party1_of="89311_463" id="89311_466" >The Chicago, Burlington, &amp; Quincy R.R. Co.</NAME>
+
+<ORGANIZATION start="40080" end="40094" id="89311_477" >Quincy R.R. Co</ORGANIZATION>
+
+<NAME start="40099" party2_of="89311_463" end="40120" all_names="JJ COLE AND ANOTHER" id="89311_467" local_name_id="84" >J.J. Cole and Another</NAME>
+
+<DATE start="40133" end="40143" id="89311_469" >June, 1875</DATE>
+
+<ORGANIZATION start="40231" end="40236" id="89311_478" >court</ORGANIZATION>
+
+<ORGANIZATION start="40276" end="40292" plural="True" id="89311_479" >companies. These</ORGANIZATION>
+
+<ORGANIZATION start="40433" end="40438" id="89311_480" >board</ORGANIZATION>
+
+<NAME start="40556" local_name_id="22" end="40593" all_names="IF	STATE IF	CONSTITUTION OF THE UNITED STATES IF" id="89311_481" >Constitution of the United States. If</NAME>
+
+<ORGANIZATION start="40663" end="40673" id="89311_482" >foundation</ORGANIZATION>
+
+<NAME start="40729" local_name_id="12" end="40734" all_names="STATE" id="89311_483" >State</NAME>
+
+<NAME start="40778" local_name_id="12" end="40783" all_names="STATE" id="89311_484" >State</NAME>
+
+<ORGANIZATION start="40917" end="40922" id="89311_485" >court</ORGANIZATION>
+
+<ORGANIZATION start="40988" end="41000" plural="True" id="89311_486" >State courts</ORGANIZATION>
+
+<ORGANIZATION start="41052" end="41066" plural="True" id="89311_487" >Federal courts</ORGANIZATION>
+
+<ORGANIZATION start="41147" end="41158" id="89311_492" >State court</ORGANIZATION>
+
+<ORGANIZATION start="41273" end="41286" id="89311_493" >Circuit Court</ORGANIZATION>
+
+<NAME start="41459" local_name_id="16" end="41466" all_names="CHICAGO" id="89311_494" >Chicago</NAME>
+
+<NAME start="41468" local_name_id="17" end="41478" all_names="BURLINGTON" id="89311_495" >Burlington</NAME>
+
+<ORGANIZATION start="41482" end="41496" id="89311_496" >Quincy R.R. Co</ORGANIZATION>
+
+<ORGANIZATION start="41544" end="41549" id="89311_497" >board</ORGANIZATION>
+
+<ORGANIZATION start="41583" end="41590" id="89311_498" >company</ORGANIZATION>
+
+<ORGANIZATION start="41750" end="41763" id="89311_499" >Circuit Court</ORGANIZATION>
+
+<PROFESSION start="41821" end="41828" id="89311_500" >counsel</PROFESSION>
+
+<NAME start="41917" local_name_id="12" end="41922" all_names="STATE" id="89311_501" >State</NAME>
+
+<ORGANIZATION start="41969" end="41994" id="89311_502" >Chicago and Alton Company</ORGANIZATION>
+
+<RELATION party1_string="TAYLOR, COLLECTOR, ET AL.," party1="89311_6" theme_string="TAYLOR, COLLECTOR, ET AL.,  v.  SECOR ET AL" id="89311_8" relation_type="asymmetric" theme="89311_5" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="SECOR ET AL" theme_string="TAYLOR, COLLECTOR, ET AL.,  v.  SECOR ET AL" id="89311_9" relation_type="asymmetric" party2="89311_7" theme="89311_5" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="MILLER, COLLECTOR, ET AL.," party1="89311_14" theme_string="MILLER, COLLECTOR, ET AL.,  v.  JESSUP ET AL" id="89311_16" relation_type="asymmetric" theme="89311_13" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="JESSUP ET AL" theme_string="MILLER, COLLECTOR, ET AL.,  v.  JESSUP ET AL" id="89311_17" relation_type="asymmetric" party2="89311_15" theme="89311_13" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="MILLER, COLLECTOR, ET AL.," party1="89311_22" theme_string="MILLER, COLLECTOR, ET AL.,  v.  KIDDER ET AL" id="89311_24" relation_type="asymmetric" theme="89311_21" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KIDDER ET AL" theme_string="MILLER, COLLECTOR, ET AL.,  v.  KIDDER ET AL" id="89311_25" relation_type="asymmetric" party2="89311_23" theme="89311_21" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="MILLER, COLLECTOR, ET AL.,  v.  KIDDER ET AL" gram_type="multi_line" standard_case="89311_1" relation_type="equivalence" id="89311_29" X_vs_Y="89311_21" standard_case_string="92 U.S. 575 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="MILLER, COLLECTOR, ET AL.,  v.  JESSUP ET AL" gram_type="multi_line" standard_case="89311_1" relation_type="equivalence" id="89311_28" X_vs_Y="89311_13" standard_case_string="92 U.S. 575 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="TAYLOR, COLLECTOR, ET AL.,  v.  SECOR ET AL" gram_type="multi_line" standard_case="89311_1" relation_type="equivalence" id="89311_27" X_vs_Y="89311_5" standard_case_string="92 U.S. 575 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="Society for Savings v. Coite" gram_type="apposition" standard_case="89311_88" relation_type="equivalence" id="89311_106" X_vs_Y="89311_91" standard_case_string="6 Wall. 607" ></RELATION>
+
+<RELATION party1_string="Society for Savings" party1="89311_92" theme_string="Society for Savings v. Coite" id="89311_104" relation_type="asymmetric" theme="89311_91" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Coite" theme_string="Society for Savings v. Coite" id="89311_105" relation_type="asymmetric" party2="89311_93" theme="89311_91" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="State Freight Tax Case" gram_type="apposition" standard_case="89311_89" relation_type="equivalence" id="89311_107" standard_case_string="15 Wall. 232" case_citation_other="89311_94" ></RELATION>
+
+<RELATION party1_string="Society for Savings" party1="89311_109" theme_string="Society for Savings v. Coite" id="89311_112" relation_type="asymmetric" theme="89311_108" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Coite" theme_string="Society for Savings v. Coite" id="89311_113" relation_type="asymmetric" party2="89311_110" theme="89311_108" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Green v. Van Buskirk" gram_type="apposition" standard_case="89311_168" relation_type="equivalence" id="89311_185" X_vs_Y="89311_169" standard_case_string="5 Wall. 312" ></RELATION>
+
+<RELATION party1_string="Green" party1="89311_170" theme_string="Green v. Van Buskirk" id="89311_183" relation_type="asymmetric" theme="89311_169" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Van Buskirk" theme_string="Green v. Van Buskirk" id="89311_184" relation_type="asymmetric" party2="89311_171" theme="89311_169" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Erie R.R. Co. v. Pennsylvania" gram_type="apposition" standard_case="89311_223" relation_type="equivalence" id="89311_235" X_vs_Y="89311_224" standard_case_string="21 Wall. 492" ></RELATION>
+
+<RELATION party1_string="Erie R.R. Co." party1="89311_225" theme_string="Erie R.R. Co. v. Pennsylvania" id="89311_233" relation_type="asymmetric" theme="89311_224" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Pennsylvania" theme_string="Erie R.R. Co. v. Pennsylvania" id="89311_234" relation_type="asymmetric" party2="89311_226" theme="89311_224" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Tappan v. Merchants' National Bank" gram_type="apposition" standard_case="89311_248" relation_type="equivalence" id="89311_269" X_vs_Y="89311_250" standard_case_string="19 Wall. 504" ></RELATION>
+
+<RELATION party1_string="Tappan" party1="89311_254" theme_string="Tappan v. Merchants' National Bank" id="89311_267" relation_type="asymmetric" theme="89311_250" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Merchants' National Bank" theme_string="Tappan v. Merchants' National Bank" id="89311_268" relation_type="asymmetric" party2="89311_255" theme="89311_250" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Weber" party1="89311_256" theme_string="Weber v. Renhard" id="89311_270" relation_type="asymmetric" theme="89311_251" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Renhard" theme_string="Weber v. Renhard" id="89311_271" relation_type="asymmetric" party2="89311_257" theme="89311_251" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Commonwealth" party1="89311_258" theme_string="Commonwealth v. Savings Bank" id="89311_272" relation_type="asymmetric" theme="89311_252" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Savings Bank" theme_string="Commonwealth v. Savings Bank" id="89311_273" relation_type="asymmetric" party2="89311_259" theme="89311_252" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Allen v. Drew" gram_type="apposition" standard_case="89311_249" relation_type="equivalence" id="89311_276" X_vs_Y="89311_253" standard_case_string="44 Vt. 174" ></RELATION>
+
+<RELATION party1_string="Allen" party1="89311_260" theme_string="Allen v. Drew" id="89311_274" relation_type="asymmetric" theme="89311_253" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Drew" theme_string="Allen v. Drew" id="89311_275" relation_type="asymmetric" party2="89311_261" theme="89311_253" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Mooers" party1="89311_297" theme_string="Mooers v. Smedley" id="89311_312" relation_type="asymmetric" theme="89311_291" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Smedley" theme_string="Mooers v. Smedley" id="89311_313" relation_type="asymmetric" party2="89311_298" theme="89311_291" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Dodd v. Hartford" gram_type="apposition" standard_case="89311_287" relation_type="equivalence" id="89311_316" X_vs_Y="89311_292" standard_case_string="26 Conn. 239" ></RELATION>
+
+<RELATION party1_string="Dodd" party1="89311_299" theme_string="Dodd v. Hartford" id="89311_314" relation_type="asymmetric" theme="89311_292" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Hartford" theme_string="Dodd v. Hartford" id="89311_315" relation_type="asymmetric" party2="89311_300" theme="89311_292" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Green v. Munford" gram_type="apposition" standard_case="89311_288" relation_type="equivalence" id="89311_319" X_vs_Y="89311_293" standard_case_string="5 R.I. 478" ></RELATION>
+
+<RELATION party1_string="Green" party1="89311_301" theme_string="Green v. Munford" id="89311_317" relation_type="asymmetric" theme="89311_293" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Munford" theme_string="Green v. Munford" id="89311_318" relation_type="asymmetric" party2="89311_302" theme="89311_293" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Messert" party1="89311_303" theme_string="Messert v. Supervisors of Columbia" id="89311_320" relation_type="asymmetric" theme="89311_294" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Supervisors of Columbia" theme_string="Messert v. Supervisors of Columbia" id="89311_321" relation_type="asymmetric" party2="89311_304" theme="89311_294" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Dow v. Chicago" gram_type="apposition" standard_case="89311_289" relation_type="equivalence" id="89311_324" X_vs_Y="89311_295" standard_case_string="11 Wall. 108" ></RELATION>
+
+<RELATION party1_string="Dow" party1="89311_305" theme_string="Dow v. Chicago" id="89311_322" relation_type="asymmetric" theme="89311_295" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Chicago" theme_string="Dow v. Chicago" id="89311_323" relation_type="asymmetric" party2="89311_306" theme="89311_295" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Hannewinkle v. Georgetown" gram_type="apposition" standard_case="89311_290" relation_type="equivalence" id="89311_327" X_vs_Y="89311_296" standard_case_string="15 Wall. 548" ></RELATION>
+
+<RELATION party1_string="Hannewinkle" party1="89311_307" theme_string="Hannewinkle v. Georgetown" id="89311_325" relation_type="asymmetric" theme="89311_296" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Georgetown" theme_string="Hannewinkle v. Georgetown" id="89311_326" relation_type="asymmetric" party2="89311_308" theme="89311_296" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Cheatham" party1="89311_339" theme_string="Cheatham v. Norvell" id="89311_354" relation_type="asymmetric" theme="89311_336" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Norvell" theme_string="Cheatham v. Norvell" id="89311_355" relation_type="asymmetric" party2="89311_340" theme="89311_336" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Nickoll v. United States" gram_type="apposition" standard_case="89311_334" relation_type="equivalence" id="89311_358" X_vs_Y="89311_337" standard_case_string="7 Wall. 122" ></RELATION>
+
+<RELATION party1_string="Nickoll" party1="89311_341" theme_string="Nickoll v. United States" id="89311_356" relation_type="asymmetric" theme="89311_337" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="United States" theme_string="Nickoll v. United States" id="89311_357" relation_type="asymmetric" party2="89311_342" theme="89311_337" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Dow v. Chicago" gram_type="apposition" standard_case="89311_335" relation_type="equivalence" id="89311_361" X_vs_Y="89311_338" standard_case_string="11 Wall. 108" ></RELATION>
+
+<RELATION party1_string="Dow" party1="89311_343" theme_string="Dow v. Chicago" id="89311_359" relation_type="asymmetric" theme="89311_338" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Chicago" theme_string="Dow v. Chicago" id="89311_360" relation_type="asymmetric" party2="89311_344" theme="89311_338" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Hannewinkle" party1="89311_366" theme_string="Hannewinkle v. Georgetown" id="89311_386" relation_type="asymmetric" theme="89311_364" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Georgetown" theme_string="Hannewinkle v. Georgetown" id="89311_387" relation_type="asymmetric" party2="89311_367" theme="89311_364" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Heine v. The Levee Commissioners" gram_type="apposition" standard_case="89311_363" relation_type="equivalence" id="89311_390" X_vs_Y="89311_365" standard_case_string="19 Wall. 660" ></RELATION>
+
+<RELATION party1_string="Heine" party1="89311_368" theme_string="Heine v. The Levee Commissioners" id="89311_388" relation_type="asymmetric" theme="89311_365" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="The Levee Commissioners" theme_string="Heine v. The Levee Commissioners" id="89311_389" relation_type="asymmetric" party2="89311_369" theme="89311_365" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Palmer v. Napoleon" gram_type="apposition" standard_case="89311_424" relation_type="equivalence" id="89311_451" X_vs_Y="89311_427" standard_case_string="16 Mich. 176" ></RELATION>
+
+<RELATION party1_string="Palmer" party1="89311_432" theme_string="Palmer v. Napoleon" id="89311_449" relation_type="asymmetric" theme="89311_427" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Napoleon" theme_string="Palmer v. Napoleon" id="89311_450" relation_type="asymmetric" party2="89311_433" theme="89311_427" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Hersey v. Supervisors" gram_type="apposition" standard_case="89311_425" relation_type="equivalence" id="89311_454" X_vs_Y="89311_428" standard_case_string="16 Wis. 185" ></RELATION>
+
+<RELATION party1_string="Hersey" party1="89311_434" theme_string="Hersey v. Supervisors" id="89311_452" relation_type="asymmetric" theme="89311_428" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Supervisors" theme_string="Hersey v. Supervisors" id="89311_453" relation_type="asymmetric" party2="89311_435" theme="89311_428" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Roseberry v. Huff" gram_type="apposition" standard_case="89311_426" relation_type="equivalence" id="89311_457" X_vs_Y="89311_429" standard_case_string="27 Ind. 12" ></RELATION>
+
+<RELATION party1_string="Roseberry" party1="89311_436" theme_string="Roseberry v. Huff" id="89311_455" relation_type="asymmetric" theme="89311_429" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Huff" theme_string="Roseberry v. Huff" id="89311_456" relation_type="asymmetric" party2="89311_437" theme="89311_429" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Frazer" party1="89311_438" theme_string="Frazer v. Liebon" id="89311_458" relation_type="asymmetric" theme="89311_430" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Liebon" theme_string="Frazer v. Liebon" id="89311_459" relation_type="asymmetric" party2="89311_439" theme="89311_430" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Parmely and Others" party1="89311_440" theme_string="Parmely and Others v. The Railroad Companies" id="89311_460" relation_type="asymmetric" theme="89311_431" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="The Railroad Companies" theme_string="Parmely and Others v. The Railroad Companies" id="89311_461" relation_type="asymmetric" party2="89311_441" theme="89311_431" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Samuel R. Porter, County Treasurer, and John W. Cook, County Clerk," party1="89311_464" theme_string="Samuel R. Porter, County Treasurer, and John W. Cook, County Clerk, v. Rockford, Rock Island, &amp; St. Louis Railroad Co" id="89311_488" relation_type="asymmetric" theme="89311_462" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Rockford, Rock Island, &amp; St. Louis Railroad Co" theme_string="Samuel R. Porter, County Treasurer, and John W. Cook, County Clerk, v. Rockford, Rock Island, &amp; St. Louis Railroad Co" id="89311_489" relation_type="asymmetric" party2="89311_465" theme="89311_462" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="The Chicago, Burlington, &amp; Quincy R.R. Co." party1="89311_466" theme_string="The Chicago, Burlington, &amp; Quincy R.R. Co. v. J.J. Cole and Another" id="89311_490" relation_type="asymmetric" theme="89311_463" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="J.J. Cole and Another" theme_string="The Chicago, Burlington, &amp; Quincy R.R. Co. v. J.J. Cole and Another" id="89311_491" relation_type="asymmetric" party2="89311_467" theme="89311_463" gram_type="infix" ></RELATION>
+

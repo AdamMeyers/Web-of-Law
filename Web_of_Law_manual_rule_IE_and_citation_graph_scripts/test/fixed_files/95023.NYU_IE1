@@ -1,0 +1,584 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="452" id1="95023" id="95023_1" lookup_key="u.s._173_452" alternative_keys="['ex parte ward#1', 's.ct._19_459', 'l.ed._43_765']" citation_local_level_id="0" start="0" citation_global_level_id="91.002" end="12" volume="173" name="Ex parte WARD" line="1" >173 U.S. 452</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="459" id1="95023" id="95023_2" lookup_key="s.ct._19_459" alternative_keys="['u.s._173_452', 'ex parte ward#1', 'l.ed._43_765']" citation_local_level_id="1" start="17" citation_global_level_id="91.003" end="30" volume="19" name="Ex parte WARD" line="2" >19 S. Ct. 459</CITATION>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="765" id1="95023" id="95023_3" lookup_key="l.ed._43_765" alternative_keys="['u.s._173_452', 's.ct._19_459', 'ex parte ward#1']" citation_local_level_id="2" start="35" citation_global_level_id="91.004" end="48" volume="43" name="Ex parte WARD" line="3" >43 L. Ed. 765</CITATION>
+
+<CITATION start="53" id1="95023" entry_type="case_key" citation_global_level_id="91.001" line="4" name="Ex parte WARD" id="95023_6" lookup_key="ex parte ward#1" alternative_keys="['u.s._173_452', 's.ct._19_459', 'l.ed._43_765']" end="66" citation_local_level_id="3" >Ex parte WARD</CITATION>
+
+<DATE start="69" citation_global_level_id="91.001" end="83" citation_local_level_id="3" id="95023_4" >March 20, 1899</DATE>
+
+<DATE start="412" citation_global_level_id="91.001" end="428" citation_local_level_id="3" id="95023_5" >October 22, 1898</DATE>
+
+<NAME start="463" local_name_id="1" end="478" all_names="FT LEAVENWORTH" id="95023_12" >Ft. Leavenworth</NAME>
+
+<NAME start="480" local_name_id="2" end="483" all_names="KAN" id="95023_13" >Kan</NAME>
+
+<PROFESSION start="586" end="592" id="95023_14" >warden</PROFESSION>
+
+<PROFESSION start="730" end="735" party="MEEK" document_level_name_id="3" id="95023_15" >Judge</PROFESSION>
+
+<NAME start="736" local_name_id="3" end="740" all_names="MEEK" id="95023_16" >Meek</NAME>
+
+<DATE start="755" end="768" id="95023_8" >July 13, 1898</DATE>
+
+<NAME start="837" local_name_id="4" end="850" all_names="UNITED STATES" id="95023_17" >United States</NAME>
+
+<PROFESSION start="876" end="885" id="95023_18" >president</PROFESSION>
+
+<ORGANIZATION start="894" end="900" id="95023_19" >office</ORGANIZATION>
+
+<ORGANIZATION start="1007" end="1017" id="95023_20" >commission</ORGANIZATION>
+
+<DATE start="1184" end="1200" id="95023_9" >February 9, 1898</DATE>
+
+<NAME start="1205" local_name_id="5" end="1209" all_names="STAT" id="95023_21" >Stat</NAME>
+
+<PROFESSION start="1261" end="1283" id="95023_22" >judge for the Northern</PROFESSION>
+
+<NAME start="1318" local_name_id="6" end="1323" all_names="TEXAS" id="95023_23" >Texas</NAME>
+
+<PROFESSION start="1348" end="1357" id="95023_24" >president</PROFESSION>
+
+<ORGANIZATION start="1429" end="1435" id="95023_25" >office</ORGANIZATION>
+
+<PROFESSION start="1461" end="1466" id="95023_26" >judge</PROFESSION>
+
+<PROFESSION start="1555" end="1560" id="95023_27" >judge</PROFESSION>
+
+<NAME start="1562" local_name_id="7" end="1564" all_names="IT" id="95023_28" >It</NAME>
+
+<PROFESSION start="1580" end="1585" party="MEEK" document_level_name_id="3" id="95023_29" >Judge</PROFESSION>
+
+<NAME start="1586" local_name_id="8" end="1592" all_names="RECTOR" id="95023_30" >Rector</NAME>
+
+<PROFESSION start="1606" end="1627" id="95023_31" >judge of the Northern</PROFESSION>
+
+<NAME start="1640" local_name_id="6" end="1645" all_names="TEXAS" id="95023_32" >Texas</NAME>
+
+<DATE start="1675" end="1691" id="95023_10" >February 9, 1898</DATE>
+
+<DATE start="1708" end="1721" id="95023_11" >April 9, 1898</DATE>
+
+<PROFESSION start="1730" end="1735" party="MEEK" document_level_name_id="3" id="95023_33" >Judge</PROFESSION>
+
+<NAME start="1736" local_name_id="3" end="1740" all_names="MEEK" id="95023_34" >Meek</NAME>
+
+<PROFESSION start="1889" end="1894" party="MEEK" document_level_name_id="3" id="95023_35" >Judge</PROFESSION>
+
+<NAME start="1895" local_name_id="8" end="1901" all_names="RECTOR" id="95023_36" >Rector</NAME>
+
+<ORGANIZATION start="1996" end="2002" id="95023_37" >office</ORGANIZATION>
+
+<PROFESSION start="2027" end="2032" id="95023_38" >judge</PROFESSION>
+
+<NAME start="2051" local_name_id="9" end="2057" all_names="CLAUSE" id="95023_39" >Clause</NAME>
+
+<PROFESSION start="2125" end="2134" id="95023_40" >president</PROFESSION>
+
+<ORGANIZATION start="2238" end="2249" plural="True" id="95023_41" >commissions</ORGANIZATION>
+
+<ORGANIZATION start="2332" end="2338" id="95023_42" >office</ORGANIZATION>
+
+<PROFESSION start="2477" end="2486" id="95023_43" >president</PROFESSION>
+
+<PROFESSION start="2541" end="2550" id="95023_44" >president</PROFESSION>
+
+<ORGANIZATION start="2653" end="2663" id="95023_53" >commission</ORGANIZATION>
+
+<PROFESSION start="2730" end="2754" id="95023_54" >United States government</PROFESSION>
+
+<ORGANIZATION start="2836" end="2870" plural="True" id="95023_55" >judges of the United States courts</ORGANIZATION>
+
+<ORGANIZATION start="2888" end="2895" plural="True" id="95023_56" >offices</ORGANIZATION>
+
+<ORGANIZATION start="2968" end="2974" id="95023_57" >office</ORGANIZATION>
+
+<NAME start="3062" local_name_id="4" end="3075" all_names="UNITED STATES" id="95023_58" >United States</NAME>
+
+<PROFESSION start="3155" end="3162" id="95023_59" >counsel</PROFESSION>
+
+<ORGANIZATION start="3247" end="3252" id="95023_60" >court</ORGANIZATION>
+
+<PROFESSION start="3384" end="3389" id="95023_61" >judge</PROFESSION>
+
+<ORGANIZATION start="3402" end="3407" id="95023_62" >court</ORGANIZATION>
+
+<PROFESSION start="3423" end="3430" id="95023_63" >officer</PROFESSION>
+
+<ORGANIZATION start="3484" end="3503" id="95023_64" >judge to the office</ORGANIZATION>
+
+<CITATION start="3621" id1="Dummy_File_2072" entry_type="case_key" citation_global_level_id="2224.001" line="10" no_current_file="True" name="In Griffin's Case" id="95023_65" lookup_key="in griffin's case#1" end="3638" citation_local_level_id="4" >In Griffin's Case</CITATION>
+
+<NAME start="3640" local_name_id="10" end="3660" all_names="CHASE 364 425 FED" id="95023_66" >Chase, 364, 425, Fed</NAME>
+
+<NAME start="3662" local_name_id="11" end="3665" all_names="CAS" id="95023_67" >Cas</NAME>
+
+<ORGANIZATION start="4040" end="4046" id="95023_70" >office</ORGANIZATION>
+
+<CITATION id1="Dummy_File_2073" entry_type="case_key" standard_reporter="MASS." line="12" name="Sheehan's Case" id="95023_69" lookup_key="sheehan's case#1" alternative_keys="['mass._122_445']" citation_local_level_id="5" start="4196" citation_global_level_id="2225.003" end="4210" volume="122" no_current_file="True" page_number="445" >Sheehan's Case</CITATION>
+
+<CITATION reporter="Mass." entry_type="standard_key" standard_reporter="MASS." page_number="445" id1="Dummy_File_2073" id="95023_68" lookup_key="mass._122_445" alternative_keys="[&quot;sheehan's case#1&quot;]" name="Sheehan's Case" citation_local_level_id="6" start="4212" citation_global_level_id="2225.003" end="4225" volume="122" no_current_file="True" line="12" >122 Mass. 445</CITATION>
+
+<NAME start="4227" local_name_id="12" end="4233" all_names="FOWLER" id="95023_71" >Fowler</NAME>
+
+<NAME start="4249" local_name_id="13" end="4254" all_names="BEBEE" id="95023_116" >Bebee</NAME>
+
+<CITATION reporter="Mass." entry_type="standard_key" standard_reporter="MASS." page_number="235" id1="Dummy_File_2074" id="95023_73" lookup_key="mass._9_235" citation_local_level_id="7" start="4256" citation_global_level_id="2226.001" end="4267" volume="9" no_current_file="True" line="13" >9 Mass. 235</CITATION>
+
+<CITATION standard_reporter="ILL." id1="Dummy_File_2075" entry_type="party_key" party1="People" line="13" id="95023_90" lookup_key="peoplebangs#1" alternative_keys="['ill._24_187']" party2="Bangs" citation_local_level_id="8" start="4269" party2_short="Bangs" end="4284" citation_global_level_id="2227.003" volume="24" no_current_file="True" page_number="187" party1_short="People" >People v. Bangs</CITATION>
+
+<NAME start="4269" local_name_id="14" end="4275" all_names="PEOPLE" party1_of="95023_90" id="95023_98" >People</NAME>
+
+<NAME start="4279" party2_of="95023_90" end="4284" all_names="BANGS" id="95023_99" local_name_id="15" >Bangs</NAME>
+
+<CITATION reporter="Ill." entry_type="standard_key" standard_reporter="ILL." page_number="187" id1="Dummy_File_2075" id="95023_74" lookup_key="ill._24_187" alternative_keys="['peoplebangs#1']" citation_local_level_id="9" start="4286" citation_global_level_id="2227.003" end="4297" volume="24" no_current_file="True" line="13" >24 Ill. 187</CITATION>
+
+<CITATION id1="Dummy_File_2076" entry_type="case_key" standard_reporter="WIS." line="13" name="In re Burke" id="95023_114" lookup_key="in re burke#1" alternative_keys="['n.w._45_24', 'wis._76_357']" citation_local_level_id="10" start="4299" citation_global_level_id="2228.004" end="4310" volume="76" no_current_file="True" page_number="357" >In re Burke</CITATION>
+
+<CITATION reporter="Wis." entry_type="standard_key" standard_reporter="WIS." page_number="357" id1="Dummy_File_2076" id="95023_75" lookup_key="wis._76_357" alternative_keys="['in re burke#1', 'n.w._45_24']" name="In re Burke" citation_local_level_id="11" start="4312" citation_global_level_id="2228.004" end="4323" volume="76" no_current_file="True" line="13" >76 Wis. 357</CITATION>
+
+<CITATION reporter="N. W." entry_type="standard_key" standard_reporter="N.W." page_number="24" id1="Dummy_File_2076" id="95023_76" lookup_key="n.w._45_24" alternative_keys="['in re burke#1', 'wis._76_357']" name="In re Burke" citation_local_level_id="12" start="4325" citation_global_level_id="2228.004" end="4336" volume="45" no_current_file="True" line="13" >45 N. W. 24</CITATION>
+
+<CITATION id1="Dummy_File_2077" entry_type="case_key" standard_reporter="WIS." line="13" name="In re Manning" id="95023_115" lookup_key="in re manning#1" alternative_keys="['n.w._45_26', 'wis._76_365']" citation_local_level_id="13" start="4338" citation_global_level_id="2229.004" end="4351" volume="76" no_current_file="True" page_number="365" >In re Manning</CITATION>
+
+<CITATION reporter="Wis." entry_type="standard_key" standard_reporter="WIS." page_number="365" id1="Dummy_File_2077" id="95023_77" lookup_key="wis._76_365" alternative_keys="['in re manning#1', 'n.w._45_26']" name="In re Manning" citation_local_level_id="14" start="4353" citation_global_level_id="2229.004" end="4364" volume="76" no_current_file="True" line="13" >76 Wis. 365</CITATION>
+
+<CITATION reporter="N. W." entry_type="standard_key" standard_reporter="N.W." page_number="26" id1="Dummy_File_2077" id="95023_78" lookup_key="n.w._45_26" alternative_keys="['in re manning#1', 'wis._76_365']" name="In re Manning" citation_local_level_id="15" start="4366" citation_global_level_id="2229.004" end="4377" volume="45" no_current_file="True" line="13" >45 N. W. 26</CITATION>
+
+<NAME start="4379" local_name_id="16" end="4381" all_names="ID" id="95023_117" >Id</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="504" id1="Dummy_File_2078" id="95023_79" lookup_key="u.s._139_504" citation_local_level_id="16" start="4384" citation_global_level_id="2230.001" end="4400" paragraph_number="11" volume="139" no_current_file="True" line="13" >139 U.S. 504, 11</CITATION>
+
+<NAME start="4401" local_name_id="17" end="4408" all_names="SUP CT" id="95023_118" >Sup. Ct</NAME>
+
+<ORGANIZATION start="4415" end="4421" id="95023_119" >Church</ORGANIZATION>
+
+<ORGANIZATION start="4423" end="4432" id="95023_120" >Hab. Corp</ORGANIZATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2079" entry_type="party_key" party1="McDowell" line="13" id="95023_91" lookup_key="mcdowells#1" alternative_keys="['u.s._159_596']" party2="U. S" citation_local_level_id="17" start="4473" party2_short="S" end="4489" citation_global_level_id="2231.003" volume="159" no_current_file="True" page_number="596" party1_short="McDowell" >McDowell v. U. S</CITATION>
+
+<NAME start="4473" local_name_id="18" end="4481" all_names="MCDOWELL" party1_of="95023_91" id="95023_100" >McDowell</NAME>
+
+<NAME start="4485" party2_of="95023_91" end="4489" all_names="U S" id="95023_101" local_name_id="19" >U. S</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="596" id1="Dummy_File_2079" id="95023_80" lookup_key="u.s._159_596" alternative_keys="['mcdowells#1']" citation_local_level_id="18" start="4492" citation_global_level_id="2231.003" end="4508" paragraph_number="16" volume="159" no_current_file="True" line="13" >159 U.S. 596, 16</CITATION>
+
+<NAME start="4509" local_name_id="17" end="4516" all_names="SUP CT" id="95023_121" >Sup. Ct</NAME>
+
+<PROFESSION start="4542" end="4548" plural="True" id="95023_122" >judges</PROFESSION>
+
+<PROFESSION start="4586" end="4591" id="95023_123" >judge</PROFESSION>
+
+<ORGANIZATION start="4615" end="4621" plural="True" id="95023_124" >courts</ORGANIZATION>
+
+<NAME start="4631" local_name_id="20" end="4639" all_names="CAROLINA" id="95023_125" >Carolina</NAME>
+
+<NAME start="4664" local_name_id="20" end="4672" all_names="CAROLINA" id="95023_126" >Carolina</NAME>
+
+<ORGANIZATION start="4788" end="4793" id="95023_127" >court</ORGANIZATION>
+
+<ORGANIZATION start="4857" end="4862" id="95023_128" >court</ORGANIZATION>
+
+<NAME start="4864" local_name_id="21" end="4866" all_names="WE" id="95023_129" >We</NAME>
+
+<NAME start="4946" local_name_id="20" end="4954" all_names="CAROLINA" id="95023_130" >Carolina</NAME>
+
+<PROFESSION start="4964" end="4969" id="95023_131" >judge</PROFESSION>
+
+<PROFESSION start="4989" end="4994" id="95023_132" >judge</PROFESSION>
+
+<NAME start="5004" local_name_id="20" end="5012" all_names="CAROLINA" id="95023_133" >Carolina</NAME>
+
+<PROFESSION start="5066" end="5071" id="95023_134" >judge</PROFESSION>
+
+<CITATION id1="Dummy_File_2080" entry_type="party_key" party1="Cocke" line="13" id="95023_92" lookup_key="cockehalsey#1" party2="Halsey" citation_local_level_id="19" start="5189" party2_short="Halsey" end="5204" citation_global_level_id="2232.001" no_current_file="True" party1_short="Cocke" >Cocke v. Halsey</CITATION>
+
+<NAME start="5189" local_name_id="22" end="5194" all_names="COCKE" party1_of="95023_92" id="95023_102" >Cocke</NAME>
+
+<NAME start="5198" party2_of="95023_92" end="5204" all_names="HALSEY" id="95023_103" local_name_id="23" >Halsey</NAME>
+
+<NAME start="5209" local_name_id="24" end="5212" all_names="PET" id="95023_135" >Pet</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2081" entry_type="party_key" party1="Hussey" line="13" id="95023_93" lookup_key="husseysmith#1" alternative_keys="['u.s._99_20']" party2="Smith" citation_local_level_id="20" start="5226" party2_short="Smith" end="5241" citation_global_level_id="2233.003" volume="99" no_current_file="True" page_number="20" party1_short="Hussey" >Hussey v. Smith</CITATION>
+
+<NAME start="5226" local_name_id="25" end="5232" all_names="HUSSEY" party1_of="95023_93" id="95023_104" >Hussey</NAME>
+
+<NAME start="5236" party2_of="95023_93" end="5241" all_names="SMITH" id="95023_105" local_name_id="26" >Smith</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="20" id1="Dummy_File_2081" id="95023_81" lookup_key="u.s._99_20" alternative_keys="['husseysmith#1']" citation_local_level_id="21" start="5243" citation_global_level_id="2233.003" end="5257" paragraph_number="24" volume="99" no_current_file="True" line="13" >99 U.S. 20, 24</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2082" entry_type="party_key" party1="Norton" line="13" id="95023_94" lookup_key="nortonshelby#1" alternative_keys="['u.s._118_425']" party2="Shelby Co" citation_local_level_id="22" start="5259" party2_short="Shelby" end="5278" citation_global_level_id="2234.003" volume="118" no_current_file="True" page_number="425" party1_short="Norton" >Norton v. Shelby Co</CITATION>
+
+<NAME start="5259" local_name_id="27" end="5265" all_names="NORTON" party1_of="95023_94" id="95023_106" >Norton</NAME>
+
+<NAME start="5269" party2_of="95023_94" end="5278" all_names="SHELBY CO" id="95023_107" local_name_id="28" >Shelby Co</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="425" id1="Dummy_File_2082" id="95023_82" lookup_key="u.s._118_425" alternative_keys="['nortonshelby#1']" citation_local_level_id="23" start="5281" citation_global_level_id="2234.003" end="5298" paragraph_number="445" volume="118" no_current_file="True" line="13" >118 U.S. 425, 445</CITATION>
+
+<NAME start="5302" local_name_id="17" end="5309" all_names="SUP CT" id="95023_136" >Sup. Ct</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2083" entry_type="party_key" party1="Ball" line="13" id="95023_95" lookup_key="balls#1" alternative_keys="['u.s._140_118']" party2="U. S" citation_local_level_id="24" start="5317" party2_short="S" end="5329" citation_global_level_id="2235.003" volume="140" no_current_file="True" page_number="118" party1_short="Ball" >Ball v. U. S</CITATION>
+
+<NAME start="5317" local_name_id="29" end="5321" all_names="BALL" party1_of="95023_95" id="95023_108" >Ball</NAME>
+
+<NAME start="5325" party2_of="95023_95" end="5329" all_names="U S" id="95023_109" local_name_id="19" >U. S</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="118" id1="Dummy_File_2083" id="95023_83" lookup_key="u.s._140_118" alternative_keys="['balls#1']" citation_local_level_id="25" start="5332" citation_global_level_id="2235.003" end="5349" paragraph_number="128" volume="140" no_current_file="True" line="13" >140 U.S. 118, 128</CITATION>
+
+<NAME start="5359" local_name_id="17" end="5366" all_names="SUP CT" id="95023_137" >Sup. Ct</NAME>
+
+<PROFESSION start="5491" end="5498" id="95023_138" >officer</PROFESSION>
+
+<PROFESSION start="5556" end="5561" party="MEEK" document_level_name_id="3" id="95023_139" >Judge</PROFESSION>
+
+<NAME start="5562" local_name_id="3" end="5566" all_names="MEEK" id="95023_140" >Meek</NAME>
+
+<ORGANIZATION start="5679" end="5685" id="95023_141" >office</ORGANIZATION>
+
+<NAME start="5696" local_name_id="30" end="5701" all_names="LEAVE" id="95023_142" >Leave</NAME>
+
+<CITATION id1="Dummy_File_2084" entry_type="party_key" party1="Third Street &amp; Suburban R Co" line="13" id="95023_96" lookup_key="rlewis#1" party2="Lewis" citation_local_level_id="26" start="5713" party2_short="Lewis" end="5750" citation_global_level_id="2236.001" no_current_file="True" party1_short="R" >Third Street &amp; Suburban R Co v. Lewis</CITATION>
+
+<NAME start="5713" local_name_id="31" end="5741" all_names="THIRD STREET &amp; SUBURBAN R CO" party1_of="95023_96" id="95023_110" >Third Street &amp; Suburban R Co</NAME>
+
+<NAME start="5745" party2_of="95023_96" end="5750" all_names="LEWIS	MEYER LEWIS" id="95023_111" local_name_id="32" >Lewis</NAME>
+
+<CITATION reporter="SCt" entry_type="standard_key" standard_reporter="SCT" page_number="451" id1="Dummy_File_2085" id="95023_84" lookup_key="sct_19_451" citation_local_level_id="27" start="5753" citation_global_level_id="2237.001" end="5761" volume="19" no_current_file="True" line="13" >19SCt451</CITATION>
+
+<CITATION reporter="US" entry_type="standard_key" standard_reporter="US" page_number="457" id1="Dummy_File_2086" id="95023_85" lookup_key="us_173_457" citation_local_level_id="28" start="5762" citation_global_level_id="2238.001" end="5770" volume="173" no_current_file="True" line="13" >173US457</CITATION>
+
+<CITATION reporter="LEd" entry_type="standard_key" standard_reporter="LED" page_number="766" id1="Dummy_File_2087" id="95023_86" lookup_key="led_43_766" citation_local_level_id="29" start="5771" citation_global_level_id="2239.001" end="5779" volume="43" no_current_file="True" line="13" >43LEd766</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="451" id1="Dummy_File_2088" id="95023_87" lookup_key="s.ct._19_451" alternative_keys="['rylewis#1', 'u.s._173_457', 'l.ed._43_766']" party2="LEWIS" citation_local_level_id="30" start="5782" citation_global_level_id="2240.005" end="5795" party2_short="LEWIS" volume="19" no_current_file="True" line="13" party1_short="RY" party1="THIRD STREET &amp; SUBURBAN RY. CO." >19 S. Ct. 451</CITATION>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="457" id1="Dummy_File_2088" id="95023_88" lookup_key="u.s._173_457" alternative_keys="['s.ct._19_451', 'rylewis#1', 'l.ed._43_766']" citation_local_level_id="31" start="5797" citation_global_level_id="2240.005" end="5809" volume="173" no_current_file="True" line="13" >173 U.S. 457</CITATION>
+
+<ORGANIZATION start="5801" end="5856" id="95023_143" >U.S. 457 43 L. Ed. 766 THIRD STREET &amp; SUBURBAN RY. CO</ORGANIZATION>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="766" id1="Dummy_File_2088" id="95023_89" lookup_key="l.ed._43_766" alternative_keys="['s.ct._19_451', 'u.s._173_457', 'rylewis#1']" citation_local_level_id="32" start="5811" citation_global_level_id="2240.005" end="5824" volume="43" no_current_file="True" line="13" >43 L. Ed. 766</CITATION>
+
+<CITATION id1="Dummy_File_2088" entry_type="party_key" party1="THIRD STREET &amp; SUBURBAN RY. CO." line="13" id="95023_97" lookup_key="rylewis#1" alternative_keys="['s.ct._19_451', 'u.s._173_457', 'l.ed._43_766']" party2="LEWIS" citation_local_level_id="33" start="5826" party2_short="LEWIS" end="5868" citation_global_level_id="2240.005" no_current_file="True" party1_short="RY" >THIRD STREET &amp; SUBURBAN RY. CO. v. LEWIS</CITATION>
+
+<NAME start="5826" local_name_id="33" end="5857" all_names="THIRD STREET &amp; SUBURBAN RY CO" party1_of="95023_97" id="95023_112" >THIRD STREET &amp; SUBURBAN RY. CO.</NAME>
+
+<NAME start="5863" party2_of="95023_97" end="5868" all_names="LEWIS	MEYER LEWIS" id="95023_113" local_name_id="32" >LEWIS</NAME>
+
+<DATE start="5891" end="5905" id="95023_173" >March 20, 1899</DATE>
+
+<DATE start="5961" end="5976" id="95023_174" >October 9, 1895</DATE>
+
+<ORGANIZATION start="5993" end="6019" id="95023_175" >court of the United States</ORGANIZATION>
+
+<NAME start="6040" local_name_id="34" end="6050" all_names="WASHINGTON" id="95023_176" >Washington</NAME>
+
+<NAME start="6146" local_name_id="32" end="6157" all_names="LEWIS	MEYER LEWIS" id="95023_180" >Meyer Lewis</NAME>
+
+<NAME start="6195" local_name_id="35" end="6208" all_names="SAN FRANCISCO" id="95023_181" >San Francisco</NAME>
+
+<CITATION id1="Dummy_File_2089" entry_type="party_key" party1="California, with leave of court first had and obtained, brings this, his supplemental bill," line="17" id="95023_177" lookup_key="californiacompany#1" party2="the Third Street &amp; Suburban Railway Company" citation_local_level_id="34" start="6226" party2_short="Company" end="6369" citation_global_level_id="2241.001" no_current_file="True" party1_short="California" >California, with leave of court first had and obtained, brings this, his supplemental bill, against the Third Street &amp; Suburban Railway Company</CITATION>
+
+<NAME start="6226" local_name_id="36" end="6317" all_names="CALIFORNIA WITH LEAVE OF COURT FIRST HAD AND OBTAINED BRINGS THIS HIS SUPPLEMENTAL BILL" party1_of="95023_177" id="95023_178" >California, with leave of court first had and obtained, brings this, his supplemental bill,</NAME>
+
+<ORGANIZATION start="6252" end="6263" id="95023_182" >court first</ORGANIZATION>
+
+<NAME start="6326" party2_of="95023_177" end="6369" all_names="THE THIRD STREET &amp; SUBURBAN RAILWAY COMPANY	THE RANIER POWER &amp; RAILWAY COMPANY" id="95023_179" local_name_id="37" >the Third Street &amp; Suburban Railway Company</NAME>
+
+<ORGANIZATION start="6330" end="6369" id="95023_183" >Third Street &amp; Suburban Railway Company</ORGANIZATION>
+
+<ORGANIZATION start="6373" end="6384" id="95023_184" >corporation</ORGANIZATION>
+
+<NAME start="6444" local_name_id="34" end="6454" all_names="WASHINGTON" id="95023_185" >Washington</NAME>
+
+<LEGAL_ROLE start="6456" local_name_id="34" end="6465" name="Washington" id="95023_186" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="6476" end="6485" id="95023_187" >principal</PROFESSION>
+
+<NAME start="6519" local_name_id="38" end="6526" all_names="SEATTLE" id="95023_188" >Seattle</NAME>
+
+<LEGAL_ROLE start="6590" end="6599" id="95023_189" >plaintiff</LEGAL_ROLE>
+
+<ORGANIZATION start="6608" end="6628" id="95023_190" >Western Mill Company</ORGANIZATION>
+
+<ORGANIZATION start="6632" end="6643" id="95023_191" >corporation</ORGANIZATION>
+
+<NAME start="6698" local_name_id="34" end="6708" all_names="WASHINGTON" id="95023_192" >Washington</NAME>
+
+<PROFESSION start="6719" end="6728" id="95023_193" >principal</PROFESSION>
+
+<NAME start="6750" local_name_id="38" end="6757" all_names="SEATTLE" id="95023_194" >Seattle</NAME>
+
+<NAME start="6774" local_name_id="39" end="6802" all_names="JOHN LEARY AND J W EDWARDS" id="95023_195" >John Leary and J. W. Edwards</NAME>
+
+<NAME start="6816" local_name_id="34" end="6826" all_names="WASHINGTON" id="95023_196" >Washington</NAME>
+
+<NAME start="6845" local_name_id="38" end="6852" all_names="SEATTLE" id="95023_197" >Seattle</NAME>
+
+<NAME start="6854" local_name_id="40" end="6868" all_names="JAMES OLDFIELD" id="95023_198" >James Oldfield</NAME>
+
+<NAME start="6881" local_name_id="34" end="6891" all_names="WASHINGTON" id="95023_199" >Washington</NAME>
+
+<NAME start="6911" local_name_id="38" end="6918" all_names="SEATTLE" id="95023_200" >Seattle</NAME>
+
+<NAME start="6920" local_name_id="41" end="6924" all_names="MALC" id="95023_201" >Malc</NAME>
+
+<NAME start="6928" local_name_id="42" end="6936" all_names="MCDONALD" id="95023_202" >McDonald</NAME>
+
+<NAME start="6951" local_name_id="34" end="6961" all_names="WASHINGTON" id="95023_203" >Washington</NAME>
+
+<NAME start="6981" local_name_id="43" end="6983" all_names="FT" id="95023_204" >Ft</NAME>
+
+<LEGAL_ROLE start="7526" end="7575" id="95023_208" >defendant Third Street &amp; Suburban Railway Company</LEGAL_ROLE>
+
+<ORGANIZATION start="7598" end="7609" id="95023_209" >corporation</ORGANIZATION>
+
+<NAME start="7686" local_name_id="34" end="7696" all_names="WASHINGTON" id="95023_210" >Washington</NAME>
+
+<PROFESSION start="7707" end="7716" id="95023_211" >principal</PROFESSION>
+
+<NAME start="7750" local_name_id="38" end="7757" all_names="SEATTLE" id="95023_212" >Seattle</NAME>
+
+<ORGANIZATION start="7824" end="7844" id="95023_214" >Western Mill Company</ORGANIZATION>
+
+<DATE start="7848" end="7857" id="95023_213" >May, 1884</DATE>
+
+<LEGAL_ROLE start="7877" end="7887" plural="True" id="95023_215" >defendants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="7923" end="7932" id="95023_216" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="8007" end="8016" plural="True" id="95023_217" >attorneys</PROFESSION>
+
+<LEGAL_ROLE start="8062" end="8071" id="95023_218" >plaintiff</LEGAL_ROLE>
+
+<DATE start="8188" end="8201" id="95023_222" >October, 1891</DATE>
+
+<LEGAL_ROLE start="8207" end="8237" id="95023_225" >defendant Western Mill Company</LEGAL_ROLE>
+
+<ORGANIZATION start="8347" end="8377" id="95023_226" >Ranier Power &amp; Railway Company</ORGANIZATION>
+
+<ORGANIZATION start="8381" end="8392" id="95023_227" >corporation</ORGANIZATION>
+
+<NAME start="8421" local_name_id="34" end="8431" all_names="WASHINGTON" id="95023_228" >Washington</NAME>
+
+<PROFESSION start="8448" end="8457" id="95023_229" >principal</PROFESSION>
+
+<NAME start="8479" local_name_id="38" end="8486" all_names="SEATTLE" id="95023_230" >Seattle</NAME>
+
+<DATE start="8537" end="8551" id="95023_223" >February, 1895</DATE>
+
+<CITATION id1="Dummy_File_2090" entry_type="party_key" party1="A. P. Fuller" line="22" id="95023_219" lookup_key="fullercompany#1" party2="The Ranier Power &amp; Railway Company" citation_local_level_id="35" start="8569" party2_short="Company" end="8619" citation_global_level_id="2242.001" no_current_file="True" party1_short="Fuller" >A. P. Fuller v. The Ranier Power &amp; Railway Company</CITATION>
+
+<NAME start="8569" local_name_id="44" end="8581" all_names="A P FULLER	FULLER" party1_of="95023_219" id="95023_220" >A. P. Fuller</NAME>
+
+<NAME start="8585" party2_of="95023_219" end="8619" all_names="THE THIRD STREET &amp; SUBURBAN RAILWAY COMPANY	THE RANIER POWER &amp; RAILWAY COMPANY" id="95023_221" local_name_id="37" >The Ranier Power &amp; Railway Company</NAME>
+
+<DATE start="9094" end="9108" id="95023_224" >February, 1895</DATE>
+
+<LEGAL_ROLE start="9699" end="9708" id="95023_233" >plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="9806" end="9815" plural="True" id="95023_234" >attorneys</PROFESSION>
+
+<ORGANIZATION start="9993" end="10000" id="95023_235" >company</ORGANIZATION>
+
+<LEGAL_ROLE start="10127" end="10136" id="95023_236" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="10192" end="10201" id="95023_237" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="10214" end="10221" id="95023_238" >company</ORGANIZATION>
+
+<ORGANIZATION start="10632" end="10637" id="95023_239" >court</ORGANIZATION>
+
+<ORGANIZATION start="10705" end="10710" id="95023_240" >court</ORGANIZATION>
+
+<NAME start="10825" local_name_id="45" end="10842" all_names="FREDERICK BAUSMAN" id="95023_241" >Frederick Bausman</NAME>
+
+<LEGAL_ROLE start="10848" end="10857" party="party1" id="95023_242" >appellant</LEGAL_ROLE>
+
+<NAME start="10865" local_name_id="46" end="10884" all_names="J W BLACKBURN JR" id="95023_243" >J. W. Blackburn, Jr</NAME>
+
+<NAME start="10891" local_name_id="47" end="10909" all_names="GEORGE E HAMILTON" id="95023_244" >George E. Hamilton</NAME>
+
+<LEGAL_ROLE start="10915" end="10923" party="party2" id="95023_245" >appellee</LEGAL_ROLE>
+
+<PROFESSION start="10931" end="10948" party="FULLER" document_level_name_id="44" id="95023_246" >Mr. Chief Justice</PROFESSION>
+
+<NAME start="10949" local_name_id="44" end="10955" all_names="A P FULLER	FULLER" id="95023_247" >FULLER</NAME>
+
+<ORGANIZATION start="11037" end="11042" id="95023_248" >court</ORGANIZATION>
+
+<ORGANIZATION start="11176" end="11181" id="95023_250" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="11257" end="11267" plural="True" id="95023_251" >appellants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="11397" end="11406" party="party1" id="95023_252" >appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="11415" end="11424" id="95023_253" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="11540" end="11545" id="95023_254" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="11681" end="11690" id="95023_255" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="11732" end="11741" party="party1" id="95023_256" >appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="11786" end="11795" party="party1" id="95023_257" >appellant</LEGAL_ROLE>
+
+<ORGANIZATION start="11894" end="11899" id="95023_258" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="12053" end="12062" party="party1" id="95023_259" >appellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="12080" end="12089" id="95023_260" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="12336" end="12345" id="95023_261" >plaintiff</LEGAL_ROLE>
+
+<NAME start="12433" local_name_id="4" end="12446" all_names="UNITED STATES" id="95023_262" >United States</NAME>
+
+<DATE start="12519" end="12534" id="95023_276" >August 13, 1888</DATE>
+
+<ORGANIZATION start="12548" end="12574" id="95023_278" >court of the United States</ORGANIZATION>
+
+<ORGANIZATION start="12639" end="12644" id="95023_279" >court</ORGANIZATION>
+
+<NAME start="12720" local_name_id="4" end="12733" all_names="UNITED STATES" id="95023_280" >United States</NAME>
+
+<LEGAL_ROLE start="12762" end="12771" id="95023_281" >plaintiff</LEGAL_ROLE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2091" entry_type="party_key" party1="Tennessee" line="43" id="95023_267" lookup_key="tennesseebank#1" alternative_keys="['u.s._152_454']" party2="Union &amp; Planters' Bank" citation_local_level_id="36" start="12821" party2_short="Bank" end="12856" citation_global_level_id="2243.003" volume="152" no_current_file="True" page_number="454" party1_short="Tennessee" >Tennessee v. Union &amp; Planters' Bank</CITATION>
+
+<NAME start="12821" local_name_id="48" end="12830" all_names="TENNESSEE" party1_of="95023_267" id="95023_270" >Tennessee</NAME>
+
+<NAME start="12834" party2_of="95023_267" end="12856" all_names="UNION &amp; PLANTERS' BANK" id="95023_271" local_name_id="49" >Union &amp; Planters' Bank</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="454" id1="Dummy_File_2091" id="95023_263" lookup_key="u.s._152_454" alternative_keys="['tennesseebank#1']" citation_local_level_id="37" start="12858" citation_global_level_id="2243.003" end="12874" paragraph_number="14" volume="152" no_current_file="True" line="43" >152 U.S. 454, 14</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2092" entry_type="party_key" party1="Metcalf" line="43" id="95023_268" lookup_key="metcalfwatertown#1" alternative_keys="['u.s._128_586']" party2="Watertown" citation_local_level_id="38" start="12889" party2_short="Watertown" end="12909" citation_global_level_id="2244.003" volume="128" no_current_file="True" page_number="586" party1_short="Metcalf" >Metcalf v. Watertown</CITATION>
+
+<NAME start="12889" local_name_id="50" end="12896" all_names="METCALF" party1_of="95023_268" id="95023_272" >Metcalf</NAME>
+
+<NAME start="12900" party2_of="95023_268" end="12909" all_names="WATERTOWN" id="95023_273" local_name_id="51" >Watertown</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="586" id1="Dummy_File_2092" id="95023_264" lookup_key="u.s._128_586" alternative_keys="['metcalfwatertown#1']" citation_local_level_id="39" start="12911" citation_global_level_id="2244.003" end="12928" paragraph_number="589" volume="128" no_current_file="True" line="43" >128 U.S. 586, 589</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2093" entry_type="party_key" party1="Mining Co." line="43" id="95023_269" lookup_key="miningturck#1" alternative_keys="['u.s._150_138']" party2="Turck" citation_local_level_id="40" start="12946" party2_short="Turck" end="12965" citation_global_level_id="2245.003" volume="150" no_current_file="True" page_number="138" party1_short="Mining" >Mining Co. v. Turck</CITATION>
+
+<NAME start="12946" local_name_id="52" end="12956" all_names="MINING CO" party1_of="95023_269" id="95023_274" >Mining Co.</NAME>
+
+<NAME start="12960" party2_of="95023_269" end="12965" all_names="TURCK" id="95023_275" local_name_id="53" >Turck</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="138" id1="Dummy_File_2093" id="95023_265" lookup_key="u.s._150_138" alternative_keys="['miningturck#1']" citation_local_level_id="41" start="12967" citation_global_level_id="2245.003" end="12983" paragraph_number="14" volume="150" no_current_file="True" line="43" >150 U.S. 138, 14</CITATION>
+
+<CITATION id1="Dummy_File_2094" entry_type="case_key" standard_reporter="U.S." line="43" name="Ex parte Jones" id="95023_277" lookup_key="ex parte jones#1" alternative_keys="['u.s._164_691']" citation_local_level_id="42" start="13476" citation_global_level_id="2246.003" end="13490" volume="164" no_current_file="True" page_number="691" >Ex parte Jones</CITATION>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="691" id1="Dummy_File_2094" id="95023_266" lookup_key="u.s._164_691" alternative_keys="['ex parte jones#1']" name="Ex parte Jones" citation_local_level_id="43" start="13492" citation_global_level_id="2246.003" end="13508" paragraph_number="17" volume="164" no_current_file="True" line="43" >164 U.S. 691, 17</CITATION>
+
+<NAME start="13547" local_name_id="54" end="13553" all_names="APPEAL" id="95023_292" >Appeal</NAME>
+
+<RELATION at_date_string="March 20, 1899" theme_string="Ex parte WARD" id="95023_7" relation_type="asymmetric" theme="95023_6" at_date="95023_4" gram_type="apposition" ></RELATION>
+
+<RELATION profession="95023_15" gram_type="pre_nom" id="95023_45" profession_string="Judge" relation_type="asymmetric" theme="95023_16" theme_string="Meek" ></RELATION>
+
+<RELATION profession="95023_29" gram_type="pre_nom" id="95023_46" profession_string="Judge" relation_type="asymmetric" theme="95023_30" theme_string="Rector" ></RELATION>
+
+<RELATION profession="95023_33" gram_type="pre_nom" id="95023_47" profession_string="Judge" relation_type="asymmetric" theme="95023_34" theme_string="Meek" ></RELATION>
+
+<RELATION profession="95023_35" gram_type="pre_nom" id="95023_48" profession_string="Judge" relation_type="asymmetric" theme="95023_36" theme_string="Rector" ></RELATION>
+
+<RELATION case_citation_other_string="Ex parte WARD" gram_type="multi_line" standard_case="95023_1" relation_type="equivalence" id="95023_49" standard_case_string="173 U.S. 452" case_citation_other="95023_6" ></RELATION>
+
+<RELATION case_citation_other_string="Ex parte WARD" gram_type="multi_line" standard_case="95023_2" relation_type="equivalence" id="95023_50" standard_case_string="19 S. Ct. 459" case_citation_other="95023_6" ></RELATION>
+
+<RELATION case_citation_other_string="Ex parte WARD" gram_type="multi_line" standard_case="95023_3" relation_type="equivalence" id="95023_51" standard_case_string="43 L. Ed. 765" case_citation_other="95023_6" ></RELATION>
+
+<RELATION at_date_string="October 22, 1898" theme_string="Ex parte WARD" id="95023_52" relation_type="asymmetric" theme="95023_6" at_date="95023_5" gram_type="multi_line" ></RELATION>
+
+<RELATION case_citation_other_string="Sheehan's Case" gram_type="apposition" standard_case="95023_68" relation_type="equivalence" id="95023_72" standard_case_string="122 Mass. 445" case_citation_other="95023_69" ></RELATION>
+
+<RELATION X_vs_Y_string="People v. Bangs" gram_type="apposition" standard_case="95023_74" relation_type="equivalence" id="95023_146" X_vs_Y="95023_90" standard_case_string="24 Ill. 187" ></RELATION>
+
+<RELATION party1_string="People" party1="95023_98" theme_string="People v. Bangs" id="95023_144" relation_type="asymmetric" theme="95023_90" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Bangs" theme_string="People v. Bangs" id="95023_145" relation_type="asymmetric" party2="95023_99" theme="95023_90" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="In re Burke" gram_type="apposition" standard_case="95023_76" relation_type="equivalence" id="95023_148" standard_case_string="45 N. W. 24" case_citation_other="95023_114" ></RELATION>
+
+<RELATION case_citation_other_string="In re Burke" gram_type="apposition" standard_case="95023_75" relation_type="equivalence" id="95023_147" standard_case_string="76 Wis. 357" case_citation_other="95023_114" ></RELATION>
+
+<RELATION case_citation_other_string="In re Manning" gram_type="apposition" standard_case="95023_78" relation_type="equivalence" id="95023_150" standard_case_string="45 N. W. 26" case_citation_other="95023_115" ></RELATION>
+
+<RELATION case_citation_other_string="In re Manning" gram_type="apposition" standard_case="95023_77" relation_type="equivalence" id="95023_149" standard_case_string="76 Wis. 365" case_citation_other="95023_115" ></RELATION>
+
+<RELATION X_vs_Y_string="McDowell v. U. S" gram_type="apposition" standard_case="95023_80" relation_type="equivalence" id="95023_153" X_vs_Y="95023_91" standard_case_string="159 U.S. 596, 16" ></RELATION>
+
+<RELATION party1_string="McDowell" party1="95023_100" theme_string="McDowell v. U. S" id="95023_151" relation_type="asymmetric" theme="95023_91" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="U. S" theme_string="McDowell v. U. S" id="95023_152" relation_type="asymmetric" party2="95023_101" theme="95023_91" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Cocke" party1="95023_102" theme_string="Cocke v. Halsey" id="95023_154" relation_type="asymmetric" theme="95023_92" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Halsey" theme_string="Cocke v. Halsey" id="95023_155" relation_type="asymmetric" party2="95023_103" theme="95023_92" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Hussey v. Smith" gram_type="apposition" standard_case="95023_81" relation_type="equivalence" id="95023_158" X_vs_Y="95023_93" standard_case_string="99 U.S. 20, 24" ></RELATION>
+
+<RELATION party1_string="Hussey" party1="95023_104" theme_string="Hussey v. Smith" id="95023_156" relation_type="asymmetric" theme="95023_93" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Smith" theme_string="Hussey v. Smith" id="95023_157" relation_type="asymmetric" party2="95023_105" theme="95023_93" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Norton v. Shelby Co" gram_type="apposition" standard_case="95023_82" relation_type="equivalence" id="95023_161" X_vs_Y="95023_94" standard_case_string="118 U.S. 425, 445" ></RELATION>
+
+<RELATION party1_string="Norton" party1="95023_106" theme_string="Norton v. Shelby Co" id="95023_159" relation_type="asymmetric" theme="95023_94" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Shelby Co" theme_string="Norton v. Shelby Co" id="95023_160" relation_type="asymmetric" party2="95023_107" theme="95023_94" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Ball v. U. S" gram_type="apposition" standard_case="95023_83" relation_type="equivalence" id="95023_164" X_vs_Y="95023_95" standard_case_string="140 U.S. 118, 128" ></RELATION>
+
+<RELATION party1_string="Ball" party1="95023_108" theme_string="Ball v. U. S" id="95023_162" relation_type="asymmetric" theme="95023_95" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="U. S" theme_string="Ball v. U. S" id="95023_163" relation_type="asymmetric" party2="95023_109" theme="95023_95" gram_type="infix" ></RELATION>
+
+<RELATION profession="95023_139" gram_type="pre_nom" id="95023_165" profession_string="Judge" relation_type="asymmetric" theme="95023_140" theme_string="Meek" ></RELATION>
+
+<RELATION party1_string="Third Street &amp; Suburban R Co" party1="95023_110" theme_string="Third Street &amp; Suburban R Co v. Lewis" id="95023_166" relation_type="asymmetric" theme="95023_96" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Lewis" theme_string="Third Street &amp; Suburban R Co v. Lewis" id="95023_167" relation_type="asymmetric" party2="95023_111" theme="95023_96" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="THIRD STREET &amp; SUBURBAN RY. CO.  v.  LEWIS" gram_type="pre_nom" standard_case="95023_87" relation_type="equivalence" id="95023_169" X_vs_Y="95023_97" standard_case_string="19 S. Ct. 451" ></RELATION>
+
+<RELATION X_vs_Y_string="THIRD STREET &amp; SUBURBAN RY. CO.  v.  LEWIS" gram_type="pre_nom" standard_case="95023_88" relation_type="equivalence" id="95023_170" X_vs_Y="95023_97" standard_case_string="173 U.S. 457" ></RELATION>
+
+<RELATION X_vs_Y_string="THIRD STREET &amp; SUBURBAN RY. CO.  v.  LEWIS" gram_type="pre_nom" standard_case="95023_89" relation_type="equivalence" id="95023_168" X_vs_Y="95023_97" standard_case_string="43 L. Ed. 766" ></RELATION>
+
+<RELATION party1_string="THIRD STREET &amp; SUBURBAN RY. CO." party1="95023_112" theme_string="THIRD STREET &amp; SUBURBAN RY. CO.  v.  LEWIS" id="95023_171" relation_type="asymmetric" theme="95023_97" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="LEWIS" theme_string="THIRD STREET &amp; SUBURBAN RY. CO.  v.  LEWIS" id="95023_172" relation_type="asymmetric" party2="95023_113" theme="95023_97" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="California, with leave of court first had and obtained, brings this, his supplemental bill," party1="95023_178" theme_string="California, with leave of court first had and obtained, brings this, his supplemental bill, against the Third Street &amp; Suburban Railway Company" id="95023_205" relation_type="asymmetric" theme="95023_177" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="the Third Street &amp; Suburban Railway Company" theme_string="California, with leave of court first had and obtained, brings this, his supplemental bill, against the Third Street &amp; Suburban Railway Company" id="95023_206" relation_type="asymmetric" party2="95023_179" theme="95023_177" gram_type="infix" ></RELATION>
+
+<RELATION gram_type="apposition" id="95023_207" relation_type="asymmetric" theme="95023_185" theme_string="Washington" legal_role="95023_186" legal_role_string="defendant" ></RELATION>
+
+<RELATION party1_string="A. P. Fuller" party1="95023_220" theme_string="A. P. Fuller v. The Ranier Power &amp; Railway Company" id="95023_231" relation_type="asymmetric" theme="95023_219" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="The Ranier Power &amp; Railway Company" theme_string="A. P. Fuller v. The Ranier Power &amp; Railway Company" id="95023_232" relation_type="asymmetric" party2="95023_221" theme="95023_219" gram_type="infix" ></RELATION>
+
+<RELATION profession="95023_246" gram_type="pre_nom" id="95023_249" profession_string="Mr. Chief Justice" relation_type="asymmetric" theme="95023_247" theme_string="FULLER" ></RELATION>
+
+<RELATION X_vs_Y_string="Tennessee v. Union &amp; Planters' Bank" gram_type="apposition" standard_case="95023_263" relation_type="equivalence" id="95023_284" X_vs_Y="95023_267" standard_case_string="152 U.S. 454, 14" ></RELATION>
+
+<RELATION party1_string="Tennessee" party1="95023_270" theme_string="Tennessee v. Union &amp; Planters' Bank" id="95023_282" relation_type="asymmetric" theme="95023_267" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Union &amp; Planters' Bank" theme_string="Tennessee v. Union &amp; Planters' Bank" id="95023_283" relation_type="asymmetric" party2="95023_271" theme="95023_267" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Metcalf v. Watertown" gram_type="apposition" standard_case="95023_264" relation_type="equivalence" id="95023_287" X_vs_Y="95023_268" standard_case_string="128 U.S. 586, 589" ></RELATION>
+
+<RELATION party1_string="Metcalf" party1="95023_272" theme_string="Metcalf v. Watertown" id="95023_285" relation_type="asymmetric" theme="95023_268" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Watertown" theme_string="Metcalf v. Watertown" id="95023_286" relation_type="asymmetric" party2="95023_273" theme="95023_268" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Mining Co. v. Turck" gram_type="apposition" standard_case="95023_265" relation_type="equivalence" id="95023_290" X_vs_Y="95023_269" standard_case_string="150 U.S. 138, 14" ></RELATION>
+
+<RELATION party1_string="Mining Co." party1="95023_274" theme_string="Mining Co. v. Turck" id="95023_288" relation_type="asymmetric" theme="95023_269" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Turck" theme_string="Mining Co. v. Turck" id="95023_289" relation_type="asymmetric" party2="95023_275" theme="95023_269" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="Ex parte Jones" gram_type="apposition" standard_case="95023_266" relation_type="equivalence" id="95023_291" standard_case_string="164 U.S. 691, 17" case_citation_other="95023_277" ></RELATION>
+

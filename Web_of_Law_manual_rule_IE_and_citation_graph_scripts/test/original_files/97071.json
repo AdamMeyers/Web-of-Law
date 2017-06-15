@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/97071/",
+  "absolute_url": "/opinion/97071/ex-parte-in-the-matter-of-the-consolidated-rubber-/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/97071/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2010-04-28T16:42:18Z",
+  "date_modified": "2016-02-28T02:44:32.344382Z",
+  "type": "010combined",
+  "sha1": "a7b52c9623b3b183228443d95a103c8294fd1a0f",
+  "download_url": "http://bulk.resource.org/courts.gov/c/US/214/214.US.490.html",
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">214 U.S. 490</p>\n    <p class=\"case_cite\">29 S.Ct. 695</p>\n    <p class=\"case_cite\">53 L.Ed. 1057</p>\n    <p class=\"parties\">EX PARTE: IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner.</p>\n    <p class=\"docket\">No. ___, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 12, 1909</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Charles W. Stapleton for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    ",
+  "html_lawbox": "",
+  "html_columbia": null,
+  "html_with_citations": "<p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">214</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">490</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">29</span> <span class=\"reporter\">S. Ct.</span> <span class=\"page\">695</span></span></p>\n    <p class=\"case_cite\"><span class=\"citation no-link\"><span class=\"volume\">53</span> <span class=\"reporter\">L. Ed.</span> <span class=\"page\">1057</span></span></p>\n    <p class=\"parties\">EX PARTE: IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner.</p>\n    <p class=\"docket\">No. ___, Original.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">April 12, 1909</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. Charles W. Stapleton for petitioner.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">Denied.</p>\n    </div>\n    ",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

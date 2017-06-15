@@ -1,0 +1,30 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="569" id1="96987" id="96987_1" lookup_key="u.s._212_569" alternative_keys="['in the matter of the dowagiac manufacturing company#1', 's.ct._29_692', 'l.ed._53_655']" citation_local_level_id="0" start="0" citation_global_level_id="49.002" end="12" volume="212" name="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY" line="1" >212 U.S. 569</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="692" id1="96987" id="96987_2" lookup_key="s.ct._29_692" alternative_keys="['u.s._212_569', 'in the matter of the dowagiac manufacturing company#1', 'l.ed._53_655']" citation_local_level_id="1" start="17" citation_global_level_id="49.003" end="30" volume="29" name="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY" line="2" >29 S. Ct. 692</CITATION>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="655" id1="96987" id="96987_3" lookup_key="l.ed._53_655" alternative_keys="['u.s._212_569', 's.ct._29_692', 'in the matter of the dowagiac manufacturing company#1']" citation_local_level_id="2" start="35" citation_global_level_id="49.004" end="48" volume="53" name="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY" line="3" >53 L. Ed. 655</CITATION>
+
+<NAME start="53" local_name_id="1" end="61" all_names="EX PARTE" id="96987_5" >EX PARTE</NAME>
+
+<CITATION id1="96987" entry_type="case_key" party1=" THE DOWAGIAC MANUFACTURING  COMPANY" line="4" id="96987_4" lookup_key="in the matter of the dowagiac manufacturing company#1" alternative_keys="['s.ct._29_692', 'l.ed._53_655', 'u.s._212_569']" citation_local_level_id="3" start="63" citation_global_level_id="49.005" end="127" party1_role="Petitioner" name="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY" party1_short="COMPANY" >IN THE MATTER OF THE DOWAGIAC MANUFACTURING COMPANY, Petitioner</CITATION>
+
+<LEGAL_ROLE start="70" end="127" id="96987_6" >MATTER OF THE DOWAGIAC MANUFACTURING COMPANY, Petitioner</LEGAL_ROLE>
+
+<NAME start="142" local_name_id="2" end="150" all_names="ORIGINAL" id="96987_7" >Original</NAME>
+
+<DATE start="156" citation_global_level_id="49.005" end="172" citation_local_level_id="3" id="96987_8" >February 1, 1909</DATE>
+
+<NAME start="185" local_name_id="3" end="209" all_names="MESSRS FRED L CHAPPELL" id="96987_13" >Messrs. Fred L. Chappell</NAME>
+
+<NAME start="211" local_name_id="4" end="227" all_names="MORISON R WAITE" id="96987_14" >Morison R. Waite</NAME>
+
+<LEGAL_ROLE start="233" end="262" id="96987_15" >Edmund Wetmore for petitioner</LEGAL_ROLE>
+
+<RELATION case_citation_other_string="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" gram_type="multi_line" standard_case="96987_1" relation_type="equivalence" id="96987_9" standard_case_string="212 U.S. 569" case_citation_other="96987_4" ></RELATION>
+
+<RELATION case_citation_other_string="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" gram_type="multi_line" standard_case="96987_2" relation_type="equivalence" id="96987_10" standard_case_string="29 S. Ct. 692" case_citation_other="96987_4" ></RELATION>
+
+<RELATION case_citation_other_string="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" gram_type="multi_line" standard_case="96987_3" relation_type="equivalence" id="96987_11" standard_case_string="53 L. Ed. 655" case_citation_other="96987_4" ></RELATION>
+
+<RELATION at_date_string="February 1, 1909" theme_string="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" id="96987_12" relation_type="asymmetric" theme="96987_4" at_date="96987_8" gram_type="multi_line" ></RELATION>
+

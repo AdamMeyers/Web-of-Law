@@ -1,0 +1,34 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="927" id1="130477" id="130477_1" lookup_key="u.s._539_927" alternative_keys="['mosscarrier#1']" citation_local_level_id="0" start="0" citation_global_level_id="5.002" end="12" volume="539" line="1" >539 U.S. 927</CITATION>
+
+<CITATION id1="130477" entry_type="party_key" party1="Moss et ux., on Behalf of Their Minor Child, Moss, et al." line="1" id="130477_3" lookup_key="mosscarrier#1" alternative_keys="['u.s._539_927']" party2="Carrier et al" citation_local_level_id="1" start="17" party2_short="Carrier" end="91" citation_global_level_id="5.003" party1_short="Moss" >Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al</CITATION>
+
+<NAME start="17" local_name_id="1" end="74" all_names="MOSS UX ON BEHALF OF THEIR MINOR CHILD MOSS	MOSS" party1_of="130477_3" id="130477_4" >Moss et ux., on Behalf of Their Minor Child, Moss, et al.</NAME>
+
+<NAME start="17" local_name_id="1" end="21" all_names="MOSS UX ON BEHALF OF THEIR MINOR CHILD MOSS	MOSS" id="130477_7" >Moss</NAME>
+
+<FAMILY start="33" end="60" id="130477_8" >Behalf of Their Minor Child</FAMILY>
+
+<NAME start="78" party2_of="130477_3" end="91" all_names="CARRIER" id="130477_5" local_name_id="2" >Carrier et al</NAME>
+
+<DOCKET start="101" citation_global_level_id="5.002" entry_type="docket" line="1" id1="130477" id="130477_2" lookup_key="u.s._539_927" end="108" citation_local_level_id="0" >02-1519</DOCKET>
+
+<ORGANIZATION start="114" end="144" id="130477_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="150" end="163" id="130477_6" >June 16, 2003</DATE>
+
+<NAME start="185" local_name_id="3" end="202" all_names="APPEAL FROM THE C" id="130477_10" >Appeal from the C</NAME>
+
+<NAME start="211" local_name_id="4" end="214" all_names="CIR" id="130477_11" >Cir</NAME>
+
+<NAME start="241" local_name_id="5" end="251" all_names="CERTIORARI" id="130477_17" >Certiorari</NAME>
+
+<RELATION includes_docket_string="02-1519" theme_string="539 U.S. 927" id="130477_16" relation_type="asymmetric" includes_docket="130477_2" theme="130477_1" gram_type="apposition" ></RELATION>
+
+<RELATION X_vs_Y_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" gram_type="pre_nom" standard_case="130477_1" relation_type="equivalence" id="130477_12" X_vs_Y="130477_3" standard_case_string="539 U.S. 927" ></RELATION>
+
+<RELATION includes_docket_string="02-1519" theme_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" id="130477_15" relation_type="asymmetric" includes_docket="130477_2" theme="130477_3" gram_type="apposition" ></RELATION>
+
+<RELATION party1_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al." party1="130477_4" theme_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" id="130477_13" relation_type="asymmetric" theme="130477_3" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Carrier et al" theme_string="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" id="130477_14" relation_type="asymmetric" party2="130477_5" theme="130477_3" gram_type="infix" ></RELATION>
+

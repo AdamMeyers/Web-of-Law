@@ -1,0 +1,14 @@
+<citation id="142419_1" entry_type="standard_case" start="0" end="13" reporter="U.S." standard_reporter="U.S." volume="543" page_number="1162" line="1">543 U.S. 1162</citation>
+<citation id="142419_2" entry_type="case_X_vs_Y" start="18" end="43" party1="'ABDULLAH" party2="KENNET ET AL" line="2">'ABDULLAH v. KENNET ET AL</citation>
+<NAME id="142419_3" start="18" end="27" party1_of="142419_2">'ABDULLAH</NAME>
+<NAME id="142419_4" start="31" end="43" party2_of="142419_2">KENNET ET AL</NAME>
+<docket id="142419_7" entry_type="docket" start="53" end="60" line="3">04-7654</docket>
+<ORGANIZATION id="142419_8" start="66" end="96">Supreme Court of United States</ORGANIZATION>
+<date id="142419_9" start="102" end="119">February 22, 2005</date>
+<NAME id="142419_13" start="141" end="154">C. A. 1st Cir</NAME>
+<NAME id="142419_14" start="156" end="166">Certiorari</NAME>
+<RELATION id="142419_5" relation_type="asymmetric" gram_type="infix" theme="142419_2" theme_string="'ABDULLAH v. KENNET ET AL" party1="142419_3" party1_string="'ABDULLAH"></RELATION>
+<RELATION id="142419_6" relation_type="asymmetric" gram_type="infix" theme="142419_2" theme_string="'ABDULLAH v. KENNET ET AL" party2="142419_4" party2_string="KENNET ET AL"></RELATION>
+<RELATION id="142419_10" relation_type="equivalence" gram_type="multi_line" standard_case="142419_1" standard_case_string="543 U.S. 1162" X_vs_Y="142419_2" X_vs_Y_string="'ABDULLAH v. KENNET ET AL"></RELATION>
+<RELATION id="142419_12" relation_type="asymmetric" gram_type="multi_line" theme="142419_2" theme_string="'ABDULLAH v. KENNET ET AL" at_date="142419_9" at_date_string="February 22, 2005"></RELATION>
+<RELATION id="142419_11" relation_type="asymmetric" gram_type="multi_line" theme="142419_2" theme_string="'ABDULLAH v. KENNET ET AL" includes_docket="142419_7" includes_docket_string="04-7654"></RELATION>

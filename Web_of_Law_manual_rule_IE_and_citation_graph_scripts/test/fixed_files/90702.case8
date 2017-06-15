@@ -1,0 +1,49 @@
+<citation id="90702_1" entry_type="standard_case" start="1" end="20" reporter="U.S." standard_reporter="U.S." volume="106" page_number="519" line="2">106 U.S. 519 (____)</citation>
+<citation id="90702_3" entry_type="case_X_vs_Y" start="21" end="41" party1="PATTERSON" party2="LYNDE" line="5">PATTERSON  v.  LYNDE</citation>
+<NAME id="90702_4" start="21" end="30" party1_of="90702_3">PATTERSON</NAME>
+<NAME id="90702_5" start="36" end="41" party2_of="90702_3">LYNDE</NAME>
+<ORGANIZATION id="90702_8" start="43" end="73">Supreme Court of United States</ORGANIZATION>
+<LEGAL_ROLE id="90702_10" start="81" end="120">Mr. Charles M. Harris for the plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="90702_11" start="131" end="170">Mr. Charles M. Osborn for the defendant</LEGAL_ROLE>
+<NAME id="90702_12" start="181" end="183">MR</NAME>
+<ORGANIZATION id="90702_13" start="333" end="344">corporation</ORGANIZATION>
+<PROFESSION id="90702_14" start="377" end="384">general</PROFESSION>
+<NAME id="90702_15" start="393" end="399">Oregon</NAME>
+<ORGANIZATION id="90702_16" start="441" end="453" plural="True">corporations</ORGANIZATION>
+<ORGANIZATION id="90702_17" start="612" end="623">corporation</ORGANIZATION>
+<NAME id="90702_18" start="625" end="632">Section</NAME>
+<NAME id="90702_19" start="656" end="678">Constitution of Oregon</NAME>
+<ORGANIZATION id="90702_20" start="718" end="730" plural="True">corporations</ORGANIZATION>
+<ORGANIZATION id="90702_21" start="747" end="756" plural="True">companies</ORGANIZATION>
+<ORGANIZATION id="90702_22" start="802" end="813">corporation</ORGANIZATION>
+<NAME id="90702_23" start="880" end="887">Section</NAME>
+<ORGANIZATION id="90702_24" start="947" end="959" plural="True">corporations</ORGANIZATION>
+<ORGANIZATION id="90702_32" start="1431" end="1454">Supreme Court of Oregon</ORGANIZATION>
+<citation id="90702_26" entry_type="case_X_vs_Y" start="1496" end="1514" party1="Ladd" party2="Cartwright" line="14">Ladd v. Cartwright</citation>
+<NAME id="90702_28" start="1496" end="1500" party1_of="90702_26">Ladd</NAME>
+<NAME id="90702_29" start="1504" end="1514" party2_of="90702_26">Cartwright</NAME>
+<NAME id="90702_33" start="1518" end="1522">Oreg</NAME>
+<ORGANIZATION id="90702_34" start="1614" end="1625">corporation</ORGANIZATION>
+<ORGANIZATION id="90702_35" start="1789" end="1800">corporation</ORGANIZATION>
+<ORGANIZATION id="90702_36" start="2071" end="2081">trust fund</ORGANIZATION>
+<ORGANIZATION id="90702_37" start="2119" end="2130">corporation</ORGANIZATION>
+<ORGANIZATION id="90702_38" start="2137" end="2148">corporation</ORGANIZATION>
+<citation id="90702_27" entry_type="case_X_vs_Y" start="2166" end="2180" party1="Sawyer" party2="Hoag" line="14">Sawyer v. Hoag</citation>
+<NAME id="90702_30" start="2166" end="2172" party1_of="90702_27">Sawyer</NAME>
+<NAME id="90702_31" start="2176" end="2180" party2_of="90702_27">Hoag</NAME>
+<citation id="90702_25" entry_type="standard_case" start="2182" end="2194" reporter="Wall." standard_reporter="WALL." volume="17" page_number="610" line="14">17 Wall. 610</citation>
+<NAME id="90702_39" start="2196" end="2222">The Constitution of Oregon</NAME>
+<ORGANIZATION id="90702_40" start="2515" end="2526">corporation</ORGANIZATION>
+<ORGANIZATION id="90702_41" start="2636" end="2647">corporation</ORGANIZATION>
+<NAME id="90702_42" start="2758" end="2770">Constitution</NAME>
+<ORGANIZATION id="90702_43" start="2968" end="2973" plural="True">funds</ORGANIZATION>
+<ORGANIZATION id="90702_44" start="3102" end="3113">corporation</ORGANIZATION>
+<NAME id="90702_50" start="3295" end="3303">Judgment</NAME>
+<RELATION id="90702_6" relation_type="asymmetric" gram_type="infix" theme="90702_3" theme_string="PATTERSON  v.  LYNDE" party1="90702_4" party1_string="PATTERSON"></RELATION>
+<RELATION id="90702_7" relation_type="asymmetric" gram_type="infix" theme="90702_3" theme_string="PATTERSON  v.  LYNDE" party2="90702_5" party2_string="LYNDE"></RELATION>
+<RELATION id="90702_9" relation_type="equivalence" gram_type="multi_line" standard_case="90702_1" standard_case_string="106 U.S. 519 (____)" X_vs_Y="90702_3" X_vs_Y_string="PATTERSON  v.  LYNDE"></RELATION>
+<RELATION id="90702_45" relation_type="asymmetric" gram_type="infix" theme="90702_26" theme_string="Ladd v. Cartwright" party1="90702_28" party1_string="Ladd"></RELATION>
+<RELATION id="90702_46" relation_type="asymmetric" gram_type="infix" theme="90702_26" theme_string="Ladd v. Cartwright" party2="90702_29" party2_string="Cartwright"></RELATION>
+<RELATION id="90702_49" relation_type="equivalence" gram_type="apposition" standard_case="90702_25" standard_case_string="17 Wall. 610" X_vs_Y="90702_27" X_vs_Y_string="Sawyer v. Hoag"></RELATION>
+<RELATION id="90702_47" relation_type="asymmetric" gram_type="infix" theme="90702_27" theme_string="Sawyer v. Hoag" party1="90702_30" party1_string="Sawyer"></RELATION>
+<RELATION id="90702_48" relation_type="asymmetric" gram_type="infix" theme="90702_27" theme_string="Sawyer v. Hoag" party2="90702_31" party2_string="Hoag"></RELATION>

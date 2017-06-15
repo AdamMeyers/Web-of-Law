@@ -1,0 +1,666 @@
+<NAME start="1" local_name_id="1" end="13" all_names="SLIP OPINION" id="145919_2" >Slip Opinion</NAME>
+
+<NAME start="28" local_name_id="2" end="40" all_names="OCTOBER TERM" id="145919_3" >OCTOBER TERM</NAME>
+
+<DATE start="42" end="46" id="145919_1" >2008</DATE>
+
+<NAME start="127" local_name_id="3" end="135" all_names="SYLLABUS" id="145919_4" >Syllabus</NAME>
+
+<NAME start="146" local_name_id="4" end="150" all_names="NOTE" id="145919_5" >NOTE</NAME>
+
+<CITATION id1="145919" entry_type="party_key" party1="LOCKE ET AL." line="4" id="145919_10" lookup_key="lockekarass#1" party2="KARASS, STATE CONTROLLER, ET AL" citation_local_level_id="0" start="627" party2_short="KARASS" end="674" citation_global_level_id="40.001" party1_short="LOCKE" >LOCKE ET AL. v. KARASS, STATE CONTROLLER, ET AL</CITATION>
+
+<NAME start="627" local_name_id="5" end="639" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_10" id="145919_14" >LOCKE ET AL.</NAME>
+
+<NAME start="643" party2_of="145919_10" end="674" all_names="KARASS STATE CONTROLLER	EDWARD A KARASS STATE CONTROLLER	STATE CONTROLLER" id="145919_15" local_name_id="6" >KARASS, STATE CONTROLLER, ET AL</NAME>
+
+<ORGANIZATION start="677" end="765" id="145919_24" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIRST CIRCUIT</ORGANIZATION>
+
+<DOCKET start="775" entry_type="docket" line="4" end="781" id="145919_9" >07–610</DOCKET>
+
+<DATE start="794" end="809" id="145919_22" >October 6, 2008</DATE>
+
+<DATE start="818" end="834" id="145919_23" >January 21, 2009</DATE>
+
+<CITATION id1="145919" entry_type="party_key" party1="LOCKE" line="4" id="145919_11" lookup_key="lockekarass#1" alternative_keys="['u.s._466_435', 'ellisclerks#1']" party2="KARASS" citation_local_level_id="1" start="2840" party2_short="KARASS" end="2855" citation_global_level_id="40.001" party1_short="LOCKE" >LOCKE v. KARASS</CITATION>
+
+<NAME start="2840" local_name_id="5" end="2845" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_11" id="145919_16" >LOCKE</NAME>
+
+<NAME start="2849" party2_of="145919_11" end="2855" all_names="KARASS" id="145919_17" local_name_id="7" >KARASS</NAME>
+
+<CITATION id1="145919" entry_type="party_key" party1="Ellis" line="4" id="145919_12" lookup_key="ellisclerks#1" alternative_keys="['u.s._466_435', 'lockekarass#1']" party2="Railway Clerks" citation_local_level_id="2" start="3574" party2_short="Clerks" end="3597" citation_global_level_id="40.004" party1_short="Ellis" >Ellis v. Railway Clerks</CITATION>
+
+<NAME start="3574" local_name_id="8" end="3579" all_names="ELLIS" party1_of="145919_12" id="145919_18" >Ellis</NAME>
+
+<NAME start="3583" party2_of="145919_12" end="3597" all_names="RAILWAY CLERKS" id="145919_19" local_name_id="9" >Railway Clerks</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="435" id1="145919" id="145919_6" lookup_key="u.s._466_435" alternative_keys="['lockekarass#1', 'ellisclerks#1']" citation_local_level_id="3" start="3599" citation_global_level_id="40.002" end="3620" paragraph_number="453" volume="466" line="4" >466 U.S. 435, 453</CITATION>
+
+<CITATION id1="145919" entry_type="party_key" party1="Lehnert" line="4" id="145919_13" lookup_key="lehnertassn#1" alternative_keys="['u.s._500_507']" party2="Ferris     Faculty Assn" citation_local_level_id="4" start="4042" party2_short="Assn" end="4076" citation_global_level_id="40.005" party1_short="Lehnert" >Lehnert v. Ferris Faculty Assn</CITATION>
+
+<NAME start="4042" local_name_id="10" end="4049" all_names="LEHNERT	APPLYING LEHNERT" party1_of="145919_13" id="145919_20" >Lehnert</NAME>
+
+<NAME start="4053" party2_of="145919_13" end="4076" all_names="FERRIS FACULTY ASSN" id="145919_21" local_name_id="11" >Ferris Faculty Assn</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="507" id1="145919" id="145919_7" lookup_key="u.s._500_507" alternative_keys="['lehnertassn#1']" citation_local_level_id="5" start="4079" citation_global_level_id="40.003" end="4096" paragraph_number="524" volume="500" line="4" >500 U.S. 507, 524</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="524" id1="Dummy_File_1324" id="145919_8" lookup_key="u.s._500_524" citation_local_level_id="6" start="5612" citation_global_level_id="1476.001" end="5629" volume="500" no_current_file="True" line="4" >500 U. S., at 524</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_36" lookup_key="u.s._555_____" citation_local_level_id="7" start="6097" citation_global_level_id="1477.001" end="6118" volume="555" no_current_file="True" year="2009" line="5" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="6113" citation_global_level_id="1477.001" end="6117" citation_local_level_id="7" id="145919_39" >2009</DATE>
+
+<NAME start="6176" local_name_id="3" end="6184" all_names="SYLLABUS" id="145919_40" >Syllabus</NAME>
+
+<NAME start="6195" local_name_id="10" end="6211" all_names="LEHNERT	APPLYING LEHNERT" id="145919_41" >Applying Lehnert</NAME>
+
+<PROFESSION start="6327" end="6330" id="145919_42" >col</PROFESSION>
+
+<ORGANIZATION start="6594" end="6608" id="145919_43" >administration</ORGANIZATION>
+
+<ORGANIZATION start="6638" end="6644" plural="True" id="145919_44" >courts</ORGANIZATION>
+
+<NAME start="6699" local_name_id="10" end="6706" all_names="LEHNERT	APPLYING LEHNERT" id="145919_45" >Lehnert</NAME>
+
+<NAME start="6787" local_name_id="12" end="6790" all_names="SEE" id="145919_46" >See</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="519" id1="Dummy_File_1326" id="145919_37" lookup_key="u.s._500_519" citation_local_level_id="8" start="6798" citation_global_level_id="1478.001" end="6815" volume="500" no_current_file="True" line="5" >500 U. S., at 519</CITATION>
+
+<ORGANIZATION start="7091" end="7096" id="145919_47" >union</ORGANIZATION>
+
+<CITATION reporter="F.3d" entry_type="standard_key" standard_reporter="F.3D" page_number="49" id1="Dummy_File_1327" id="145919_38" lookup_key="f.3d_498_49" citation_local_level_id="9" start="7637" citation_global_level_id="1479.001" end="7648" volume="498" no_current_file="True" line="5" >498 F.3d 49</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_49" lookup_key="u.s._555_____" citation_local_level_id="10" start="7843" citation_global_level_id="1477.001" end="7864" volume="555" no_current_file="True" year="2009" line="6" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="7859" citation_global_level_id="1477.001" end="7863" citation_local_level_id="10" id="145919_50" >2009</DATE>
+
+<ORGANIZATION start="7926" end="7946" id="145919_51" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="7953" local_name_id="13" end="7959" all_names="NOTICE" id="145919_54" >NOTICE</NAME>
+
+<NAME start="8060" local_name_id="14" end="8081" all_names="UNITED STATES REPORTS" id="145919_55" >United States Reports</NAME>
+
+<NAME start="8083" local_name_id="15" end="8090" all_names="READERS" id="145919_56" >Readers</NAME>
+
+<PROFESSION start="8124" end="8145" id="145919_57" >Reporter of Decisions</PROFESSION>
+
+<ORGANIZATION start="8147" end="8181" id="145919_58" >Supreme Court of the United States</ORGANIZATION>
+
+<NAME start="8183" local_name_id="16" end="8187" all_names="WASH" id="145919_59" >Wash</NAME>
+
+<NAME start="8201" local_name_id="17" end="8205" all_names="D C" id="145919_60" >D. C</NAME>
+
+<DATE start="8207" end="8211" id="145919_53" >2054</DATE>
+
+<ORGANIZATION start="8348" end="8382" id="145919_61" >SUPREME COURT OF THE UNITED STATES</ORGANIZATION>
+
+<DOCKET start="8476" entry_type="docket" line="8" end="8482" id="145919_67" >07–610</DOCKET>
+
+<CITATION id1="145919" entry_type="party_key" party1="DANIEL B. LOCKE, ET AL.," line="8" id="145919_68" party2_short="KARASS" party2="EDWARD      A. KARASS, STATE CONTROLLER, ET AL" citation_local_level_id="11" start="8538" lookup_key="lockekarass#1" end="8624" party1_role="petitioners" party1_short="LOCKE" citation_global_level_id="40.001" >DANIEL B. LOCKE, ET AL., PETITIONERS v. EDWARD A. KARASS, STATE CONTROLLER, ET AL</CITATION>
+
+<NAME start="8538" local_name_id="5" end="8562" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_68" id="145919_75" >DANIEL B. LOCKE, ET AL.,</NAME>
+
+<LEGAL_ROLE start="8563" end="8574" id="145919_77" >PETITIONERS</LEGAL_ROLE>
+
+<NAME start="8578" party2_of="145919_68" end="8624" all_names="KARASS STATE CONTROLLER	EDWARD A KARASS STATE CONTROLLER	STATE CONTROLLER" id="145919_76" local_name_id="6" >EDWARD A. KARASS, STATE CONTROLLER, ET AL</NAME>
+
+<DATE start="8757" end="8773" id="145919_90" >January 21, 2009</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_1328" entry_type="party_key" party1="Railway Employes" line="8" id="145919_69" lookup_key="employeshanson#1" alternative_keys="['u.s._351_225']" party2="Hanson" citation_local_level_id="12" start="9181" party2_short="Hanson" end="9207" citation_global_level_id="1480.003" volume="351" no_current_file="True" page_number="225" party1_short="Employes" >Railway Employes v. Hanson</CITATION>
+
+<NAME start="9181" local_name_id="18" end="9197" all_names="RAILWAY EMPLOYES" party1_of="145919_69" id="145919_78" >Railway Employes</NAME>
+
+<NAME start="9201" party2_of="145919_69" end="9207" all_names="HANSON" id="145919_79" local_name_id="19" >Hanson</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="225" id1="Dummy_File_1328" id="145919_62" lookup_key="u.s._351_225" alternative_keys="['employeshanson#1']" citation_local_level_id="13" start="9209" citation_global_level_id="1480.003" end="9228" volume="351" no_current_file="True" year="1956" line="8" >351 U.S. 225 (1956)</CITATION>
+
+<DATE start="9223" citation_global_level_id="1480.003" end="9227" citation_local_level_id="13" id="145919_91" >1956</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_1329" entry_type="party_key" party1="Abood" line="8" id="145919_70" lookup_key="aboodbd#1" alternative_keys="['u.s._431_209']" party2="Detroit Bd. of Ed" citation_local_level_id="14" start="9280" party2_short="Bd" end="9306" citation_global_level_id="1481.003" volume="431" no_current_file="True" page_number="209" party1_short="Abood" >Abood v. Detroit Bd. of Ed</CITATION>
+
+<NAME start="9280" local_name_id="20" end="9285" all_names="ABOOD" party1_of="145919_70" id="145919_80" >Abood</NAME>
+
+<NAME start="9289" party2_of="145919_70" end="9306" all_names="DETROIT BD OF ED" id="145919_81" local_name_id="21" >Detroit Bd. of Ed</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="209" id1="Dummy_File_1329" id="145919_63" lookup_key="u.s._431_209" alternative_keys="['aboodbd#1']" citation_local_level_id="15" start="9309" citation_global_level_id="1481.003" end="9328" volume="431" no_current_file="True" year="1977" line="8" >431 U.S. 209 (1977)</CITATION>
+
+<DATE start="9323" citation_global_level_id="1481.003" end="9327" citation_local_level_id="15" id="145919_92" >1977</DATE>
+
+<CITATION id1="145919" entry_type="party_key" party1="Lehnert" line="8" id="145919_71" lookup_key="lehnertassn#2" alternative_keys="['u.s._500_507']" party2="Ferris Faculty Assn" citation_local_level_id="16" start="9337" party2_short="Assn" end="9367" citation_global_level_id="40.006" party1_short="Lehnert" >Lehnert v. Ferris Faculty Assn</CITATION>
+
+<NAME start="9337" local_name_id="10" end="9344" all_names="LEHNERT	APPLYING LEHNERT" party1_of="145919_71" id="145919_82" >Lehnert</NAME>
+
+<NAME start="9348" party2_of="145919_71" end="9367" all_names="FERRIS FACULTY ASSN" id="145919_83" local_name_id="11" >Ferris Faculty Assn</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="507" id1="145919" id="145919_64" lookup_key="u.s._500_507" alternative_keys="['lehnertassn#2']" citation_local_level_id="17" start="9370" citation_global_level_id="40.003" end="9389" volume="500" year="1991" line="8" >500 U.S. 507 (1991)</CITATION>
+
+<DATE start="9384" citation_global_level_id="40.003" end="9388" citation_local_level_id="17" id="145919_93" >1991</DATE>
+
+<CITATION id1="145919" entry_type="party_key" party1="Ellis" line="8" id="145919_72" lookup_key="ellisclerks#1" alternative_keys="['u.s._466_435', 'lockekarass#1']" party2="Railway Clerks" citation_local_level_id="18" start="9737" party2_short="Clerks" end="9760" citation_global_level_id="40.004" party1_short="Ellis" >Ellis v. Railway Clerks</CITATION>
+
+<NAME start="9737" local_name_id="8" end="9742" all_names="ELLIS" party1_of="145919_72" id="145919_84" >Ellis</NAME>
+
+<NAME start="9746" party2_of="145919_72" end="9760" all_names="RAILWAY CLERKS" id="145919_85" local_name_id="9" >Railway Clerks</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="435" id1="145919" id="145919_65" lookup_key="u.s._466_435" alternative_keys="['ellisclerks#1']" citation_local_level_id="19" start="9762" citation_global_level_id="40.002" end="9781" volume="466" year="1984" line="8" >466 U.S. 435 (1984)</CITATION>
+
+<DATE start="9776" citation_global_level_id="40.002" end="9780" citation_local_level_id="19" id="145919_94" >1984</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_1330" entry_type="party_key" party1="Machinists" line="8" id="145919_73" lookup_key="machinistsstreet#1" alternative_keys="['u.s._367_740']" party2="Street" citation_local_level_id="20" start="9788" party2_short="Street" end="9808" citation_global_level_id="1482.003" volume="367" no_current_file="True" page_number="740" party1_short="Machinists" >Machinists v. Street</CITATION>
+
+<NAME start="9788" local_name_id="22" end="9798" all_names="MACHINISTS" party1_of="145919_73" id="145919_86" >Machinists</NAME>
+
+<NAME start="9802" party2_of="145919_73" end="9808" all_names="STREET	HANSON AND STREET" id="145919_87" local_name_id="23" >Street</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="740" id1="Dummy_File_1330" id="145919_66" lookup_key="u.s._367_740" alternative_keys="['machinistsstreet#1']" citation_local_level_id="21" start="9810" citation_global_level_id="1482.003" end="9829" volume="367" no_current_file="True" year="1961" line="8" >367 U.S. 740 (1961)</CITATION>
+
+<DATE start="9824" citation_global_level_id="1482.003" end="9828" citation_local_level_id="21" id="145919_95" >1961</DATE>
+
+<CITATION id1="Dummy_File_1331" entry_type="party_key" party1="LOCKE" line="8" id="145919_74" lookup_key="lockeopinion#1" party2="KARASS                        Opinion of the Court" citation_local_level_id="22" start="9972" party2_short="Opinion" end="10031" citation_global_level_id="1483.001" no_current_file="True" party1_short="LOCKE" >LOCKE v. KARASS Opinion of the Court</CITATION>
+
+<NAME start="9972" local_name_id="5" end="9977" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_74" id="145919_88" >LOCKE</NAME>
+
+<NAME start="9981" party2_of="145919_74" end="10031" all_names="KARASS OPINION OF THE COURT" id="145919_89" local_name_id="24" >KARASS Opinion of the Court</NAME>
+
+<NAME start="11037" local_name_id="25" end="11042" all_names="MAINE" id="145919_143" >Maine</NAME>
+
+<ORGANIZATION start="11062" end="11095" id="145919_144" >Maine State Employees Association</ORGANIZATION>
+
+<ORGANIZATION start="11107" end="11112" id="145919_145" >union</ORGANIZATION>
+
+<PROFESSION start="11142" end="11147" id="145919_146" >agent</PROFESSION>
+
+<PROFESSION start="11160" end="11169" id="145919_147" >executive</PROFESSION>
+
+<NAME start="11231" local_name_id="25" end="11236" all_names="MAINE" id="145919_148" >Maine</NAME>
+
+<ORGANIZATION start="11289" end="11294" id="145919_149" >union</ORGANIZATION>
+
+<ORGANIZATION start="11324" end="11329" id="145919_150" >union</ORGANIZATION>
+
+<ORGANIZATION start="11400" end="11405" id="145919_151" >union</ORGANIZATION>
+
+<ORGANIZATION start="11508" end="11522" id="145919_152" >administration</ORGANIZATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_121" lookup_key="u.s._555_____" citation_local_level_id="23" start="12000" citation_global_level_id="1477.001" end="12021" volume="555" no_current_file="True" year="2009" line="9" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="12016" citation_global_level_id="1477.001" end="12020" citation_local_level_id="23" id="145919_135" >2009</DATE>
+
+<DATE start="13350" end="13354" id="145919_136" >2005</DATE>
+
+<CITATION id1="Dummy_File_1331" entry_type="party_key" party1="LOCKE" line="9" id="145919_126" lookup_key="lockeopinion#1" party2="KARASS                       Opinion of the Court" citation_local_level_id="24" start="14120" party2_short="Opinion" end="14178" citation_global_level_id="1483.001" no_current_file="True" party1_short="LOCKE" >LOCKE v. KARASS Opinion of the Court</CITATION>
+
+<NAME start="14120" local_name_id="5" end="14125" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_126" id="145919_129" >LOCKE</NAME>
+
+<NAME start="14129" party2_of="145919_126" end="14178" all_names="KARASS OPINION OF THE COURT" id="145919_130" local_name_id="24" >KARASS Opinion of the Court</NAME>
+
+<DATE start="14183" citation_global_level_id="1483.001" end="14196" citation_local_level_id="24" id="145919_137" >December 2005</DATE>
+
+<DATE start="14319" end="14323" id="145919_138" >2006</DATE>
+
+<CITATION reporter="F. Supp. 2d" entry_type="standard_key" standard_reporter="F.SUPP.2D" page_number="137" id1="Dummy_File_1332" id="145919_122" lookup_key="f.supp.2d_425_137" citation_local_level_id="25" start="14945" citation_global_level_id="1484.001" end="14971" volume="425" no_current_file="True" year="2006" line="9" >425 F. Supp. 2d 137 (2006)</CITATION>
+
+<DATE start="14966" citation_global_level_id="1484.001" end="14970" citation_local_level_id="25" id="145919_139" >2006</DATE>
+
+<CITATION reporter="F.3d" entry_type="standard_key" standard_reporter="F.3D" page_number="49" id1="Dummy_File_1327" id="145919_123" lookup_key="f.3d_498_49" citation_local_level_id="26" start="15061" citation_global_level_id="1479.001" end="15079" volume="498" no_current_file="True" year="2007" line="9" >498 F.3d 49 (2007)</CITATION>
+
+<DATE start="15074" citation_global_level_id="1479.001" end="15078" citation_local_level_id="26" id="145919_140" >2007</DATE>
+
+<CITATION id1="Dummy_File_1333" entry_type="party_key" party1="Otto" line="9" id="145919_127" lookup_key="ottoassn#1" party2="Pennsylvania State Educ. Assn" citation_local_level_id="27" start="15262" party2_short="Assn" end="15299" citation_global_level_id="1485.001" no_current_file="True" party1_short="Otto" >Otto v. Pennsylvania State Educ. Assn</CITATION>
+
+<NAME start="15262" local_name_id="26" end="15266" all_names="OTTO	COMPARE OTTO" party1_of="145919_127" id="145919_131" >Otto</NAME>
+
+<NAME start="15270" party2_of="145919_127" end="15299" all_names="PENNSYLVANIA STATE EDUC ASSN" id="145919_132" local_name_id="27" >Pennsylvania State Educ. Assn</NAME>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="125" id1="Dummy_File_1334" id="145919_124" lookup_key="f.3d_330_125" court="CA3" citation_local_level_id="28" start="15306" citation_global_level_id="1486.001" end="15330" volume="330" no_current_file="True" year="2003" line="9" >330 F. 3d 125 (CA3 2003)</CITATION>
+
+<DATE start="15325" citation_global_level_id="1486.001" end="15329" citation_local_level_id="28" id="145919_141" >2003</DATE>
+
+<CITATION id1="Dummy_File_1335" entry_type="party_key" party1="Pilots" line="9" id="145919_128" lookup_key="pilotsdues#1" party2="Illegal Dues" citation_local_level_id="29" start="15337" party2_short="Dues" end="15364" citation_global_level_id="1487.001" no_current_file="True" party1_short="Pilots" >Pilots Against Illegal Dues</CITATION>
+
+<NAME start="15337" local_name_id="28" end="15343" all_names="PILOTS" party1_of="145919_128" id="145919_133" >Pilots</NAME>
+
+<NAME start="15352" party2_of="145919_128" end="15364" all_names="ILLEGAL DUES" id="145919_134" local_name_id="29" >Illegal Dues</NAME>
+
+<CITATION reporter="F.2d" entry_type="standard_key" standard_reporter="F.2D" page_number="1123" id1="Dummy_File_1336" id="145919_125" lookup_key="f.2d_938_1123" court="CA10" citation_local_level_id="30" start="15391" citation_global_level_id="1488.001" end="15416" volume="938" no_current_file="True" year="1991" line="9" >938 F.2d 1123 (CA10 1991)</CITATION>
+
+<DATE start="15411" citation_global_level_id="1488.001" end="15415" citation_local_level_id="30" id="145919_142" >1991</DATE>
+
+<NAME start="15453" local_name_id="30" end="15458" all_names="PRIOR" id="145919_190" >Prior</NAME>
+
+<ORGANIZATION start="15477" end="15482" id="145919_191" >Court</ORGANIZATION>
+
+<NAME start="15516" local_name_id="19" end="15522" all_names="HANSON" id="145919_192" >Hanson</NAME>
+
+<NAME start="15524" local_name_id="23" end="15530" all_names="STREET	HANSON AND STREET" id="145919_193" >Street</NAME>
+
+<NAME start="15536" local_name_id="20" end="15541" all_names="ABOOD" id="145919_194" >Abood</NAME>
+
+<ORGANIZATION start="15547" end="15552" id="145919_195" >Court</ORGANIZATION>
+
+<PROFESSION start="15565" end="15588" id="145919_196" >general First Amendment</PROFESSION>
+
+<NAME start="15604" local_name_id="31" end="15619" all_names="FIRST AMENDMENT" id="145919_197" >First Amendment</NAME>
+
+<PROFESSION start="15632" end="15642" id="145919_198" >government</PROFESSION>
+
+<ORGANIZATION start="15728" end="15733" id="145919_199" >union</ORGANIZATION>
+
+<ORGANIZATION start="15840" end="15845" id="145919_200" >union</ORGANIZATION>
+
+<NAME start="15922" local_name_id="23" end="15939" all_names="STREET	HANSON AND STREET" id="145919_201" >Hanson and Street</NAME>
+
+<ORGANIZATION start="15966" end="15971" id="145919_202" >union</ORGANIZATION>
+
+<NAME start="16143" local_name_id="32" end="16147" all_names="CITE" id="145919_203" >Cite</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_165" lookup_key="u.s._555_____" citation_local_level_id="31" start="16152" citation_global_level_id="1477.001" end="16173" volume="555" no_current_file="True" year="2009" line="10" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="16168" citation_global_level_id="1477.001" end="16172" citation_local_level_id="31" id="145919_184" >2009</DATE>
+
+<ORGANIZATION start="16208" end="16228" id="145919_204" >Opinion of the Court</ORGANIZATION>
+
+<ORGANIZATION start="16359" end="16364" id="145919_205" >Court</ORGANIZATION>
+
+<NAME start="16389" local_name_id="31" end="16404" all_names="FIRST AMENDMENT" id="145919_206" >First Amendment</NAME>
+
+<PROFESSION start="16472" end="16482" id="145919_207" >government</PROFESSION>
+
+<NAME start="16642" local_name_id="23" end="16648" all_names="STREET	HANSON AND STREET" id="145919_208" >Street</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="768" id1="Dummy_File_1337" id="145919_166" lookup_key="u.s._367_768" citation_local_level_id="32" start="16650" citation_global_level_id="1489.001" end="16667" volume="367" no_current_file="True" line="10" >367 U. S., at 768</CITATION>
+
+<NAME start="16673" local_name_id="19" end="16679" all_names="HANSON" id="145919_209" >Hanson</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="233" id1="Dummy_File_1338" id="145919_167" lookup_key="u.s._351_233" citation_local_level_id="33" start="16681" citation_global_level_id="1490.001" end="16698" volume="351" no_current_file="True" line="10" >351 U. S., at 233</CITATION>
+
+<NAME start="16710" local_name_id="20" end="16715" all_names="ABOOD" id="145919_210" >Abood</NAME>
+
+<ORGANIZATION start="16721" end="16726" id="145919_211" >Court</ORGANIZATION>
+
+<NAME start="16753" local_name_id="31" end="16768" all_names="FIRST AMENDMENT" id="145919_212" >First Amendment</NAME>
+
+<ORGANIZATION start="16843" end="16848" id="145919_213" >union</ORGANIZATION>
+
+<PROFESSION start="16876" end="16881" id="145919_214" >agent</PROFESSION>
+
+<PROFESSION start="16965" end="16974" id="145919_215" >associate</PROFESSION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="222" id1="Dummy_File_1339" id="145919_168" lookup_key="u.s._431_222" citation_local_level_id="34" start="17051" citation_global_level_id="1491.001" end="17068" volume="431" no_current_file="True" line="10" >431 U. S., at 222</CITATION>
+
+<ORGANIZATION start="17078" end="17089" id="145919_216" >Abood Court</ORGANIZATION>
+
+<NAME start="17162" local_name_id="23" end="17179" all_names="STREET	HANSON AND STREET" id="145919_217" >Hanson and Street</NAME>
+
+<ORGANIZATION start="17314" end="17319" id="145919_218" >union</ORGANIZATION>
+
+<NAME start="17373" local_name_id="33" end="17381" all_names="CONGRESS" id="145919_219" >Congress</NAME>
+
+<DATE start="18100" end="18104" id="145919_185" >1984</DATE>
+
+<CITATION id1="Dummy_File_1331" entry_type="party_key" party1="LOCKE" line="10" id="145919_175" lookup_key="lockeopinion#1" party2="KARASS                        Opinion of the Court" citation_local_level_id="35" start="18248" party2_short="Opinion" end="18307" citation_global_level_id="1483.001" no_current_file="True" party1_short="LOCKE" >LOCKE v. KARASS Opinion of the Court</CITATION>
+
+<NAME start="18248" local_name_id="5" end="18253" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_175" id="145919_178" >LOCKE</NAME>
+
+<NAME start="18257" party2_of="145919_175" end="18307" all_names="KARASS OPINION OF THE COURT" id="145919_179" local_name_id="24" >KARASS Opinion of the Court</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="446" id1="Dummy_File_1340" id="145919_169" lookup_key="u.s._466_446" citation_local_level_id="36" start="18406" citation_global_level_id="1492.001" end="18423" volume="466" no_current_file="True" line="10" >466 U. S., at 446</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_1341" entry_type="party_key" party1="Railway Clerks" line="10" id="145919_176" lookup_key="clerksallen#1" alternative_keys="['u.s._373_113']" party2="Allen" citation_local_level_id="37" start="18437" party2_short="Allen" end="18460" citation_global_level_id="1493.003" volume="373" no_current_file="True" page_number="113" party1_short="Clerks" >Railway Clerks v. Allen</CITATION>
+
+<NAME start="18437" local_name_id="9" end="18451" all_names="RAILWAY CLERKS" party1_of="145919_176" id="145919_180" >Railway Clerks</NAME>
+
+<NAME start="18455" party2_of="145919_176" end="18460" all_names="ALLEN" id="145919_181" local_name_id="34" >Allen</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="113" id1="Dummy_File_1341" id="145919_170" lookup_key="u.s._373_113" alternative_keys="['clerksallen#1']" citation_local_level_id="38" start="18462" citation_global_level_id="1493.003" end="18486" paragraph_number="121" volume="373" no_current_file="True" year="1963" line="10" >373 U.S. 113, 121 (1963)</CITATION>
+
+<DATE start="18481" citation_global_level_id="1493.003" end="18485" citation_local_level_id="38" id="145919_186" >1963</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="448" id1="Dummy_File_1342" id="145919_171" lookup_key="u.s._446_448" citation_local_level_id="39" start="18785" citation_global_level_id="1494.001" end="18802" volume="446" no_current_file="True" line="10" >446 U. S., at 448</CITATION>
+
+<DATE start="20289" end="20293" id="145919_187" >1991</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_172" lookup_key="u.s._555_____" citation_local_level_id="40" start="20369" citation_global_level_id="1477.001" end="20390" volume="555" no_current_file="True" year="2009" line="10" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="20385" citation_global_level_id="1477.001" end="20389" citation_local_level_id="40" id="145919_188" >2009</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="519" id1="Dummy_File_1326" id="145919_173" lookup_key="u.s._500_519" citation_local_level_id="41" start="20590" citation_global_level_id="1478.001" end="20607" volume="500" no_current_file="True" line="10" >500 U. S., at 519</CITATION>
+
+<CITATION id1="Dummy_File_1331" entry_type="party_key" party1="LOCKE" line="10" id="145919_177" lookup_key="lockeopinion#1" party2="KARASS                        Opinion of the Court" citation_local_level_id="42" start="22532" party2_short="Opinion" end="22591" citation_global_level_id="1483.001" no_current_file="True" party1_short="LOCKE" >LOCKE v. KARASS Opinion of the Court</CITATION>
+
+<NAME start="22532" local_name_id="5" end="22537" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_177" id="145919_182" >LOCKE</NAME>
+
+<NAME start="22541" party2_of="145919_177" end="22591" all_names="KARASS OPINION OF THE COURT" id="145919_183" local_name_id="24" >KARASS Opinion of the Court</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_174" lookup_key="u.s._555_____" citation_local_level_id="43" start="24581" citation_global_level_id="1477.001" end="24602" volume="555" no_current_file="True" year="2009" line="10" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="24597" citation_global_level_id="1477.001" end="24601" citation_local_level_id="43" id="145919_189" >2009</DATE>
+
+<ORGANIZATION start="25780" end="25793" id="145919_242" >Lehnert Court</ORGANIZATION>
+
+<ORGANIZATION start="25892" end="25898" plural="True" id="145919_243" >courts</ORGANIZATION>
+
+<NAME start="25937" local_name_id="26" end="25949" all_names="OTTO	COMPARE OTTO" id="145919_244" >Compare Otto</NAME>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="138" id1="Dummy_File_1343" id="145919_231" lookup_key="f.3d_330_138" citation_local_level_id="44" start="25951" citation_global_level_id="1495.001" end="25968" volume="330" no_current_file="True" line="11" >330 F. 3d, at 138</CITATION>
+
+<CITATION id1="Dummy_File_1335" entry_type="party_key" party1="Pilots" line="11" id="145919_236" lookup_key="pilotsdues#1" alternative_keys="['f.2d_938_1130']" party2="Illegal Dues" citation_local_level_id="45" start="25975" party2_short="Dues" end="26002" citation_global_level_id="1487.001" no_current_file="True" party1_short="Pilots" >Pilots Against Illegal Dues</CITATION>
+
+<NAME start="25975" local_name_id="28" end="25981" all_names="PILOTS" party1_of="145919_236" id="145919_238" >Pilots</NAME>
+
+<NAME start="25990" party2_of="145919_236" end="26002" all_names="ILLEGAL DUES" id="145919_239" local_name_id="29" >Illegal Dues</NAME>
+
+<CITATION reporter="F. 2d" entry_type="standard_key" standard_reporter="F.2D" page_number="1130" id1="Dummy_File_1335" id="145919_232" lookup_key="f.2d_938_1130" alternative_keys="['pilotsdues#1']" citation_local_level_id="46" start="26004" citation_global_level_id="1487.002" end="26022" volume="938" line="11" >938 F. 2d, at 1130</CITATION>
+
+<ORGANIZATION start="26109" end="26114" id="145919_245" >Court</ORGANIZATION>
+
+<NAME start="26271" local_name_id="10" end="26278" all_names="LEHNERT	APPLYING LEHNERT" id="145919_246" >Lehnert</NAME>
+
+<ORGANIZATION start="26331" end="26336" id="145919_247" >union</ORGANIZATION>
+
+<CITATION id1="Dummy_File_1331" entry_type="party_key" party1="LOCKE" line="11" id="145919_237" lookup_key="lockeopinion#1" party2="KARASS                       Opinion of the Court" citation_local_level_id="47" start="26638" party2_short="Opinion" end="26696" citation_global_level_id="1483.001" no_current_file="True" party1_short="LOCKE" >LOCKE v. KARASS Opinion of the Court</CITATION>
+
+<NAME start="26638" local_name_id="5" end="26643" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_237" id="145919_240" >LOCKE</NAME>
+
+<NAME start="26647" party2_of="145919_237" end="26696" all_names="KARASS OPINION OF THE COURT" id="145919_241" local_name_id="24" >KARASS Opinion of the Court</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="524" id1="Dummy_File_1324" id="145919_233" lookup_key="u.s._500_524" citation_local_level_id="48" start="26872" citation_global_level_id="1476.001" end="26889" volume="500" no_current_file="True" line="11" >500 U. S., at 524</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="448" id1="Dummy_File_1344" id="145919_234" lookup_key="u.s._466_448" citation_local_level_id="49" start="27471" citation_global_level_id="1496.001" end="27488" volume="466" no_current_file="True" line="11" >466 U. S., at 448</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="453" id1="Dummy_File_1345" id="145919_235" lookup_key="u.s._466_453" citation_local_level_id="50" start="28429" citation_global_level_id="1497.001" end="28446" volume="466" no_current_file="True" line="11" >466 U. S., at 453</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_253" lookup_key="u.s._555_____" citation_local_level_id="51" start="28722" citation_global_level_id="1477.001" end="28743" volume="555" no_current_file="True" year="2009" line="12" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="28738" citation_global_level_id="1477.001" end="28742" citation_local_level_id="51" id="145919_256" >2009</DATE>
+
+<ORGANIZATION start="28779" end="28799" id="145919_257" >Opinion of the Court</ORGANIZATION>
+
+<ORGANIZATION start="28869" end="28873" id="145919_258" >fund</ORGANIZATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="564" id1="Dummy_File_1346" id="145919_254" lookup_key="u.s._500_564" citation_local_level_id="52" start="28965" citation_global_level_id="1498.001" end="28982" volume="500" no_current_file="True" line="12" >500 U. S., at 564</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="528" id1="Dummy_File_1347" id="145919_255" lookup_key="u.s._500_528" citation_local_level_id="53" start="29378" citation_global_level_id="1499.001" end="29395" volume="500" no_current_file="True" line="12" >500 U. S., at 528</CITATION>
+
+<NAME start="30341" local_name_id="10" end="30357" all_names="LEHNERT	APPLYING LEHNERT" id="145919_268" >Applying Lehnert</NAME>
+
+<ORGANIZATION start="30596" end="30610" id="145919_269" >administration</ORGANIZATION>
+
+<CITATION id1="Dummy_File_1331" entry_type="party_key" party1="LOCKE" line="13" id="145919_264" lookup_key="lockeopinion#1" party2="KARASS                       Opinion of the Court" citation_local_level_id="54" start="30651" party2_short="Opinion" end="30709" citation_global_level_id="1483.001" no_current_file="True" party1_short="LOCKE" >LOCKE v. KARASS Opinion of the Court</CITATION>
+
+<NAME start="30651" local_name_id="5" end="30656" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_264" id="145919_265" >LOCKE</NAME>
+
+<NAME start="30660" party2_of="145919_264" end="30709" all_names="KARASS OPINION OF THE COURT" id="145919_266" local_name_id="24" >KARASS Opinion of the Court</NAME>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="52" id1="Dummy_File_1348" id="145919_260" lookup_key="f.3d_498_52" citation_local_level_id="55" start="31091" citation_global_level_id="1500.001" end="31107" volume="498" no_current_file="True" line="13" >498 F. 3d, at 52</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="519" id1="Dummy_File_1326" id="145919_261" lookup_key="u.s._500_519" citation_local_level_id="56" start="31256" citation_global_level_id="1478.001" end="31273" volume="500" no_current_file="True" line="13" >500 U. S., at 519</CITATION>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="64" id1="Dummy_File_1349" id="145919_262" lookup_key="f.3d_498_64" citation_local_level_id="57" start="32036" citation_global_level_id="1501.001" end="32052" volume="498" no_current_file="True" line="13" >498 F. 3d, at 64</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_263" lookup_key="u.s._555_____" citation_local_level_id="58" start="32764" citation_global_level_id="1477.001" end="32785" volume="555" no_current_file="True" year="2009" line="13" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="32780" citation_global_level_id="1477.001" end="32784" citation_local_level_id="58" id="145919_267" >2009</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_1325" id="145919_273" lookup_key="u.s._555_____" citation_local_level_id="59" start="33365" citation_global_level_id="1477.001" end="33386" volume="555" no_current_file="True" year="2009" line="15" >555 U. S. ____ (2009)</CITATION>
+
+<DATE start="33381" citation_global_level_id="1477.001" end="33385" citation_local_level_id="59" id="145919_274" >2009</DATE>
+
+<NAME start="33425" local_name_id="35" end="33430" all_names="ALITO" id="145919_275" >ALITO</NAME>
+
+<ORGANIZATION start="33448" end="33482" id="145919_276" >SUPREME COURT OF THE UNITED STATES</ORGANIZATION>
+
+<DOCKET start="33559" citation_global_level_id="40.001" entry_type="docket" line="16" id1="145919" id="145919_278" lookup_key="lockekarass#1" end="33565" citation_local_level_id="11" >07–610</DOCKET>
+
+<CITATION id1="Dummy_File_1350" entry_type="party_key" party1="DANIEL B. LOCKE, ET AL.," line="17" id="145919_279" party2_short="EDWARD" party2="EDWARD" citation_local_level_id="60" start="33612" lookup_key="lockeedward#1" end="33658" party1_role="petitioners" no_current_file="True" party1_short="LOCKE" citation_global_level_id="1502.001" >DANIEL B. LOCKE, ET AL., PETITIONERS v. EDWARD</CITATION>
+
+<NAME start="33612" local_name_id="5" end="33636" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_279" id="145919_280" >DANIEL B. LOCKE, ET AL.,</NAME>
+
+<LEGAL_ROLE start="33637" end="33648" id="145919_282" >PETITIONERS</LEGAL_ROLE>
+
+<NAME start="33652" party2_of="145919_279" end="33658" all_names="EDWARD" id="145919_281" local_name_id="36" >EDWARD</NAME>
+
+<NAME start="33667" local_name_id="7" end="33673" all_names="KARASS" id="145919_285" >KARASS</NAME>
+
+<NAME start="33675" local_name_id="6" end="33691" all_names="KARASS STATE CONTROLLER	EDWARD A KARASS STATE CONTROLLER	STATE CONTROLLER" id="145919_286" >STATE CONTROLLER</NAME>
+
+<NAME start="33693" local_name_id="37" end="33698" all_names="" id="145919_287" >ET AL</NAME>
+
+<ORGANIZATION start="33704" end="33749" id="145919_288" >WRIT OF CERTIORARI TO THE UNITED STATES COURT</ORGANIZATION>
+
+<NAME start="33768" local_name_id="38" end="33797" all_names="APPEALS FOR THE FIRST CIRCUIT" id="145919_290" >APPEALS FOR THE FIRST CIRCUIT</NAME>
+
+<DATE start="33823" end="33839" id="145919_291" >January 21, 2009</DATE>
+
+<PROFESSION start="33847" end="33854" party="ALITO" document_level_name_id="35" id="145919_293" >JUSTICE</PROFESSION>
+
+<NAME start="33855" local_name_id="35" end="33860" all_names="ALITO" id="145919_294" >ALITO</NAME>
+
+<CITATION id1="Dummy_File_212" entry_type="case_key" line="21" name="THE CHIEF JUSTICE" id="145919_292" lookup_key="the chief justice#1" alternative_keys="['u.s._383_554']" citation_local_level_id="61" start="33872" citation_global_level_id="364.003" end="33889" no_current_file="True" >THE CHIEF JUSTICE</CITATION>
+
+<PROFESSION start="33876" end="33889" id="145919_295" >CHIEF JUSTICE</PROFESSION>
+
+<PROFESSION start="33890" end="33901" party="SCALIA" document_level_name_id="39" id="145919_296" >and JUSTICE</PROFESSION>
+
+<NAME start="33902" local_name_id="39" end="33908" all_names="SCALIA" id="145919_297" >SCALIA</NAME>
+
+<ORGANIZATION start="33956" end="33961" id="145919_300" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="34087" end="34098" plural="True" id="145919_301" >Petitioners</LEGAL_ROLE>
+
+<NAME start="34264" local_name_id="12" end="34267" all_names="SEE" id="145919_302" >See</NAME>
+
+<LEGAL_ROLE start="34292" end="34303" plural="True" id="145919_303" >petitioners</LEGAL_ROLE>
+
+<NAME start="34322" local_name_id="40" end="34333" all_names="FIRST AMEND" id="145919_304" >First Amend</NAME>
+
+<ORGANIZATION start="34587" end="34593" plural="True" id="145919_305" >courts</ORGANIZATION>
+
+<NAME start="34681" local_name_id="41" end="34685" all_names="ANTE" id="145919_306" >Ante</NAME>
+
+<ORGANIZATION start="34923" end="34928" id="145919_315" >union</ORGANIZATION>
+
+<FAMILY start="34966" end="34972" id="145919_316" >parent</FAMILY>
+
+<NAME start="34991" local_name_id="41" end="34995" all_names="ANTE" id="145919_317" >Ante</NAME>
+
+<CITATION id1="145919" entry_type="party_key" party1="Lehnert" line="23" id="145919_308" lookup_key="lehnertassn#2" alternative_keys="['u.s._500_507']" party2="Ferris Faculty Assn" citation_local_level_id="62" start="35011" party2_short="Assn" end="35041" citation_global_level_id="40.006" party1_short="Lehnert" >Lehnert v. Ferris Faculty Assn</CITATION>
+
+<NAME start="35011" local_name_id="10" end="35018" all_names="LEHNERT	APPLYING LEHNERT" party1_of="145919_308" id="145919_310" >Lehnert</NAME>
+
+<NAME start="35022" party2_of="145919_308" end="35041" all_names="FERRIS FACULTY ASSN" id="145919_311" local_name_id="11" >Ferris Faculty Assn</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="507" id1="145919" id="145919_307" lookup_key="u.s._500_507" alternative_keys="['lehnertassn#2']" citation_local_level_id="63" start="35044" citation_global_level_id="40.003" end="35068" paragraph_number="524" volume="500" year="1991" line="23" >500 U.S. 507, 524 (1991)</CITATION>
+
+<DATE start="35063" citation_global_level_id="40.003" end="35067" citation_local_level_id="63" id="145919_314" >1991</DATE>
+
+<CITATION id1="145919" entry_type="party_key" party1="LOCKE" line="23" id="145919_309" lookup_key="lockekarass#1" party2="KARASS" citation_local_level_id="64" start="35235" party2_short="KARASS" end="35250" citation_global_level_id="40.001" party1_short="LOCKE" >LOCKE v. KARASS</CITATION>
+
+<NAME start="35235" local_name_id="5" end="35240" all_names="LOCKE	DANIEL B LOCKE" party1_of="145919_309" id="145919_312" >LOCKE</NAME>
+
+<NAME start="35244" party2_of="145919_309" end="35250" all_names="KARASS" id="145919_313" local_name_id="7" >KARASS</NAME>
+
+<NAME start="35273" local_name_id="35" end="35278" all_names="ALITO" id="145919_324" >ALITO</NAME>
+
+<NAME start="35388" local_name_id="42" end="35401" all_names="UNITED STATES" id="145919_325" >United States</NAME>
+
+<ORGANIZATION start="35425" end="35430" id="145919_326" >union</ORGANIZATION>
+
+<NAME start="35572" local_name_id="43" end="35611" all_names="SEE BRIEF FOR UNITED STATES 28–29 ONCE" id="145919_327" >See Brief for United States 28–29. Once</NAME>
+
+<PROFESSION start="35647" end="35657" id="145919_328" >Government</PROFESSION>
+
+<ORGANIZATION start="35671" end="35676" id="145919_329" >union</ORGANIZATION>
+
+<NAME start="35793" local_name_id="12" end="35796" all_names="SEE" id="145919_330" >See</NAME>
+
+<NAME start="35932" local_name_id="31" end="35947" all_names="FIRST AMENDMENT" id="145919_331" >First Amendment</NAME>
+
+<PROFESSION start="35973" end="35983" id="145919_332" >Government</PROFESSION>
+
+<ORGANIZATION start="36066" end="36071" id="145919_333" >force</ORGANIZATION>
+
+<RELATION party1_string="LOCKE ET AL." party1="145919_14" theme_string="LOCKE ET AL. v. KARASS, STATE CONTROLLER, ET AL" id="145919_25" relation_type="asymmetric" theme="145919_10" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS, STATE CONTROLLER, ET AL" theme_string="LOCKE ET AL. v. KARASS, STATE CONTROLLER, ET AL" id="145919_26" relation_type="asymmetric" party2="145919_15" theme="145919_10" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="LOCKE v. KARASS" gram_type="apposition" standard_case="145919_6" relation_type="equivalence" id="145919_32" X_vs_Y="145919_11" standard_case_string="466 U.S.     435, 453" ></RELATION>
+
+<RELATION party1_string="LOCKE" party1="145919_16" theme_string="LOCKE v. KARASS" id="145919_27" relation_type="asymmetric" theme="145919_11" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS" theme_string="LOCKE v. KARASS" id="145919_28" relation_type="asymmetric" party2="145919_17" theme="145919_11" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Ellis v. Railway Clerks" gram_type="apposition" standard_case="145919_6" relation_type="equivalence" id="145919_31" X_vs_Y="145919_12" standard_case_string="466 U.S.     435, 453" ></RELATION>
+
+<RELATION party1_string="Ellis" party1="145919_18" theme_string="Ellis v. Railway Clerks" id="145919_29" relation_type="asymmetric" theme="145919_12" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Railway Clerks" theme_string="Ellis v. Railway Clerks" id="145919_30" relation_type="asymmetric" party2="145919_19" theme="145919_12" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Lehnert v. Ferris     Faculty Assn" gram_type="apposition" standard_case="145919_7" relation_type="equivalence" id="145919_35" X_vs_Y="145919_13" standard_case_string="500 U.S. 507, 524" ></RELATION>
+
+<RELATION party1_string="Lehnert" party1="145919_20" theme_string="Lehnert v. Ferris     Faculty Assn" id="145919_33" relation_type="asymmetric" theme="145919_13" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Ferris     Faculty Assn" theme_string="Lehnert v. Ferris     Faculty Assn" id="145919_34" relation_type="asymmetric" party2="145919_21" theme="145919_13" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_48" relation_type="asymmetric" theme="145919_36" at_date="145919_39" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_52" relation_type="asymmetric" theme="145919_49" at_date="145919_50" gram_type="infix" ></RELATION>
+
+<RELATION includes_docket_string="07–610" theme_string="DANIEL B. LOCKE, ET AL., PETITIONERS v. EDWARD      A. KARASS, STATE CONTROLLER, ET AL" id="145919_96" relation_type="asymmetric" includes_docket="145919_67" theme="145919_68" gram_type="pre_nom" ></RELATION>
+
+<RELATION party1_string="DANIEL B. LOCKE, ET AL.," party1="145919_75" theme_string="DANIEL B. LOCKE, ET AL., PETITIONERS v. EDWARD      A. KARASS, STATE CONTROLLER, ET AL" id="145919_97" relation_type="asymmetric" theme="145919_68" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="EDWARD      A. KARASS, STATE CONTROLLER, ET AL" theme_string="DANIEL B. LOCKE, ET AL., PETITIONERS v. EDWARD      A. KARASS, STATE CONTROLLER, ET AL" id="145919_98" relation_type="asymmetric" party2="145919_76" theme="145919_68" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Railway Employes v. Hanson" gram_type="apposition" standard_case="145919_62" relation_type="equivalence" id="145919_101" X_vs_Y="145919_69" standard_case_string="351 U.S. 225 (1956)" ></RELATION>
+
+<RELATION party2_string="Hanson" theme_string="Railway Employes v. Hanson" id="145919_100" relation_type="asymmetric" party2="145919_79" theme="145919_69" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Railway Employes" party1="145919_78" theme_string="Railway Employes v. Hanson" id="145919_99" relation_type="asymmetric" theme="145919_69" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1956" theme_string="351 U.S. 225 (1956)" id="145919_102" relation_type="asymmetric" theme="145919_62" at_date="145919_91" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Abood v. Detroit Bd. of Ed" gram_type="apposition" standard_case="145919_63" relation_type="equivalence" id="145919_105" X_vs_Y="145919_70" standard_case_string="431 U.S. 209 (1977)" ></RELATION>
+
+<RELATION party1_string="Abood" party1="145919_80" theme_string="Abood v. Detroit Bd. of Ed" id="145919_103" relation_type="asymmetric" theme="145919_70" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Detroit Bd. of Ed" theme_string="Abood v. Detroit Bd. of Ed" id="145919_104" relation_type="asymmetric" party2="145919_81" theme="145919_70" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1977" theme_string="431 U.S. 209 (1977)" id="145919_106" relation_type="asymmetric" theme="145919_63" at_date="145919_92" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Lehnert v. Ferris Faculty Assn" gram_type="apposition" standard_case="145919_64" relation_type="equivalence" id="145919_109" X_vs_Y="145919_71" standard_case_string="500 U.S. 507 (1991)" ></RELATION>
+
+<RELATION party1_string="Lehnert" party1="145919_82" theme_string="Lehnert v. Ferris Faculty Assn" id="145919_107" relation_type="asymmetric" theme="145919_71" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Ferris Faculty Assn" theme_string="Lehnert v. Ferris Faculty Assn" id="145919_108" relation_type="asymmetric" party2="145919_83" theme="145919_71" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1991" theme_string="500 U.S. 507 (1991)" id="145919_110" relation_type="asymmetric" theme="145919_64" at_date="145919_93" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Ellis v. Railway Clerks" gram_type="apposition" standard_case="145919_65" relation_type="equivalence" id="145919_113" X_vs_Y="145919_72" standard_case_string="466 U.S. 435 (1984)" ></RELATION>
+
+<RELATION party1_string="Ellis" party1="145919_84" theme_string="Ellis v. Railway Clerks" id="145919_111" relation_type="asymmetric" theme="145919_72" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Railway Clerks" theme_string="Ellis v. Railway Clerks" id="145919_112" relation_type="asymmetric" party2="145919_85" theme="145919_72" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1984" theme_string="466 U.S. 435 (1984)" id="145919_114" relation_type="asymmetric" theme="145919_65" at_date="145919_94" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Machinists v. Street" gram_type="apposition" standard_case="145919_66" relation_type="equivalence" id="145919_117" X_vs_Y="145919_73" standard_case_string="367 U.S. 740 (1961)" ></RELATION>
+
+<RELATION party1_string="Machinists" party1="145919_86" theme_string="Machinists v. Street" id="145919_115" relation_type="asymmetric" theme="145919_73" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Street" theme_string="Machinists v. Street" id="145919_116" relation_type="asymmetric" party2="145919_87" theme="145919_73" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1961" theme_string="367 U.S. 740 (1961)" id="145919_118" relation_type="asymmetric" theme="145919_66" at_date="145919_95" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="LOCKE" party1="145919_88" theme_string="LOCKE v. KARASS                        Opinion of the Court" id="145919_119" relation_type="asymmetric" theme="145919_74" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS                        Opinion of the Court" theme_string="LOCKE v. KARASS                        Opinion of the Court" id="145919_120" relation_type="asymmetric" party2="145919_89" theme="145919_74" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_153" relation_type="asymmetric" theme="145919_121" at_date="145919_135" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="December 2005" gram_type="preposition" id="145919_156" preposition="in" relation_type="asymmetric" theme="145919_126" at_date="145919_137" theme_string="LOCKE v. KARASS                       Opinion of the Court" ></RELATION>
+
+<RELATION party1_string="LOCKE" party1="145919_129" theme_string="LOCKE v. KARASS                       Opinion of the Court" id="145919_154" relation_type="asymmetric" theme="145919_126" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS                       Opinion of the Court" theme_string="LOCKE v. KARASS                       Opinion of the Court" id="145919_155" relation_type="asymmetric" party2="145919_130" theme="145919_126" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2006" theme_string="425 F. Supp. 2d 137 (2006)" id="145919_157" relation_type="asymmetric" theme="145919_122" at_date="145919_139" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2007" theme_string="498 F.3d 49 (2007)" id="145919_158" relation_type="asymmetric" theme="145919_123" at_date="145919_140" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Otto" party1="145919_131" theme_string="Otto v. Pennsylvania State Educ. Assn" id="145919_159" relation_type="asymmetric" theme="145919_127" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Pennsylvania State Educ. Assn" theme_string="Otto v. Pennsylvania State Educ. Assn" id="145919_160" relation_type="asymmetric" party2="145919_132" theme="145919_127" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2003" theme_string="330 F. 3d 125 (CA3 2003)" id="145919_161" relation_type="asymmetric" theme="145919_124" at_date="145919_141" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Pilots" party1="145919_133" theme_string="Pilots Against Illegal Dues" id="145919_162" relation_type="asymmetric" theme="145919_128" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Illegal Dues" theme_string="Pilots Against Illegal Dues" id="145919_163" relation_type="asymmetric" party2="145919_134" theme="145919_128" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1991" theme_string="938 F.2d 1123 (CA10 1991)" id="145919_164" relation_type="asymmetric" theme="145919_125" at_date="145919_142" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_220" relation_type="asymmetric" theme="145919_165" at_date="145919_184" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="LOCKE" party1="145919_178" theme_string="LOCKE v. KARASS                        Opinion of the Court" id="145919_221" relation_type="asymmetric" theme="145919_175" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS                        Opinion of the Court" theme_string="LOCKE v. KARASS                        Opinion of the Court" id="145919_222" relation_type="asymmetric" party2="145919_179" theme="145919_175" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Railway Clerks v. Allen" gram_type="apposition" standard_case="145919_170" relation_type="equivalence" id="145919_225" X_vs_Y="145919_176" standard_case_string="373 U.S. 113, 121 (1963)" ></RELATION>
+
+<RELATION party1_string="Railway Clerks" party1="145919_180" theme_string="Railway Clerks v. Allen" id="145919_223" relation_type="asymmetric" theme="145919_176" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Allen" theme_string="Railway Clerks v. Allen" id="145919_224" relation_type="asymmetric" party2="145919_181" theme="145919_176" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1963" theme_string="373 U.S. 113, 121 (1963)" id="145919_226" relation_type="asymmetric" theme="145919_170" at_date="145919_186" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_227" relation_type="asymmetric" theme="145919_172" at_date="145919_188" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="LOCKE" party1="145919_182" theme_string="LOCKE v. KARASS                        Opinion of the Court" id="145919_228" relation_type="asymmetric" theme="145919_177" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS                        Opinion of the Court" theme_string="LOCKE v. KARASS                        Opinion of the Court" id="145919_229" relation_type="asymmetric" party2="145919_183" theme="145919_177" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_230" relation_type="asymmetric" theme="145919_174" at_date="145919_189" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Pilots Against Illegal Dues" gram_type="apposition" standard_case="145919_232" relation_type="equivalence" id="145919_250" X_vs_Y="145919_236" standard_case_string="938 F. 2d, at 1130" ></RELATION>
+
+<RELATION party1_string="Pilots" party1="145919_238" theme_string="Pilots Against Illegal Dues" id="145919_248" relation_type="asymmetric" theme="145919_236" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Illegal Dues" theme_string="Pilots Against Illegal Dues" id="145919_249" relation_type="asymmetric" party2="145919_239" theme="145919_236" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="LOCKE" party1="145919_240" theme_string="LOCKE v. KARASS                       Opinion of the Court" id="145919_251" relation_type="asymmetric" theme="145919_237" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS                       Opinion of the Court" theme_string="LOCKE v. KARASS                       Opinion of the Court" id="145919_252" relation_type="asymmetric" party2="145919_241" theme="145919_237" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_259" relation_type="asymmetric" theme="145919_253" at_date="145919_256" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="LOCKE" party1="145919_265" theme_string="LOCKE v. KARASS                       Opinion of the Court" id="145919_270" relation_type="asymmetric" theme="145919_264" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS                       Opinion of the Court" theme_string="LOCKE v. KARASS                       Opinion of the Court" id="145919_271" relation_type="asymmetric" party2="145919_266" theme="145919_264" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_272" relation_type="asymmetric" theme="145919_263" at_date="145919_267" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2009" theme_string="555 U. S. ____ (2009)" id="145919_277" relation_type="asymmetric" theme="145919_273" at_date="145919_274" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="DANIEL B. LOCKE, ET AL.," party1="145919_280" theme_string="DANIEL B. LOCKE, ET AL., PETITIONERS v. EDWARD" id="145919_283" relation_type="asymmetric" theme="145919_279" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="EDWARD" theme_string="DANIEL B. LOCKE, ET AL., PETITIONERS v. EDWARD" id="145919_284" relation_type="asymmetric" party2="145919_281" theme="145919_279" gram_type="infix" ></RELATION>
+
+<RELATION includes_docket_string="07–610" theme_string="DANIEL B. LOCKE, ET AL., PETITIONERS v. EDWARD" id="145919_289" relation_type="asymmetric" includes_docket="145919_278" theme="145919_279" gram_type="multi_line" ></RELATION>
+
+<RELATION profession="145919_293" gram_type="pre_nom" id="145919_298" profession_string="JUSTICE" relation_type="asymmetric" theme="145919_294" theme_string="ALITO" ></RELATION>
+
+<RELATION profession="145919_296" gram_type="pre_nom" id="145919_299" profession_string="and JUSTICE" relation_type="asymmetric" theme="145919_297" theme_string="SCALIA" ></RELATION>
+
+<RELATION X_vs_Y_string="Lehnert v. Ferris Faculty Assn" gram_type="apposition" standard_case="145919_307" relation_type="equivalence" id="145919_320" X_vs_Y="145919_308" standard_case_string="500 U.S. 507, 524 (1991)" ></RELATION>
+
+<RELATION party1_string="Lehnert" party1="145919_310" theme_string="Lehnert v. Ferris Faculty Assn" id="145919_318" relation_type="asymmetric" theme="145919_308" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Ferris Faculty Assn" theme_string="Lehnert v. Ferris Faculty Assn" id="145919_319" relation_type="asymmetric" party2="145919_311" theme="145919_308" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1991" theme_string="500 U.S. 507, 524 (1991)" id="145919_321" relation_type="asymmetric" theme="145919_307" at_date="145919_314" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="LOCKE" party1="145919_312" theme_string="LOCKE v. KARASS" id="145919_322" relation_type="asymmetric" theme="145919_309" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KARASS" theme_string="LOCKE v. KARASS" id="145919_323" relation_type="asymmetric" party2="145919_313" theme="145919_309" gram_type="infix" ></RELATION>
+

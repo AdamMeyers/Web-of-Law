@@ -1,0 +1,32 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="904" id1="1491559" id="1491559_1" lookup_key="u.s._548_904" alternative_keys="['membersstates#1']" citation_local_level_id="0" start="1" citation_global_level_id="41.002" end="20" volume="548" year="2006" line="2" >548 U.S. 904 (2006)</CITATION>
+
+<DATE start="15" citation_global_level_id="41.002" end="19" citation_local_level_id="0" id="1491559_2" >2006</DATE>
+
+<CITATION id1="1491559" entry_type="party_key" party1="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL." line="5" id="1491559_8" lookup_key="membersstates#1" alternative_keys="['u.s._548_904']" party2="UNITED STATES" citation_local_level_id="1" start="21" party2_short="STATES" end="95" citation_global_level_id="41.003" party1_short="MEMBERS" >MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL. v. UNITED STATES</CITATION>
+
+<NAME start="21" local_name_id="1" end="76" all_names="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN INC" party1_of="1491559_8" id="1491559_9" >MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.</NAME>
+
+<ORGANIZATION start="64" end="67" id="1491559_11" >INC</ORGANIZATION>
+
+<NAME start="82" party2_of="1491559_8" end="95" all_names="UNITED STATES" id="1491559_10" local_name_id="2" >UNITED STATES</NAME>
+
+<DOCKET start="101" citation_global_level_id="41.003" entry_type="docket" line="6" id1="1491559" id="1491559_14" lookup_key="membersstates#1" alternative_keys="['u.s._548_904']" end="108" citation_local_level_id="1" >05-1225</DOCKET>
+
+<ORGANIZATION start="110" end="140" id="1491559_15" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="142" citation_global_level_id="41.003" end="155" citation_local_level_id="1" id="1491559_16" >June 26, 2006</DATE>
+
+<NAME start="157" local_name_id="3" end="167" all_names="CERTIORARI" id="1491559_17" >Certiorari</NAME>
+
+<RELATION at_date_string="2006" theme_string="548 U.S. 904 (2006)" id="1491559_3" relation_type="asymmetric" theme="1491559_1" at_date="1491559_2" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL." party1="1491559_9" theme_string="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" id="1491559_12" relation_type="asymmetric" theme="1491559_8" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES" theme_string="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" id="1491559_13" relation_type="asymmetric" party2="1491559_10" theme="1491559_8" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" gram_type="multi_line" standard_case="1491559_1" relation_type="equivalence" id="1491559_18" X_vs_Y="1491559_8" standard_case_string="548 U.S. 904 (2006)" ></RELATION>
+
+<RELATION at_date_string="June 26, 2006" theme_string="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" id="1491559_20" relation_type="asymmetric" theme="1491559_8" at_date="1491559_16" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="05-1225" theme_string="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" id="1491559_19" relation_type="asymmetric" includes_docket="1491559_14" theme="1491559_8" gram_type="multi_line" ></RELATION>
+

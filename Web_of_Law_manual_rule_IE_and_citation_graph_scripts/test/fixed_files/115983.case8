@@ -1,0 +1,14 @@
+<citation id="115983_1" entry_type="standard_case" start="0" end="13" reporter="U.S." standard_reporter="U.S." volume="510" page_number="1045" line="1">510 U.S. 1045</citation>
+<citation id="115983_3" entry_type="case_X_vs_Y" start="18" end="58" party1="Shu Yan Eng, aka Ah Shu" party2="United States" line="1">Shu Yan Eng, aka Ah Shu v. United States</citation>
+<NAME id="115983_4" start="18" end="41" party1_of="115983_3">Shu Yan Eng, aka Ah Shu</NAME>
+<NAME id="115983_7" start="18" end="29">Shu Yan Eng</NAME>
+<NAME id="115983_5" start="45" end="58" party2_of="115983_3">United States</NAME>
+<docket id="115983_2" entry_type="docket" start="68" end="74" line="1">93-740</docket>
+<date id="115983_6" start="116" end="132">January 10, 1994</date>
+<NAME id="115983_14" start="209" end="219">Certiorari</NAME>
+<citation id="115983_13" entry_type="standard_case" start="244" end="257" reporter="F. 2d" standard_reporter="F.2D" volume="997" page_number="987" line="3">997 F. 2d 987</citation>
+<RELATION id="115983_12" relation_type="asymmetric" gram_type="apposition" theme="115983_1" theme_string="510 U.S. 1045" includes_docket="115983_2" includes_docket_string="93-740"></RELATION>
+<RELATION id="115983_8" relation_type="equivalence" gram_type="pre_nom" standard_case="115983_1" standard_case_string="510 U.S. 1045" X_vs_Y="115983_3" X_vs_Y_string="Shu Yan Eng, aka Ah Shu v. United States"></RELATION>
+<RELATION id="115983_11" relation_type="asymmetric" gram_type="apposition" theme="115983_3" theme_string="Shu Yan Eng, aka Ah Shu v. United States" includes_docket="115983_2" includes_docket_string="93-740"></RELATION>
+<RELATION id="115983_10" relation_type="asymmetric" gram_type="infix" theme="115983_3" theme_string="Shu Yan Eng, aka Ah Shu v. United States" party2="115983_5" party2_string="United States"></RELATION>
+<RELATION id="115983_9" relation_type="asymmetric" gram_type="infix" theme="115983_3" theme_string="Shu Yan Eng, aka Ah Shu v. United States" party1="115983_4" party1_string="Shu Yan Eng, aka Ah Shu"></RELATION>

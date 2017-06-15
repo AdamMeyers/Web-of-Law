@@ -1,0 +1,24 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="955" id1="119070" id="119070_1" lookup_key="u.s._535_955" alternative_keys="['changstates#1']" citation_local_level_id="0" start="0" citation_global_level_id="77.002" end="12" volume="535" line="1" >535 U.S. 955</CITATION>
+
+<CITATION id1="119070" entry_type="party_key" party1="SUK CHANG" line="2" id="119070_2" lookup_key="changstates#1" alternative_keys="['u.s._535_955']" party2="UNITED STATES" citation_local_level_id="1" start="20" party2_short="STATES" end="46" citation_global_level_id="77.001" party1_short="CHANG" >SUK CHANG v. UNITED STATES</CITATION>
+
+<NAME start="20" local_name_id="1" end="29" all_names="SUK CHANG" party1_of="119070_2" id="119070_3" >SUK CHANG</NAME>
+
+<NAME start="33" party2_of="119070_2" end="46" all_names="UNITED STATES" id="119070_4" local_name_id="2" >UNITED STATES</NAME>
+
+<DOCKET start="56" citation_global_level_id="77.001" entry_type="docket" line="3" id1="119070" id="119070_7" lookup_key="changstates#1" end="63" citation_local_level_id="1" >01-1219</DOCKET>
+
+<DATE start="109" citation_global_level_id="77.001" end="123" citation_local_level_id="1" id="119070_8" >March 25, 2002</DATE>
+
+<NAME start="154" local_name_id="3" end="157" all_names="CIR" id="119070_12" >Cir</NAME>
+
+<RELATION party1_string="SUK CHANG" party1="119070_3" theme_string="SUK CHANG v. UNITED STATES" id="119070_5" relation_type="asymmetric" theme="119070_2" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES" theme_string="SUK CHANG v. UNITED STATES" id="119070_6" relation_type="asymmetric" party2="119070_4" theme="119070_2" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="SUK CHANG v. UNITED STATES" gram_type="multi_line" standard_case="119070_1" relation_type="equivalence" id="119070_9" X_vs_Y="119070_2" standard_case_string="535 U.S. 955" ></RELATION>
+
+<RELATION at_date_string="March 25, 2002" theme_string="SUK CHANG v. UNITED STATES" id="119070_11" relation_type="asymmetric" theme="119070_2" at_date="119070_8" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="01-1219" theme_string="SUK CHANG v. UNITED STATES" id="119070_10" relation_type="asymmetric" includes_docket="119070_7" theme="119070_2" gram_type="multi_line" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="903" id1="123575" id="123575_1" lookup_key="u.s._537_903" alternative_keys="['garciastates#2']" citation_local_level_id="0" start="0" citation_global_level_id="18.002" end="12" volume="537" line="1" >537 U.S. 903</CITATION>
+
+<CITATION id1="123575" entry_type="party_key" party1="ARREOLA-GARCIA, AKA GARCIA ARREOLA" line="1" id="123575_3" lookup_key="garciastates#2" alternative_keys="['u.s._537_903']" party2="UNITED STATES" citation_local_level_id="1" start="17" party2_short="STATES" end="68" citation_global_level_id="18.003" party1_short="GARCIA" >ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES</CITATION>
+
+<NAME start="17" local_name_id="1" end="51" all_names="ARREOLA-GARCIA AKA GARCIA ARREOLA" party1_of="123575_3" id="123575_4" >ARREOLA-GARCIA, AKA GARCIA ARREOLA</NAME>
+
+<NAME start="17" local_name_id="2" end="31" all_names="ARREOLA-GARCIA" id="123575_7" >ARREOLA-GARCIA</NAME>
+
+<NAME start="55" party2_of="123575_3" end="68" all_names="UNITED STATES" id="123575_5" local_name_id="3" >UNITED STATES</NAME>
+
+<DOCKET start="78" citation_global_level_id="18.002" entry_type="docket" line="1" id1="123575" id="123575_2" lookup_key="u.s._537_903" end="85" citation_local_level_id="0" >02-5239</DOCKET>
+
+<DATE start="127" end="142" id="123575_6" >October 7, 2002</DATE>
+
+<NAME start="271" local_name_id="4" end="274" all_names="CIR" id="123575_13" >Cir</NAME>
+
+<RELATION includes_docket_string="02-5239" theme_string="537 U.S. 903" id="123575_12" relation_type="asymmetric" includes_docket="123575_2" theme="123575_1" gram_type="apposition" ></RELATION>
+
+<RELATION X_vs_Y_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" gram_type="pre_nom" standard_case="123575_1" relation_type="equivalence" id="123575_8" X_vs_Y="123575_3" standard_case_string="537 U.S. 903" ></RELATION>
+
+<RELATION includes_docket_string="02-5239" theme_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" id="123575_11" relation_type="asymmetric" includes_docket="123575_2" theme="123575_3" gram_type="apposition" ></RELATION>
+
+<RELATION party2_string="UNITED STATES" theme_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" id="123575_10" relation_type="asymmetric" party2="123575_5" theme="123575_3" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA" party1="123575_4" theme_string="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" id="123575_9" relation_type="asymmetric" theme="123575_3" gram_type="infix" ></RELATION>
+

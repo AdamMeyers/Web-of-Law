@@ -1,0 +1,26 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="925" id1="118659" id="118659_1" lookup_key="u.s._535_925" alternative_keys="['ce#1']" citation_local_level_id="0" start="0" citation_global_level_id="97.002" end="12" volume="535" line="1" >535 U.S. 925</CITATION>
+
+<CITATION id1="118659" entry_type="party_key" party1="M. C." line="2" id="118659_2" lookup_key="ce#1" alternative_keys="['u.s._535_925']" party2="E. E" citation_local_level_id="1" start="17" party2_short="E" end="30" citation_global_level_id="97.001" party1_short="C" >M. C. v. E. E</CITATION>
+
+<NAME start="17" local_name_id="1" end="22" all_names="M C" party1_of="118659_2" id="118659_3" >M. C.</NAME>
+
+<NAME start="26" party2_of="118659_2" end="30" all_names="E E" id="118659_4" local_name_id="2" >E. E</NAME>
+
+<DOCKET start="40" citation_global_level_id="97.001" entry_type="docket" line="3" id1="118659" id="118659_7" lookup_key="ce#1" end="47" citation_local_level_id="1" >01-7835</DOCKET>
+
+<DATE start="93" citation_global_level_id="97.001" end="107" citation_local_level_id="1" id="118659_8" >March 18, 2002</DATE>
+
+<NAME start="129" local_name_id="3" end="131" all_names="CT" id="118659_13" >Ct</NAME>
+
+<DATE start="248" end="261" id="118659_12" >April 8, 2002</DATE>
+
+<RELATION party1_string="M. C." party1="118659_3" theme_string="M. C. v. E. E" id="118659_5" relation_type="asymmetric" theme="118659_2" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="E. E" theme_string="M. C. v. E. E" id="118659_6" relation_type="asymmetric" party2="118659_4" theme="118659_2" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="M. C. v. E. E" gram_type="multi_line" standard_case="118659_1" relation_type="equivalence" id="118659_9" X_vs_Y="118659_2" standard_case_string="535 U.S. 925" ></RELATION>
+
+<RELATION at_date_string="March 18, 2002" theme_string="M. C. v. E. E" id="118659_11" relation_type="asymmetric" theme="118659_2" at_date="118659_8" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="01-7835" theme_string="M. C. v. E. E" id="118659_10" relation_type="asymmetric" includes_docket="118659_7" theme="118659_2" gram_type="multi_line" ></RELATION>
+

@@ -1,0 +1,126 @@
+canalzoned,Canal Zone,None,Canal Zone,CZ
+cacd,Central District,Central District,California,CA
+ilcd,Central District,Central District,Illinois,IL
+mocd,Central District,Central District,Missouri,MO
+ald,Alabama,NONE,Alabama,AL
+akd,District of Alaska,None,Alaska,AKA
+azd,District of Arizona,None,Arizona,AZ
+californiad,District of California,None,California,CA
+cod,District of Colorado,None,Colorado,CO
+ctd,District of Connecticut,None,Connecticut,CT
+ded,District of Delaware,None,Delaware,DE
+fld,District of Florida,None,Florida,FL
+gad,District of Georgia,None,Georgia,GA
+gud,District of Guam,None,Guam,GU
+hid,District of Hawaii,None,Hawaii,HI
+idd,District of Idaho,None,Idaho,ID
+illinoisd,District of Illinois,None,Illinois,IL
+indianad,District of Indiana,None,Indiana,IN
+iad,District of Iowa,None,Iowa,IA
+fladistctapp,District Court of Appeal of Florida,None,Florida,FL
+dcd,District of Columbia,None,District of Columbia,DC
+ksd,District of Kansas,None,Kansas,KS
+kyd,District of Kentucky,None,Kentucky,KY
+lad,District of Louisiana,None,Louisiana,LA
+med,District of Maine,None,Maine,ME
+mdd,District of Maryland,None,Maryland,MD
+mad,District of Massachusetts,None,Massachusetts,MA
+michd,District of Michigan,None,Michigan,MI
+mnd,District of Minnesota,None,Minnesota,MN
+missd,District of Mississippi,None,Mississippi,MS
+mod,District of Missouri,None,Missouri,MO
+mtd,District of Montana,None,Montana,MT
+ned,District of Nebraska,None,Nebraska,NE
+nvd,District of Nevada,None,Nevada,NE
+nhd,District of New Hampshire,None,New Hampshire,NH
+njd,District of New Jersey,None,New Jersey,NJ
+nmd,District of New Mexico,None,New Mexico,NM
+nyd,District of New York,None,New York,NY
+ncd,District of North Carolina,None,North Carolina,NC
+ndd,District of North Dakota,None,North Dakota,ND
+ohiod,District of Ohio,None,Ohio,OH
+ord,District of Oregon,None,Oregon,OR
+pennsylvaniad,District of Pennsylvania,None,Pennsylvania,PA
+prd,District of Puerto Rico,None,Puerto Rico,PR
+rid,District of Rhode Island,None,Rhode Island,RI
+scd,District of South Carolina,None,South Carolina,SC
+sdd,District of South Dakota,None,South Dakota,SD
+tennessed,District of Tennessee,None,Tennessee,TN
+texd,District of Texas,None,Texas,TX
+utd,District of Utah,None,Utah,UT
+vtd,District of Vermont,None,Vermont,VT
+vad,District of Virginia,None,Virginia,VA
+washd,District of Washington,None,Washington,WA
+wvad,District of West Virginia,None,West Virginia,WV
+wisd,District of Wisconsin,None,Wisconsin,WI
+wyd,District of Wyoming,None,Wyoming,WY
+ared,East District of Arkansas,East District,Arkansas,AR
+caed,East District of California,East District,California,CA
+illinoised,East District of Illinois,East District,Illinois,IL
+kyed,East District of Kentucky,East District,Kentucky,KY
+laed,East District of Louisiana,East District,Louisiana,LA
+mied,East District of Michigan,East District,Michigan,MI
+moed,East District of Missouri,East District,Missouri,MO
+nyed,East District of New York,East District,New York,NY
+nced,East District of North Carolina,East District,North Carolina,NC
+oked,East District of Oklahoma,East District,Oklahoma,OK
+paed,East District of Pennsylvania,East District,Pennsylvania,PA
+southcarolinaed,East District of South Carolina,East District,South Carolina,SC
+tned,East District of Tennessee,East District,Tennessee,TN
+txed,East District of Texas,East District,Texas,TX
+vaed,East District of Virginia,East District,Virginia,VA
+waed,East District of Washington,East District,Washington,WA
+wied,East District,Wisconsin,East District,Wisconsin,WI
+almd,Middle District of Alabama,Middle District,Alabama,AL
+flmd,Middle District of Florida,Middle District,Florida,FL
+gamd,Middle District of Georgia,Middle District,Georgia,GA
+lamd,Middle District of Louisiana,Middle District,Louisiana,LA
+ncmd,Middle District of North Carolina,Middle District,North Carolina,NC
+pamd,Middle District of Pennsylvania,Middle District,Pennsylvania,PA
+tnmd,Middle District of Tennessee,Middle District,Tennessee,TN
+alnd,North District of Alabama,North District,Alabama,AL
+cand,North District of California,North District,California,CA
+flnd,North District of Florida,North District,Florida,FL
+gand,North District of Georgia,North District,Georgia,GA
+ilnd,North District of Illinois,North District,Illinois,IL
+innd,North District of Indiana,North District,Indiana,IN
+iand,North District of Iowa,North District,Iowa,IA
+msnd,North District of Mississippi,North District,Mississippi,MS
+nynd,North District of New York,North District,New York,NY
+ohnd,North District of Ohio,North District,Ohio,OH
+oknd,North District of Oklahoma,North District,Oklahoma,OK
+txnd,North District of Texas,North District,Texas,TX
+wvnb,North District of West Virginia,North District of W,Virginia,WV
+wvnd,North District of West Virginia,North District,West Virginia,WV
+nmid,Northern Mariana Islands,None,Northern Mariana Islands,None
+orld,Orleans,None,Orleans,None
+alsd,South District of Alabama,South District,Alabama,AL
+casd,South District of California,South District,California,CA
+flsd,South District of Florida,South District,Florida,FL
+gasd,South District of Georgia,South District,Georgia,GA
+ilsd,South District of Illinois,South District,Illinois,IL
+insd,South District of Indiana,South District,Indiana,IN
+iasd,South District of Iowa,South District,Iowa,IA
+mssd,South District of Mississippi,South District,Mississippi,MS
+mosd,South District of Missouri,South District,Missouri,MO
+nysd,South District of New York,South District,New York,NY
+ohsd,South District of Ohio,South District,Ohio,OH
+txsd,South District of Texas,South District,Texas,TX
+wvsd,South District of West Virginia,South District,W. Virginia,WV
+vid,Virgin Islands,None,Virgin Islands,VI
+arwd,West District of Arkansas,West District,Arkansas,AR
+kywd,West District of Kentucky,West District,Kentucky,KY
+lawd,West District of Louisiana,West District,Louisiana,LA
+miwd,West District of Michigan,West District,Michigan,MI
+mowd,West District of Missouri,West District,Missouri,MO
+nywd,West District of New York,West District,New York,NY
+ncwd,West District of North Carolina,West District,North Carolina,NC
+okwd,West District of Oklahoma,West District,Oklahoma,OK
+pawd,West District of Pennsylvania,West District,Pennsylvania,PA
+southcarolinawd,West District of South Carolina,West District,South Carolina,SC
+tnwd,West District of Tennessee,West District,Tennessee,TN
+txw,West District of Texas,West District,Texas,TX
+txwd,West District of Texas,West District,Texas,TX
+vawd,West District of Virginia,West District,Virginia,VA
+wawd,West District of Washington,West District,Washington,WA
+wiwd,West District of Wisconsin,West District,Wisconsin,WI

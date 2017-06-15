@@ -1,0 +1,72 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1" id1="90812" id="90812_1" lookup_key="u.s._108_1" alternative_keys="['in re amendments to rules 1 and 10#1', 's.ct._1_125', 'l.ed._27_629']" citation_local_level_id="0" start="0" citation_global_level_id="109.002" end="10" volume="108" name="In re AMENDMENTS TO RULES 1 AND 10" line="1" >108 U.S. 1</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="125" id1="90812" id="90812_2" lookup_key="s.ct._1_125" alternative_keys="['u.s._108_1', 'in re amendments to rules 1 and 10#1', 'l.ed._27_629']" citation_local_level_id="1" start="15" citation_global_level_id="109.003" end="27" volume="1" name="In re AMENDMENTS TO RULES 1 AND 10" line="2" >1 S. Ct. 125</CITATION>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="629" id1="90812" id="90812_3" lookup_key="l.ed._27_629" alternative_keys="['u.s._108_1', 's.ct._1_125', 'in re amendments to rules 1 and 10#1']" citation_local_level_id="2" start="32" citation_global_level_id="109.004" end="45" volume="27" name="In re AMENDMENTS TO RULES 1 AND 10" line="3" >27 L. Ed. 629</CITATION>
+
+<CITATION start="50" id1="90812" entry_type="case_key" citation_global_level_id="109.001" line="4" name="In re AMENDMENTS TO RULES 1 AND 10" id="90812_4" lookup_key="in re amendments to rules 1 and 10#1" alternative_keys="['u.s._108_1', 's.ct._1_125', 'l.ed._27_629']" end="84" citation_local_level_id="3" >In re AMENDMENTS TO RULES 1 AND 10</CITATION>
+
+<DATE start="90" end="107" id="90812_9" >November 13, 1882</DATE>
+
+<NAME start="109" local_name_id="1" end="114" all_names="WAITE" id="90812_15" >WAITE</NAME>
+
+<NAME start="116" local_name_id="2" end="125" all_names="C J OUR" id="90812_16" >C. J. Our</NAME>
+
+<PROFESSION start="190" end="195" id="90812_17" >clerk</PROFESSION>
+
+<ORGANIZATION start="198" end="204" id="90812_18" >office</ORGANIZATION>
+
+<PROFESSION start="447" end="452" id="90812_19" >clerk</PROFESSION>
+
+<DATE start="467" end="471" id="90812_10" >1799</DATE>
+
+<ORGANIZATION start="580" end="585" id="90812_20" >court</ORGANIZATION>
+
+<PROFESSION start="618" end="623" id="90812_21" >clerk</PROFESSION>
+
+<NAME start="737" local_name_id="3" end="744" all_names="JANUARY" id="90812_22" >January</NAME>
+
+<DATE start="751" end="755" id="90812_11" >1831</DATE>
+
+<ORGANIZATION start="820" end="825" id="90812_23" >court</ORGANIZATION>
+
+<PROFESSION start="862" end="867" id="90812_24" >clerk</PROFESSION>
+
+<NAME start="1010" local_name_id="3" end="1017" all_names="JANUARY" id="90812_25" >January</NAME>
+
+<DATE start="1024" end="1028" id="90812_12" >1831</DATE>
+
+<NAME start="1069" local_name_id="4" end="1082" all_names="UNITED STATES" id="90812_26" >United States</NAME>
+
+<ORGANIZATION start="1099" end="1104" id="90812_27" >court</ORGANIZATION>
+
+<PROFESSION start="1170" end="1175" id="90812_28" >clerk</PROFESSION>
+
+<ORGANIZATION start="1178" end="1184" id="90812_29" >office</ORGANIZATION>
+
+<PROFESSION start="1301" end="1306" id="90812_30" >clerk</PROFESSION>
+
+<DATE start="2697" end="2701" id="90812_13" >1839</DATE>
+
+<DATE start="3431" end="3435" id="90812_14" >1859</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_954" entry_type="party_key" party1="James" line="5" id="90812_6" lookup_key="jamescampbell#1" alternative_keys="['u.s._104_356']" party2="Campbell" citation_local_level_id="4" start="4374" party2_short="Campbell" end="4391" citation_global_level_id="1106.003" volume="104" no_current_file="True" page_number="356" party1_short="James" >James v. Campbell</CITATION>
+
+<NAME start="4374" local_name_id="5" end="4379" all_names="JAMES" party1_of="90812_6" id="90812_7" >James</NAME>
+
+<NAME start="4383" party2_of="90812_6" end="4391" all_names="CAMPBELL" id="90812_8" local_name_id="6" >Campbell</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="356" id1="Dummy_File_954" id="90812_5" lookup_key="u.s._104_356" alternative_keys="['jamescampbell#1']" citation_local_level_id="5" start="4393" citation_global_level_id="1106.003" end="4406" volume="104" no_current_file="True" line="5" >104 U. S. 356</CITATION>
+
+<RELATION X_vs_Y_string="James v. Campbell" gram_type="apposition" standard_case="90812_5" relation_type="equivalence" id="90812_33" X_vs_Y="90812_6" standard_case_string="104 U. S. 356" ></RELATION>
+
+<RELATION party1_string="James" party1="90812_7" theme_string="James v. Campbell" id="90812_31" relation_type="asymmetric" theme="90812_6" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Campbell" theme_string="James v. Campbell" id="90812_32" relation_type="asymmetric" party2="90812_8" theme="90812_6" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="In re AMENDMENTS TO RULES 1 AND 10" gram_type="multi_line" standard_case="90812_1" relation_type="equivalence" id="90812_34" standard_case_string="108 U.S. 1" case_citation_other="90812_4" ></RELATION>
+
+<RELATION case_citation_other_string="In re AMENDMENTS TO RULES 1 AND 10" gram_type="multi_line" standard_case="90812_2" relation_type="equivalence" id="90812_35" standard_case_string="1 S. Ct. 125" case_citation_other="90812_4" ></RELATION>
+
+<RELATION case_citation_other_string="In re AMENDMENTS TO RULES 1 AND 10" gram_type="multi_line" standard_case="90812_3" relation_type="equivalence" id="90812_36" standard_case_string="27 L. Ed. 629" case_citation_other="90812_4" ></RELATION>
+

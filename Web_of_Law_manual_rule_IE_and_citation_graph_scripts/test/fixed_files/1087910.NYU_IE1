@@ -1,0 +1,58 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="506" id1="1087910" id="1087910_1" lookup_key="u.s._214_506" alternative_keys="['matter of kristianson#1', 'matter of tobin#1']" citation_local_level_id="0" start="1" citation_global_level_id="106.002" end="20" volume="214" name="MATTER OF KRISTIANSON" year="1909" line="2" >214 U.S. 506 (1909)</CITATION>
+
+<DATE start="15" citation_global_level_id="106.002" end="19" citation_local_level_id="0" id="1087910_2" >1909</DATE>
+
+<CITATION id1="1087910" entry_type="case_key" party1=" TOBIN" line="3" id="1087910_4" lookup_key="matter of tobin#1" alternative_keys="['u.s._214_506', 'matter of kristianson#1']" citation_local_level_id="1" start="21" citation_global_level_id="106.001" end="48" party1_role="PETITIONER" name="MATTER OF TOBIN" party1_short="TOBIN" >MATTER OF TOBIN, PETITIONER</CITATION>
+
+<CITATION id1="1087910" entry_type="case_key" party1=" TOBIN" line="4" id="1087910_5" lookup_key="matter of kristianson#1" alternative_keys="['matter of tobin#1', 'u.s._214_506']" citation_local_level_id="2" start="51" citation_global_level_id="106.003" end="72" name="MATTER OF KRISTIANSON" party1_short="TOBIN" >MATTER OF KRISTIANSON</CITATION>
+
+<NAME start="83" local_name_id="1" end="91" all_names="ORIGINAL" id="1087910_6" >Original</NAME>
+
+<ORGANIZATION start="93" end="123" id="1087910_7" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="135" end="147" id="1087910_8" >May 17, 1909</DATE>
+
+<NAME start="149" local_name_id="2" end="156" all_names="DECIDED" id="1087910_14" >Decided</NAME>
+
+<DATE start="157" end="169" id="1087910_13" >May 24, 1909</DATE>
+
+<CITATION id1="Dummy_File_1060" entry_type="party_key" party1="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS" line="9" id="1087910_15" lookup_key="motionmorris#1" party2="HONORABLE Page MORRIS" citation_local_level_id="3" start="171" party2_short="MORRIS" end="255" citation_global_level_id="1212.001" no_current_file="True" party1_short="MOTION" >MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS AGAINST HONORABLE Page MORRIS</CITATION>
+
+<NAME start="171" local_name_id="3" end="225" all_names="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS" party1_of="1087910_15" id="1087910_17" >MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS</NAME>
+
+<NAME start="234" party2_of="1087910_15" end="255" all_names="HONORABLE PAGE MORRIS" id="1087910_18" local_name_id="4" >HONORABLE Page MORRIS</NAME>
+
+<CITATION id1="Dummy_File_1061" entry_type="party_key" party1="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND" line="9" id="1087910_16" lookup_key="judgecourt#1" party2="THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" citation_local_level_id="4" start="257" party2_short="COURT" end="392" citation_global_level_id="1213.001" no_current_file="True" party1_short="JUDGE" >DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND AGAINST THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT</CITATION>
+
+<NAME start="257" local_name_id="5" end="327" all_names="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA AND" party1_of="1087910_16" id="1087910_19" >DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND</NAME>
+
+<PROFESSION start="257" end="322" id="1087910_21" >DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA</PROFESSION>
+
+<NAME start="336" party2_of="1087910_16" end="392" all_names="THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" id="1087910_20" local_name_id="6" >THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT</NAME>
+
+<ORGANIZATION start="340" end="392" id="1087910_22" >CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT</ORGANIZATION>
+
+<LEGAL_ROLE start="399" end="445" id="1087910_27" >Mr. Samuel A. Anderson Anderson for petitioner</LEGAL_ROLE>
+
+<NAME start="451" local_name_id="7" end="457" all_names="CURIAM" id="1087910_28" >Curiam</NAME>
+
+<NAME start="459" local_name_id="8" end="465" all_names="MOTION" id="1087910_29" >Motion</NAME>
+
+<RELATION at_date_string="1909" theme_string="214 U.S. 506 (1909)" id="1087910_3" relation_type="asymmetric" theme="1087910_1" at_date="1087910_2" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="MATTER OF KRISTIANSON" gram_type="multi_line" standard_case="1087910_1" relation_type="equivalence" id="1087910_11" standard_case_string="214 U.S. 506 (1909)" case_citation_other="1087910_5" ></RELATION>
+
+<RELATION case_citation_other_string="MATTER OF TOBIN, PETITIONER" gram_type="multi_line" standard_case="1087910_1" relation_type="equivalence" id="1087910_9" standard_case_string="214 U.S. 506 (1909)" case_citation_other="1087910_4" ></RELATION>
+
+<RELATION at_date_string="1909" theme_string="MATTER OF KRISTIANSON" id="1087910_12" relation_type="asymmetric" theme="1087910_5" at_date="1087910_2" gram_type="multi_line" ></RELATION>
+
+<RELATION at_date_string="1909" theme_string="MATTER OF TOBIN, PETITIONER" id="1087910_10" relation_type="asymmetric" theme="1087910_4" at_date="1087910_2" gram_type="multi_line" ></RELATION>
+
+<RELATION party1_string="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS" party1="1087910_17" theme_string="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS AGAINST HONORABLE Page MORRIS" id="1087910_23" relation_type="asymmetric" theme="1087910_15" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="HONORABLE Page MORRIS" theme_string="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS AGAINST HONORABLE Page MORRIS" id="1087910_24" relation_type="asymmetric" party2="1087910_18" theme="1087910_15" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND" party1="1087910_19" theme_string="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND AGAINST THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" id="1087910_25" relation_type="asymmetric" theme="1087910_16" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" theme_string="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND AGAINST THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" id="1087910_26" relation_type="asymmetric" party2="1087910_20" theme="1087910_16" gram_type="infix" ></RELATION>
+

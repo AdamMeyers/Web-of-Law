@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/1211999/",
+  "absolute_url": "/opinion/1211999/whitman-v-bartow/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/1211999/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": false,
+  "date_created": "2013-10-30T05:02:03.273197Z",
+  "date_modified": "2016-02-29T04:37:00.463202Z",
+  "type": "010combined",
+  "sha1": "953ac50ca94c84a01ffb1d83c1b284bd674402a3",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "",
+  "html_lawbox": "<div>\n<center><b>(2006)</b></center>\n<center><h1>BRADLEY S. WHITMAN<br>\nv.<br>\nBARTOW, DIR., WI RESOURCE CENTER</h1></center>\n<center>No. 05-10881</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>June 12, 2006.\n</center>\n<p>The petition for a writ of certiorari is denied.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

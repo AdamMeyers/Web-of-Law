@@ -1,0 +1,9 @@
+<citation id="137795_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="543" page_number="807" line="1">543 U.S. 807</citation>
+<citation id="137795_2" entry_type="case_citation_other" start="17" end="34" name="IN RE CRUZ-RIVERA" line="2">IN RE CRUZ-RIVERA</citation>
+<docket id="137795_3" entry_type="docket" start="44" end="51" line="3">04-5811</docket>
+<ORGANIZATION id="137795_4" start="57" end="87">Supreme Court of United States</ORGANIZATION>
+<date id="137795_5" start="93" end="108">October 4, 2004</date>
+<NAME id="137795_9" start="130" end="139">Petitions</NAME>
+<RELATION id="137795_6" relation_type="equivalence" gram_type="multi_line" standard_case="137795_1" standard_case_string="543 U.S. 807" case_citation_other="137795_2" case_citation_other_string="IN RE CRUZ-RIVERA"></RELATION>
+<RELATION id="137795_8" relation_type="asymmetric" gram_type="multi_line" theme="137795_2" theme_string="IN RE CRUZ-RIVERA" at_date="137795_5" at_date_string="October 4, 2004"></RELATION>
+<RELATION id="137795_7" relation_type="asymmetric" gram_type="multi_line" theme="137795_2" theme_string="IN RE CRUZ-RIVERA" includes_docket="137795_3" includes_docket_string="04-5811"></RELATION>

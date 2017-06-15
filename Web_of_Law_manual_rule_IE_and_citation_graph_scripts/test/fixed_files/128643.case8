@@ -1,0 +1,14 @@
+<citation id="128643_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="538" page_number="957" line="1">538 U.S. 957</citation>
+<citation id="128643_2" entry_type="case_X_vs_Y" start="17" end="57" party1="KIM" party2="w[PG] MAXEY TRAINING SCHOOL ET AL" line="2">KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL</citation>
+<NAME id="128643_3" start="17" end="20" party1_of="128643_2">KIM</NAME>
+<NAME id="128643_4" start="24" end="57" party2_of="128643_2">w[PG] MAXEY TRAINING SCHOOL ET AL</NAME>
+<docket id="128643_7" entry_type="docket" start="68" end="75" line="3">02-7218</docket>
+<ORGANIZATION id="128643_8" start="81" end="111">Supreme Court of United States</ORGANIZATION>
+<date id="128643_9" start="117" end="131">March 31, 2003</date>
+<NAME id="128643_14" start="153" end="162">Petitions</NAME>
+<citation id="128643_13" entry_type="standard_case" start="185" end="199" reporter="U. S." standard_reporter="U.S." volume="537" page_number="1123" line="8">537 U. S. 1123</citation>
+<RELATION id="128643_5" relation_type="asymmetric" gram_type="infix" theme="128643_2" theme_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" party1="128643_3" party1_string="KIM"></RELATION>
+<RELATION id="128643_6" relation_type="asymmetric" gram_type="infix" theme="128643_2" theme_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" party2="128643_4" party2_string="w[PG] MAXEY TRAINING SCHOOL ET AL"></RELATION>
+<RELATION id="128643_10" relation_type="equivalence" gram_type="multi_line" standard_case="128643_1" standard_case_string="538 U.S. 957" X_vs_Y="128643_2" X_vs_Y_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL"></RELATION>
+<RELATION id="128643_12" relation_type="asymmetric" gram_type="multi_line" theme="128643_2" theme_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" at_date="128643_9" at_date_string="March 31, 2003"></RELATION>
+<RELATION id="128643_11" relation_type="asymmetric" gram_type="multi_line" theme="128643_2" theme_string="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" includes_docket="128643_7" includes_docket_string="02-7218"></RELATION>

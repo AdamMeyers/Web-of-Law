@@ -1,0 +1,123 @@
+<citation id="85766_1" entry_type="standard_case" start="1" end="18" reporter="U.S." standard_reporter="U.S." volume="31" page_number="86" line="2">31 U.S. 86 (____)</citation>
+<NAME id="85766_2" start="21" end="24">Pet</NAME>
+<citation id="85766_3" entry_type="case_citation_other" start="21" end="24" name="Pet" line="3">Pet</citation>
+<citation id="85766_12" entry_type="case_X_vs_Y" start="29" end="168" party1="JAMES MOORE," party2="THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA" party1_role="defendant, plaintiff in error" party2_role="defendants in error" line="6">JAMES MOORE, DEFENDANT BELOW, NOW PLAINTIFF IN ERROR  v.  THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA, DEFENDANTS IN ERROR</citation>
+<NAME id="85766_13" start="29" end="41" party1_of="85766_12">JAMES MOORE,</NAME>
+<LEGAL_ROLE id="85766_15" start="42" end="51">DEFENDANT</LEGAL_ROLE>
+<LEGAL_ROLE id="85766_16" start="63" end="81">PLAINTIFF IN ERROR</LEGAL_ROLE>
+<LEGAL_ROLE id="85766_18" start="63" end="72">PLAINTIFF</LEGAL_ROLE>
+<NAME id="85766_14" start="87" end="147" party2_of="85766_12">THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA</NAME>
+<LEGAL_ROLE id="85766_17" start="149" end="168">DEFENDANTS IN ERROR</LEGAL_ROLE>
+<ORGANIZATION id="85766_21" start="170" end="200">Supreme Court of United States</ORGANIZATION>
+<LEGAL_ROLE id="85766_24" start="230" end="273">Mr. Z.C. Lee and Mr Jones for the plaintiff</LEGAL_ROLE>
+<PROFESSION id="85766_25" start="282" end="324">Mr Lear and Mr Sergeant for the defendants</PROFESSION>
+<PROFESSION id="85766_26" start="326" end="368">Mr Lear and Mr Sergeant for the defendants</PROFESSION>
+<NAME id="85766_27" start="383" end="402">Mr Justice THOMPSON</NAME>
+<PROFESSION id="85766_28" start="386" end="393">Justice</PROFESSION>
+<ORGANIZATION id="85766_29" start="432" end="437">Court</ORGANIZATION>
+<LEGAL_ROLE id="85766_31" start="651" end="660">plaintiff</LEGAL_ROLE>
+<date id="85766_30" start="696" end="706">April 1816</date>
+<NAME id="85766_32" start="760" end="774">Gilbert Docker</NAME>
+<ORGANIZATION id="85766_33" start="829" end="845">Bank of Columbia</ORGANIZATION>
+<ORGANIZATION id="85766_36" start="881" end="897">Bank of Columbia</ORGANIZATION>
+<date id="85766_34" start="906" end="915">July 1825</date>
+<ORGANIZATION id="85766_37" start="952" end="978">court of the United States</ORGANIZATION>
+<NAME id="85766_38" start="999" end="1007">Columbia</NAME>
+<LEGAL_ROLE id="85766_39" start="1096" end="1105">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="85766_40" start="1113" end="1118">court</ORGANIZATION>
+<NAME id="85766_41" start="1173" end="1188">William A. Rind</NAME>
+<date id="85766_35" start="1212" end="1216">1823</date>
+<LEGAL_ROLE id="85766_42" start="1298" end="1307">defendant</LEGAL_ROLE>
+<NAME id="85766_43" start="1308" end="1319">James Moore</NAME>
+<NAME id="85766_44" start="1349" end="1354">Moore</NAME>
+<LEGAL_ROLE id="85766_45" start="1489" end="1498">defendant</LEGAL_ROLE>
+<ORGANIZATION id="85766_46" start="1641" end="1646" plural="True">banks</ORGANIZATION>
+<LEGAL_ROLE id="85766_47" start="1657" end="1666">defendant</LEGAL_ROLE>
+<NAME id="85766_48" start="1717" end="1720">Yes</NAME>
+<ORGANIZATION id="85766_49" start="1760" end="1776">Bank of Columbia</ORGANIZATION>
+<PROFESSION id="85766_50" start="1890" end="1895">clerk</PROFESSION>
+<ORGANIZATION id="85766_51" start="1903" end="1907">bank</ORGANIZATION>
+<NAME id="85766_52" start="1958" end="1968">Washington</NAME>
+<ORGANIZATION id="85766_53" start="2038" end="2042">bank</ORGANIZATION>
+<NAME id="85766_54" start="2046" end="2056">Georgetown</NAME>
+<LEGAL_ROLE id="85766_55" start="2083" end="2092">defendant</LEGAL_ROLE>
+<PROFESSION id="85766_56" start="2110" end="2115">clerk</PROFESSION>
+<ORGANIZATION id="85766_57" start="2123" end="2127">bank</ORGANIZATION>
+<ORGANIZATION id="85766_58" start="2203" end="2207">bank</ORGANIZATION>
+<LEGAL_ROLE id="85766_59" start="2266" end="2275">defendant</LEGAL_ROLE>
+<ORGANIZATION id="85766_60" start="2284" end="2288">bank</ORGANIZATION>
+<LEGAL_ROLE id="85766_61" start="2311" end="2321" plural="True">plaintiffs</LEGAL_ROLE>
+<LEGAL_ROLE id="85766_62" start="2408" end="2417">defendant</LEGAL_ROLE>
+<LEGAL_ROLE id="85766_64" start="2522" end="2531">defendant</LEGAL_ROLE>
+<ORGANIZATION id="85766_65" start="2543" end="2548">court</ORGANIZATION>
+<ORGANIZATION id="85766_66" start="2747" end="2752">court</ORGANIZATION>
+<LEGAL_ROLE id="85766_67" start="2908" end="2917">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="85766_68" start="2973" end="2978">court</ORGANIZATION>
+<ORGANIZATION id="85766_69" start="3197" end="3202">court</ORGANIZATION>
+<NAME id="85766_70" start="3226" end="3233">England</NAME>
+<ORGANIZATION id="85766_75" start="3492" end="3497">court</ORGANIZATION>
+<citation id="85766_72" entry_type="case_X_vs_Y" start="3514" end="3536" party1="Cleminston" party2="Williams" line="17">Cleminston v. Williams</citation>
+<NAME id="85766_73" start="3514" end="3524" party1_of="85766_72">Cleminston</NAME>
+<NAME id="85766_74" start="3528" end="3536" party2_of="85766_72">Williams</NAME>
+<citation id="85766_71" entry_type="standard_case" start="3538" end="3550" reporter="Cranch" standard_reporter="CRANCH" volume="8" page_number="72" line="17">8 Cranch, 72</citation>
+<ORGANIZATION id="85766_76" start="3618" end="3624" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="85766_77" start="3763" end="3768">court</ORGANIZATION>
+<ORGANIZATION id="85766_78" start="3957" end="3963" plural="True">courts</ORGANIZATION>
+<NAME id="85766_79" start="3979" end="3986">England</NAME>
+<PROFESSION id="85766_80" start="4016" end="4023">general</PROFESSION>
+<PROFESSION id="85766_88" start="4302" end="4309">justice</PROFESSION>
+<citation id="85766_85" entry_type="case_X_vs_Y" start="4445" end="4470" party1="And in Wetzell" party2="Bussard" line="18">And in Wetzell v. Bussard</citation>
+<NAME id="85766_86" start="4445" end="4459" party1_of="85766_85">And in Wetzell</NAME>
+<NAME id="85766_87" start="4463" end="4470" party2_of="85766_85">Bussard</NAME>
+<citation id="85766_84" entry_type="standard_case" start="4472" end="4485" reporter="Wheat." standard_reporter="WHEAT." volume="11" page_number="310" line="18">11 Wheat. 310</citation>
+<LEGAL_ROLE id="85766_89" start="4911" end="4920">plaintiff</LEGAL_ROLE>
+<ORGANIZATION id="85766_93" start="5071" end="5077" plural="True">courts</ORGANIZATION>
+<NAME id="85766_94" start="5092" end="5100">New York</NAME>
+<PROFESSION id="85766_95" start="5415" end="5425">Johns. Rep</PROFESSION>
+<PROFESSION id="85766_96" start="5434" end="5448">Johns. Ch. Rep</PROFESSION>
+<date id="85766_103" start="5491" end="5495">1828</date>
+<ORGANIZATION id="85766_104" start="5535" end="5540">court</ORGANIZATION>
+<citation id="85766_97" entry_type="case_X_vs_Y" start="5556" end="5572" party1="Bell" party2="Morrison" line="20">Bell v. Morrison</citation>
+<NAME id="85766_99" start="5556" end="5560" party1_of="85766_97">Bell</NAME>
+<NAME id="85766_100" start="5564" end="5572" party2_of="85766_97">Morrison</NAME>
+<NAME id="85766_105" start="5576" end="5582">Peters</NAME>
+<ORGANIZATION id="85766_106" start="5662" end="5689" plural="True">English and American courts</ORGANIZATION>
+<ORGANIZATION id="85766_107" start="5713" end="5718">court</ORGANIZATION>
+<citation id="85766_98" entry_type="case_X_vs_Y" start="5754" end="5772" party1="Wetzell" party2="Bussard" line="20">Wetzell v. Bussard</citation>
+<NAME id="85766_101" start="5754" end="5761" party1_of="85766_98">Wetzell</NAME>
+<NAME id="85766_102" start="5765" end="5772" party2_of="85766_98">Bussard</NAME>
+<ORGANIZATION id="85766_115" start="7203" end="7217" plural="True">English courts</ORGANIZATION>
+<ORGANIZATION id="85766_116" start="7298" end="7319">parliament of Geo. IV</ORGANIZATION>
+<date id="85766_114" start="7580" end="7588">May 1829</date>
+<NAME id="85766_117" start="8468" end="8474">Martin</NAME>
+<NAME id="85766_118" start="8477" end="8485">Treatise</NAME>
+<NAME id="85766_119" start="8489" end="8512">Act 9 Geo. IV. Although</NAME>
+<ORGANIZATION id="85766_120" start="8661" end="8667" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="85766_126" start="8806" end="8811">court</ORGANIZATION>
+<LEGAL_ROLE id="85766_127" start="9207" end="9216">defendant</LEGAL_ROLE>
+<ORGANIZATION id="85766_128" start="9569" end="9573">bank</ORGANIZATION>
+<citation id="85766_123" entry_type="case_X_vs_Y" start="9704" end="9720" party1="Bell" party2="Morrison" line="26">Bell v. Morrison</citation>
+<NAME id="85766_124" start="9704" end="9708" party1_of="85766_123">Bell</NAME>
+<NAME id="85766_125" start="9712" end="9720" party2_of="85766_123">Morrison</NAME>
+<ORGANIZATION id="85766_131" start="10276" end="10281">court</ORGANIZATION>
+<ORGANIZATION id="85766_132" start="10345" end="10350">court</ORGANIZATION>
+<LEGAL_ROLE id="85766_133" start="10422" end="10431">defendant</LEGAL_ROLE>
+<RELATION id="85766_19" relation_type="asymmetric" gram_type="infix" theme="85766_12" theme_string="JAMES MOORE, DEFENDANT BELOW, NOW PLAINTIFF IN ERROR  v.  THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA, DEFENDANTS IN ERROR" party1="85766_13" party1_string="JAMES MOORE,"></RELATION>
+<RELATION id="85766_20" relation_type="asymmetric" gram_type="infix" theme="85766_12" theme_string="JAMES MOORE, DEFENDANT BELOW, NOW PLAINTIFF IN ERROR  v.  THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA, DEFENDANTS IN ERROR" party2="85766_14" party2_string="THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA"></RELATION>
+<RELATION id="85766_23" relation_type="equivalence" gram_type="multi_line" standard_case="85766_1" standard_case_string="31 U.S. 86 (____)" X_vs_Y="85766_12" X_vs_Y_string="JAMES MOORE, DEFENDANT BELOW, NOW PLAINTIFF IN ERROR  v.  THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA, DEFENDANTS IN ERROR"></RELATION>
+<RELATION id="85766_22" relation_type="equivalence" gram_type="multi_line" X_vs_Y="85766_12" X_vs_Y_string="JAMES MOORE, DEFENDANT BELOW, NOW PLAINTIFF IN ERROR  v.  THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA, DEFENDANTS IN ERROR" case_citation_other="85766_3" case_citation_other_string="Pet"></RELATION>
+<RELATION id="85766_63" legal_role="85766_42" legal_role_string="defendant" relation_type="asymmetric" gram_type="pre_nom" theme="85766_43" theme_string="James Moore"></RELATION>
+<RELATION id="85766_83" relation_type="equivalence" gram_type="apposition" standard_case="85766_71" standard_case_string="8 Cranch, 72" X_vs_Y="85766_72" X_vs_Y_string="Cleminston v. Williams"></RELATION>
+<RELATION id="85766_81" relation_type="asymmetric" gram_type="infix" theme="85766_72" theme_string="Cleminston v. Williams" party1="85766_73" party1_string="Cleminston"></RELATION>
+<RELATION id="85766_82" relation_type="asymmetric" gram_type="infix" theme="85766_72" theme_string="Cleminston v. Williams" party2="85766_74" party2_string="Williams"></RELATION>
+<RELATION id="85766_92" relation_type="equivalence" gram_type="apposition" standard_case="85766_84" standard_case_string="11 Wheat. 310" X_vs_Y="85766_85" X_vs_Y_string="And in Wetzell v. Bussard"></RELATION>
+<RELATION id="85766_90" relation_type="asymmetric" gram_type="infix" theme="85766_85" theme_string="And in Wetzell v. Bussard" party1="85766_86" party1_string="And in Wetzell"></RELATION>
+<RELATION id="85766_91" relation_type="asymmetric" gram_type="infix" theme="85766_85" theme_string="And in Wetzell v. Bussard" party2="85766_87" party2_string="Bussard"></RELATION>
+<RELATION id="85766_108" relation_type="asymmetric" gram_type="infix" theme="85766_97" theme_string="Bell v. Morrison" party1="85766_99" party1_string="Bell"></RELATION>
+<RELATION id="85766_109" relation_type="asymmetric" gram_type="infix" theme="85766_97" theme_string="Bell v. Morrison" party2="85766_100" party2_string="Morrison"></RELATION>
+<RELATION id="85766_110" relation_type="asymmetric" gram_type="infix" theme="85766_98" theme_string="Wetzell v. Bussard" party1="85766_101" party1_string="Wetzell"></RELATION>
+<RELATION id="85766_111" relation_type="asymmetric" gram_type="infix" theme="85766_98" theme_string="Wetzell v. Bussard" party2="85766_102" party2_string="Bussard"></RELATION>
+<RELATION id="85766_122" relation_type="equivalence" gram_type="multi_line" standard_case="85766_1" standard_case_string="31 U.S. 86 (____)" X_vs_Y="85766_12" X_vs_Y_string="JAMES MOORE, DEFENDANT BELOW, NOW PLAINTIFF IN ERROR  v.  THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA, DEFENDANTS IN ERROR"></RELATION>
+<RELATION id="85766_121" relation_type="equivalence" gram_type="multi_line" X_vs_Y="85766_12" X_vs_Y_string="JAMES MOORE, DEFENDANT BELOW, NOW PLAINTIFF IN ERROR  v.  THE PRESIDENT, DIRECTORS AND COMPANY OF THE BANK OF COLUMBIA, DEFENDANTS IN ERROR" case_citation_other="85766_3" case_citation_other_string="Pet"></RELATION>
+<RELATION id="85766_129" relation_type="asymmetric" gram_type="infix" theme="85766_123" theme_string="Bell v. Morrison" party1="85766_124" party1_string="Bell"></RELATION>
+<RELATION id="85766_130" relation_type="asymmetric" gram_type="infix" theme="85766_123" theme_string="Bell v. Morrison" party2="85766_125" party2_string="Morrison"></RELATION>

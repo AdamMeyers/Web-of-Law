@@ -1,0 +1,13 @@
+<citation id="1468823_1" entry_type="standard_case" start="1" end="19" reporter="U.S." standard_reporter="U.S." volume="106" page_number="13" line="2">106 U.S. 13 (____)</citation>
+<citation id="1468823_2" entry_type="case_citation_other" start="20" end="38" name="THE &quot;NEW ORLEANS.&quot;" line="3">THE &quot;NEW ORLEANS.&quot;</citation>
+<ORGANIZATION id="1468823_3" start="39" end="69">Supreme Court of United States</ORGANIZATION>
+<LEGAL_ROLE id="1468823_5" start="76" end="114" plural="True">Mr. John E. Parsons for the appellants</LEGAL_ROLE>
+<LEGAL_ROLE id="1468823_6" start="116" end="154" plural="True">Mr. Henry J. Scudder for the appellees</LEGAL_ROLE>
+<NAME id="1468823_7" start="156" end="158">MR</NAME>
+<ORGANIZATION id="1468823_8" start="230" end="243">Circuit Court</ORGANIZATION>
+<PROFESSION id="1468823_9" start="519" end="531">commissioner</PROFESSION>
+<FAMILY id="1468823_10" start="927" end="935" plural="True">partners</FAMILY>
+<NAME id="1468823_11" start="937" end="942">Story</NAME>
+<ORGANIZATION id="1468823_12" start="946" end="957">Partnership</ORGANIZATION>
+<NAME id="1468823_13" start="970" end="976">Decree</NAME>
+<RELATION id="1468823_4" relation_type="equivalence" gram_type="multi_line" standard_case="1468823_1" standard_case_string="106 U.S. 13 (____)" case_citation_other="1468823_2" case_citation_other_string="THE &quot;NEW ORLEANS.&quot;"></RELATION>

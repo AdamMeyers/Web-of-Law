@@ -1,0 +1,26 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="962" id1="130901" id="130901_1" lookup_key="u.s._539_962" alternative_keys="['hernandeztexas#1']" citation_local_level_id="0" start="0" citation_global_level_id="141.002" end="12" volume="539" line="1" >539 U.S. 962</CITATION>
+
+<CITATION id1="130901" entry_type="party_key" party1="Hernandez, aka Hernandez Llanas" line="1" id="130901_3" lookup_key="hernandeztexas#1" alternative_keys="['u.s._539_962']" party2="Texas" citation_local_level_id="1" start="17" party2_short="Texas" end="57" citation_global_level_id="141.001" party1_short="Hernandez" >Hernandez, aka Hernandez Llanas v. Texas</CITATION>
+
+<NAME start="17" local_name_id="1" end="48" all_names="HERNANDEZ AKA HERNANDEZ LLANAS" party1_of="130901_3" id="130901_4" >Hernandez, aka Hernandez Llanas</NAME>
+
+<NAME start="17" local_name_id="2" end="26" all_names="HERNANDEZ" id="130901_7" >Hernandez</NAME>
+
+<NAME start="52" party2_of="130901_3" end="57" all_names="TEXAS" id="130901_5" local_name_id="3" >Texas</NAME>
+
+<DOCKET start="67" citation_global_level_id="141.002" entry_type="docket" line="1" id1="130901" id="130901_2" lookup_key="u.s._539_962" end="75" citation_local_level_id="0" >02-10346</DOCKET>
+
+<DATE start="117" end="130" id="130901_6" >June 27, 2003</DATE>
+
+<NAME start="213" local_name_id="4" end="223" all_names="CERTIORARI" id="130901_13" >Certiorari</NAME>
+
+<RELATION includes_docket_string="02-10346" theme_string="539 U.S. 962" id="130901_12" relation_type="asymmetric" includes_docket="130901_2" theme="130901_1" gram_type="apposition" ></RELATION>
+
+<RELATION X_vs_Y_string="Hernandez, aka Hernandez Llanas v. Texas" gram_type="pre_nom" standard_case="130901_1" relation_type="equivalence" id="130901_8" X_vs_Y="130901_3" standard_case_string="539 U.S. 962" ></RELATION>
+
+<RELATION includes_docket_string="02-10346" theme_string="Hernandez, aka Hernandez Llanas v. Texas" id="130901_11" relation_type="asymmetric" includes_docket="130901_2" theme="130901_3" gram_type="apposition" ></RELATION>
+
+<RELATION party2_string="Texas" theme_string="Hernandez, aka Hernandez Llanas v. Texas" id="130901_10" relation_type="asymmetric" party2="130901_5" theme="130901_3" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Hernandez, aka Hernandez Llanas" party1="130901_4" theme_string="Hernandez, aka Hernandez Llanas v. Texas" id="130901_9" relation_type="asymmetric" theme="130901_3" gram_type="infix" ></RELATION>
+

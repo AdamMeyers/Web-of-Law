@@ -1,0 +1,26 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="13" id1="1468823" id="1468823_1" lookup_key="u.s._106_13" alternative_keys="['the &quot;new orleans&quot;#1']" citation_local_level_id="0" start="1" citation_global_level_id="44.002" end="19" volume="106" name="THE &quot;NEW ORLEANS.&quot;" line="2" >106 U.S. 13 (____)</CITATION>
+
+<CITATION start="20" id1="1468823" entry_type="case_key" citation_global_level_id="44.003" line="3" name="THE &quot;NEW ORLEANS.&quot;" id="1468823_2" lookup_key="the &quot;new orleans&quot;#1" alternative_keys="['u.s._106_13']" end="38" citation_local_level_id="1" >THE &quot;NEW ORLEANS.&quot;</CITATION>
+
+<ORGANIZATION start="39" end="69" id="1468823_3" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="76" end="114" plural="True" id="1468823_5" >Mr. John E. Parsons for the appellants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="116" end="154" plural="True" id="1468823_6" >Mr. Henry J. Scudder for the appellees</LEGAL_ROLE>
+
+<NAME start="156" local_name_id="1" end="158" all_names="MR" id="1468823_7" >MR</NAME>
+
+<ORGANIZATION start="230" end="243" id="1468823_8" >Circuit Court</ORGANIZATION>
+
+<PROFESSION start="519" end="531" id="1468823_9" >commissioner</PROFESSION>
+
+<FAMILY start="927" end="935" plural="True" id="1468823_10" >partners</FAMILY>
+
+<NAME start="937" local_name_id="2" end="942" all_names="STORY" id="1468823_11" >Story</NAME>
+
+<ORGANIZATION start="946" end="957" id="1468823_12" >Partnership</ORGANIZATION>
+
+<NAME start="970" local_name_id="3" end="976" all_names="DECREE" id="1468823_13" >Decree</NAME>
+
+<RELATION case_citation_other_string="THE &quot;NEW ORLEANS.&quot;" gram_type="multi_line" standard_case="1468823_1" relation_type="equivalence" id="1468823_4" standard_case_string="106 U.S. 13 (____)" case_citation_other="1468823_2" ></RELATION>
+

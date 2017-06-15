@@ -1,0 +1,424 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="462" id1="Dummy_File_941" id="87845_1" lookup_key="u.s._72_462" alternative_keys="['statescraft#1', 'statesswain#1', 'statesbowen#1', 'statesshelly#1', 'statesbeatty#1', 'statesgreen#1', 'statesschureman#1', 'statesvassar#1', 'wall._5_462']" party2="VASSAR" citation_local_level_id="0" start="1" citation_global_level_id="1093.011" end="19" party2_short="VASSAR" volume="72" no_current_file="True" line="2" party1_short="STATES" party1="UNITED STATES" >72 U.S. 462 (____)</CITATION>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="462" id1="Dummy_File_941" id="87845_2" lookup_key="wall._5_462" alternative_keys="['u.s._72_462', 'statescraft#1', 'statesswain#1', 'statesbowen#1', 'statesshelly#1', 'statesbeatty#1', 'statesgreen#1', 'statesschureman#1', 'statesvassar#1']" citation_local_level_id="1" start="20" citation_global_level_id="1093.011" end="31" volume="5" no_current_file="True" line="3" >5 Wall. 462</CITATION>
+
+<CITATION start="32" id1="87845" entry_type="case_key" citation_global_level_id="123.001" line="4" name="LICENSE TAX CASES" id="87845_3" lookup_key="license tax cases#1" end="49" citation_local_level_id="2" >LICENSE TAX CASES</CITATION>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="7" id="87845_5" lookup_key="statesvassar#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statescraft#1', 'statesswain#1', 'statesbowen#1', 'statesshelly#1', 'statesbeatty#1', 'statesgreen#1', 'statesschureman#1']" party2="VASSAR" citation_local_level_id="3" start="52" party2_short="VASSAR" end="77" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. VASSAR</CITATION>
+
+<NAME start="52" local_name_id="1" end="65" all_names="UNITED STATES	STATES" party1_of="87845_5" id="87845_6" >UNITED STATES</NAME>
+
+<NAME start="71" party2_of="87845_5" end="77" all_names="VASSAR" id="87845_7" local_name_id="2" >VASSAR</NAME>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="10" id="87845_11" lookup_key="statesschureman#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statesvassar#1', 'statescraft#1', 'statesswain#1', 'statesbowen#1', 'statesshelly#1', 'statesbeatty#1', 'statesgreen#1']" party2="SCHUREMAN" citation_local_level_id="4" start="80" party2_short="SCHUREMAN" end="108" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. SCHUREMAN</CITATION>
+
+<NAME start="80" local_name_id="1" end="93" all_names="UNITED STATES	STATES" party1_of="87845_11" id="87845_12" >UNITED STATES</NAME>
+
+<NAME start="99" party2_of="87845_11" end="108" all_names="SCHUREMAN" id="87845_13" local_name_id="3" >SCHUREMAN</NAME>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="13" id="87845_17" lookup_key="statesgreen#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statesvassar#1', 'statesschureman#1', 'statescraft#1', 'statesswain#1', 'statesbowen#1', 'statesshelly#1', 'statesbeatty#1']" party2="GREEN" citation_local_level_id="5" start="111" party2_short="GREEN" end="135" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. GREEN</CITATION>
+
+<NAME start="111" local_name_id="1" end="124" all_names="UNITED STATES	STATES" party1_of="87845_17" id="87845_18" >UNITED STATES</NAME>
+
+<NAME start="130" party2_of="87845_17" end="135" all_names="GREEN" id="87845_19" local_name_id="4" >GREEN</NAME>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="16" id="87845_23" lookup_key="statesbeatty#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statesvassar#1', 'statesschureman#1', 'statesgreen#1', 'statescraft#1', 'statesswain#1', 'statesbowen#1', 'statesshelly#1']" party2="BEATTY" citation_local_level_id="6" start="138" party2_short="BEATTY" end="163" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. BEATTY</CITATION>
+
+<NAME start="138" local_name_id="1" end="151" all_names="UNITED STATES	STATES" party1_of="87845_23" id="87845_24" >UNITED STATES</NAME>
+
+<NAME start="157" party2_of="87845_23" end="163" all_names="BEATTY" id="87845_25" local_name_id="5" >BEATTY</NAME>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="19" id="87845_29" lookup_key="statesshelly#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statesvassar#1', 'statesschureman#1', 'statesgreen#1', 'statesbeatty#1', 'statescraft#1', 'statesswain#1', 'statesbowen#1']" party2="SHELLY" citation_local_level_id="7" start="166" party2_short="SHELLY" end="191" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. SHELLY</CITATION>
+
+<NAME start="166" local_name_id="1" end="179" all_names="UNITED STATES	STATES" party1_of="87845_29" id="87845_30" >UNITED STATES</NAME>
+
+<NAME start="185" party2_of="87845_29" end="191" all_names="SHELLY" id="87845_31" local_name_id="6" >SHELLY</NAME>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="22" id="87845_35" lookup_key="statesbowen#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statesvassar#1', 'statesschureman#1', 'statesgreen#1', 'statesbeatty#1', 'statesshelly#1', 'statescraft#1', 'statesswain#1']" party2="BOWEN" citation_local_level_id="8" start="194" party2_short="BOWEN" end="218" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. BOWEN</CITATION>
+
+<NAME start="194" local_name_id="1" end="207" all_names="UNITED STATES	STATES" party1_of="87845_35" id="87845_36" >UNITED STATES</NAME>
+
+<NAME start="213" party2_of="87845_35" end="218" all_names="BOWEN" id="87845_37" local_name_id="7" >BOWEN</NAME>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="25" id="87845_41" lookup_key="statesswain#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statesvassar#1', 'statesschureman#1', 'statesgreen#1', 'statesbeatty#1', 'statesshelly#1', 'statesbowen#1', 'statescraft#1']" party2="SWAIN" citation_local_level_id="9" start="221" party2_short="SWAIN" end="245" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. SWAIN</CITATION>
+
+<NAME start="221" local_name_id="1" end="234" all_names="UNITED STATES	STATES" party1_of="87845_41" id="87845_42" >UNITED STATES</NAME>
+
+<NAME start="240" party2_of="87845_41" end="245" all_names="SWAIN" id="87845_43" local_name_id="8" >SWAIN</NAME>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="28" id="87845_47" lookup_key="statescraft#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statesvassar#1', 'statesschureman#1', 'statesgreen#1', 'statesbeatty#1', 'statesshelly#1', 'statesbowen#1', 'statesswain#1', 'statescraft#1']" party2="CRAFT" citation_local_level_id="10" start="248" party2_short="CRAFT" end="272" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. CRAFT</CITATION>
+
+<NAME start="248" local_name_id="1" end="261" all_names="UNITED STATES	STATES" party1_of="87845_47" id="87845_48" >UNITED STATES</NAME>
+
+<NAME start="267" party2_of="87845_47" end="272" all_names="CRAFT" id="87845_49" local_name_id="9" >CRAFT</NAME>
+
+<CITATION id1="Dummy_File_941" entry_type="party_key" party1="UNITED STATES" line="31" id="87845_53" lookup_key="statescraft#1" alternative_keys="['u.s._72_462', 'wall._5_462', 'statesvassar#1', 'statesschureman#1', 'statesgreen#1', 'statesbeatty#1', 'statesshelly#1', 'statesbowen#1', 'statesswain#1', 'statescraft#1']" party2="CRAFT" citation_local_level_id="11" start="275" party2_short="CRAFT" end="299" citation_global_level_id="1093.011" no_current_file="True" party1_short="STATES" >UNITED STATES v. CRAFT</CITATION>
+
+<NAME start="275" local_name_id="1" end="288" all_names="UNITED STATES	STATES" party1_of="87845_53" id="87845_54" >UNITED STATES</NAME>
+
+<NAME start="294" party2_of="87845_53" end="299" all_names="CRAFT" id="87845_55" local_name_id="9" >CRAFT</NAME>
+
+<ORGANIZATION start="301" end="331" id="87845_58" >Supreme Court of United States</ORGANIZATION>
+
+<LEGAL_ROLE start="394" end="404" plural="True" id="87845_86" >defendants</LEGAL_ROLE>
+
+<PROFESSION start="418" end="425" id="87845_87" >counsel</PROFESSION>
+
+<NAME start="427" local_name_id="10" end="442" all_names="MR WM EVARTS" id="87845_88" >Mr. W.M. Evarts</NAME>
+
+<LEGAL_ROLE start="460" end="470" plural="True" id="87845_89" >defendants</LEGAL_ROLE>
+
+<NAME start="478" local_name_id="11" end="486" all_names="NEW YORK	NORTHERN DISTRICT OF NEW YORK	SOUTHERN DISTRICT OF NEW YORK" id="87845_90" >New York</NAME>
+
+<LEGAL_ROLE start="494" end="518" id="87845_91" >Mr. Senott the defendant</LEGAL_ROLE>
+
+<NAME start="536" local_name_id="12" end="549" all_names="MASSACHUSETTS	G OF MASSACHUSETTS	DISTRICT OF MASSACHUSETTS" id="87845_92" >Massachusetts</NAME>
+
+<NAME start="555" local_name_id="13" end="567" all_names="MR WOODBURY" id="87845_93" >Mr. Woodbury</NAME>
+
+<LEGAL_ROLE start="591" end="601" plural="True" id="87845_94" >defendants</LEGAL_ROLE>
+
+<NAME start="642" local_name_id="14" end="652" all_names="NEW JERSEY	DISTRICT OF NEW JERSEY" id="87845_95" >New Jersey</NAME>
+
+<NAME start="654" local_name_id="15" end="663" all_names="MR SPEED" id="87845_96" >Mr. Speed</NAME>
+
+<NAME start="690" local_name_id="16" end="702" all_names="MR STANBERY" id="87845_97" >Mr. Stanbery</NAME>
+
+<NAME start="748" local_name_id="17" end="756" all_names="MR REED" id="87845_98" >Mr. Reed</NAME>
+
+<NAME start="760" local_name_id="12" end="779" all_names="MASSACHUSETTS	G OF MASSACHUSETTS	DISTRICT OF MASSACHUSETTS" id="87845_99" >G. of Massachusetts</NAME>
+
+<PROFESSION start="798" end="811" id="87845_100" >CHIEF JUSTICE</PROFESSION>
+
+<ORGANIZATION start="866" end="871" id="87845_101" >court</ORGANIZATION>
+
+<ORGANIZATION start="922" end="927" id="87845_102" >court</ORGANIZATION>
+
+<PROFESSION start="962" end="988" id="87845_103" >counsel for the defendants</PROFESSION>
+
+<NAME start="1065" local_name_id="18" end="1070" all_names="STATE	NATIONAL AND STATE" id="87845_104" >State</NAME>
+
+<NAME start="1136" local_name_id="19" end="1144" all_names="CONGRESS" id="87845_105" >Congress</NAME>
+
+<NAME start="1466" local_name_id="19" end="1474" all_names="CONGRESS" id="87845_106" >Congress</NAME>
+
+<PROFESSION start="1597" end="1604" id="87845_107" >justice</PROFESSION>
+
+<PROFESSION start="1614" end="1625" id="87845_108" >legislature</PROFESSION>
+
+<ORGANIZATION start="1690" end="1695" id="87845_109" >court</ORGANIZATION>
+
+<PROFESSION start="1788" end="1799" id="87845_110" >legislature</PROFESSION>
+
+<ORGANIZATION start="1923" end="1928" id="87845_111" >court</ORGANIZATION>
+
+<NAME start="1979" local_name_id="20" end="1991" all_names="CONSTITUTION" id="87845_112" >Constitution</NAME>
+
+<ORGANIZATION start="2024" end="2038" id="87845_113" >administration</ORGANIZATION>
+
+<NAME start="2213" local_name_id="21" end="2227" all_names="CONSIDERATIONS" id="87845_114" >Considerations</NAME>
+
+<PROFESSION start="2250" end="2257" id="87845_115" >general</PROFESSION>
+
+<PROFESSION start="2279" end="2290" id="87845_116" >legislature</PROFESSION>
+
+<NAME start="2292" local_name_id="22" end="2301" all_names="QUESTIONS" id="87845_117" >Questions</NAME>
+
+<ORGANIZATION start="2508" end="2522" id="87845_118" >administration</ORGANIZATION>
+
+<PROFESSION start="2799" end="2810" id="87845_119" >legislature</PROFESSION>
+
+<ORGANIZATION start="3307" end="3313" plural="True" id="87845_120" >courts</ORGANIZATION>
+
+<NAME start="3408" local_name_id="19" end="3416" all_names="CONGRESS" id="87845_121" >Congress</NAME>
+
+<LEGAL_ROLE start="3483" end="3493" plural="True" id="87845_122" >defendants</LEGAL_ROLE>
+
+<NAME start="3661" local_name_id="18" end="3666" all_names="STATE	NATIONAL AND STATE" id="87845_123" >State</NAME>
+
+<LEGAL_ROLE start="3680" end="3690" plural="True" id="87845_124" >defendants</LEGAL_ROLE>
+
+<NAME start="3729" local_name_id="18" end="3734" all_names="STATE	NATIONAL AND STATE" id="87845_125" >State</NAME>
+
+<NAME start="3785" local_name_id="19" end="3793" all_names="CONGRESS" id="87845_126" >Congress</NAME>
+
+<NAME start="3908" local_name_id="19" end="3916" all_names="CONGRESS" id="87845_127" >Congress</NAME>
+
+<NAME start="4307" local_name_id="19" end="4315" all_names="CONGRESS" id="87845_128" >Congress</NAME>
+
+<NAME start="4415" local_name_id="19" end="4423" all_names="CONGRESS" id="87845_129" >Congress</NAME>
+
+<NAME start="4681" local_name_id="19" end="4689" all_names="CONGRESS" id="87845_130" >Congress</NAME>
+
+<NAME start="4768" local_name_id="1" end="4774" all_names="UNITED STATES	STATES" id="87845_131" >States</NAME>
+
+<NAME start="4789" local_name_id="23" end="4795" all_names="INDIAN" id="87845_132" >Indian</NAME>
+
+<PROFESSION start="4876" end="4882" plural="True" id="87845_133" >pilots</PROFESSION>
+
+<NAME start="4911" local_name_id="24" end="4918" all_names="INDIANS" id="87845_134" >Indians</NAME>
+
+<NAME start="5078" local_name_id="19" end="5086" all_names="CONGRESS" id="87845_135" >Congress</NAME>
+
+<NAME start="5314" local_name_id="25" end="5326" all_names="STATES OVER" id="87845_136" >States. Over</NAME>
+
+<NAME start="5351" local_name_id="19" end="5359" all_names="CONGRESS" id="87845_137" >Congress</NAME>
+
+<NAME start="5481" local_name_id="19" end="5489" all_names="CONGRESS" id="87845_138" >Congress</NAME>
+
+<NAME start="5540" local_name_id="18" end="5545" all_names="STATE	NATIONAL AND STATE" id="87845_139" >State</NAME>
+
+<NAME start="5566" local_name_id="20" end="5578" all_names="CONSTITUTION" id="87845_140" >Constitution</NAME>
+
+<PROFESSION start="5667" end="5678" id="87845_141" >legislature</PROFESSION>
+
+<NAME start="5723" local_name_id="18" end="5728" all_names="STATE	NATIONAL AND STATE" id="87845_142" >State</NAME>
+
+<NAME start="5780" local_name_id="18" end="5785" all_names="STATE	NATIONAL AND STATE" id="87845_143" >State</NAME>
+
+<NAME start="5838" local_name_id="19" end="5846" all_names="CONGRESS" id="87845_144" >Congress</NAME>
+
+<NAME start="5900" local_name_id="20" end="5912" all_names="CONSTITUTION" id="87845_145" >Constitution</NAME>
+
+<NAME start="5967" local_name_id="19" end="5975" all_names="CONGRESS" id="87845_146" >Congress</NAME>
+
+<NAME start="6234" local_name_id="19" end="6242" all_names="CONGRESS" id="87845_147" >Congress</NAME>
+
+<NAME start="6289" local_name_id="18" end="6294" all_names="STATE	NATIONAL AND STATE" id="87845_148" >State</NAME>
+
+<NAME start="6542" local_name_id="20" end="6554" all_names="CONSTITUTION" id="87845_149" >Constitution</NAME>
+
+<NAME start="6665" local_name_id="18" end="6670" all_names="STATE	NATIONAL AND STATE" id="87845_150" >State</NAME>
+
+<PROFESSION start="6753" end="6763" id="87845_151" >government</PROFESSION>
+
+<ORGANIZATION start="7243" end="7275" id="87845_156" >government from its organization</ORGANIZATION>
+
+<DATE start="7289" end="7293" id="87845_152" >1794</DATE>
+
+<DATE start="7516" end="7520" id="87845_153" >1802</DATE>
+
+<DATE start="7689" end="7693" id="87845_154" >1813</DATE>
+
+<DATE start="7975" end="7979" id="87845_155" >1817</DATE>
+
+<NAME start="8102" local_name_id="26" end="8113" all_names="STATE THEY" id="87845_157" >State. They</NAME>
+
+<NAME start="8380" local_name_id="20" end="8392" all_names="CONSTITUTION" id="87845_158" >Constitution</NAME>
+
+<ORGANIZATION start="8515" end="8520" id="87845_159" >force</ORGANIZATION>
+
+<NAME start="8648" local_name_id="18" end="8653" all_names="STATE	NATIONAL AND STATE" id="87845_160" >State</NAME>
+
+<NAME start="8678" local_name_id="27" end="8704" all_names="NATIONAL GOVERNMENT THERE" id="87845_161" >National government. There</NAME>
+
+<PROFESSION start="8687" end="8697" id="87845_162" >government</PROFESSION>
+
+<ORGANIZATION start="8720" end="8725" id="87845_163" >force</ORGANIZATION>
+
+<NAME start="8833" local_name_id="18" end="8851" all_names="STATE	NATIONAL AND STATE" id="87845_164" >National and State</NAME>
+
+<NAME start="8887" local_name_id="20" end="8899" all_names="CONSTITUTION" id="87845_165" >Constitution</NAME>
+
+<NAME start="8942" local_name_id="1" end="8948" all_names="UNITED STATES	STATES" id="87845_166" >States</NAME>
+
+<DATE start="9103" end="9107" id="87845_167" >1864</DATE>
+
+<DATE start="9123" end="9127" id="87845_168" >1794</DATE>
+
+<DATE start="9132" end="9136" id="87845_169" >1813</DATE>
+
+<NAME start="9339" local_name_id="18" end="9344" all_names="STATE	NATIONAL AND STATE" id="87845_170" >State</NAME>
+
+<NAME start="9348" local_name_id="28" end="9357" all_names="TERRITORY" id="87845_171" >Territory</NAME>
+
+<NAME start="9451" local_name_id="29" end="9462" all_names="STATE THIS" id="87845_172" >State. This</NAME>
+
+<NAME start="9517" local_name_id="1" end="9523" all_names="UNITED STATES	STATES" id="87845_173" >States</NAME>
+
+<PROFESSION start="9645" end="9664" id="87845_174" >National government</PROFESSION>
+
+<NAME start="9686" local_name_id="30" end="9697" all_names="TERRITORIES" id="87845_175" >Territories</NAME>
+
+<NAME start="9768" local_name_id="19" end="9776" all_names="CONGRESS" id="87845_176" >Congress</NAME>
+
+<NAME start="9803" local_name_id="31" end="9815" all_names="STATES WHAT" id="87845_177" >States. What</NAME>
+
+<NAME start="10141" local_name_id="18" end="10146" all_names="STATE	NATIONAL AND STATE" id="87845_178" >State</NAME>
+
+<ORGANIZATION start="10206" end="10211" id="87845_179" >Union</ORGANIZATION>
+
+<PROFESSION start="10271" end="10284" id="87845_180" >first general</PROFESSION>
+
+<LEGAL_ROLE start="10315" end="10325" plural="True" id="87845_181" >defendants</LEGAL_ROLE>
+
+<NAME start="10375" local_name_id="18" end="10380" all_names="STATE	NATIONAL AND STATE" id="87845_182" >State</NAME>
+
+<NAME start="10428" local_name_id="19" end="10436" all_names="CONGRESS" id="87845_183" >Congress</NAME>
+
+<LEGAL_ROLE start="10552" end="10561" id="87845_184" >defendant</LEGAL_ROLE>
+
+<NAME start="10701" local_name_id="11" end="10709" all_names="NEW YORK	NORTHERN DISTRICT OF NEW YORK	SOUTHERN DISTRICT OF NEW YORK" id="87845_185" >New York</NAME>
+
+<NAME start="10882" local_name_id="19" end="10890" all_names="CONGRESS" id="87845_187" >Congress</NAME>
+
+<DATE start="10914" end="10918" id="87845_186" >1866</DATE>
+
+<NAME start="11379" local_name_id="18" end="11384" all_names="STATE	NATIONAL AND STATE" id="87845_188" >State</NAME>
+
+<DATE start="11706" end="11710" id="87845_189" >1866</DATE>
+
+<DATE start="11807" end="11811" id="87845_190" >1864</DATE>
+
+<NAME start="12015" local_name_id="18" end="12020" all_names="STATE	NATIONAL AND STATE" id="87845_191" >State</NAME>
+
+<NAME start="12153" local_name_id="18" end="12158" all_names="STATE	NATIONAL AND STATE" id="87845_192" >State</NAME>
+
+<NAME start="12243" local_name_id="18" end="12248" all_names="STATE	NATIONAL AND STATE" id="87845_193" >State</NAME>
+
+<PROFESSION start="12279" end="12286" id="87845_194" >counsel</PROFESSION>
+
+<NAME start="12361" local_name_id="19" end="12369" all_names="CONGRESS" id="87845_195" >Congress</NAME>
+
+<NAME start="12404" local_name_id="18" end="12409" all_names="STATE	NATIONAL AND STATE" id="87845_196" >State</NAME>
+
+<DATE start="12807" end="12811" id="87845_197" >1866</DATE>
+
+<NAME start="12871" local_name_id="19" end="12879" all_names="CONGRESS" id="87845_198" >Congress</NAME>
+
+<NAME start="13004" local_name_id="18" end="13009" all_names="STATE	NATIONAL AND STATE" id="87845_199" >State</NAME>
+
+<DATE start="13288" end="13292" id="87845_200" >1864</DATE>
+
+<NAME start="13400" local_name_id="18" end="13405" all_names="STATE	NATIONAL AND STATE" id="87845_201" >State</NAME>
+
+<NAME start="13704" local_name_id="19" end="13712" all_names="CONGRESS" id="87845_202" >Congress</NAME>
+
+<NAME start="13830" local_name_id="20" end="13842" all_names="CONSTITUTION" id="87845_203" >Constitution</NAME>
+
+<DATE start="13901" end="13905" id="87845_204" >1866</DATE>
+
+<NAME start="14069" local_name_id="20" end="14081" all_names="CONSTITUTION" id="87845_205" >Constitution</NAME>
+
+<NAME start="14140" local_name_id="19" end="14148" all_names="CONGRESS" id="87845_206" >Congress</NAME>
+
+<NAME start="14179" local_name_id="1" end="14185" all_names="UNITED STATES	STATES" id="87845_207" >States</NAME>
+
+<NAME start="14314" local_name_id="19" end="14322" all_names="CONGRESS" id="87845_208" >Congress</NAME>
+
+<NAME start="14348" local_name_id="32" end="14356" all_names="NATIONAL" id="87845_209" >National</NAME>
+
+<NAME start="14405" local_name_id="11" end="14434" all_names="NEW YORK	NORTHERN DISTRICT OF NEW YORK	SOUTHERN DISTRICT OF NEW YORK" id="87845_210" >Northern District of New York</NAME>
+
+<NAME start="14528" local_name_id="14" end="14550" all_names="NEW JERSEY	DISTRICT OF NEW JERSEY" id="87845_211" >District of New Jersey</NAME>
+
+<ORGANIZATION start="14631" end="14644" id="87845_212" >Circuit Court</ORGANIZATION>
+
+<NAME start="14719" local_name_id="12" end="14744" all_names="MASSACHUSETTS	G OF MASSACHUSETTS	DISTRICT OF MASSACHUSETTS" id="87845_213" >District of Massachusetts</NAME>
+
+<NAME start="14856" local_name_id="11" end="14885" all_names="NEW YORK	NORTHERN DISTRICT OF NEW YORK	SOUTHERN DISTRICT OF NEW YORK" id="87845_214" >Southern District of New York</NAME>
+
+<ORGANIZATION start="14932" end="14945" id="87845_215" >Circuit Court</ORGANIZATION>
+
+<NAME start="15145" local_name_id="33" end="15167" all_names="IS ORDERED ACCORDINGLY" id="87845_216" >IS ORDERED ACCORDINGLY</NAME>
+
+<NAME start="15169" local_name_id="34" end="15174" all_names="NOTES" id="87845_217" >NOTES</NAME>
+
+<NAME start="15182" local_name_id="35" end="15186" all_names="STAT" id="87845_218" >Stat</NAME>
+
+<NAME start="15210" local_name_id="35" end="15214" all_names="STAT" id="87845_219" >Stat</NAME>
+
+<NAME start="15238" local_name_id="36" end="15240" all_names="ID" id="87845_220" >Id</NAME>
+
+<NAME start="15251" local_name_id="36" end="15253" all_names="ID" id="87845_221" >Id</NAME>
+
+<RELATION party1_string="UNITED STATES" party1="87845_6" theme_string="UNITED STATES  v.  VASSAR" id="87845_8" relation_type="asymmetric" theme="87845_5" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="VASSAR" theme_string="UNITED STATES  v.  VASSAR" id="87845_9" relation_type="asymmetric" party2="87845_7" theme="87845_5" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="UNITED STATES" party1="87845_12" theme_string="UNITED STATES  v.  SCHUREMAN" id="87845_14" relation_type="asymmetric" theme="87845_11" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="SCHUREMAN" theme_string="UNITED STATES  v.  SCHUREMAN" id="87845_15" relation_type="asymmetric" party2="87845_13" theme="87845_11" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="UNITED STATES" party1="87845_18" theme_string="UNITED STATES  v.  GREEN" id="87845_20" relation_type="asymmetric" theme="87845_17" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="GREEN" theme_string="UNITED STATES  v.  GREEN" id="87845_21" relation_type="asymmetric" party2="87845_19" theme="87845_17" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="UNITED STATES" party1="87845_24" theme_string="UNITED STATES  v.  BEATTY" id="87845_26" relation_type="asymmetric" theme="87845_23" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="BEATTY" theme_string="UNITED STATES  v.  BEATTY" id="87845_27" relation_type="asymmetric" party2="87845_25" theme="87845_23" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="UNITED STATES" party1="87845_30" theme_string="UNITED STATES  v.  SHELLY" id="87845_32" relation_type="asymmetric" theme="87845_29" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="SHELLY" theme_string="UNITED STATES  v.  SHELLY" id="87845_33" relation_type="asymmetric" party2="87845_31" theme="87845_29" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="UNITED STATES" party1="87845_36" theme_string="UNITED STATES  v.  BOWEN" id="87845_38" relation_type="asymmetric" theme="87845_35" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="BOWEN" theme_string="UNITED STATES  v.  BOWEN" id="87845_39" relation_type="asymmetric" party2="87845_37" theme="87845_35" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="UNITED STATES" party1="87845_42" theme_string="UNITED STATES  v.  SWAIN" id="87845_44" relation_type="asymmetric" theme="87845_41" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="SWAIN" theme_string="UNITED STATES  v.  SWAIN" id="87845_45" relation_type="asymmetric" party2="87845_43" theme="87845_41" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="UNITED STATES" party1="87845_48" theme_string="UNITED STATES  v.  CRAFT" id="87845_50" relation_type="asymmetric" theme="87845_47" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="CRAFT" theme_string="UNITED STATES  v.  CRAFT" id="87845_51" relation_type="asymmetric" party2="87845_49" theme="87845_47" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="UNITED STATES" party1="87845_54" theme_string="UNITED STATES  v.  CRAFT" id="87845_56" relation_type="asymmetric" theme="87845_53" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="CRAFT" theme_string="UNITED STATES  v.  CRAFT" id="87845_57" relation_type="asymmetric" party2="87845_55" theme="87845_53" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  CRAFT" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_84" X_vs_Y="87845_53" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  CRAFT" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_81" X_vs_Y="87845_47" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  SWAIN" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_78" X_vs_Y="87845_41" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  BOWEN" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_75" X_vs_Y="87845_35" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  SHELLY" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_72" X_vs_Y="87845_29" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  BEATTY" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_69" X_vs_Y="87845_23" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  GREEN" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_66" X_vs_Y="87845_17" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  SCHUREMAN" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_63" X_vs_Y="87845_11" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  VASSAR" gram_type="multi_line" standard_case="87845_1" relation_type="equivalence" id="87845_60" X_vs_Y="87845_5" standard_case_string="72 U.S. 462 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  CRAFT" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_85" X_vs_Y="87845_53" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  CRAFT" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_82" X_vs_Y="87845_47" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  SWAIN" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_79" X_vs_Y="87845_41" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  BOWEN" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_76" X_vs_Y="87845_35" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  SHELLY" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_73" X_vs_Y="87845_29" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  BEATTY" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_70" X_vs_Y="87845_23" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  GREEN" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_67" X_vs_Y="87845_17" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  SCHUREMAN" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_64" X_vs_Y="87845_11" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION X_vs_Y_string="UNITED STATES  v.  VASSAR" gram_type="multi_line" standard_case="87845_2" relation_type="equivalence" id="87845_61" X_vs_Y="87845_5" standard_case_string="5 Wall. 462" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  CRAFT" gram_type="multi_line" X_vs_Y="87845_53" relation_type="equivalence" id="87845_83" case_citation_other="87845_3" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  CRAFT" gram_type="multi_line" X_vs_Y="87845_47" relation_type="equivalence" id="87845_80" case_citation_other="87845_3" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  SWAIN" gram_type="multi_line" X_vs_Y="87845_41" relation_type="equivalence" id="87845_77" case_citation_other="87845_3" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  BOWEN" gram_type="multi_line" X_vs_Y="87845_35" relation_type="equivalence" id="87845_74" case_citation_other="87845_3" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  SHELLY" gram_type="multi_line" X_vs_Y="87845_29" relation_type="equivalence" id="87845_71" case_citation_other="87845_3" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  BEATTY" gram_type="multi_line" X_vs_Y="87845_23" relation_type="equivalence" id="87845_68" case_citation_other="87845_3" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  GREEN" gram_type="multi_line" X_vs_Y="87845_17" relation_type="equivalence" id="87845_65" case_citation_other="87845_3" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  SCHUREMAN" gram_type="multi_line" X_vs_Y="87845_11" relation_type="equivalence" id="87845_62" case_citation_other="87845_3" ></RELATION>
+
+<RELATION case_citation_other_string="LICENSE TAX CASES" X_vs_Y_string="UNITED STATES  v.  VASSAR" gram_type="multi_line" X_vs_Y="87845_5" relation_type="equivalence" id="87845_59" case_citation_other="87845_3" ></RELATION>
+

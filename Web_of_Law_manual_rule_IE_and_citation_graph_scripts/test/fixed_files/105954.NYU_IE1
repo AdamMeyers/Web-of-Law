@@ -1,0 +1,56 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="34" id1="105954" id="105954_1" lookup_key="u.s._361_34" alternative_keys="['ex parte william k powell#1', 's.ct._80_126', 'l.ed.2d_4_99']" citation_local_level_id="0" start="0" citation_global_level_id="134.002" end="11" volume="361" name="Ex Parte William K. POWELL" line="1" >361 U.S. 34</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="126" id1="105954" id="105954_2" lookup_key="s.ct._80_126" alternative_keys="['u.s._361_34', 'ex parte william k powell#1', 'l.ed.2d_4_99']" citation_local_level_id="1" start="16" citation_global_level_id="134.003" end="29" volume="80" name="Ex Parte William K. POWELL" line="1" >80 S. Ct. 126</CITATION>
+
+<NAME start="19" local_name_id="1" end="24" all_names="S CT" id="105954_6" >S. Ct</NAME>
+
+<CITATION reporter="L. Ed. 2d" entry_type="standard_key" standard_reporter="L.ED.2D" page_number="99" id1="105954" id="105954_3" lookup_key="l.ed.2d_4_99" alternative_keys="['u.s._361_34', 's.ct._80_126', 'ex parte william k powell#1']" citation_local_level_id="2" start="34" citation_global_level_id="134.004" end="48" volume="4" name="Ex Parte William K. POWELL" line="1" >4 L. Ed. 2d 99</CITATION>
+
+<CITATION start="53" id1="105954" entry_type="case_key" citation_global_level_id="134.001" line="1" name="Ex Parte William K. POWELL" id="105954_5" lookup_key="ex parte william k powell#1" alternative_keys="['u.s._361_34', 's.ct._80_126', 'l.ed.2d_4_99']" end="79" citation_local_level_id="3" >Ex Parte William K. POWELL</CITATION>
+
+<NAME start="93" local_name_id="2" end="97" all_names="MISC" id="105954_7" >Misc</NAME>
+
+<DATE start="142" end="158" id="105954_4" >October 19, 1959</DATE>
+
+<NAME start="203" local_name_id="3" end="228" all_names="MESSRS MACDONALD GALLION" id="105954_11" >Messrs. MacDonald Gallion</NAME>
+
+<PROFESSION start="230" end="251" party="MESSRS MACDONALD GALLION" document_level_name_id="3" id="105954_12" >Atty. Gen. of Alabama</PROFESSION>
+
+<NAME start="257" local_name_id="4" end="270" all_names="JAMES W WEBB" id="105954_13" >James W. Webb</NAME>
+
+<PROFESSION start="272" end="287" party="JAMES W WEBB" document_level_name_id="4" id="105954_14" >Asst. Atty. Gen</PROFESSION>
+
+<LEGAL_ROLE start="294" end="304" id="105954_15" >respondent</LEGAL_ROLE>
+
+<ORGANIZATION start="354" end="406" id="105954_18" >United States Court of Appeals for the Fifth Circuit</ORGANIZATION>
+
+<NAME start="418" local_name_id="5" end="424" all_names="CURIAM" id="105954_19" >CURIAM</NAME>
+
+<ORGANIZATION start="610" end="624" id="105954_26" >District Court</ORGANIZATION>
+
+<CITATION id1="Dummy_File_1250" entry_type="party_key" party1="Ellis" line="8" id="105954_23" lookup_key="ellisstates#1" party2="United States" citation_local_level_id="4" start="645" party2_short="States" end="667" citation_global_level_id="1402.001" no_current_file="True" party1_short="Ellis" >Ellis v. United States</CITATION>
+
+<NAME start="645" local_name_id="6" end="650" all_names="ELLIS" party1_of="105954_23" id="105954_24" >Ellis</NAME>
+
+<NAME start="654" party2_of="105954_23" end="667" all_names="UNITED STATES" id="105954_25" local_name_id="7" >United States</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="674" id1="Dummy_File_1251" id="105954_20" lookup_key="u.s._356_674" citation_local_level_id="5" start="698" citation_global_level_id="1403.001" end="710" volume="356" no_current_file="True" line="8" >356 U.S. 674</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="974" id1="Dummy_File_1252" id="105954_21" lookup_key="s.ct._78_974" citation_local_level_id="6" start="712" citation_global_level_id="1404.001" end="725" volume="78" no_current_file="True" line="8" >78 S. Ct. 974</CITATION>
+
+<CITATION reporter="L.Ed.2d" entry_type="standard_key" standard_reporter="L.ED.2D" page_number="1060" id1="Dummy_File_1253" id="105954_22" lookup_key="l.ed.2d_2_1060" citation_local_level_id="7" start="727" citation_global_level_id="1405.001" end="741" volume="2" no_current_file="True" line="8" >2 L.Ed.2d 1060</CITATION>
+
+<RELATION case_citation_other_string="Ex Parte William K. POWELL" gram_type="pre_nom" standard_case="105954_1" relation_type="equivalence" id="105954_9" standard_case_string="361 U.S. 34" case_citation_other="105954_5" ></RELATION>
+
+<RELATION case_citation_other_string="Ex Parte William K. POWELL" gram_type="pre_nom" standard_case="105954_2" relation_type="equivalence" id="105954_10" standard_case_string="80 S. Ct. 126" case_citation_other="105954_5" ></RELATION>
+
+<RELATION case_citation_other_string="Ex Parte William K. POWELL" gram_type="pre_nom" standard_case="105954_3" relation_type="equivalence" id="105954_8" standard_case_string="4 L. Ed. 2d 99" case_citation_other="105954_5" ></RELATION>
+
+<RELATION profession="105954_12" gram_type="apposition" id="105954_16" profession_string="Atty. Gen. of Alabama" relation_type="asymmetric" theme="105954_11" theme_string="Messrs. MacDonald Gallion" ></RELATION>
+
+<RELATION profession="105954_14" gram_type="apposition" id="105954_17" profession_string="Asst. Atty. Gen" relation_type="asymmetric" theme="105954_13" theme_string="James W. Webb" ></RELATION>
+
+<RELATION party1_string="Ellis" party1="105954_24" theme_string="Ellis v. United States" id="105954_27" relation_type="asymmetric" theme="105954_23" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="United States" theme_string="Ellis v. United States" id="105954_28" relation_type="asymmetric" party2="105954_25" theme="105954_23" gram_type="infix" ></RELATION>
+

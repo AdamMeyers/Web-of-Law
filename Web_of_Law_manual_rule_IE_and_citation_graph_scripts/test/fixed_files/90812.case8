@@ -1,0 +1,36 @@
+<citation id="90812_1" entry_type="standard_case" start="0" end="10" reporter="U.S." standard_reporter="U.S." volume="108" page_number="1" line="1">108 U.S. 1</citation>
+<citation id="90812_2" entry_type="standard_case" start="15" end="27" reporter="S. Ct." standard_reporter="S.CT." volume="1" page_number="125" line="2">1 S. Ct. 125</citation>
+<citation id="90812_3" entry_type="standard_case" start="32" end="45" reporter="L. Ed." standard_reporter="L.ED." volume="27" page_number="629" line="3">27 L. Ed. 629</citation>
+<citation id="90812_4" entry_type="case_citation_other" start="50" end="84" name="In re AMENDMENTS TO RULES 1 AND 10" line="4">In re AMENDMENTS TO RULES 1 AND 10</citation>
+<date id="90812_9" start="90" end="107">November 13, 1882</date>
+<NAME id="90812_15" start="109" end="114">WAITE</NAME>
+<NAME id="90812_16" start="116" end="125">C. J. Our</NAME>
+<PROFESSION id="90812_17" start="190" end="195">clerk</PROFESSION>
+<ORGANIZATION id="90812_18" start="198" end="204">office</ORGANIZATION>
+<PROFESSION id="90812_19" start="447" end="452">clerk</PROFESSION>
+<date id="90812_10" start="467" end="471">1799</date>
+<ORGANIZATION id="90812_20" start="580" end="585">court</ORGANIZATION>
+<PROFESSION id="90812_21" start="618" end="623">clerk</PROFESSION>
+<NAME id="90812_22" start="737" end="744">January</NAME>
+<date id="90812_11" start="751" end="755">1831</date>
+<ORGANIZATION id="90812_23" start="820" end="825">court</ORGANIZATION>
+<PROFESSION id="90812_24" start="862" end="867">clerk</PROFESSION>
+<NAME id="90812_25" start="1010" end="1017">January</NAME>
+<date id="90812_12" start="1024" end="1028">1831</date>
+<NAME id="90812_26" start="1069" end="1082">United States</NAME>
+<ORGANIZATION id="90812_27" start="1099" end="1104">court</ORGANIZATION>
+<PROFESSION id="90812_28" start="1170" end="1175">clerk</PROFESSION>
+<ORGANIZATION id="90812_29" start="1178" end="1184">office</ORGANIZATION>
+<PROFESSION id="90812_30" start="1301" end="1306">clerk</PROFESSION>
+<date id="90812_13" start="2697" end="2701">1839</date>
+<date id="90812_14" start="3431" end="3435">1859</date>
+<citation id="90812_6" entry_type="case_X_vs_Y" start="4374" end="4391" party1="James" party2="Campbell" line="5">James v. Campbell</citation>
+<NAME id="90812_7" start="4374" end="4379" party1_of="90812_6">James</NAME>
+<NAME id="90812_8" start="4383" end="4391" party2_of="90812_6">Campbell</NAME>
+<citation id="90812_5" entry_type="standard_case" start="4393" end="4406" reporter="U. S." standard_reporter="U.S." volume="104" page_number="356" line="5">104 U. S. 356</citation>
+<RELATION id="90812_33" relation_type="equivalence" gram_type="apposition" standard_case="90812_5" standard_case_string="104 U. S. 356" X_vs_Y="90812_6" X_vs_Y_string="James v. Campbell"></RELATION>
+<RELATION id="90812_31" relation_type="asymmetric" gram_type="infix" theme="90812_6" theme_string="James v. Campbell" party1="90812_7" party1_string="James"></RELATION>
+<RELATION id="90812_32" relation_type="asymmetric" gram_type="infix" theme="90812_6" theme_string="James v. Campbell" party2="90812_8" party2_string="Campbell"></RELATION>
+<RELATION id="90812_34" relation_type="equivalence" gram_type="multi_line" standard_case="90812_1" standard_case_string="108 U.S. 1" case_citation_other="90812_4" case_citation_other_string="In re AMENDMENTS TO RULES 1 AND 10"></RELATION>
+<RELATION id="90812_35" relation_type="equivalence" gram_type="multi_line" standard_case="90812_2" standard_case_string="1 S. Ct. 125" case_citation_other="90812_4" case_citation_other_string="In re AMENDMENTS TO RULES 1 AND 10"></RELATION>
+<RELATION id="90812_36" relation_type="equivalence" gram_type="multi_line" standard_case="90812_3" standard_case_string="27 L. Ed. 629" case_citation_other="90812_4" case_citation_other_string="In re AMENDMENTS TO RULES 1 AND 10"></RELATION>

@@ -1,0 +1,962 @@
+<NAME start="1" local_name_id="1" end="13" all_names="SLIP OPINION" id="2644673_2" >Slip Opinion</NAME>
+
+<NAME start="28" local_name_id="2" end="40" all_names="OCTOBER TERM" id="2644673_3" >OCTOBER TERM</NAME>
+
+<DATE start="42" end="46" id="2644673_1" >2013</DATE>
+
+<NAME start="127" local_name_id="3" end="135" all_names="SYLLABUS" id="2644673_4" >Syllabus</NAME>
+
+<NAME start="146" local_name_id="4" end="150" all_names="NOTE" id="2644673_5" >NOTE</NAME>
+
+<CITATION id1="Dummy_File_886" entry_type="party_key" party1="ATLANTIC MARINE CONSTRUCTION CO., INC." line="5" id="2644673_7" lookup_key="constructioncourt#1" party2="UNITED STATES DISTRICT COURT FOR THE           WESTERN DISTRICT OF TEXAS ET AL" citation_local_level_id="0" start="470" party2_short="COURT" end="597" citation_global_level_id="1038.001" no_current_file="True" party1_short="CONSTRUCTION" >ATLANTIC MARINE CONSTRUCTION CO., INC. v. UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS ET AL</CITATION>
+
+<NAME start="470" local_name_id="5" end="508" all_names="ATLANTIC MARINE CONSTRUCTION CO INC" party1_of="2644673_7" id="2644673_8" >ATLANTIC MARINE CONSTRUCTION CO., INC.</NAME>
+
+<ORGANIZATION start="470" end="507" id="2644673_13" >ATLANTIC MARINE CONSTRUCTION CO., INC</ORGANIZATION>
+
+<NAME start="519" party2_of="2644673_7" end="597" all_names="UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS	WESTERN DISTRICT OF TEXAS	DISTRICT OF TEXAS	TEXAS" id="2644673_9" local_name_id="6" >UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS ET AL</NAME>
+
+<CITATION start="673" id1="Dummy_File_887" entry_type="case_key" citation_global_level_id="1039.001" line="5" no_current_file="True" name="THE FIFTH CIRCUIT" id="2644673_12" lookup_key="the fifth circuit#1" end="690" citation_local_level_id="1" >THE FIFTH CIRCUIT</CITATION>
+
+<DOCKET start="699" citation_global_level_id="1039.001" entry_type="docket" line="5" id1="Dummy_File_887" no_current_file="True" id="2644673_6" lookup_key="the fifth circuit#1" end="705" citation_local_level_id="1" >12–929</DOCKET>
+
+<DATE start="719" end="734" id="2644673_10" >October 9, 2013</DATE>
+
+<DATE start="743" end="759" id="2644673_11" >December 3, 2013</DATE>
+
+<NAME start="2037" local_name_id="7" end="2044" all_names="CIRCUIT" id="2644673_20" >Circuit</NAME>
+
+<NAME start="2052" local_name_id="8" end="2067" all_names="ATLANTIC MARINE" id="2644673_21" >Atlantic Marine</NAME>
+
+<ORGANIZATION start="2118" end="2132" id="2644673_22" >District Court</ORGANIZATION>
+
+<NAME start="2195" local_name_id="9" end="2223" all_names="EASTERN DISTRICT OF VIRGINIA	VIRGINIA" id="2644673_23" >Eastern District of Virginia</NAME>
+
+<ORGANIZATION start="2246" end="2251" id="2644673_24" >court</ORGANIZATION>
+
+<ORGANIZATION start="2268" end="2282" id="2644673_25" >District Court</ORGANIZATION>
+
+<NAME start="2426" local_name_id="10" end="2430" all_names="RULE" id="2644673_26" >Rule</NAME>
+
+<CITATION id1="Dummy_File_888" entry_type="party_key" party1="District Court  2    ATLANTIC MARINE CONSTR. CO." line="6" id="2644673_17" lookup_key="constrcourt#2" party2="UNITED STATES DIST.              COURT FOR WESTERN DIST. OF TEX" citation_local_level_id="2" start="2563" party2_short="COURT" end="2678" citation_global_level_id="1040.001" no_current_file="True" party1_short="CONSTR" >District Court 2 ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST. COURT FOR WESTERN DIST. OF TEX</CITATION>
+
+<NAME start="2563" local_name_id="11" end="2611" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_17" id="2644673_18" >District Court 2 ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<NAME start="2563" local_name_id="12" end="2606" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR	ATLANTIC MARINE CONSTR" id="2644673_27" >District Court 2 ATLANTIC MARINE CONSTR</NAME>
+
+<ORGANIZATION start="2572" end="2577" id="2644673_28" >Court</ORGANIZATION>
+
+<ORGANIZATION start="2608" end="2610" id="2644673_29" >CO</ORGANIZATION>
+
+<NAME start="2615" party2_of="2644673_17" end="2678" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_19" local_name_id="13" >UNITED STATES DIST. COURT FOR WESTERN DIST. OF TEX</NAME>
+
+<NAME start="2706" local_name_id="3" end="2714" all_names="SYLLABUS" id="2644673_48" >Syllabus</NAME>
+
+<NAME start="2861" local_name_id="14" end="2865" all_names="HELD" id="2644673_49" >Held</NAME>
+
+<PROFESSION start="3045" end="3052" id="2644673_50" >justice</PROFESSION>
+
+<ORGANIZATION start="3065" end="3070" id="2644673_51" >court</ORGANIZATION>
+
+<ORGANIZATION start="3127" end="3135" id="2644673_52" >division</ORGANIZATION>
+
+<ORGANIZATION start="3192" end="3200" id="2644673_53" >division</ORGANIZATION>
+
+<NAME start="3240" local_name_id="15" end="3242" all_names="PP" id="2644673_54" >Pp</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_889" entry_type="party_key" party1="Van Dusen" line="7" id="2644673_38" lookup_key="dusenbarrack#1" alternative_keys="['u.s._376_612']" party2="Barrack" citation_local_level_id="3" start="4481" party2_short="Barrack" end="4501" citation_global_level_id="1041.003" volume="376" no_current_file="True" page_number="612" party1_short="Dusen" >Van Dusen v. Barrack</CITATION>
+
+<NAME start="4481" local_name_id="16" end="4490" all_names="VAN DUSEN" party1_of="2644673_38" id="2644673_41" >Van Dusen</NAME>
+
+<NAME start="4494" party2_of="2644673_38" end="4501" all_names="BARRACK" id="2644673_42" local_name_id="17" >Barrack</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="612" id1="Dummy_File_889" id="2644673_32" lookup_key="u.s._376_612" alternative_keys="['dusenbarrack#1']" citation_local_level_id="4" start="4503" citation_global_level_id="1041.003" end="4515" volume="376" no_current_file="True" line="7" >376 U.S. 612</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_890" entry_type="party_key" party1="Stewart  Organization, Inc." line="7" id="2644673_39" lookup_key="organizationricoh#1" alternative_keys="['u.s._487_22']" party2="Ricoh Corp" citation_local_level_id="5" start="4517" party2_short="Ricoh" end="4558" citation_global_level_id="1042.003" volume="487" no_current_file="True" page_number="22" party1_short="Organization" >Stewart Organization, Inc. v. Ricoh Corp</CITATION>
+
+<NAME start="4517" local_name_id="18" end="4544" all_names="STEWART ORGANIZATION INC	RELYING ON STEWART ORGANIZATION INC" party1_of="2644673_39" id="2644673_43" >Stewart Organization, Inc.</NAME>
+
+<NAME start="4548" party2_of="2644673_39" end="4558" all_names="RICOH CORP" id="2644673_44" local_name_id="19" >Ricoh Corp</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="22" id1="Dummy_File_890" id="2644673_33" lookup_key="u.s._487_22" alternative_keys="['organizationricoh#1']" citation_local_level_id="6" start="4561" citation_global_level_id="1042.003" end="4572" volume="487" no_current_file="True" line="7" >487 U.S. 22</CITATION>
+
+<CITATION id1="Dummy_File_891" entry_type="party_key" party1="Sinochem Int’l Co." line="7" id="2644673_40" lookup_key="lint#1" party2="Malaysia Int" citation_local_level_id="7" start="5300" party2_short="Int" end="5334" citation_global_level_id="1043.001" no_current_file="True" party1_short="l" >Sinochem Int’l Co. v. Malaysia Int</CITATION>
+
+<NAME start="5300" local_name_id="20" end="5318" all_names="SINOCHEM INT’L CO	INT’L CO" party1_of="2644673_40" id="2644673_45" >Sinochem Int’l Co.</NAME>
+
+<NAME start="5322" party2_of="2644673_40" end="5334" all_names="MALAYSIA INT" id="2644673_46" local_name_id="21" >Malaysia Int</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="422" id1="Dummy_File_892" id="2644673_34" lookup_key="u.s._549_422" citation_local_level_id="8" start="5354" citation_global_level_id="1044.001" end="5366" volume="549" no_current_file="True" line="7" >549 U.S. 422</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_35" lookup_key="u.s._571_____" citation_local_level_id="9" start="5659" citation_global_level_id="1045.001" end="5680" volume="571" no_current_file="True" year="2013" line="7" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="5675" citation_global_level_id="1045.001" end="5679" citation_local_level_id="9" id="2644673_47" >2013</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="31" id1="Dummy_File_894" id="2644673_36" lookup_key="u.s._487_31" citation_local_level_id="10" start="6588" citation_global_level_id="1046.001" end="6604" volume="487" no_current_file="True" line="7" >487 U. S., at 31</CITATION>
+
+<CITATION reporter="F.3d" entry_type="standard_key" standard_reporter="F.3D" page_number="736" id1="Dummy_File_895" id="2644673_37" lookup_key="f.3d_701_736" citation_local_level_id="11" start="8617" citation_global_level_id="1047.001" end="8629" volume="701" no_current_file="True" line="7" >701 F.3d 736</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_64" lookup_key="u.s._571_____" citation_local_level_id="12" start="8747" citation_global_level_id="1045.001" end="8768" volume="571" no_current_file="True" year="2013" line="8" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="8763" citation_global_level_id="1045.001" end="8767" citation_local_level_id="12" id="2644673_65" >2013</DATE>
+
+<ORGANIZATION start="8830" end="8850" id="2644673_66" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="8857" local_name_id="22" end="8863" all_names="NOTICE" id="2644673_69" >NOTICE</NAME>
+
+<NAME start="8964" local_name_id="23" end="8985" all_names="UNITED STATES REPORTS" id="2644673_70" >United States Reports</NAME>
+
+<NAME start="8987" local_name_id="24" end="8994" all_names="READERS" id="2644673_71" >Readers</NAME>
+
+<PROFESSION start="9028" end="9049" id="2644673_72" >Reporter of Decisions</PROFESSION>
+
+<ORGANIZATION start="9051" end="9085" id="2644673_73" >Supreme Court of the United States</ORGANIZATION>
+
+<NAME start="9087" local_name_id="25" end="9092" all_names="WASH-" id="2644673_74" >Wash-</NAME>
+
+<NAME start="9106" local_name_id="26" end="9110" all_names="D C" id="2644673_75" >D. C</NAME>
+
+<DATE start="9112" end="9116" id="2644673_68" >2054</DATE>
+
+<ORGANIZATION start="9253" end="9287" id="2644673_76" >SUPREME COURT OF THE UNITED STATES</ORGANIZATION>
+
+<DOCKET start="9381" citation_global_level_id="1039.001" entry_type="docket" line="10" id1="Dummy_File_887" no_current_file="True" id="2644673_77" lookup_key="the fifth circuit#1" end="9387" citation_local_level_id="1" >12–929</DOCKET>
+
+<CITATION id1="Dummy_File_896" entry_type="party_key" party1="ATLANTIC MARINE CONSTRUCTION COMPANY, INC.," line="10" id="2644673_78" party2_short="COURT" party2="UNITED STATES DISTRICT COURT    FOR THE WESTERN DISTRICT OF TEXAS ET AL" citation_local_level_id="13" start="9443" lookup_key="companycourt#1" end="9575" party1_role="petitioner" no_current_file="True" party1_short="COMPANY" citation_global_level_id="1048.001" >ATLANTIC MARINE CONSTRUCTION COMPANY, INC., PETITIONER v. UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS ET AL</CITATION>
+
+<NAME start="9443" local_name_id="27" end="9486" all_names="ATLANTIC MARINE CONSTRUCTION COMPANY INC" party1_of="2644673_78" id="2644673_80" >ATLANTIC MARINE CONSTRUCTION COMPANY, INC.,</NAME>
+
+<ORGANIZATION start="9443" end="9484" id="2644673_87" >ATLANTIC MARINE CONSTRUCTION COMPANY, INC</ORGANIZATION>
+
+<LEGAL_ROLE start="9490" end="9500" id="2644673_82" >PETITIONER</LEGAL_ROLE>
+
+<NAME start="9504" party2_of="2644673_78" end="9575" all_names="UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS	WESTERN DISTRICT OF TEXAS	DISTRICT OF TEXAS	TEXAS" id="2644673_81" local_name_id="6" >UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS ET AL</NAME>
+
+<DATE start="9708" end="9724" id="2644673_85" >December 3, 2013</DATE>
+
+<DATE start="10196" end="10200" id="2644673_86" >2006</DATE>
+
+<CITATION id1="Dummy_File_897" entry_type="party_key" party1="ATLANTIC MARINE CONSTR. CO." line="10" id="2644673_79" lookup_key="constrdist#1" party2="UNITED STATES DIST" citation_local_level_id="14" start="10878" party2_short="DIST" end="10927" citation_global_level_id="1049.001" no_current_file="True" party1_short="CONSTR" >ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST</CITATION>
+
+<NAME start="10878" local_name_id="11" end="10905" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_79" id="2644673_83" >ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<NAME start="10909" party2_of="2644673_79" end="10927" all_names="UNITED STATES DIST" id="2644673_84" local_name_id="28" >UNITED STATES DIST</NAME>
+
+<ORGANIZATION start="10941" end="10963" id="2644673_93" >COURT FOR WESTERN DIST</ORGANIZATION>
+
+<NAME start="10968" local_name_id="13" end="10971" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_94" >TEX</NAME>
+
+<ORGANIZATION start="10994" end="11014" id="2644673_95" >Opinion of the Court</ORGANIZATION>
+
+<LEGAL_ROLE start="11117" end="11159" id="2644673_126" >Petitioner Atlantic Marine Construction Co</LEGAL_ROLE>
+
+<ORGANIZATION start="11164" end="11184" id="2644673_127" >Virginia corporation</ORGANIZATION>
+
+<PROFESSION start="11194" end="11203" id="2644673_128" >principal</PROFESSION>
+
+<NAME start="11225" local_name_id="9" end="11233" all_names="EASTERN DISTRICT OF VIRGINIA	VIRGINIA" id="2644673_129" >Virginia</NAME>
+
+<ORGANIZATION start="11268" end="11305" id="2644673_130" >United States Army Corps of Engineers</ORGANIZATION>
+
+<ORGANIZATION start="11339" end="11358" id="2644673_131" >center at Fort Hood</ORGANIZATION>
+
+<NAME start="11366" local_name_id="6" end="11391" all_names="UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS	WESTERN DISTRICT OF TEXAS	DISTRICT OF TEXAS	TEXAS" id="2644673_132" >Western District of Texas</NAME>
+
+<NAME start="11393" local_name_id="8" end="11408" all_names="ATLANTIC MARINE" id="2644673_133" >Atlantic Marine</NAME>
+
+<LEGAL_ROLE start="11446" end="11479" id="2644673_134" >respondent J-Crew Management, Inc</LEGAL_ROLE>
+
+<ORGANIZATION start="11484" end="11501" id="2644673_135" >Texas corporation</ORGANIZATION>
+
+<ORGANIZATION start="11660" end="11697" id="2644673_136" >Circuit Court for the City of Norfolk</ORGANIZATION>
+
+<NAME start="11699" local_name_id="9" end="11707" all_names="EASTERN DISTRICT OF VIRGINIA	VIRGINIA" id="2644673_137" >Virginia</NAME>
+
+<ORGANIZATION start="11716" end="11781" id="2644673_138" >United States District Court for the Eastern District of Virginia</ORGANIZATION>
+
+<ORGANIZATION start="11783" end="11799" id="2644673_139" >Norfolk Division</ORGANIZATION>
+
+<CITATION start="11804" id1="Dummy_File_895" entry_type="case_key" citation_global_level_id="1047.002" line="13" name="In re Atlantic Marine Constr. Co." id="2644673_125" lookup_key="in re atlantic marine constr co#1" alternative_keys="['f.3d_701_736']" end="11837" citation_local_level_id="15" >In re Atlantic Marine Constr. Co.</CITATION>
+
+<ORGANIZATION start="11834" end="11836" id="2644673_140" >Co</ORGANIZATION>
+
+<CITATION reporter="F.3d" entry_type="standard_key" standard_reporter="F.3D" page_number="736" id1="Dummy_File_895" id="2644673_96" lookup_key="f.3d_701_736" alternative_keys="['in re atlantic marine constr co#1']" citation_local_level_id="16" start="11839" citation_global_level_id="1047.001" end="11856" paragraph_number="737" volume="701" name="In re Atlantic Marine Constr. Co." line="13" no_current_file="True" >701 F.3d 736, 737</CITATION>
+
+<NAME start="11862" local_name_id="29" end="11864" all_names="CA" id="2644673_141" >CA</NAME>
+
+<DATE start="11866" end="11870" id="2644673_117" >2012</DATE>
+
+<NAME start="11944" local_name_id="30" end="11950" all_names="J-CREW" id="2644673_142" >J-Crew</NAME>
+
+<NAME start="11956" local_name_id="8" end="11971" all_names="ATLANTIC MARINE" id="2644673_143" >Atlantic Marine</NAME>
+
+<NAME start="11989" local_name_id="6" end="12006" all_names="UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS	WESTERN DISTRICT OF TEXAS	DISTRICT OF TEXAS	TEXAS" id="2644673_144" >District of Texas</NAME>
+
+<ORGANIZATION start="12022" end="12027" id="2644673_145" >court</ORGANIZATION>
+
+<NAME start="12056" local_name_id="8" end="12071" all_names="ATLANTIC MARINE" id="2644673_146" >Atlantic Marine</NAME>
+
+<NAME start="12161" local_name_id="6" end="12186" all_names="UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS	WESTERN DISTRICT OF TEXAS	DISTRICT OF TEXAS	TEXAS" id="2644673_147" >Western District of Texas</NAME>
+
+<NAME start="12231" local_name_id="31" end="12262" all_names="FEDERAL RULE OF CIVIL PROCEDURE" id="2644673_148" >Federal Rule of Civil Procedure</NAME>
+
+<NAME start="12293" local_name_id="8" end="12308" all_names="ATLANTIC MARINE" id="2644673_149" >Atlantic Marine</NAME>
+
+<NAME start="12343" local_name_id="9" end="12371" all_names="EASTERN DISTRICT OF VIRGINIA	VIRGINIA" id="2644673_150" >Eastern District of Virginia</NAME>
+
+<NAME start="12388" local_name_id="30" end="12394" all_names="J-CREW" id="2644673_151" >J-Crew</NAME>
+
+<ORGANIZATION start="12426" end="12440" id="2644673_152" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="12607" end="12621" id="2644673_153" >District Court</ORGANIZATION>
+
+<NAME start="12637" local_name_id="8" end="12652" all_names="ATLANTIC MARINE" id="2644673_154" >Atlantic Marine</NAME>
+
+<ORGANIZATION start="12750" end="12755" id="2644673_155" >court</ORGANIZATION>
+
+<NAME start="12893" local_name_id="32" end="12897" all_names="CITE" id="2644673_156" >Cite</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_97" lookup_key="u.s._571_____" citation_local_level_id="17" start="12902" citation_global_level_id="1045.001" end="12923" volume="571" no_current_file="True" year="2013" line="13" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="12918" citation_global_level_id="1045.001" end="12922" citation_local_level_id="17" id="2644673_118" >2013</DATE>
+
+<ORGANIZATION start="12968" end="12988" id="2644673_157" >Opinion of the Court</ORGANIZATION>
+
+<CITATION id1="Dummy_File_898" entry_type="party_key" party1="United States ex rel. J-Crew Management, Inc." line="13" id="2644673_102" lookup_key="statesconstr#1" party2="Atlantic Marine Constr" citation_local_level_id="18" start="13036" party2_short="Constr" end="13107" citation_global_level_id="1050.001" no_current_file="True" party1_short="States" >United States ex rel. J-Crew Management, Inc. v. Atlantic Marine Constr</CITATION>
+
+<NAME start="13036" local_name_id="33" end="13081" all_names="UNITED STATES EX REL J-CREW MANAGEMENT INC" party1_of="2644673_102" id="2644673_107" >United States ex rel. J-Crew Management, Inc.</NAME>
+
+<ORGANIZATION start="13058" end="13080" id="2644673_158" >J-Crew Management, Inc</ORGANIZATION>
+
+<NAME start="13085" party2_of="2644673_102" end="13107" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR	ATLANTIC MARINE CONSTR" id="2644673_108" local_name_id="12" >Atlantic Marine Constr</NAME>
+
+<DATE start="13114" end="13118" id="2644673_119" >2012</DATE>
+
+<DATE start="13144" end="13156" id="2644673_120" >Apr. 6, 2012</DATE>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="743" id1="Dummy_File_899" id="2644673_98" lookup_key="f.3d_701_743" citation_local_level_id="19" start="13589" citation_global_level_id="1051.001" end="13606" volume="701" no_current_file="True" line="13" >701 F. 3d, at 743</CITATION>
+
+<CITATION id1="Dummy_File_900" entry_type="party_key" party1="Cheney" line="13" id="2644673_103" lookup_key="cheneydist#1" party2="United States Dist" citation_local_level_id="20" start="13988" party2_short="Dist" end="14016" citation_global_level_id="1052.001" no_current_file="True" party1_short="Cheney" >Cheney v. United States Dist</CITATION>
+
+<NAME start="13988" local_name_id="34" end="13994" all_names="CHENEY" party1_of="2644673_103" id="2644673_109" >Cheney</NAME>
+
+<NAME start="13998" party2_of="2644673_103" end="14016" all_names="UNITED STATES DIST" id="2644673_110" local_name_id="28" >United States Dist</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="367" id1="Dummy_File_901" id="2644673_99" lookup_key="u.s._542_367" citation_local_level_id="21" start="14035" citation_global_level_id="1053.001" end="14059" paragraph_number="381" volume="542" no_current_file="True" year="2004" line="13" >542 U.S. 367, 381 (2004)</CITATION>
+
+<DATE start="14054" citation_global_level_id="1053.001" end="14058" citation_local_level_id="21" id="2644673_121" >2004</DATE>
+
+<CITATION id1="Dummy_File_890" entry_type="party_key" party1="Relying on Stewart Organization, Inc." line="13" id="2644673_104" lookup_key="organizationricoh#2" alternative_keys="['u.s._487_22']" party2="Ricoh Corp" citation_local_level_id="22" start="14244" party2_short="Ricoh" end="14295" citation_global_level_id="1042.004" party1_short="Organization" >Relying on Stewart Organization, Inc. v. Ricoh Corp</CITATION>
+
+<NAME start="14244" local_name_id="18" end="14281" all_names="STEWART ORGANIZATION INC	RELYING ON STEWART ORGANIZATION INC" party1_of="2644673_104" id="2644673_111" >Relying on Stewart Organization, Inc.</NAME>
+
+<NAME start="14285" party2_of="2644673_104" end="14295" all_names="RICOH CORP" id="2644673_112" local_name_id="19" >Ricoh Corp</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="22" id1="Dummy_File_890" id="2644673_100" lookup_key="u.s._487_22" alternative_keys="['organizationricoh#1']" citation_local_level_id="23" start="14298" citation_global_level_id="1042.003" end="14316" volume="487" no_current_file="True" year="1988" line="13" >487 U.S. 22 (1988)</CITATION>
+
+<DATE start="14311" citation_global_level_id="1042.003" end="14315" citation_local_level_id="23" id="2644673_122" >1988</DATE>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="739" id1="Dummy_File_902" id="2644673_101" lookup_key="f.3d_701_739" citation_local_level_id="24" start="14568" citation_global_level_id="1054.001" end="14585" volume="701" no_current_file="True" line="13" >701 F. 3d, at 739</CITATION>
+
+<CITATION id1="Dummy_File_903" entry_type="party_key" party1="United States ex rel. J-Crew Man- agement, Inc." line="13" id="2644673_105" lookup_key="statesconstr#2" party2="Atlantic Marine Constr" citation_local_level_id="25" start="14929" party2_short="Constr" end="15002" citation_global_level_id="1055.001" no_current_file="True" party1_short="States" >United States ex rel. J-Crew Man- agement, Inc. v. Atlantic Marine Constr</CITATION>
+
+<NAME start="14929" local_name_id="35" end="14976" all_names="UNITED STATES EX REL J-CREW MAN- AGEMENT INC" party1_of="2644673_105" id="2644673_113" >United States ex rel. J-Crew Man- agement, Inc.</NAME>
+
+<NAME start="14980" party2_of="2644673_105" end="15002" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR	ATLANTIC MARINE CONSTR" id="2644673_114" local_name_id="12" >Atlantic Marine Constr</NAME>
+
+<DATE start="15009" end="15013" id="2644673_123" >2012</DATE>
+
+<DATE start="15039" end="15051" id="2644673_124" >Apr. 6, 2012</DATE>
+
+<CITATION id1="Dummy_File_897" entry_type="party_key" party1="ATLANTIC MARINE CONSTR. CO." line="13" id="2644673_106" lookup_key="constrdist#1" party2="UNITED STATES DIST" citation_local_level_id="26" start="15092" party2_short="DIST" end="15141" citation_global_level_id="1049.001" no_current_file="True" party1_short="CONSTR" >ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST</CITATION>
+
+<NAME start="15092" local_name_id="11" end="15119" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_106" id="2644673_115" >ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<NAME start="15123" party2_of="2644673_106" end="15141" all_names="UNITED STATES DIST" id="2644673_116" local_name_id="28" >UNITED STATES DIST</NAME>
+
+<ORGANIZATION start="15155" end="15177" id="2644673_174" >COURT FOR WESTERN DIST</ORGANIZATION>
+
+<NAME start="15182" local_name_id="13" end="15185" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_175" >TEX</NAME>
+
+<ORGANIZATION start="15208" end="15228" id="2644673_179" >Opinion of the Court</ORGANIZATION>
+
+<ORGANIZATION start="15349" end="15354" id="2644673_180" >court</ORGANIZATION>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="742" id1="Dummy_File_904" id="2644673_176" lookup_key="f.3d_701_742" citation_local_level_id="27" start="15816" citation_global_level_id="1056.001" end="15833" volume="701" no_current_file="True" line="15" >701 F. 3d, at 742</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="___" id1="Dummy_File_905" id="2644673_177" lookup_key="u.s._569____" citation_local_level_id="28" start="15892" citation_global_level_id="1057.001" end="15912" volume="569" no_current_file="True" year="2013" line="15" >569 U. S. ___ (2013)</CITATION>
+
+<DATE start="15907" citation_global_level_id="1057.001" end="15911" citation_local_level_id="28" id="2644673_178" >2013</DATE>
+
+<NAME start="15948" local_name_id="8" end="15963" all_names="ATLANTIC MARINE" id="2644673_182" >Atlantic Marine</NAME>
+
+<NAME start="16075" local_name_id="10" end="16079" all_names="RULE" id="2644673_183" >Rule</NAME>
+
+<NAME start="16103" local_name_id="36" end="16110" all_names="SECTION" id="2644673_184" >Section</NAME>
+
+<NAME start="16123" local_name_id="10" end="16127" all_names="RULE" id="2644673_185" >Rule</NAME>
+
+<ORGANIZATION start="16269" end="16274" id="2644673_186" >court</ORGANIZATION>
+
+<NAME start="16454" local_name_id="36" end="16461" all_names="SECTION" id="2644673_193" >Section</NAME>
+
+<ORGANIZATION start="16500" end="16505" id="2644673_194" >court</ORGANIZATION>
+
+<ORGANIZATION start="16571" end="16579" id="2644673_195" >division</ORGANIZATION>
+
+<PROFESSION start="16638" end="16645" id="2644673_196" >justice</PROFESSION>
+
+<ORGANIZATION start="16685" end="16693" id="2644673_197" >division</ORGANIZATION>
+
+<NAME start="16732" local_name_id="10" end="16736" all_names="RULE" id="2644673_198" >Rule</NAME>
+
+<NAME start="17021" local_name_id="32" end="17025" all_names="CITE" id="2644673_199" >Cite</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_187" lookup_key="u.s._571_____" citation_local_level_id="29" start="17030" citation_global_level_id="1045.001" end="17051" volume="571" no_current_file="True" year="2013" line="17" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="17046" citation_global_level_id="1045.001" end="17050" citation_local_level_id="29" id="2644673_191" >2013</DATE>
+
+<ORGANIZATION start="17100" end="17120" id="2644673_200" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="17147" local_name_id="37" end="17154" all_names="U S C" id="2644673_201" >U. S. C</NAME>
+
+<DATE start="17163" end="17167" id="2644673_192" >2006</DATE>
+
+<CITATION id1="Dummy_File_897" entry_type="party_key" party1="ATLANTIC MARINE CONSTR. CO." line="17" id="2644673_188" lookup_key="constrdist#1" party2="UNITED STATES DIST" citation_local_level_id="30" start="19224" party2_short="DIST" end="19273" citation_global_level_id="1049.001" no_current_file="True" party1_short="CONSTR" >ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST</CITATION>
+
+<NAME start="19224" local_name_id="11" end="19251" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_188" id="2644673_189" >ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<NAME start="19255" party2_of="2644673_188" end="19273" all_names="UNITED STATES DIST" id="2644673_190" local_name_id="28" >UNITED STATES DIST</NAME>
+
+<ORGANIZATION start="19287" end="19309" id="2644673_205" >COURT FOR WESTERN DIST</ORGANIZATION>
+
+<NAME start="19314" local_name_id="13" end="19317" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_206" >TEX</NAME>
+
+<ORGANIZATION start="19340" end="19360" id="2644673_223" >Opinion of the Court</ORGANIZATION>
+
+<CITATION id1="Dummy_File_296" entry_type="party_key" party1="Smith" line="19" id="2644673_211" lookup_key="smithstates#1" alternative_keys="['u.s._507_197']" party2="United States" citation_local_level_id="31" start="20490" party2_short="States" end="20512" citation_global_level_id="448.001" no_current_file="True" party1_short="Smith" >Smith v. United States</CITATION>
+
+<NAME start="20490" local_name_id="38" end="20495" all_names="SMITH" party1_of="2644673_211" id="2644673_214" >Smith</NAME>
+
+<NAME start="20499" party2_of="2644673_211" end="20512" all_names="UNITED STATES" id="2644673_215" local_name_id="39" >United States</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="197" id1="Dummy_File_296" id="2644673_207" lookup_key="u.s._507_197" alternative_keys="['smithstates#1']" citation_local_level_id="32" start="20514" citation_global_level_id="448.002" end="20538" paragraph_number="203" volume="507" year="1993" line="19" >507 U.S. 197, 203 (1993)</CITATION>
+
+<DATE start="20533" citation_global_level_id="448.002" end="20537" citation_local_level_id="32" id="2644673_220" >1993</DATE>
+
+<CITATION id1="Dummy_File_889" entry_type="party_key" party1="Van Dusen" line="19" id="2644673_212" lookup_key="dusenbarrack#1" alternative_keys="['u.s._376_612']" party2="Barrack" citation_local_level_id="33" start="21102" party2_short="Barrack" end="21122" citation_global_level_id="1041.003" no_current_file="True" party1_short="Dusen" >Van Dusen v. Barrack</CITATION>
+
+<NAME start="21102" local_name_id="16" end="21111" all_names="VAN DUSEN" party1_of="2644673_212" id="2644673_216" >Van Dusen</NAME>
+
+<NAME start="21115" party2_of="2644673_212" end="21122" all_names="BARRACK" id="2644673_217" local_name_id="17" >Barrack</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="612" id1="Dummy_File_889" id="2644673_208" lookup_key="u.s._376_612" alternative_keys="['dusenbarrack#1']" citation_local_level_id="34" start="21124" citation_global_level_id="1041.003" end="21143" volume="376" no_current_file="True" year="1964" line="19" >376 U.S. 612 (1964)</CITATION>
+
+<DATE start="21138" citation_global_level_id="1041.003" end="21142" citation_local_level_id="34" id="2644673_221" >1964</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_209" lookup_key="u.s._571_____" citation_local_level_id="35" start="21430" citation_global_level_id="1045.001" end="21451" volume="571" no_current_file="True" year="2013" line="19" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="21446" citation_global_level_id="1045.001" end="21450" citation_local_level_id="35" id="2644673_222" >2013</DATE>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="22" id1="Dummy_File_890" id="2644673_210" lookup_key="u.s._487_22" alternative_keys="['organizationricoh#1']" citation_local_level_id="36" start="23070" citation_global_level_id="1042.003" end="23081" volume="487" no_current_file="True" line="19" >487 U.S. 22</CITATION>
+
+<CITATION id1="Dummy_File_897" entry_type="party_key" party1="ATLANTIC MARINE CONSTR. CO." line="19" id="2644673_213" lookup_key="constrdist#1" party2="UNITED STATES DIST" citation_local_level_id="37" start="23553" party2_short="DIST" end="23602" citation_global_level_id="1049.001" no_current_file="True" party1_short="CONSTR" >ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST</CITATION>
+
+<NAME start="23553" local_name_id="11" end="23580" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_213" id="2644673_218" >ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<NAME start="23584" party2_of="2644673_213" end="23602" all_names="UNITED STATES DIST" id="2644673_219" local_name_id="28" >UNITED STATES DIST</NAME>
+
+<ORGANIZATION start="23618" end="23640" id="2644673_235" >COURT FOR WESTERN DIST</ORGANIZATION>
+
+<NAME start="23645" local_name_id="13" end="23648" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_236" >TEX</NAME>
+
+<ORGANIZATION start="23671" end="23691" id="2644673_237" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="23832" local_name_id="37" end="23839" all_names="U S C" id="2644673_238" >U. S. C</NAME>
+
+<ORGANIZATION start="23863" end="23877" id="2644673_239" >District Court</ORGANIZATION>
+
+<NAME start="23953" local_name_id="40" end="23955" all_names="ID" id="2644673_240" >Id</NAME>
+
+<ORGANIZATION start="25471" end="25476" id="2644673_247" >court</ORGANIZATION>
+
+<NAME start="25533" local_name_id="10" end="25537" all_names="RULE" id="2644673_248" >Rule</NAME>
+
+<NAME start="25650" local_name_id="32" end="25654" all_names="CITE" id="2644673_249" >Cite</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_241" lookup_key="u.s._571_____" citation_local_level_id="38" start="25659" citation_global_level_id="1045.001" end="25680" volume="571" no_current_file="True" year="2013" line="22" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="25675" citation_global_level_id="1045.001" end="25679" citation_local_level_id="38" id="2644673_246" >2013</DATE>
+
+<ORGANIZATION start="25716" end="25736" id="2644673_250" >Opinion of the Court</ORGANIZATION>
+
+<PROFESSION start="25826" end="25833" id="2644673_251" >justice</PROFESSION>
+
+<ORGANIZATION start="25846" end="25851" id="2644673_252" >court</ORGANIZATION>
+
+<ORGANIZATION start="25907" end="25915" id="2644673_253" >division</ORGANIZATION>
+
+<ORGANIZATION start="25971" end="25979" id="2644673_254" >division</ORGANIZATION>
+
+<NAME start="26319" local_name_id="36" end="26326" all_names="SECTION" id="2644673_255" >Section</NAME>
+
+<NAME start="26493" local_name_id="41" end="26496" all_names="III" id="2644673_256" >III</NAME>
+
+<NAME start="26646" local_name_id="42" end="26653" all_names="STEWART" id="2644673_257" >Stewart</NAME>
+
+<NAME start="26669" local_name_id="43" end="26676" all_names="KENNEDY" id="2644673_258" >KENNEDY</NAME>
+
+<NAME start="26698" local_name_id="8" end="26713" all_names="ATLANTIC MARINE" id="2644673_259" >Atlantic Marine</NAME>
+
+<LEGAL_ROLE start="26923" end="26943" id="2644673_260" >Brief for Petitioner</LEGAL_ROLE>
+
+<NAME start="26969" local_name_id="8" end="26984" all_names="ATLANTIC MARINE" id="2644673_261" >Atlantic Marine</NAME>
+
+<ORGANIZATION start="26994" end="27010" id="2644673_262" >Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="27065" end="27081" id="2644673_263" >Court of Appeals</ORGANIZATION>
+
+<NAME start="27177" local_name_id="10" end="27181" all_names="RULE" id="2644673_264" >Rule</NAME>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="740" id1="Dummy_File_906" id="2644673_242" lookup_key="f.3d_701_740" citation_local_level_id="39" start="27273" citation_global_level_id="1058.001" end="27290" volume="701" no_current_file="True" line="22" >701 F. 3d, at 740</CITATION>
+
+<NAME start="27295" local_name_id="8" end="27310" all_names="ATLANTIC MARINE" id="2644673_265" >Atlantic Marine</NAME>
+
+<NAME start="27594" local_name_id="10" end="27598" all_names="RULE" id="2644673_266" >Rule</NAME>
+
+<CITATION id1="Dummy_File_897" entry_type="party_key" party1="ATLANTIC MARINE CONSTR. CO." line="22" id="2644673_243" lookup_key="constrdist#1" party2="UNITED STATES DIST" citation_local_level_id="40" start="27744" party2_short="DIST" end="27793" citation_global_level_id="1049.001" no_current_file="True" party1_short="CONSTR" >ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST</CITATION>
+
+<NAME start="27744" local_name_id="11" end="27771" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_243" id="2644673_244" >ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<ORGANIZATION start="27768" end="27770" id="2644673_267" >CO</ORGANIZATION>
+
+<NAME start="27775" party2_of="2644673_243" end="27793" all_names="UNITED STATES DIST" id="2644673_245" local_name_id="28" >UNITED STATES DIST</NAME>
+
+<ORGANIZATION start="27806" end="27828" id="2644673_271" >COURT FOR WESTERN DIST</ORGANIZATION>
+
+<NAME start="27833" local_name_id="13" end="27836" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_272" >TEX</NAME>
+
+<ORGANIZATION start="27857" end="27877" id="2644673_285" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="27982" local_name_id="36" end="27989" all_names="SECTION" id="2644673_286" >Section</NAME>
+
+<ORGANIZATION start="28141" end="28146" id="2644673_287" >court</ORGANIZATION>
+
+<NAME start="28170" local_name_id="44" end="28178" all_names="CONGRESS" id="2644673_288" >Congress</NAME>
+
+<NAME start="28252" local_name_id="45" end="28255" all_names="SEE" id="2644673_289" >See</NAME>
+
+<CITATION id1="Dummy_File_891" entry_type="party_key" party1="Sinochem Int’l Co." line="24" id="2644673_277" lookup_key="lint#1" party2="Malaysia Int" citation_local_level_id="41" start="28256" party2_short="Int" end="28290" citation_global_level_id="1043.001" no_current_file="True" party1_short="l" >Sinochem Int’l Co. v. Malaysia Int</CITATION>
+
+<NAME start="28256" local_name_id="20" end="28274" all_names="SINOCHEM INT’L CO	INT’L CO" party1_of="2644673_277" id="2644673_279" >Sinochem Int’l Co.</NAME>
+
+<ORGANIZATION start="28271" end="28273" id="2644673_290" >Co</ORGANIZATION>
+
+<NAME start="28278" party2_of="2644673_277" end="28290" all_names="MALAYSIA INT" id="2644673_280" local_name_id="21" >Malaysia Int</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="422" id1="Dummy_File_892" id="2644673_273" lookup_key="u.s._549_422" citation_local_level_id="42" start="28309" citation_global_level_id="1044.001" end="28333" paragraph_number="430" volume="549" no_current_file="True" year="2007" line="24" >549 U.S. 422, 430 (2007)</CITATION>
+
+<DATE start="28328" citation_global_level_id="1044.001" end="28332" citation_local_level_id="42" id="2644673_283" >2007</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="430" id1="Dummy_File_907" id="2644673_274" lookup_key="u.s._549_430" citation_local_level_id="43" start="28848" citation_global_level_id="1059.001" end="28865" volume="549" no_current_file="True" line="24" >549 U. S., at 430</CITATION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="37" id1="Dummy_File_908" id="2644673_275" lookup_key="u.s._487_37" citation_local_level_id="44" start="29508" citation_global_level_id="1060.001" end="29524" volume="487" no_current_file="True" line="24" >487 U. S., at 37</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_909" entry_type="party_key" party1="Norwood" line="24" id="2644673_278" lookup_key="norwoodkirkpatrick#1" alternative_keys="['u.s._349_29']" party2="Kirkpatrick" citation_local_level_id="45" start="29697" party2_short="Kirkpatrick" end="29719" citation_global_level_id="1061.003" volume="349" no_current_file="True" page_number="29" party1_short="Norwood" >Norwood v. Kirkpatrick</CITATION>
+
+<NAME start="29697" local_name_id="46" end="29704" all_names="NORWOOD" party1_of="2644673_278" id="2644673_281" >Norwood</NAME>
+
+<NAME start="29708" party2_of="2644673_278" end="29719" all_names="KIRKPATRICK" id="2644673_282" local_name_id="47" >Kirkpatrick</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="29" id1="Dummy_File_909" id="2644673_276" lookup_key="u.s._349_29" alternative_keys="['norwoodkirkpatrick#1']" citation_local_level_id="46" start="29721" citation_global_level_id="1061.003" end="29743" paragraph_number="32" volume="349" no_current_file="True" year="1955" line="24" >349 U.S. 29, 32 (1955)</CITATION>
+
+<DATE start="29738" citation_global_level_id="1061.003" end="29742" citation_local_level_id="46" id="2644673_284" >1955</DATE>
+
+<ORGANIZATION start="29799" end="29804" id="2644673_300" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="29819" end="29828" id="2644673_301" >defendant</LEGAL_ROLE>
+
+<NAME start="29857" local_name_id="32" end="29861" all_names="CITE" id="2644673_302" >Cite</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_298" lookup_key="u.s._571_____" citation_local_level_id="47" start="29866" citation_global_level_id="1045.001" end="29887" volume="571" no_current_file="True" year="2013" line="25" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="29882" citation_global_level_id="1045.001" end="29886" citation_local_level_id="47" id="2644673_299" >2013</DATE>
+
+<ORGANIZATION start="29939" end="29959" id="2644673_303" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="30030" local_name_id="10" end="30034" all_names="RULE" id="2644673_304" >Rule</NAME>
+
+<LEGAL_ROLE start="30051" end="30060" id="2644673_305" >plaintiff</LEGAL_ROLE>
+
+<NAME start="30152" local_name_id="48" end="30199" all_names="SEE BRIEF FOR STEPHEN E SACHS AS AMICUS CURIAE" id="2644673_306" >See Brief for Stephen E. Sachs as Amicus Curiae</NAME>
+
+<LEGAL_ROLE start="30201" local_name_id="48" end="30211" name="See Brief for Stephen E. Sachs as Amicus Curiae" id="2644673_307" >Petitioner</LEGAL_ROLE>
+
+<NAME start="30250" local_name_id="10" end="30254" all_names="RULE" id="2644673_308" >Rule</NAME>
+
+<NAME start="30299" local_name_id="10" end="30303" all_names="RULE" id="2644673_309" >Rule</NAME>
+
+<LEGAL_ROLE start="30413" end="30422" id="2644673_310" >defendant</LEGAL_ROLE>
+
+<NAME start="30433" local_name_id="10" end="30437" all_names="RULE" id="2644673_311" >Rule</NAME>
+
+<NAME start="30540" local_name_id="10" end="30544" all_names="RULE" id="2644673_312" >Rule</NAME>
+
+<ORGANIZATION start="30766" end="30782" id="2644673_318" >Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="30899" end="30915" id="2644673_319" >Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="31131" end="31136" id="2644673_320" >court</ORGANIZATION>
+
+<NAME start="31453" local_name_id="10" end="31457" all_names="RULE" id="2644673_321" >Rule</NAME>
+
+<PROFESSION start="31669" end="31678" party="SACHS" document_level_name_id="49" id="2644673_322" >Professor</PROFESSION>
+
+<NAME start="31679" local_name_id="49" end="31684" all_names="SACHS" id="2644673_323" >Sachs</NAME>
+
+<LEGAL_ROLE start="31719" end="31729" plural="True" id="2644673_324" >defendants</LEGAL_ROLE>
+
+<NAME start="31829" local_name_id="10" end="31833" all_names="RULE" id="2644673_325" >Rule</NAME>
+
+<CITATION id1="Dummy_File_897" entry_type="party_key" party1="ATLANTIC MARINE CONSTR. CO." line="26" id="2644673_315" lookup_key="constrdist#1" party2="UNITED STATES DIST" citation_local_level_id="48" start="31925" party2_short="DIST" end="31974" citation_global_level_id="1049.001" no_current_file="True" party1_short="CONSTR" >ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST</CITATION>
+
+<NAME start="31925" local_name_id="11" end="31952" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_315" id="2644673_316" >ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<ORGANIZATION start="31949" end="31951" id="2644673_326" >CO</ORGANIZATION>
+
+<NAME start="31956" party2_of="2644673_315" end="31974" all_names="UNITED STATES DIST" id="2644673_317" local_name_id="28" >UNITED STATES DIST</NAME>
+
+<ORGANIZATION start="31987" end="32009" id="2644673_330" >COURT FOR WESTERN DIST</ORGANIZATION>
+
+<NAME start="32014" local_name_id="13" end="32017" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_331" >TEX</NAME>
+
+<ORGANIZATION start="32039" end="32059" id="2644673_332" >Opinion of the Court</ORGANIZATION>
+
+<ORGANIZATION start="32169" end="32174" id="2644673_344" >court</ORGANIZATION>
+
+<ORGANIZATION start="32360" end="32365" id="2644673_345" >court</ORGANIZATION>
+
+<PROFESSION start="32538" end="32545" id="2644673_346" >justice</PROFESSION>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="31" id1="Dummy_File_894" id="2644673_333" lookup_key="u.s._487_31" citation_local_level_id="49" start="32744" citation_global_level_id="1046.001" end="32760" volume="487" no_current_file="True" line="29" >487 U. S., at 31</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_910" entry_type="party_key" party1="Piper Aircraft Co." line="29" id="2644673_336" lookup_key="aircraftreyno#1" alternative_keys="['u.s._454_235']" party2="Reyno" citation_local_level_id="50" start="33778" party2_short="Reyno" end="33805" citation_global_level_id="1062.003" volume="454" no_current_file="True" page_number="235" party1_short="Aircraft" >Piper Aircraft Co. v. Reyno</CITATION>
+
+<NAME start="33778" local_name_id="50" end="33796" all_names="PIPER AIRCRAFT CO" party1_of="2644673_336" id="2644673_338" >Piper Aircraft Co.</NAME>
+
+<NAME start="33800" party2_of="2644673_336" end="33805" all_names="REYNO" id="2644673_339" local_name_id="51" >Reyno</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="235" id1="Dummy_File_910" id="2644673_334" lookup_key="u.s._454_235" alternative_keys="['aircraftreyno#1']" citation_local_level_id="51" start="33807" citation_global_level_id="1062.003" end="33824" paragraph_number="241" volume="454" no_current_file="True" line="29" >454 U.S. 235, 241</CITATION>
+
+<DATE start="33832" end="33836" id="2644673_342" >1981</DATE>
+
+<CITATION id1="Dummy_File_909" entry_type="party_key" party1="Norwood" line="29" id="2644673_337" lookup_key="norwoodkirkpatrick#1" alternative_keys="['u.s._349_29']" party2="Kirkpatrick" citation_local_level_id="52" start="34267" party2_short="Kirkpatrick" end="34289" citation_global_level_id="1061.003" no_current_file="True" party1_short="Norwood" >Norwood v. Kirkpatrick</CITATION>
+
+<NAME start="34267" local_name_id="46" end="34274" all_names="NORWOOD" party1_of="2644673_337" id="2644673_340" >Norwood</NAME>
+
+<NAME start="34278" party2_of="2644673_337" end="34289" all_names="KIRKPATRICK" id="2644673_341" local_name_id="47" >Kirkpatrick</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="29" id1="Dummy_File_909" id="2644673_335" lookup_key="u.s._349_29" alternative_keys="['norwoodkirkpatrick#1']" citation_local_level_id="53" start="34291" citation_global_level_id="1061.003" end="34313" paragraph_number="32" volume="349" no_current_file="True" year="1995" line="29" >349 U.S. 29, 32 (1995)</CITATION>
+
+<DATE start="34308" citation_global_level_id="1061.003" end="34312" citation_local_level_id="53" id="2644673_343" >1995</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_354" lookup_key="u.s._571_____" citation_local_level_id="54" start="34346" citation_global_level_id="1045.001" end="34367" volume="571" no_current_file="True" year="2013" line="30" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="34362" citation_global_level_id="1045.001" end="34366" citation_local_level_id="54" id="2644673_367" >2013</DATE>
+
+<ORGANIZATION start="34417" end="34447" id="2644673_370" >Opinion of the Court First</ORGANIZATION>
+
+<LEGAL_ROLE start="34453" end="34462" id="2644673_371" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="34561" end="34570" id="2644673_372" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="34689" end="34699" plural="True" id="2644673_373" >plaintiffs</LEGAL_ROLE>
+
+<LEGAL_ROLE start="34874" end="34883" id="2644673_374" >plaintiff</LEGAL_ROLE>
+
+<NAME start="34905" local_name_id="16" end="34914" all_names="VAN DUSEN" id="2644673_375" >Van Dusen</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="635" id1="Dummy_File_911" id="2644673_355" lookup_key="u.s._376_635" citation_local_level_id="55" start="34916" citation_global_level_id="1063.001" end="34933" volume="376" no_current_file="True" line="30" >376 U. S., at 635</CITATION>
+
+<LEGAL_ROLE start="34947" end="34956" id="2644673_376" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="35074" end="35083" id="2644673_377" >defendant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="35088" end="35097" id="2644673_378" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="35224" end="35233" id="2644673_379" >plaintiff</LEGAL_ROLE>
+
+<ORGANIZATION start="35274" end="35279" id="2644673_380" >court</ORGANIZATION>
+
+<ORGANIZATION start="35364" end="35369" id="2644673_381" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="35383" end="35392" id="2644673_382" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="35745" end="35750" id="2644673_383" >court</ORGANIZATION>
+
+<NAME start="35922" local_name_id="42" end="35929" all_names="STEWART" id="2644673_384" >Stewart</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_912" entry_type="party_key" party1="The Bremen" line="30" id="2644673_358" lookup_key="bremenzapata#1" alternative_keys="['u.s._407_1']" party2="Zapata Off-Shore Co" citation_local_level_id="56" start="36131" party2_short="Zapata" end="36164" citation_global_level_id="1064.003" volume="407" no_current_file="True" page_number="1" party1_short="Bremen" >The Bremen v. Zapata Off-Shore Co</CITATION>
+
+<NAME start="36131" local_name_id="52" end="36141" all_names="THE BREMEN" party1_of="2644673_358" id="2644673_361" >The Bremen</NAME>
+
+<NAME start="36145" party2_of="2644673_358" end="36164" all_names="ZAPATA OFF-SHORE CO" id="2644673_362" local_name_id="53" >Zapata Off-Shore Co</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1" id1="Dummy_File_912" id="2644673_356" lookup_key="u.s._407_1" alternative_keys="['bremenzapata#1']" citation_local_level_id="57" start="36167" citation_global_level_id="1064.003" end="36181" paragraph_number="17" volume="407" no_current_file="True" line="30" >407 U.S. 1, 17</CITATION>
+
+<DATE start="36186" end="36190" id="2644673_368" >1972</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_913" entry_type="party_key" party1="Leroy" line="30" id="2644673_359" lookup_key="leroyunited#1" alternative_keys="['u.s._443_173']" party2="Great Western United Corp" citation_local_level_id="58" start="36495" party2_short="United" end="36529" citation_global_level_id="1065.003" volume="443" no_current_file="True" page_number="173" party1_short="Leroy" >Leroy v. Great Western United Corp</CITATION>
+
+<NAME start="36495" local_name_id="54" end="36500" all_names="LEROY" party1_of="2644673_359" id="2644673_363" >Leroy</NAME>
+
+<NAME start="36504" party2_of="2644673_359" end="36529" all_names="GREAT WESTERN UNITED CORP" id="2644673_364" local_name_id="55" >Great Western United Corp</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="173" id1="Dummy_File_913" id="2644673_357" lookup_key="u.s._443_173" alternative_keys="['leroyunited#1']" citation_local_level_id="59" start="36532" citation_global_level_id="1065.003" end="36549" paragraph_number="183" volume="443" no_current_file="True" line="30" >443 U.S. 173, 183</CITATION>
+
+<DATE start="36555" end="36559" id="2644673_369" >1979</DATE>
+
+<CITATION id1="Dummy_File_897" entry_type="party_key" party1="ATLANTIC MARINE CONSTR. CO." line="30" id="2644673_360" lookup_key="constrdist#1" party2="UNITED STATES DIST" citation_local_level_id="60" start="36566" party2_short="DIST" end="36615" citation_global_level_id="1049.001" no_current_file="True" party1_short="CONSTR" >ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST</CITATION>
+
+<NAME start="36566" local_name_id="11" end="36593" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_360" id="2644673_365" >ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<NAME start="36597" party2_of="2644673_360" end="36615" all_names="UNITED STATES DIST" id="2644673_366" local_name_id="28" >UNITED STATES DIST</NAME>
+
+<ORGANIZATION start="36628" end="36650" id="2644673_395" >COURT FOR WESTERN DIST</ORGANIZATION>
+
+<NAME start="36655" local_name_id="13" end="36658" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_396" >TEX</NAME>
+
+<ORGANIZATION start="36680" end="36700" id="2644673_425" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="36718" local_name_id="43" end="36725" all_names="KENNEDY" id="2644673_426" >KENNEDY</NAME>
+
+<NAME start="36757" local_name_id="56" end="36761" all_names="BRE-" id="2644673_427" >Bre-</NAME>
+
+<ORGANIZATION start="36797" end="36802" id="2644673_428" >force</ORGANIZATION>
+
+<ORGANIZATION start="36814" end="36820" plural="True" id="2644673_429" >courts</ORGANIZATION>
+
+<ORGANIZATION start="36877" end="36882" id="2644673_430" >court</ORGANIZATION>
+
+<NAME start="36944" local_name_id="45" end="36947" all_names="SEE" id="2644673_431" >See</NAME>
+
+<CITATION id1="Dummy_File_910" entry_type="party_key" party1="Piper Aircraft Co." line="32" id="2644673_405" lookup_key="aircraftreyno#1" alternative_keys="['u.s._454_235']" party2="Reyno" citation_local_level_id="61" start="37653" party2_short="Reyno" end="37680" citation_global_level_id="1062.003" no_current_file="True" party1_short="Aircraft" >Piper Aircraft Co. v. Reyno</CITATION>
+
+<NAME start="37653" local_name_id="50" end="37671" all_names="PIPER AIRCRAFT CO" party1_of="2644673_405" id="2644673_410" >Piper Aircraft Co.</NAME>
+
+<NAME start="37675" party2_of="2644673_405" end="37680" all_names="REYNO" id="2644673_411" local_name_id="51" >Reyno</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="235" id1="Dummy_File_910" id="2644673_397" lookup_key="u.s._454_235" alternative_keys="['aircraftreyno#1']" citation_local_level_id="62" start="37682" citation_global_level_id="1062.003" end="37699" paragraph_number="241" volume="454" no_current_file="True" line="32" >454 U.S. 235, 241</CITATION>
+
+<DATE start="37707" end="37711" id="2644673_420" >1981</DATE>
+
+<CITATION id1="Dummy_File_914" entry_type="party_key" party1="Klaxon Co." line="32" id="2644673_406" lookup_key="klaxonelec#1" party2="Stentor Elec" citation_local_level_id="63" start="37931" party2_short="Elec" end="37957" citation_global_level_id="1066.001" no_current_file="True" party1_short="Klaxon" >Klaxon Co. v. Stentor Elec</CITATION>
+
+<NAME start="37931" local_name_id="57" end="37941" all_names="KLAXON CO" party1_of="2644673_406" id="2644673_412" >Klaxon Co.</NAME>
+
+<NAME start="37945" party2_of="2644673_406" end="37957" all_names="STENTOR ELEC" id="2644673_413" local_name_id="58" >Stentor Elec</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="487" id1="Dummy_File_915" id="2644673_398" lookup_key="u.s._313_487" citation_local_level_id="64" start="37969" citation_global_level_id="1067.001" end="37986" paragraph_number="494" volume="313" no_current_file="True" line="32" >313 U.S. 487, 494</CITATION>
+
+<DATE start="37992" end="37996" id="2644673_421" >1941</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="639" id1="Dummy_File_916" id="2644673_399" lookup_key="u.s._376_639" citation_local_level_id="65" start="38205" citation_global_level_id="1068.001" end="38222" volume="376" no_current_file="True" line="32" >376 U. S., at 639</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_917" entry_type="party_key" party1="Ferens" line="32" id="2644673_407" lookup_key="ferensdeere#1" alternative_keys="['u.s._494_516']" party2="John Deere Co" citation_local_level_id="66" start="38447" party2_short="Deere" end="38470" citation_global_level_id="1069.003" volume="494" no_current_file="True" page_number="516" party1_short="Ferens" >Ferens v. John Deere Co</CITATION>
+
+<NAME start="38447" local_name_id="59" end="38453" all_names="FERENS" party1_of="2644673_407" id="2644673_414" >Ferens</NAME>
+
+<NAME start="38457" party2_of="2644673_407" end="38470" all_names="JOHN DEERE CO" id="2644673_415" local_name_id="60" >John Deere Co</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="516" id1="Dummy_File_917" id="2644673_400" lookup_key="u.s._494_516" alternative_keys="['ferensdeere#1']" citation_local_level_id="67" start="38473" citation_global_level_id="1069.003" end="38497" paragraph_number="522" volume="494" no_current_file="True" year="1990" line="32" >494 U.S. 516, 522 (1990)</CITATION>
+
+<DATE start="38492" citation_global_level_id="1069.003" end="38496" citation_local_level_id="67" id="2644673_422" >1990</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_401" lookup_key="u.s._571_____" citation_local_level_id="68" start="38769" citation_global_level_id="1045.001" end="38790" volume="571" no_current_file="True" year="2013" line="32" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="38785" citation_global_level_id="1045.001" end="38789" citation_local_level_id="68" id="2644673_423" >2013</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="635" id1="Dummy_File_911" id="2644673_402" lookup_key="u.s._376_635" citation_local_level_id="69" start="39348" citation_global_level_id="1063.001" end="39365" volume="376" no_current_file="True" line="32" >376 U. S., at 635</CITATION>
+
+<CITATION id1="Dummy_File_891" entry_type="party_key" party1="Int’l Co." line="32" id="2644673_408" lookup_key="lint#1" party2="Malaysia Int" citation_local_level_id="70" start="40537" party2_short="Int" end="40562" citation_global_level_id="1043.001" no_current_file="True" party1_short="l" >Int’l Co. v. Malaysia Int</CITATION>
+
+<NAME start="40537" local_name_id="20" end="40546" all_names="SINOCHEM INT’L CO	INT’L CO" party1_of="2644673_408" id="2644673_416" >Int’l Co.</NAME>
+
+<NAME start="40550" party2_of="2644673_408" end="40562" all_names="MALAYSIA INT" id="2644673_417" local_name_id="21" >Malaysia Int</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="422" id1="Dummy_File_892" id="2644673_403" lookup_key="u.s._549_422" citation_local_level_id="71" start="40579" citation_global_level_id="1044.001" end="40603" paragraph_number="430" volume="549" no_current_file="True" year="2007" line="32" >549 U.S. 422, 430 (2007)</CITATION>
+
+<DATE start="40598" citation_global_level_id="1044.001" end="40602" citation_local_level_id="71" id="2644673_424" >2007</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="32" id1="Dummy_File_918" id="2644673_404" lookup_key="u.s._349_32" citation_local_level_id="72" start="40777" citation_global_level_id="1070.001" end="40793" volume="349" no_current_file="True" line="32" >349 U. S., at 32</CITATION>
+
+<CITATION id1="Dummy_File_897" entry_type="party_key" party1="ATLANTIC MARINE CONSTR. CO." line="32" id="2644673_409" lookup_key="constrdist#1" party2="UNITED STATES DIST" citation_local_level_id="73" start="41241" party2_short="DIST" end="41290" citation_global_level_id="1049.001" no_current_file="True" party1_short="CONSTR" >ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST</CITATION>
+
+<NAME start="41241" local_name_id="11" end="41268" all_names="DISTRICT COURT 2 ATLANTIC MARINE CONSTR CO	ATLANTIC MARINE CONSTR CO" party1_of="2644673_409" id="2644673_418" >ATLANTIC MARINE CONSTR. CO.</NAME>
+
+<NAME start="41272" party2_of="2644673_409" end="41290" all_names="UNITED STATES DIST" id="2644673_419" local_name_id="28" >UNITED STATES DIST</NAME>
+
+<ORGANIZATION start="41303" end="41325" id="2644673_447" >COURT FOR WESTERN DIST</ORGANIZATION>
+
+<NAME start="41330" local_name_id="13" end="41333" all_names="UNITED STATES DIST COURT FOR WESTERN DIST OF TEX	TEX" id="2644673_448" >TEX</NAME>
+
+<ORGANIZATION start="41355" end="41375" id="2644673_449" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="41381" local_name_id="61" end="41385" all_names="WHEN" id="2644673_450" >When</NAME>
+
+<ORGANIZATION start="41465" end="41471" plural="True" id="2644673_451" >courts</ORGANIZATION>
+
+<ORGANIZATION start="41978" end="41992" id="2644673_454" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="42075" end="42089" id="2644673_455" >District Court</ORGANIZATION>
+
+<NAME start="42122" local_name_id="8" end="42137" all_names="ATLANTIC MARINE" id="2644673_456" >Atlantic Marine</NAME>
+
+<NAME start="42290" local_name_id="30" end="42296" all_names="J-CREW" id="2644673_457" >J-Crew</NAME>
+
+<ORGANIZATION start="42401" end="42415" id="2644673_458" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="42611" end="42625" id="2644673_459" >District Court</ORGANIZATION>
+
+<NAME start="42701" local_name_id="9" end="42709" all_names="EASTERN DISTRICT OF VIRGINIA	VIRGINIA" id="2644673_460" >Virginia</NAME>
+
+<NAME start="42781" local_name_id="30" end="42787" all_names="J-CREW" id="2644673_461" >J-Crew</NAME>
+
+<DATE start="42870" end="42874" id="2644673_453" >2012</DATE>
+
+<NAME start="42875" local_name_id="62" end="42877" all_names="WL" id="2644673_462" >WL</NAME>
+
+<CITATION reporter="F. 3d" entry_type="standard_key" standard_reporter="F.3D" page_number="743" id1="Dummy_File_899" id="2644673_452" lookup_key="f.3d_701_743" citation_local_level_id="74" start="42898" citation_global_level_id="1051.001" end="42915" volume="701" no_current_file="True" line="35" >701 F. 3d, at 743</CITATION>
+
+<ORGANIZATION start="42924" end="42938" id="2644673_463" >District Court</ORGANIZATION>
+
+<NAME start="42957" local_name_id="30" end="42963" all_names="J-CREW" id="2644673_464" >J-Crew</NAME>
+
+<NAME start="43018" local_name_id="30" end="43024" all_names="J-CREW" id="2644673_465" >J-Crew</NAME>
+
+<NAME start="43079" local_name_id="9" end="43087" all_names="EASTERN DISTRICT OF VIRGINIA	VIRGINIA" id="2644673_466" >Virginia</NAME>
+
+<LEGAL_ROLE start="43277" end="43286" id="2644673_467" >plaintiff</LEGAL_ROLE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="____" id1="Dummy_File_893" id="2644673_468" lookup_key="u.s._571_____" citation_local_level_id="75" start="43316" citation_global_level_id="1045.001" end="43337" volume="571" no_current_file="True" year="2013" line="36" >571 U. S. ____ (2013)</CITATION>
+
+<DATE start="43332" citation_global_level_id="1045.001" end="43336" citation_local_level_id="75" id="2644673_469" >2013</DATE>
+
+<ORGANIZATION start="43379" end="43399" id="2644673_471" >Opinion of the Court</ORGANIZATION>
+
+<NAME start="43477" local_name_id="9" end="43485" all_names="EASTERN DISTRICT OF VIRGINIA	VIRGINIA" id="2644673_472" >Virginia</NAME>
+
+<ORGANIZATION start="43495" end="43509" id="2644673_473" >District Court</ORGANIZATION>
+
+<NAME start="43546" local_name_id="30" end="43552" all_names="J-CREW" id="2644673_474" >J-Crew</NAME>
+
+<ORGANIZATION start="43595" end="43609" id="2644673_475" >District Court</ORGANIZATION>
+
+<NAME start="43693" local_name_id="6" end="43698" all_names="UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS	WESTERN DISTRICT OF TEXAS	DISTRICT OF TEXAS	TEXAS" id="2644673_476" >Texas</NAME>
+
+<NAME start="43707" local_name_id="6" end="43712" all_names="UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS	WESTERN DISTRICT OF TEXAS	DISTRICT OF TEXAS	TEXAS" id="2644673_477" >Texas</NAME>
+
+<PROFESSION start="43754" end="43760" plural="True" id="2644673_478" >judges</PROFESSION>
+
+<NAME start="43764" local_name_id="6" end="43769" all_names="UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF TEXAS	WESTERN DISTRICT OF TEXAS	DISTRICT OF TEXAS	TEXAS" id="2644673_479" >Texas</NAME>
+
+<NAME start="43806" local_name_id="63" end="43810" all_names="VIR-" id="2644673_480" >Vir-</NAME>
+
+<DATE start="44045" end="44049" id="2644673_470" >2012</DATE>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTRUCTION CO., INC." party1="2644673_8" theme_string="ATLANTIC MARINE CONSTRUCTION CO., INC. v.        UNITED STATES DISTRICT COURT FOR THE           WESTERN DISTRICT OF TEXAS ET AL" id="2644673_14" relation_type="asymmetric" theme="2644673_7" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DISTRICT COURT FOR THE           WESTERN DISTRICT OF TEXAS ET AL" theme_string="ATLANTIC MARINE CONSTRUCTION CO., INC. v.        UNITED STATES DISTRICT COURT FOR THE           WESTERN DISTRICT OF TEXAS ET AL" id="2644673_15" relation_type="asymmetric" party2="2644673_9" theme="2644673_7" gram_type="infix" ></RELATION>
+
+<RELATION includes_docket_string="12–929" theme_string="THE FIFTH CIRCUIT" id="2644673_16" relation_type="asymmetric" includes_docket="2644673_6" theme="2644673_12" gram_type="pre_nom" ></RELATION>
+
+<RELATION party1_string="District Court  2    ATLANTIC MARINE CONSTR. CO." party1="2644673_18" theme_string="District Court  2    ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST.              COURT FOR WESTERN DIST. OF TEX" id="2644673_30" relation_type="asymmetric" theme="2644673_17" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST.              COURT FOR WESTERN DIST. OF TEX" theme_string="District Court  2    ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST.              COURT FOR WESTERN DIST. OF TEX" id="2644673_31" relation_type="asymmetric" party2="2644673_19" theme="2644673_17" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Van Dusen v. Barrack" gram_type="apposition" standard_case="2644673_32" relation_type="equivalence" id="2644673_57" X_vs_Y="2644673_38" standard_case_string="376 U.S. 612" ></RELATION>
+
+<RELATION party1_string="Van Dusen" party1="2644673_41" theme_string="Van Dusen v. Barrack" id="2644673_55" relation_type="asymmetric" theme="2644673_38" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Barrack" theme_string="Van Dusen v. Barrack" id="2644673_56" relation_type="asymmetric" party2="2644673_42" theme="2644673_38" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Stewart  Organization, Inc. v. Ricoh Corp" gram_type="apposition" standard_case="2644673_33" relation_type="equivalence" id="2644673_60" X_vs_Y="2644673_39" standard_case_string="487 U.S. 22" ></RELATION>
+
+<RELATION party1_string="Stewart  Organization, Inc." party1="2644673_43" theme_string="Stewart  Organization, Inc. v. Ricoh Corp" id="2644673_58" relation_type="asymmetric" theme="2644673_39" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Ricoh Corp" theme_string="Stewart  Organization, Inc. v. Ricoh Corp" id="2644673_59" relation_type="asymmetric" party2="2644673_44" theme="2644673_39" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Sinochem Int’l Co." party1="2644673_45" theme_string="Sinochem Int’l Co. v. Malaysia Int" id="2644673_61" relation_type="asymmetric" theme="2644673_40" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Malaysia Int" theme_string="Sinochem Int’l Co. v. Malaysia Int" id="2644673_62" relation_type="asymmetric" party2="2644673_46" theme="2644673_40" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_63" relation_type="asymmetric" theme="2644673_35" at_date="2644673_47" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_67" relation_type="asymmetric" theme="2644673_64" at_date="2644673_65" gram_type="infix" ></RELATION>
+
+<RELATION includes_docket_string="12–929" theme_string="ATLANTIC MARINE CONSTRUCTION COMPANY, INC.,    PETITIONER v. UNITED STATES DISTRICT COURT    FOR THE WESTERN DISTRICT OF TEXAS ET AL" id="2644673_88" relation_type="asymmetric" includes_docket="2644673_77" theme="2644673_78" gram_type="pre_nom" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTRUCTION COMPANY, INC.," party1="2644673_80" theme_string="ATLANTIC MARINE CONSTRUCTION COMPANY, INC.,    PETITIONER v. UNITED STATES DISTRICT COURT    FOR THE WESTERN DISTRICT OF TEXAS ET AL" id="2644673_89" relation_type="asymmetric" theme="2644673_78" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DISTRICT COURT    FOR THE WESTERN DISTRICT OF TEXAS ET AL" theme_string="ATLANTIC MARINE CONSTRUCTION COMPANY, INC.,    PETITIONER v. UNITED STATES DISTRICT COURT    FOR THE WESTERN DISTRICT OF TEXAS ET AL" id="2644673_90" relation_type="asymmetric" party2="2644673_81" theme="2644673_78" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTR. CO." party1="2644673_83" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_91" relation_type="asymmetric" theme="2644673_79" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_92" relation_type="asymmetric" party2="2644673_84" theme="2644673_79" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="In re Atlantic Marine Constr. Co." gram_type="apposition" standard_case="2644673_96" relation_type="equivalence" id="2644673_159" standard_case_string="701 F.3d 736, 737" case_citation_other="2644673_125" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_160" relation_type="asymmetric" theme="2644673_97" at_date="2644673_118" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="United States ex rel. J-Crew Management, Inc." party1="2644673_107" theme_string="United States ex rel. J-Crew Management, Inc. v. Atlantic Marine Constr" id="2644673_161" relation_type="asymmetric" theme="2644673_102" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Atlantic Marine Constr" theme_string="United States ex rel. J-Crew Management, Inc. v. Atlantic Marine Constr" id="2644673_162" relation_type="asymmetric" party2="2644673_108" theme="2644673_102" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Cheney" party1="2644673_109" theme_string="Cheney v. United States Dist" id="2644673_163" relation_type="asymmetric" theme="2644673_103" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="United States Dist" theme_string="Cheney v. United States Dist" id="2644673_164" relation_type="asymmetric" party2="2644673_110" theme="2644673_103" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2004" theme_string="542 U.S. 367, 381 (2004)" id="2644673_165" relation_type="asymmetric" theme="2644673_99" at_date="2644673_121" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Relying on Stewart Organization, Inc. v. Ricoh Corp" gram_type="apposition" standard_case="2644673_100" relation_type="equivalence" id="2644673_168" X_vs_Y="2644673_104" standard_case_string="487 U.S. 22 (1988)" ></RELATION>
+
+<RELATION party1_string="Relying on Stewart Organization, Inc." party1="2644673_111" theme_string="Relying on Stewart Organization, Inc. v. Ricoh Corp" id="2644673_166" relation_type="asymmetric" theme="2644673_104" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Ricoh Corp" theme_string="Relying on Stewart Organization, Inc. v. Ricoh Corp" id="2644673_167" relation_type="asymmetric" party2="2644673_112" theme="2644673_104" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1988" theme_string="487 U.S. 22 (1988)" id="2644673_169" relation_type="asymmetric" theme="2644673_100" at_date="2644673_122" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="United States ex rel. J-Crew Man- agement, Inc." party1="2644673_113" theme_string="United States ex rel. J-Crew Man- agement, Inc. v. Atlantic Marine Constr" id="2644673_170" relation_type="asymmetric" theme="2644673_105" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Atlantic Marine Constr" theme_string="United States ex rel. J-Crew Man- agement, Inc. v. Atlantic Marine Constr" id="2644673_171" relation_type="asymmetric" party2="2644673_114" theme="2644673_105" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTR. CO." party1="2644673_115" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_172" relation_type="asymmetric" theme="2644673_106" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_173" relation_type="asymmetric" party2="2644673_116" theme="2644673_106" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="569 U. S. ___ (2013)" id="2644673_181" relation_type="asymmetric" theme="2644673_177" at_date="2644673_178" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_202" relation_type="asymmetric" theme="2644673_187" at_date="2644673_191" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTR. CO." party1="2644673_189" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_203" relation_type="asymmetric" theme="2644673_188" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_204" relation_type="asymmetric" party2="2644673_190" theme="2644673_188" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Smith v. United States" gram_type="apposition" standard_case="2644673_207" relation_type="equivalence" id="2644673_226" X_vs_Y="2644673_211" standard_case_string="507 U.S. 197, 203 (1993)" ></RELATION>
+
+<RELATION party1_string="Smith" party1="2644673_214" theme_string="Smith v. United States" id="2644673_224" relation_type="asymmetric" theme="2644673_211" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="United States" theme_string="Smith v. United States" id="2644673_225" relation_type="asymmetric" party2="2644673_215" theme="2644673_211" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1993" theme_string="507 U.S. 197, 203 (1993)" id="2644673_227" relation_type="asymmetric" theme="2644673_207" at_date="2644673_220" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Van Dusen v. Barrack" gram_type="apposition" standard_case="2644673_208" relation_type="equivalence" id="2644673_230" X_vs_Y="2644673_212" standard_case_string="376 U.S. 612 (1964)" ></RELATION>
+
+<RELATION party1_string="Van Dusen" party1="2644673_216" theme_string="Van Dusen v. Barrack" id="2644673_228" relation_type="asymmetric" theme="2644673_212" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Barrack" theme_string="Van Dusen v. Barrack" id="2644673_229" relation_type="asymmetric" party2="2644673_217" theme="2644673_212" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1964" theme_string="376 U.S. 612 (1964)" id="2644673_231" relation_type="asymmetric" theme="2644673_208" at_date="2644673_221" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_232" relation_type="asymmetric" theme="2644673_209" at_date="2644673_222" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTR. CO." party1="2644673_218" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_233" relation_type="asymmetric" theme="2644673_213" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_234" relation_type="asymmetric" party2="2644673_219" theme="2644673_213" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_268" relation_type="asymmetric" theme="2644673_241" at_date="2644673_246" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTR. CO." party1="2644673_244" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_269" relation_type="asymmetric" theme="2644673_243" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_270" relation_type="asymmetric" party2="2644673_245" theme="2644673_243" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Sinochem Int’l Co." party1="2644673_279" theme_string="Sinochem Int’l Co. v. Malaysia Int" id="2644673_291" relation_type="asymmetric" theme="2644673_277" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Malaysia Int" theme_string="Sinochem Int’l Co. v. Malaysia Int" id="2644673_292" relation_type="asymmetric" party2="2644673_280" theme="2644673_277" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2007" theme_string="549 U.S. 422, 430 (2007)" id="2644673_293" relation_type="asymmetric" theme="2644673_273" at_date="2644673_283" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Norwood v. Kirkpatrick" gram_type="apposition" standard_case="2644673_276" relation_type="equivalence" id="2644673_296" X_vs_Y="2644673_278" standard_case_string="349 U.S. 29, 32 (1955)" ></RELATION>
+
+<RELATION party1_string="Norwood" party1="2644673_281" theme_string="Norwood v. Kirkpatrick" id="2644673_294" relation_type="asymmetric" theme="2644673_278" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Kirkpatrick" theme_string="Norwood v. Kirkpatrick" id="2644673_295" relation_type="asymmetric" party2="2644673_282" theme="2644673_278" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1955" theme_string="349 U.S. 29, 32 (1955)" id="2644673_297" relation_type="asymmetric" theme="2644673_276" at_date="2644673_284" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_313" relation_type="asymmetric" theme="2644673_298" at_date="2644673_299" gram_type="infix" ></RELATION>
+
+<RELATION gram_type="apposition" id="2644673_314" relation_type="asymmetric" theme="2644673_306" theme_string="See Brief for Stephen E. Sachs as Amicus Curiae" legal_role="2644673_307" legal_role_string="Petitioner" ></RELATION>
+
+<RELATION profession="2644673_322" gram_type="pre_nom" id="2644673_327" profession_string="Professor" relation_type="asymmetric" theme="2644673_323" theme_string="Sachs" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTR. CO." party1="2644673_316" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_328" relation_type="asymmetric" theme="2644673_315" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_329" relation_type="asymmetric" party2="2644673_317" theme="2644673_315" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Piper Aircraft Co. v. Reyno" gram_type="apposition" standard_case="2644673_334" relation_type="equivalence" id="2644673_349" X_vs_Y="2644673_336" standard_case_string="454 U.S. 235, 241" ></RELATION>
+
+<RELATION party1_string="Piper Aircraft Co." party1="2644673_338" theme_string="Piper Aircraft Co. v. Reyno" id="2644673_347" relation_type="asymmetric" theme="2644673_336" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Reyno" theme_string="Piper Aircraft Co. v. Reyno" id="2644673_348" relation_type="asymmetric" party2="2644673_339" theme="2644673_336" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Norwood v. Kirkpatrick" gram_type="apposition" standard_case="2644673_335" relation_type="equivalence" id="2644673_352" X_vs_Y="2644673_337" standard_case_string="349 U.S. 29, 32 (1995)" ></RELATION>
+
+<RELATION party1_string="Norwood" party1="2644673_340" theme_string="Norwood v. Kirkpatrick" id="2644673_350" relation_type="asymmetric" theme="2644673_337" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Kirkpatrick" theme_string="Norwood v. Kirkpatrick" id="2644673_351" relation_type="asymmetric" party2="2644673_341" theme="2644673_337" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1995" theme_string="349 U.S. 29, 32 (1995)" id="2644673_353" relation_type="asymmetric" theme="2644673_335" at_date="2644673_343" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_385" relation_type="asymmetric" theme="2644673_354" at_date="2644673_367" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="The Bremen v. Zapata Off-Shore Co" gram_type="apposition" standard_case="2644673_356" relation_type="equivalence" id="2644673_388" X_vs_Y="2644673_358" standard_case_string="407 U.S. 1, 17" ></RELATION>
+
+<RELATION party1_string="The Bremen" party1="2644673_361" theme_string="The Bremen v. Zapata Off-Shore Co" id="2644673_386" relation_type="asymmetric" theme="2644673_358" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Zapata Off-Shore Co" theme_string="The Bremen v. Zapata Off-Shore Co" id="2644673_387" relation_type="asymmetric" party2="2644673_362" theme="2644673_358" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Leroy v. Great Western United Corp" gram_type="apposition" standard_case="2644673_357" relation_type="equivalence" id="2644673_391" X_vs_Y="2644673_359" standard_case_string="443 U.S. 173, 183" ></RELATION>
+
+<RELATION party1_string="Leroy" party1="2644673_363" theme_string="Leroy v. Great Western United Corp" id="2644673_389" relation_type="asymmetric" theme="2644673_359" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Great Western United Corp" theme_string="Leroy v. Great Western United Corp" id="2644673_390" relation_type="asymmetric" party2="2644673_364" theme="2644673_359" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1979" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_392" relation_type="asymmetric" theme="2644673_360" at_date="2644673_369" gram_type="pre_nom" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTR. CO." party1="2644673_365" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_393" relation_type="asymmetric" theme="2644673_360" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_394" relation_type="asymmetric" party2="2644673_366" theme="2644673_360" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Piper Aircraft Co. v. Reyno" gram_type="apposition" standard_case="2644673_397" relation_type="equivalence" id="2644673_434" X_vs_Y="2644673_405" standard_case_string="454 U.S. 235, 241" ></RELATION>
+
+<RELATION party1_string="Piper Aircraft Co." party1="2644673_410" theme_string="Piper Aircraft Co. v. Reyno" id="2644673_432" relation_type="asymmetric" theme="2644673_405" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Reyno" theme_string="Piper Aircraft Co. v. Reyno" id="2644673_433" relation_type="asymmetric" party2="2644673_411" theme="2644673_405" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Klaxon Co." party1="2644673_412" theme_string="Klaxon Co. v. Stentor Elec" id="2644673_435" relation_type="asymmetric" theme="2644673_406" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Stentor Elec" theme_string="Klaxon Co. v. Stentor Elec" id="2644673_436" relation_type="asymmetric" party2="2644673_413" theme="2644673_406" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Ferens v. John Deere Co" gram_type="apposition" standard_case="2644673_400" relation_type="equivalence" id="2644673_439" X_vs_Y="2644673_407" standard_case_string="494 U.S. 516, 522 (1990)" ></RELATION>
+
+<RELATION party1_string="Ferens" party1="2644673_414" theme_string="Ferens v. John Deere Co" id="2644673_437" relation_type="asymmetric" theme="2644673_407" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="John Deere Co" theme_string="Ferens v. John Deere Co" id="2644673_438" relation_type="asymmetric" party2="2644673_415" theme="2644673_407" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1990" theme_string="494 U.S. 516, 522 (1990)" id="2644673_440" relation_type="asymmetric" theme="2644673_400" at_date="2644673_422" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_441" relation_type="asymmetric" theme="2644673_401" at_date="2644673_423" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Int’l Co." party1="2644673_416" theme_string="Int’l Co. v. Malaysia Int" id="2644673_442" relation_type="asymmetric" theme="2644673_408" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Malaysia Int" theme_string="Int’l Co. v. Malaysia Int" id="2644673_443" relation_type="asymmetric" party2="2644673_417" theme="2644673_408" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2007" theme_string="549 U.S. 422, 430 (2007)" id="2644673_444" relation_type="asymmetric" theme="2644673_403" at_date="2644673_424" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="ATLANTIC MARINE CONSTR. CO." party1="2644673_418" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_445" relation_type="asymmetric" theme="2644673_409" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="UNITED STATES DIST" theme_string="ATLANTIC MARINE CONSTR. CO. v. UNITED STATES DIST" id="2644673_446" relation_type="asymmetric" party2="2644673_419" theme="2644673_409" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="2013" theme_string="571 U. S. ____ (2013)" id="2644673_481" relation_type="asymmetric" theme="2644673_468" at_date="2644673_469" gram_type="infix" ></RELATION>
+

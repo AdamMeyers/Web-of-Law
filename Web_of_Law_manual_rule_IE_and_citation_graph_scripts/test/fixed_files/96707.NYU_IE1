@@ -1,0 +1,308 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="61" id1="Dummy_File_436" id="96707_1" lookup_key="u.s._207_61" alternative_keys="['banktitle#1']" party2="THE CHICAGO TITLE AND TRUST COMPANY" citation_local_level_id="0" start="1" citation_global_level_id="588.003" end="19" party2_short="TITLE" volume="207" no_current_file="True" year="1907" line="2" party1_short="BANK" party1="THE FIRST NATIONAL BANK OF CHICAGO" >207 U.S. 61 (1907)</CITATION>
+
+<DATE start="14" citation_global_level_id="588.003" end="18" citation_local_level_id="0" id="96707_2" >1907</DATE>
+
+<CITATION start="20" id1="Dummy_File_437" entry_type="case_key" citation_global_level_id="589.001" line="3" no_current_file="True" name="Ex parte THE FIRST NATIONAL BANK" id="96707_4" lookup_key="ex parte the first national bank#1" end="52" citation_local_level_id="1" >Ex parte THE FIRST NATIONAL BANK</CITATION>
+
+<ORGANIZATION start="33" end="52" id="96707_5" >FIRST NATIONAL BANK</ORGANIZATION>
+
+<NAME start="53" local_name_id="1" end="63" all_names="OF CHICAGO	THE FIRST NATIONAL BANK OF CHICAGO	FIRST NATIONAL BANK OF CHICAGO" id="96707_6" >OF CHICAGO</NAME>
+
+<CITATION id1="Dummy_File_436" entry_type="party_key" party1="THE FIRST NATIONAL BANK OF CHICAGO" line="6" id="96707_10" lookup_key="banktitle#1" alternative_keys="['u.s._207_61']" party2="THE CHICAGO TITLE AND TRUST COMPANY" citation_local_level_id="2" start="66" party2_short="TITLE" end="141" citation_global_level_id="588.003" no_current_file="True" party1_short="BANK" >THE FIRST NATIONAL BANK OF CHICAGO v. THE CHICAGO TITLE AND TRUST COMPANY</CITATION>
+
+<NAME start="66" local_name_id="1" end="100" all_names="OF CHICAGO	THE FIRST NATIONAL BANK OF CHICAGO	FIRST NATIONAL BANK OF CHICAGO" party1_of="96707_10" id="96707_11" >THE FIRST NATIONAL BANK OF CHICAGO</NAME>
+
+<ORGANIZATION start="70" end="100" id="96707_13" >FIRST NATIONAL BANK OF CHICAGO</ORGANIZATION>
+
+<NAME start="106" party2_of="96707_10" end="141" all_names="THE CHICAGO TITLE AND TRUST COMPANY" id="96707_12" local_name_id="2" >THE CHICAGO TITLE AND TRUST COMPANY</NAME>
+
+<NAME start="150" local_name_id="3" end="158" all_names="ORIGINAL" id="96707_16" >Original</NAME>
+
+<ORGANIZATION start="168" end="198" id="96707_17" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="210" end="222" id="96707_18" >May 13, 1907</DATE>
+
+<NAME start="224" local_name_id="4" end="231" all_names="DECIDED" id="96707_22" >Decided</NAME>
+
+<DATE start="232" end="248" id="96707_21" >October 28, 1907</DATE>
+
+<ORGANIZATION start="412" end="438" id="96707_23" >COURT OF THE UNITED STATES</ORGANIZATION>
+
+<ORGANIZATION start="445" end="506" id="96707_24" >ERROR TO THE CIRCUIT COURT OF APPEALS FOR THE SEVENTH CIRCUIT</ORGANIZATION>
+
+<NAME start="508" local_name_id="5" end="528" all_names="MR HENRY S ROBBINS" id="96707_25" >Mr. Henry S. Robbins</NAME>
+
+<NAME start="530" local_name_id="6" end="573" all_names="MR WALLACE HECKMAN AND MR JAMES G ELSDON" id="96707_26" >Mr. Wallace Heckman and Mr. James G. Elsdon</NAME>
+
+<LEGAL_ROLE start="579" end="590" plural="True" id="96707_27" >petitioners</LEGAL_ROLE>
+
+<LEGAL_ROLE start="595" end="605" plural="True" id="96707_28" >plaintiffs</LEGAL_ROLE>
+
+<NAME start="616" local_name_id="7" end="656" all_names="MR NEWTON WYETH AND MR JOSEPH E PADEN" id="96707_29" >Mr. Newton Wyeth and Mr. Joseph E. Paden</NAME>
+
+<LEGAL_ROLE start="662" end="673" plural="True" id="96707_30" >respondents</LEGAL_ROLE>
+
+<NAME start="679" local_name_id="8" end="681" all_names="MR" id="96707_31" >MR</NAME>
+
+<ORGANIZATION start="810" end="815" id="96707_36" >court</ORGANIZATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_438" entry_type="party_key" party1="First National Bank of Chicago" line="15" id="96707_33" lookup_key="banktrust#1" alternative_keys="['u.s._198_280']" party2="Chicago Title &amp; Trust Co" citation_local_level_id="3" start="819" party2_short="Trust" end="877" citation_global_level_id="590.003" volume="198" no_current_file="True" page_number="280" party1_short="Bank" >First National Bank of Chicago v. Chicago Title &amp; Trust Co</CITATION>
+
+<NAME start="819" local_name_id="1" end="849" all_names="OF CHICAGO	THE FIRST NATIONAL BANK OF CHICAGO	FIRST NATIONAL BANK OF CHICAGO" party1_of="96707_33" id="96707_34" >First National Bank of Chicago</NAME>
+
+<NAME start="853" party2_of="96707_33" end="877" all_names="CHICAGO TITLE &amp; TRUST CO	MERCANTILE TRUST CO" id="96707_35" local_name_id="9" >Chicago Title &amp; Trust Co</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="280" id1="Dummy_File_438" id="96707_32" lookup_key="u.s._198_280" alternative_keys="['banktrust#1']" citation_local_level_id="4" start="880" citation_global_level_id="590.003" end="892" volume="198" no_current_file="True" line="15" >198 U.S. 280</CITATION>
+
+<NAME start="894" local_name_id="10" end="896" all_names="IN" id="96707_37" >In</NAME>
+
+<ORGANIZATION start="911" end="924" id="96707_38" >Trust Company</ORGANIZATION>
+
+<PROFESSION start="952" end="959" id="96707_39" >trustee</PROFESSION>
+
+<ORGANIZATION start="1000" end="1014" id="96707_40" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="1107" end="1121" id="96707_41" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="1143" end="1150" id="96707_42" >company</ORGANIZATION>
+
+<LEGAL_ROLE start="1315" end="1325" id="96707_43" >petitioner</LEGAL_ROLE>
+
+<ORGANIZATION start="1390" end="1414" id="96707_44" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="1425" end="1430" id="96707_45" >court</ORGANIZATION>
+
+<NAME start="1465" local_name_id="11" end="1483" all_names="DISTRICT COURT ON" id="96707_46" >District Court. On</NAME>
+
+<ORGANIZATION start="1474" end="1479" id="96707_47" >Court</ORGANIZATION>
+
+<ORGANIZATION start="1500" end="1505" id="96707_48" >court</ORGANIZATION>
+
+<ORGANIZATION start="1520" end="1544" id="96707_49" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="1592" end="1606" id="96707_50" >District Court</ORGANIZATION>
+
+<PROFESSION start="1643" end="1650" id="96707_51" >trustee</PROFESSION>
+
+<ORGANIZATION start="1680" end="1684" id="96707_52" >fund</ORGANIZATION>
+
+<ORGANIZATION start="1808" end="1832" id="96707_53" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="1853" end="1858" id="96707_54" >court</ORGANIZATION>
+
+<ORGANIZATION start="1911" end="1925" id="96707_55" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="2019" end="2043" id="96707_60" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="2179" end="2193" id="96707_61" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="2259" end="2273" id="96707_62" >District Court</ORGANIZATION>
+
+<LEGAL_ROLE start="2445" end="2456" plural="True" id="96707_63" >respondents</LEGAL_ROLE>
+
+<ORGANIZATION start="2481" end="2486" id="96707_64" >court</ORGANIZATION>
+
+<ORGANIZATION start="2534" end="2548" id="96707_65" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="2603" end="2634" id="96707_66" >Chicago Title and Trust Company</ORGANIZATION>
+
+<PROFESSION start="2640" end="2647" id="96707_67" >trustee</PROFESSION>
+
+<ORGANIZATION start="2664" end="2669" id="96707_68" >court</ORGANIZATION>
+
+<ORGANIZATION start="2716" end="2721" id="96707_69" >court</ORGANIZATION>
+
+<PROFESSION start="2756" end="2763" id="96707_70" >trustee</PROFESSION>
+
+<ORGANIZATION start="2780" end="2785" plural="True" id="96707_71" >funds</ORGANIZATION>
+
+<PROFESSION start="2814" end="2821" id="96707_72" >general</PROFESSION>
+
+<PROFESSION start="2835" end="2842" id="96707_73" >trustee</PROFESSION>
+
+<ORGANIZATION start="2940" end="2945" id="96707_74" >court</ORGANIZATION>
+
+<ORGANIZATION start="2985" end="2990" id="96707_75" >court</ORGANIZATION>
+
+<PROFESSION start="3056" end="3061" id="96707_76" >judge</PROFESSION>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="613" id1="Dummy_File_439" id="96707_59" lookup_key="u.s._200_613" citation_local_level_id="5" start="3098" citation_global_level_id="591.001" end="3110" volume="200" no_current_file="True" line="16" >200 U.S. 613</CITATION>
+
+<PROFESSION start="3116" end="3123" id="96707_77" >trustee</PROFESSION>
+
+<ORGANIZATION start="3163" end="3187" id="96707_78" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="3204" end="3209" id="96707_79" >court</ORGANIZATION>
+
+<NAME start="3289" local_name_id="12" end="3292" all_names="CC" id="96707_80" >C.C</NAME>
+
+<PROFESSION start="3305" end="3335" id="96707_81" >Fed. Rep. 742. The petitioners</PROFESSION>
+
+<LEGAL_ROLE start="3340" end="3350" plural="True" id="96707_82" >plaintiffs</LEGAL_ROLE>
+
+<ORGANIZATION start="3389" end="3393" id="96707_83" >fund</ORGANIZATION>
+
+<PROFESSION start="3595" end="3600" id="96707_84" >judge</PROFESSION>
+
+<PROFESSION start="3616" end="3623" id="96707_85" >counsel</PROFESSION>
+
+<ORGANIZATION start="3690" end="3714" id="96707_86" >Circuit Court of Appeals</ORGANIZATION>
+
+<PROFESSION start="3795" end="3800" id="96707_87" >judge</PROFESSION>
+
+<ORGANIZATION start="3851" end="3875" id="96707_88" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="3960" end="3984" id="96707_89" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="4029" end="4043" id="96707_90" >District Court</ORGANIZATION>
+
+<PROFESSION start="4116" end="4121" id="96707_103" >judge</PROFESSION>
+
+<LEGAL_ROLE start="4277" end="4287" plural="True" id="96707_104" >plaintiffs</LEGAL_ROLE>
+
+<PROFESSION start="4424" end="4429" id="96707_105" >judge</PROFESSION>
+
+<CITATION standard_reporter="WALL." id1="Dummy_File_440" entry_type="party_key" party1="Masterson" line="18" id="96707_94" lookup_key="mastersonherndon#1" alternative_keys="['wall._10_416']" party2="Herndon" citation_local_level_id="6" start="4448" party2_short="Herndon" end="4468" citation_global_level_id="592.003" volume="10" no_current_file="True" page_number="416" party1_short="Masterson" >Masterson v. Herndon</CITATION>
+
+<NAME start="4448" local_name_id="13" end="4457" all_names="MASTERSON" party1_of="96707_94" id="96707_97" >Masterson</NAME>
+
+<NAME start="4461" party2_of="96707_94" end="4468" all_names="HERNDON" id="96707_98" local_name_id="14" >Herndon</NAME>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="416" id1="Dummy_File_440" id="96707_91" lookup_key="wall._10_416" alternative_keys="['mastersonherndon#1']" citation_local_level_id="7" start="4470" citation_global_level_id="592.003" end="4482" volume="10" no_current_file="True" line="18" >10 Wall. 416</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_441" entry_type="party_key" party1="Hardee" line="18" id="96707_95" lookup_key="hardeewilson#1" alternative_keys="['u.s._146_179']" party2="Wilson" citation_local_level_id="8" start="4484" party2_short="Wilson" end="4500" citation_global_level_id="593.003" volume="146" no_current_file="True" page_number="179" party1_short="Hardee" >Hardee v. Wilson</CITATION>
+
+<NAME start="4484" local_name_id="15" end="4490" all_names="HARDEE" party1_of="96707_95" id="96707_99" >Hardee</NAME>
+
+<NAME start="4494" party2_of="96707_95" end="4500" all_names="WILSON" id="96707_100" local_name_id="16" >Wilson</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="179" id1="Dummy_File_441" id="96707_92" lookup_key="u.s._146_179" alternative_keys="['hardeewilson#1']" citation_local_level_id="9" start="4502" citation_global_level_id="593.003" end="4514" volume="146" no_current_file="True" line="18" >146 U.S. 179</CITATION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_442" entry_type="party_key" party1="Davis" line="18" id="96707_96" lookup_key="davistrust#1" alternative_keys="['u.s._152_590']" party2="Mercantile Trust Co" citation_local_level_id="10" start="4566" party2_short="Trust" end="4594" citation_global_level_id="594.003" volume="152" no_current_file="True" page_number="590" party1_short="Davis" >Davis v. Mercantile Trust Co</CITATION>
+
+<NAME start="4566" local_name_id="17" end="4571" all_names="DAVIS" party1_of="96707_96" id="96707_101" >Davis</NAME>
+
+<NAME start="4575" party2_of="96707_96" end="4594" all_names="CHICAGO TITLE &amp; TRUST CO	MERCANTILE TRUST CO" id="96707_102" local_name_id="9" >Mercantile Trust Co</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="590" id1="Dummy_File_442" id="96707_93" lookup_key="u.s._152_590" alternative_keys="['davistrust#1']" citation_local_level_id="11" start="4597" citation_global_level_id="594.003" end="4614" paragraph_number="593" volume="152" no_current_file="True" line="18" >152 U.S. 590, 593</CITATION>
+
+<LEGAL_ROLE start="4629" end="4639" plural="True" id="96707_106" >plaintiffs</LEGAL_ROLE>
+
+<PROFESSION start="4746" end="4751" id="96707_107" >judge</PROFESSION>
+
+<ORGANIZATION start="4772" end="4777" id="96707_108" >force</ORGANIZATION>
+
+<LEGAL_ROLE start="4827" end="4837" plural="True" id="96707_109" >plaintiffs</LEGAL_ROLE>
+
+<NAME start="4839" local_name_id="18" end="4843" all_names="THEY	DISTRICT COURT THEY" id="96707_110" >They</NAME>
+
+<ORGANIZATION start="4902" end="4916" id="96707_111" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="5002" end="5026" id="96707_121" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="5058" end="5063" id="96707_122" >court</ORGANIZATION>
+
+<ORGANIZATION start="5224" end="5238" id="96707_123" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="5264" end="5288" id="96707_124" >Circuit Court of Appeals</ORGANIZATION>
+
+<NAME start="5314" local_name_id="18" end="5334" all_names="THEY	DISTRICT COURT THEY" id="96707_125" >District Court. They</NAME>
+
+<ORGANIZATION start="5323" end="5328" id="96707_126" >Court</ORGANIZATION>
+
+<ORGANIZATION start="5361" end="5385" id="96707_127" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="5419" end="5433" id="96707_128" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="5448" end="5462" id="96707_129" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="5502" end="5507" id="96707_130" >court</ORGANIZATION>
+
+<ORGANIZATION start="5520" end="5544" id="96707_131" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="5705" end="5710" id="96707_132" >court</ORGANIZATION>
+
+<ORGANIZATION start="5772" end="5786" id="96707_133" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="5829" end="5859" id="96707_134" >Circuit Court of Appeals. Such</ORGANIZATION>
+
+<ORGANIZATION start="5920" end="5936" id="96707_135" >Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="6009" end="6014" id="96707_136" >court</ORGANIZATION>
+
+<ORGANIZATION start="6073" end="6078" id="96707_137" >court</ORGANIZATION>
+
+<ORGANIZATION start="6123" end="6147" id="96707_138" >Circuit Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="6218" end="6232" id="96707_142" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="6314" end="6328" id="96707_143" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="6456" end="6461" id="96707_144" >court</ORGANIZATION>
+
+<PROFESSION start="6694" end="6701" id="96707_145" >general</PROFESSION>
+
+<NAME start="6771" local_name_id="19" end="6789" all_names="DISTRICT COURT IT" id="96707_146" >District Court. It</NAME>
+
+<ORGANIZATION start="6780" end="6785" id="96707_147" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="6889" end="6900" plural="True" id="96707_148" >respondents</LEGAL_ROLE>
+
+<ORGANIZATION start="6936" end="6941" id="96707_149" >court</ORGANIZATION>
+
+<NAME start="7019" local_name_id="20" end="7033" all_names="BANKRUPTCY LAW" id="96707_150" >Bankruptcy Law</NAME>
+
+<ORGANIZATION start="7065" end="7079" id="96707_151" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="7178" end="7192" id="96707_152" >District Court</ORGANIZATION>
+
+<NAME start="7353" local_name_id="21" end="7361" all_names="RE POTTS" id="96707_153" >Re Potts</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="263" id1="Dummy_File_443" id="96707_139" lookup_key="u.s._166_263" citation_local_level_id="12" start="7363" citation_global_level_id="595.001" end="7375" volume="166" no_current_file="True" line="20" >166 U.S. 263</CITATION>
+
+<CITATION id1="Dummy_File_444" entry_type="case_key" standard_reporter="WALL." line="20" name="Ex parte Dubuque &amp; Pacific R.R." id="96707_141" lookup_key="ex parte dubuque &amp; pacific rr#1" alternative_keys="['wall._1_69']" citation_local_level_id="13" start="7377" citation_global_level_id="596.003" end="7408" volume="1" no_current_file="True" page_number="69" >Ex parte Dubuque &amp; Pacific R.R.</CITATION>
+
+<CITATION reporter="Wall." entry_type="standard_key" standard_reporter="WALL." page_number="69" id1="Dummy_File_444" id="96707_140" lookup_key="wall._1_69" alternative_keys="['ex parte dubuque &amp; pacific rr#1']" name="Ex parte Dubuque &amp; Pacific R.R." citation_local_level_id="14" start="7410" citation_global_level_id="596.003" end="7420" volume="1" no_current_file="True" line="20" >1 Wall. 69</CITATION>
+
+<ORGANIZATION start="7422" end="7462" id="96707_155" >Judgment of the Circuit Court of Appeals</ORGANIZATION>
+
+<NAME start="7473" local_name_id="22" end="7481" all_names="MANDAMUS" id="96707_156" >Mandamus</NAME>
+
+<ORGANIZATION start="7495" end="7509" id="96707_157" >District Court</ORGANIZATION>
+
+<RELATION at_date_string="1907" theme_string="207 U.S. 61 (1907)" id="96707_3" relation_type="asymmetric" theme="96707_1" at_date="96707_2" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="THE FIRST NATIONAL BANK OF CHICAGO" party1="96707_11" theme_string="THE FIRST NATIONAL BANK OF CHICAGO  v.  THE CHICAGO TITLE AND TRUST COMPANY" id="96707_14" relation_type="asymmetric" theme="96707_10" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="THE CHICAGO TITLE AND TRUST COMPANY" theme_string="THE FIRST NATIONAL BANK OF CHICAGO  v.  THE CHICAGO TITLE AND TRUST COMPANY" id="96707_15" relation_type="asymmetric" party2="96707_12" theme="96707_10" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="THE FIRST NATIONAL BANK OF CHICAGO  v.  THE CHICAGO TITLE AND TRUST COMPANY" gram_type="multi_line" standard_case="96707_1" relation_type="equivalence" id="96707_20" X_vs_Y="96707_10" standard_case_string="207 U.S. 61 (1907)" ></RELATION>
+
+<RELATION case_citation_other_string="Ex parte THE FIRST NATIONAL BANK" X_vs_Y_string="THE FIRST NATIONAL BANK OF CHICAGO  v.  THE CHICAGO TITLE AND TRUST COMPANY" gram_type="multi_line" X_vs_Y="96707_10" relation_type="equivalence" id="96707_19" case_citation_other="96707_4" ></RELATION>
+
+<RELATION X_vs_Y_string="First National Bank of Chicago v. Chicago Title &amp; Trust Co" gram_type="apposition" standard_case="96707_32" relation_type="equivalence" id="96707_58" X_vs_Y="96707_33" standard_case_string="198 U.S. 280" ></RELATION>
+
+<RELATION party1_string="First National Bank of Chicago" party1="96707_34" theme_string="First National Bank of Chicago v. Chicago Title &amp; Trust Co" id="96707_56" relation_type="asymmetric" theme="96707_33" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Chicago Title &amp; Trust Co" theme_string="First National Bank of Chicago v. Chicago Title &amp; Trust Co" id="96707_57" relation_type="asymmetric" party2="96707_35" theme="96707_33" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Masterson v. Herndon" gram_type="apposition" standard_case="96707_91" relation_type="equivalence" id="96707_114" X_vs_Y="96707_94" standard_case_string="10 Wall. 416" ></RELATION>
+
+<RELATION party1_string="Masterson" party1="96707_97" theme_string="Masterson v. Herndon" id="96707_112" relation_type="asymmetric" theme="96707_94" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Herndon" theme_string="Masterson v. Herndon" id="96707_113" relation_type="asymmetric" party2="96707_98" theme="96707_94" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Hardee v. Wilson" gram_type="apposition" standard_case="96707_92" relation_type="equivalence" id="96707_117" X_vs_Y="96707_95" standard_case_string="146 U.S. 179" ></RELATION>
+
+<RELATION party1_string="Hardee" party1="96707_99" theme_string="Hardee v. Wilson" id="96707_115" relation_type="asymmetric" theme="96707_95" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Wilson" theme_string="Hardee v. Wilson" id="96707_116" relation_type="asymmetric" party2="96707_100" theme="96707_95" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Davis v. Mercantile Trust Co" gram_type="apposition" standard_case="96707_93" relation_type="equivalence" id="96707_120" X_vs_Y="96707_96" standard_case_string="152 U.S. 590, 593" ></RELATION>
+
+<RELATION party1_string="Davis" party1="96707_101" theme_string="Davis v. Mercantile Trust Co" id="96707_118" relation_type="asymmetric" theme="96707_96" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Mercantile Trust Co" theme_string="Davis v. Mercantile Trust Co" id="96707_119" relation_type="asymmetric" party2="96707_102" theme="96707_96" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="Ex parte Dubuque &amp; Pacific R.R." gram_type="apposition" standard_case="96707_140" relation_type="equivalence" id="96707_154" standard_case_string="1 Wall. 69" case_citation_other="96707_141" ></RELATION>
+

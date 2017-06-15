@@ -1,0 +1,47 @@
+<citation id="99840_1" entry_type="standard_case" start="1" end="20" reporter="U.S." standard_reporter="U.S." volume="256" page_number="616" year="1921" line="2">256 U.S. 616 (1921)</citation>
+<date id="99840_2" start="15" end="19">1921</date>
+<NAME id="99840_5" start="21" end="64">EX PARTE IN THE MATTER OF HUSSEIN LUTFI BEY</NAME>
+<PROFESSION id="99840_6" start="66" end="72">MASTER</PROFESSION>
+<citation id="99840_4" entry_type="case_citation_other" start="76" end="102" name="THE GUL DJEMAL" party1="GUL DJEMAL" party1_role=", PETITIONER" line="3">THE GUL DJEMAL, PETITIONER</citation>
+<NAME id="99840_8" start="113" end="121">Original</NAME>
+<ORGANIZATION id="99840_9" start="123" end="153">Supreme Court of United States</ORGANIZATION>
+<NAME id="99840_11" start="155" end="161">Motion</NAME>
+<date id="99840_10" start="172" end="189">February 28, 1921</date>
+<NAME id="99840_13" start="191" end="198">Decided</NAME>
+<date id="99840_12" start="199" end="211">June 6, 1921</date>
+<NAME id="99840_14" start="213" end="295">MOTION FOR LEAVE TO FILE PETITION FOR A WRIT OF PROHIBITION AND A WRIT OF MANDAMUS</NAME>
+<NAME id="99840_15" start="297" end="316">Mr. John M. Woolsey</NAME>
+<NAME id="99840_16" start="318" end="370">Mr. Frank J. McConnell and Mr. William A. Purrington</NAME>
+<LEGAL_ROLE id="99840_17" start="376" end="386">petitioner</LEGAL_ROLE>
+<NAME id="99840_18" start="393" end="395">MR</NAME>
+<NAME id="99840_21" start="620" end="640">Steamship Gul Djemal</NAME>
+<NAME id="99840_22" start="653" end="669">Port of New York</NAME>
+<ORGANIZATION id="99840_23" start="772" end="786">District Court</ORGANIZATION>
+<NAME id="99840_24" start="843" end="869">Constantinople to New York</NAME>
+<NAME id="99840_25" start="1112" end="1121">Gibraltar</NAME>
+<NAME id="99840_26" start="1157" end="1165">New York</NAME>
+<PROFESSION id="99840_27" start="1189" end="1195">master</PROFESSION>
+<NAME id="99840_28" start="1197" end="1214">Hussein Lutfi Bey</NAME>
+<NAME id="99840_29" start="1381" end="1388">Turkish</NAME>
+<PROFESSION id="99840_30" start="1392" end="1410">Ottoman Government</PROFESSION>
+<ORGANIZATION id="99840_31" start="1454" end="1459">court</ORGANIZATION>
+<PROFESSION id="99840_32" start="1509" end="1514">agent</PROFESSION>
+<PROFESSION id="99840_33" start="1523" end="1533">government</PROFESSION>
+<ORGANIZATION id="99840_34" start="1620" end="1625">court</ORGANIZATION>
+<PROFESSION id="99840_35" start="1695" end="1701">master</PROFESSION>
+<PROFESSION id="99840_36" start="1963" end="1973">government</PROFESSION>
+<NAME id="99840_37" start="2056" end="2069">United States</NAME>
+<PROFESSION id="99840_38" start="2223" end="2233">government</PROFESSION>
+<NAME id="99840_39" start="2298" end="2317">United States. Both</NAME>
+<citation id="99840_20" entry_type="case_citation_other" start="2680" end="2693" name="Ex parte Muir" line="11">Ex parte Muir</citation>
+<citation id="99840_19" entry_type="standard_case" start="2695" end="2707" reporter="U.S." standard_reporter="U.S." volume="254" page_number="522" line="11">254 U.S. 522</citation>
+<NAME id="99840_40" start="2709" end="2711">It</NAME>
+<ORGANIZATION id="99840_41" start="2853" end="2869">State Department</ORGANIZATION>
+<PROFESSION id="99840_42" start="2894" end="2910">Attorney General</PROFESSION>
+<ORGANIZATION id="99840_43" start="2929" end="2943">District Court</ORGANIZATION>
+<NAME id="99840_44" start="2995" end="3002">Turkish</NAME>
+<PROFESSION id="99840_45" start="3006" end="3024">Ottoman Government</PROFESSION>
+<NAME id="99840_47" start="3219" end="3224">Leave</NAME>
+<RELATION id="99840_3" relation_type="asymmetric" gram_type="infix" theme="99840_1" theme_string="256 U.S. 616 (1921)" at_date="99840_2" at_date_string="1921"></RELATION>
+<RELATION id="99840_7" relation_type="asymmetric" gram_type="apposition" profession="99840_6" profession_string="MASTER" theme="99840_5" theme_string="EX PARTE IN THE MATTER OF HUSSEIN LUTFI BEY"></RELATION>
+<RELATION id="99840_46" relation_type="equivalence" gram_type="apposition" standard_case="99840_19" standard_case_string="254 U.S. 522" case_citation_other="99840_20" case_citation_other_string="Ex parte Muir"></RELATION>

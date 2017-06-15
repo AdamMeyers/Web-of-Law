@@ -1,0 +1,42 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="406" id1="2620816" id="2620816_1" lookup_key="u.s._6_406" alternative_keys="['statessally#1', 'cranch_2_406']" citation_local_level_id="0" start="1" citation_global_level_id="12.002" end="18" volume="6" line="2" >6 U.S. 406 (____)</CITATION>
+
+<CITATION reporter="Cranch" entry_type="standard_key" standard_reporter="CRANCH" page_number="406" id1="2620816" id="2620816_2" lookup_key="cranch_2_406" alternative_keys="['u.s._6_406', 'statessally#1']" citation_local_level_id="1" start="19" citation_global_level_id="12.003" end="31" volume="2" line="3" >2 Cranch 406</CITATION>
+
+<CITATION id1="2620816" entry_type="party_key" party1="THE UNITED STATES" line="6" id="2620816_4" lookup_key="statessally#1" alternative_keys="['u.s._6_406', 'cranch_2_406']" party2="SCHOONER SALLY OF NORFOLK" citation_local_level_id="2" start="32" party2_short="SALLY" end="80" citation_global_level_id="12.001" party1_short="STATES" >THE UNITED STATES v. SCHOONER SALLY OF NORFOLK</CITATION>
+
+<NAME start="32" local_name_id="1" end="49" all_names="THE UNITED STATES	UNITED STATES" party1_of="2620816_4" id="2620816_5" >THE UNITED STATES</NAME>
+
+<NAME start="55" party2_of="2620816_4" end="80" all_names="SCHOONER SALLY OF NORFOLK" id="2620816_6" local_name_id="2" >SCHOONER SALLY OF NORFOLK</NAME>
+
+<ORGANIZATION start="82" end="112" id="2620816_9" >Supreme Court of United States</ORGANIZATION>
+
+<ORGANIZATION start="131" end="136" id="2620816_12" >court</ORGANIZATION>
+
+<ORGANIZATION start="241" end="246" id="2620816_13" >court</ORGANIZATION>
+
+<NAME start="262" local_name_id="1" end="275" all_names="THE UNITED STATES	UNITED STATES" id="2620816_14" >United States</NAME>
+
+<ORGANIZATION start="425" end="430" id="2620816_19" >court</ORGANIZATION>
+
+<CITATION standard_reporter="DALLAS" id1="Dummy_File_2770" entry_type="party_key" party1="United States" line="11" id="2620816_16" lookup_key="statesvengeance#1" alternative_keys="['dallas_3_297']" party2="La Vengeance" citation_local_level_id="3" start="470" party2_short="Vengeance" end="499" citation_global_level_id="2922.003" volume="3" no_current_file="True" page_number="297" party1_short="States" >United States v. La Vengeance</CITATION>
+
+<NAME start="470" local_name_id="1" end="483" all_names="THE UNITED STATES	UNITED STATES" party1_of="2620816_16" id="2620816_17" >United States</NAME>
+
+<NAME start="487" party2_of="2620816_16" end="499" all_names="LA VENGEANCE" id="2620816_18" local_name_id="3" >La Vengeance</NAME>
+
+<CITATION reporter="Dallas" entry_type="standard_key" standard_reporter="DALLAS" page_number="297" id1="Dummy_File_2770" id="2620816_15" lookup_key="dallas_3_297" alternative_keys="['statesvengeance#1']" citation_local_level_id="4" start="501" citation_global_level_id="2922.003" end="514" volume="3" no_current_file="True" line="11" >3 Dallas, 297</CITATION>
+
+<RELATION party1_string="THE UNITED STATES" party1="2620816_5" theme_string="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK" id="2620816_7" relation_type="asymmetric" theme="2620816_4" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="SCHOONER SALLY OF NORFOLK" theme_string="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK" id="2620816_8" relation_type="asymmetric" party2="2620816_6" theme="2620816_4" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK" gram_type="multi_line" standard_case="2620816_1" relation_type="equivalence" id="2620816_10" X_vs_Y="2620816_4" standard_case_string="6 U.S. 406 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK" gram_type="multi_line" standard_case="2620816_2" relation_type="equivalence" id="2620816_11" X_vs_Y="2620816_4" standard_case_string="2 Cranch 406" ></RELATION>
+
+<RELATION X_vs_Y_string="United States v. La Vengeance" gram_type="apposition" standard_case="2620816_15" relation_type="equivalence" id="2620816_22" X_vs_Y="2620816_16" standard_case_string="3 Dallas, 297" ></RELATION>
+
+<RELATION party1_string="United States" party1="2620816_17" theme_string="United States v. La Vengeance" id="2620816_20" relation_type="asymmetric" theme="2620816_16" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="La Vengeance" theme_string="United States v. La Vengeance" id="2620816_21" relation_type="asymmetric" party2="2620816_18" theme="2620816_16" gram_type="infix" ></RELATION>
+

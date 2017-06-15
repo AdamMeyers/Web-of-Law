@@ -1,0 +1,166 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="454" id1="98381" id="98381_1" lookup_key="u.s._236_454" alternative_keys="['louisslavin#1', 's.ct._35_306', 'l.ed._59_671']" citation_local_level_id="0" start="0" citation_global_level_id="26.002" end="12" volume="236" line="1" >236 U.S. 454</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="306" id1="98381" id="98381_2" lookup_key="s.ct._35_306" alternative_keys="['u.s._236_454', 'louisslavin#1', 'l.ed._59_671']" citation_local_level_id="1" start="17" citation_global_level_id="26.003" end="30" volume="35" line="1" >35 S. Ct. 306</CITATION>
+
+<NAME start="20" local_name_id="1" end="25" all_names="S CT" id="98381_9" >S. Ct</NAME>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="671" id1="98381" id="98381_3" lookup_key="l.ed._59_671" alternative_keys="['u.s._236_454', 's.ct._35_306', 'louisslavin#1']" citation_local_level_id="2" start="35" citation_global_level_id="26.004" end="48" volume="59" line="1" >59 L. Ed. 671</CITATION>
+
+<CITATION id1="98381" entry_type="party_key" party1="TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY," line="1" id="98381_4" party2_short="SLAVIN" alternative_keys="['s.ct._35_306', 'l.ed._59_671', 'u.s._236_454']" party2="OTTO E. SLAVIN" citation_local_level_id="3" start="53" lookup_key="louisslavin#1" end="133" party1_role="plff in err." party1_short="LOUIS" citation_global_level_id="26.005" >TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY, Plff. in Err., v. OTTO E. SLAVIN</CITATION>
+
+<NAME start="53" local_name_id="2" end="99" all_names="TOLEDO ST LOUIS &amp; WESTERN RAILROAD COMPANY" party1_of="98381_4" id="98381_5" >TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY,</NAME>
+
+<LEGAL_ROLE start="74" end="105" id="98381_10" >WESTERN RAILROAD COMPANY, Plff</LEGAL_ROLE>
+
+<NAME start="119" party2_of="98381_4" end="133" all_names="OTTO E SLAVIN" id="98381_6" local_name_id="3" >OTTO E. SLAVIN</NAME>
+
+<DATE start="162" end="178" id="98381_7" >January 20, 1915</DATE>
+
+<DATE start="192" end="209" id="98381_8" >February 23, 1915</DATE>
+
+<LEGAL_ROLE start="300" end="359" id="98381_16" >Messrs. Walter G. Kirkbride and C. H. Masters for defendant</LEGAL_ROLE>
+
+<NAME start="376" local_name_id="4" end="393" all_names="MR JUSTICE LAMAR" id="98381_18" >Mr. Justice Lamar</NAME>
+
+<PROFESSION start="380" end="387" id="98381_19" >Justice</PROFESSION>
+
+<ORGANIZATION start="423" end="428" id="98381_20" >court</ORGANIZATION>
+
+<ORGANIZATION start="462" end="467" id="98381_21" >court</ORGANIZATION>
+
+<NAME start="487" local_name_id="5" end="492" all_names="LUCAS" id="98381_22" >Lucas</NAME>
+
+<NAME start="501" local_name_id="6" end="505" all_names="OHIO" id="98381_23" >Ohio</NAME>
+
+<NAME start="507" local_name_id="7" end="518" all_names="OTTO SLAVIN	SLAVIN" id="98381_24" >Otto Slavin</NAME>
+
+<ORGANIZATION start="553" end="560" id="98381_25" >company</ORGANIZATION>
+
+<DATE start="606" end="621" id="98381_17" >August 19, 1910</DATE>
+
+<ORGANIZATION start="662" end="669" id="98381_26" >company</ORGANIZATION>
+
+<NAME start="680" local_name_id="8" end="686" all_names="TOLEDO" id="98381_27" >Toledo</NAME>
+
+<LEGAL_ROLE start="1804" end="1813" id="98381_28" >plaintiff</LEGAL_ROLE>
+
+<ORGANIZATION start="1839" end="1846" id="98381_29" >company</ORGANIZATION>
+
+<LEGAL_ROLE start="2120" end="2129" id="98381_30" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="2150" end="2159" id="98381_31" >defendant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="2236" end="2245" id="98381_32" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="2322" end="2331" id="98381_33" >plaintiff</LEGAL_ROLE>
+
+<ORGANIZATION start="2430" end="2437" id="98381_34" >company</ORGANIZATION>
+
+<ORGANIZATION start="2539" end="2544" id="98381_35" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="2618" end="2627" id="98381_36" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="2638" end="2643" id="98381_37" >court</ORGANIZATION>
+
+<NAME start="2712" local_name_id="9" end="2719" all_names="FEDERAL	CONTROLLING FEDERAL" id="98381_38" >Federal</NAME>
+
+<PROFESSION start="2797" end="2802" id="98381_39" >judge</PROFESSION>
+
+<NAME start="2935" local_name_id="6" end="2939" all_names="OHIO" id="98381_40" >Ohio</NAME>
+
+<LEGAL_ROLE start="2972" end="2981" id="98381_41" >plaintiff</LEGAL_ROLE>
+
+<NAME start="3089" local_name_id="10" end="3098" all_names="OHIO CODE" id="98381_42" >Ohio Code</NAME>
+
+<LEGAL_ROLE start="3212" end="3221" id="98381_43" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="3858" end="3883" id="98381_44" >counsel for the plaintiff</LEGAL_ROLE>
+
+<NAME start="3885" local_name_id="7" end="3891" all_names="OTTO SLAVIN	SLAVIN" id="98381_45" >Slavin</NAME>
+
+<ORGANIZATION start="3999" end="4004" id="98381_46" >court</ORGANIZATION>
+
+<NAME start="4017" local_name_id="9" end="4024" all_names="FEDERAL	CONTROLLING FEDERAL" id="98381_47" >Federal</NAME>
+
+<ORGANIZATION start="4051" end="4058" id="98381_48" >company</ORGANIZATION>
+
+<LEGAL_ROLE start="4099" end="4108" id="98381_49" >defendant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="4204" end="4213" id="98381_50" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="4349" end="4358" id="98381_51" >defendant</LEGAL_ROLE>
+
+<NAME start="4382" local_name_id="9" end="4389" all_names="FEDERAL	CONTROLLING FEDERAL" id="98381_52" >Federal</NAME>
+
+<NAME start="4428" local_name_id="9" end="4447" all_names="FEDERAL	CONTROLLING FEDERAL" id="98381_53" >controlling Federal</NAME>
+
+<LEGAL_ROLE start="4497" end="4506" id="98381_54" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="4546" end="4555" id="98381_55" >defendant</LEGAL_ROLE>
+
+<NAME start="4601" local_name_id="6" end="4605" all_names="OHIO" id="98381_56" >Ohio</NAME>
+
+<NAME start="4663" local_name_id="7" end="4669" all_names="OTTO SLAVIN	SLAVIN" id="98381_57" >Slavin</NAME>
+
+<LEGAL_ROLE start="4798" end="4807" id="98381_58" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="4833" end="4842" id="98381_59" >defendant</LEGAL_ROLE>
+
+<NAME start="4869" local_name_id="9" end="4876" all_names="FEDERAL	CONTROLLING FEDERAL" id="98381_60" >Federal</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2771" entry_type="party_key" party1="St. Louis, S. F. &amp; T. R. Co." line="13" id="98381_65" lookup_key="rseale#1" alternative_keys="['l.ed._57_1129', 'u.s._229_156']" party2="Seale" citation_local_level_id="4" start="5015" party2_short="Seale" end="5052" citation_global_level_id="2923.004" volume="229" no_current_file="True" page_number="156" party1_short="R" >St. Louis, S. F. &amp; T. R. Co. v. Seale</CITATION>
+
+<NAME start="5015" local_name_id="11" end="5043" all_names="ST LOUIS S F &amp; T R CO	SEABOARD AIR LINE R CO" party1_of="98381_65" id="98381_67" >St. Louis, S. F. &amp; T. R. Co.</NAME>
+
+<NAME start="5047" party2_of="98381_65" end="5052" all_names="SEALE" id="98381_68" local_name_id="12" >Seale</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="156" id1="Dummy_File_2771" id="98381_61" lookup_key="u.s._229_156" alternative_keys="['rseale#1', 'l.ed._57_1129']" citation_local_level_id="5" start="5054" citation_global_level_id="2923.004" end="5071" paragraph_number="161" volume="229" no_current_file="True" line="13" >229 U.S. 156, 161</CITATION>
+
+<CITATION reporter="L. ed." entry_type="standard_key" standard_reporter="L.ED." page_number="1129" id1="Dummy_File_2771" id="98381_62" lookup_key="l.ed._57_1129" alternative_keys="['rseale#1', 'u.s._229_156']" citation_local_level_id="6" start="5073" citation_global_level_id="2923.004" end="5093" paragraph_number="1134" volume="57" no_current_file="True" line="13" >57 L. ed. 1129, 1134</CITATION>
+
+<DATE start="5127" end="5131" id="98381_71" >1914</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2772" entry_type="party_key" party1="Seaboard Air Line R. Co." line="13" id="98381_66" lookup_key="rhorton#1" alternative_keys="['l.ed._58_1062', 'u.s._233_492']" party2="Horton" citation_local_level_id="7" start="6411" party2_short="Horton" end="6445" citation_global_level_id="2924.004" volume="233" no_current_file="True" page_number="492" party1_short="R" >Seaboard Air Line R. Co. v. Horton</CITATION>
+
+<NAME start="6411" local_name_id="11" end="6435" all_names="ST LOUIS S F &amp; T R CO	SEABOARD AIR LINE R CO" party1_of="98381_66" id="98381_69" >Seaboard Air Line R. Co.</NAME>
+
+<NAME start="6439" party2_of="98381_66" end="6445" all_names="HORTON" id="98381_70" local_name_id="13" >Horton</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="492" id1="Dummy_File_2772" id="98381_63" lookup_key="u.s._233_492" alternative_keys="['rhorton#1', 'l.ed._58_1062']" citation_local_level_id="8" start="6447" citation_global_level_id="2924.004" end="6464" paragraph_number="503" volume="233" no_current_file="True" line="13" >233 U.S. 492, 503</CITATION>
+
+<CITATION reporter="L. ed." entry_type="standard_key" standard_reporter="L.ED." page_number="1062" id1="Dummy_File_2772" id="98381_64" lookup_key="l.ed._58_1062" alternative_keys="['rhorton#1', 'u.s._233_492']" citation_local_level_id="9" start="6466" citation_global_level_id="2924.004" end="6486" paragraph_number="1069" volume="58" no_current_file="True" line="13" >58 L. ed. 1062, 1069</CITATION>
+
+<ORGANIZATION start="6817" end="6822" id="98381_80" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="6910" end="6919" id="98381_81" >plaintiff</LEGAL_ROLE>
+
+<NAME start="7058" local_name_id="9" end="7065" all_names="FEDERAL	CONTROLLING FEDERAL" id="98381_82" >Federal</NAME>
+
+<ORGANIZATION start="7137" end="7158" id="98381_83" >Supreme Court of Ohio</ORGANIZATION>
+
+<RELATION X_vs_Y_string="TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY,  Plff. in Err., v. OTTO E. SLAVIN" gram_type="pre_nom" standard_case="98381_1" relation_type="equivalence" id="98381_12" X_vs_Y="98381_4" standard_case_string="236 U.S. 454" ></RELATION>
+
+<RELATION X_vs_Y_string="TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY,  Plff. in Err., v. OTTO E. SLAVIN" gram_type="pre_nom" standard_case="98381_2" relation_type="equivalence" id="98381_13" X_vs_Y="98381_4" standard_case_string="35 S. Ct. 306" ></RELATION>
+
+<RELATION X_vs_Y_string="TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY,  Plff. in Err., v. OTTO E. SLAVIN" gram_type="pre_nom" standard_case="98381_3" relation_type="equivalence" id="98381_11" X_vs_Y="98381_4" standard_case_string="59 L. Ed. 671" ></RELATION>
+
+<RELATION party1_string="TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY," party1="98381_5" theme_string="TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY,  Plff. in Err., v. OTTO E. SLAVIN" id="98381_14" relation_type="asymmetric" theme="98381_4" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="OTTO E. SLAVIN" theme_string="TOLEDO, ST. LOUIS, &amp; WESTERN RAILROAD COMPANY,  Plff. in Err., v. OTTO E. SLAVIN" id="98381_15" relation_type="asymmetric" party2="98381_6" theme="98381_4" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="St. Louis, S. F. &amp; T. R. Co. v. Seale" gram_type="apposition" standard_case="98381_62" relation_type="equivalence" id="98381_75" X_vs_Y="98381_65" standard_case_string="57 L. ed. 1129, 1134" ></RELATION>
+
+<RELATION X_vs_Y_string="St. Louis, S. F. &amp; T. R. Co. v. Seale" gram_type="apposition" standard_case="98381_61" relation_type="equivalence" id="98381_74" X_vs_Y="98381_65" standard_case_string="229 U.S. 156, 161" ></RELATION>
+
+<RELATION party1_string="St. Louis, S. F. &amp; T. R. Co." party1="98381_67" theme_string="St. Louis, S. F. &amp; T. R. Co. v. Seale" id="98381_72" relation_type="asymmetric" theme="98381_65" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Seale" theme_string="St. Louis, S. F. &amp; T. R. Co. v. Seale" id="98381_73" relation_type="asymmetric" party2="98381_68" theme="98381_65" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Seaboard Air Line R. Co. v. Horton" gram_type="apposition" standard_case="98381_64" relation_type="equivalence" id="98381_79" X_vs_Y="98381_66" standard_case_string="58 L. ed. 1062, 1069" ></RELATION>
+
+<RELATION X_vs_Y_string="Seaboard Air Line R. Co. v. Horton" gram_type="apposition" standard_case="98381_63" relation_type="equivalence" id="98381_78" X_vs_Y="98381_66" standard_case_string="233 U.S. 492, 503" ></RELATION>
+
+<RELATION party1_string="Seaboard Air Line R. Co." party1="98381_69" theme_string="Seaboard Air Line R. Co. v. Horton" id="98381_76" relation_type="asymmetric" theme="98381_66" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Horton" theme_string="Seaboard Air Line R. Co. v. Horton" id="98381_77" relation_type="asymmetric" party2="98381_70" theme="98381_66" gram_type="infix" ></RELATION>
+

@@ -1,0 +1,54 @@
+<citation id="88927_1" entry_type="standard_case" start="0" end="11" reporter="U.S." standard_reporter="U.S." volume="87" page_number="115" line="1">87 U.S. 115</citation>
+<citation id="88927_2" entry_type="standard_case" start="16" end="29" reporter="L. Ed." standard_reporter="L.ED." volume="22" page_number="328" line="1">22 L. Ed. 328</citation>
+<NAME id="88927_6" start="19" end="24">L. Ed</NAME>
+<citation id="88927_3" entry_type="standard_case" start="34" end="46" reporter="Wall." standard_reporter="WALL." volume="20" page_number="115" line="1">20 Wall. 115</citation>
+<citation id="88927_5" entry_type="case_citation_other" start="51" end="64" name="CONRAD'S LOTS" line="1">CONRAD'S LOTS</citation>
+<date id="88927_4" start="84" end="88">1873</date>
+<NAME id="88927_13" start="206" end="213">Slidell</NAME>
+<citation id="88927_10" entry_type="case_X_vs_Y" start="235" end="307" party1="District Court for Louisiana, by The United States" party2="Ten Lots of Ground" line="2">District Court for Louisiana, by The United States v. Ten Lots of Ground</citation>
+<NAME id="88927_11" start="235" end="285" party1_of="88927_10">District Court for Louisiana, by The United States</NAME>
+<ORGANIZATION id="88927_14" start="235" end="263">District Court for Louisiana</ORGANIZATION>
+<NAME id="88927_12" start="289" end="307" party2_of="88927_10">Ten Lots of Ground</NAME>
+<ORGANIZATION id="88927_17" start="513" end="526">Circuit Court</ORGANIZATION>
+<NAME id="88927_18" start="702" end="708">Conrad</NAME>
+<NAME id="88927_19" start="796" end="809">United States</NAME>
+<NAME id="88927_20" start="821" end="827">Conrad</NAME>
+<NAME id="88927_21" start="841" end="854">United States</NAME>
+<ORGANIZATION id="88927_22" start="882" end="895">Circuit Court</ORGANIZATION>
+<ORGANIZATION id="88927_23" start="933" end="947">District Court</ORGANIZATION>
+<NAME id="88927_24" start="1006" end="1012">Conrad</NAME>
+<ORGANIZATION id="88927_25" start="1034" end="1039">court</ORGANIZATION>
+<NAME id="88927_26" start="1147" end="1160">United States</NAME>
+<ORGANIZATION id="88927_27" start="1166" end="1171">court</ORGANIZATION>
+<NAME id="88927_28" start="1210" end="1217">Slidell</NAME>
+<NAME id="88927_29" start="1251" end="1257">Conrad</NAME>
+<NAME id="88927_30" start="1333" end="1340">Slidell</NAME>
+<ORGANIZATION id="88927_31" start="1431" end="1445">District Court</ORGANIZATION>
+<NAME id="88927_32" start="1504" end="1510">Conrad</NAME>
+<NAME id="88927_33" start="1675" end="1691">Mr. C. M. Conrad</NAME>
+<LEGAL_ROLE id="88927_34" start="1693" end="1702">plaintiff</LEGAL_ROLE>
+<NAME id="88927_35" start="1735" end="1749">Mr. C. H. Hill</NAME>
+<PROFESSION id="88927_36" start="1751" end="1760">Assistant</PROFESSION>
+<NAME id="88927_37" start="1761" end="1777">Attorney-General</NAME>
+<NAME id="88927_44" start="1793" end="1811">Mr. Justice STRONG</NAME>
+<PROFESSION id="88927_45" start="1797" end="1804">Justice</PROFESSION>
+<ORGANIZATION id="88927_46" start="1841" end="1846">court</ORGANIZATION>
+<citation id="88927_41" entry_type="case_X_vs_Y" start="1913" end="1948" party1="United States" party2="Ten Lots of Ground" line="8">United States v. Ten Lots of Ground</citation>
+<NAME id="88927_42" start="1913" end="1926" party1_of="88927_41">United States</NAME>
+<NAME id="88927_43" start="1930" end="1948" party2_of="88927_41">Ten Lots of Ground</NAME>
+<NAME id="88927_49" start="2483" end="2500">JUDGMENT REVERSED</NAME>
+<PROFESSION id="88927_50" start="2527" end="2544" plural="True">Justices CLIFFORD</PROFESSION>
+<NAME id="88927_51" start="2546" end="2551">DAVIS</NAME>
+<NAME id="88927_52" start="2557" end="2562">FIELD</NAME>
+<ORGANIZATION id="88927_53" start="2662" end="2675">Circuit Court</ORGANIZATION>
+<ORGANIZATION id="88927_54" start="2746" end="2760">District Court</ORGANIZATION>
+<RELATION id="88927_8" relation_type="equivalence" gram_type="pre_nom" standard_case="88927_1" standard_case_string="87 U.S. 115" case_citation_other="88927_5" case_citation_other_string="CONRAD'S LOTS"></RELATION>
+<RELATION id="88927_9" relation_type="equivalence" gram_type="pre_nom" standard_case="88927_2" standard_case_string="22 L. Ed. 328" case_citation_other="88927_5" case_citation_other_string="CONRAD'S LOTS"></RELATION>
+<RELATION id="88927_7" relation_type="equivalence" gram_type="pre_nom" standard_case="88927_3" standard_case_string="20 Wall. 115" case_citation_other="88927_5" case_citation_other_string="CONRAD'S LOTS"></RELATION>
+<RELATION id="88927_15" relation_type="asymmetric" gram_type="infix" theme="88927_10" theme_string="District Court for Louisiana, by The United States v. Ten Lots of Ground" party1="88927_11" party1_string="District Court for Louisiana, by The United States"></RELATION>
+<RELATION id="88927_16" relation_type="asymmetric" gram_type="infix" theme="88927_10" theme_string="District Court for Louisiana, by The United States v. Ten Lots of Ground" party2="88927_12" party2_string="Ten Lots of Ground"></RELATION>
+<RELATION id="88927_38" legal_role="88927_34" legal_role_string="plaintiff" relation_type="asymmetric" gram_type="apposition" theme="88927_33" theme_string="Mr. C. M. Conrad"></RELATION>
+<RELATION id="88927_39" relation_type="asymmetric" gram_type="apposition" profession="88927_36" profession_string="Assistant" theme="88927_35" theme_string="Mr. C. H. Hill"></RELATION>
+<RELATION id="88927_40" relation_type="asymmetric" gram_type="pre_nom" profession="88927_36" profession_string="Assistant" theme="88927_37" theme_string="Attorney-General"></RELATION>
+<RELATION id="88927_47" relation_type="asymmetric" gram_type="infix" theme="88927_41" theme_string="United States v. Ten Lots of Ground" party1="88927_42" party1_string="United States"></RELATION>
+<RELATION id="88927_48" relation_type="asymmetric" gram_type="infix" theme="88927_41" theme_string="United States v. Ten Lots of Ground" party2="88927_43" party2_string="Ten Lots of Ground"></RELATION>

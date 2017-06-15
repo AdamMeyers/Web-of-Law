@@ -1,0 +1,28 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1162" id1="142419" id="142419_1" lookup_key="u.s._543_1162" alternative_keys="['abdullahkennet#1']" citation_local_level_id="0" start="0" citation_global_level_id="95.002" end="13" volume="543" line="1" >543 U.S. 1162</CITATION>
+
+<CITATION id1="142419" entry_type="party_key" party1="'ABDULLAH" line="2" id="142419_2" lookup_key="abdullahkennet#1" alternative_keys="['u.s._543_1162']" party2="KENNET ET AL" citation_local_level_id="1" start="18" party2_short="KENNET" end="43" citation_global_level_id="95.001" party1_short="ABDULLAH" >'ABDULLAH v. KENNET ET AL</CITATION>
+
+<NAME start="18" local_name_id="1" end="27" all_names="'ABDULLAH" party1_of="142419_2" id="142419_3" >'ABDULLAH</NAME>
+
+<NAME start="31" party2_of="142419_2" end="43" all_names="KENNET" id="142419_4" local_name_id="2" >KENNET ET AL</NAME>
+
+<DOCKET start="53" citation_global_level_id="95.001" entry_type="docket" line="3" id1="142419" id="142419_7" lookup_key="abdullahkennet#1" end="60" citation_local_level_id="1" >04-7654</DOCKET>
+
+<ORGANIZATION start="66" end="96" id="142419_8" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="102" citation_global_level_id="95.001" end="119" citation_local_level_id="1" id="142419_9" >February 22, 2005</DATE>
+
+<NAME start="141" local_name_id="3" end="154" all_names="C A 1ST CIR" id="142419_13" >C. A. 1st Cir</NAME>
+
+<NAME start="156" local_name_id="4" end="166" all_names="CERTIORARI" id="142419_14" >Certiorari</NAME>
+
+<RELATION party1_string="'ABDULLAH" party1="142419_3" theme_string="'ABDULLAH v. KENNET ET AL" id="142419_5" relation_type="asymmetric" theme="142419_2" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="KENNET ET AL" theme_string="'ABDULLAH v. KENNET ET AL" id="142419_6" relation_type="asymmetric" party2="142419_4" theme="142419_2" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="'ABDULLAH v. KENNET ET AL" gram_type="multi_line" standard_case="142419_1" relation_type="equivalence" id="142419_10" X_vs_Y="142419_2" standard_case_string="543 U.S. 1162" ></RELATION>
+
+<RELATION at_date_string="February 22, 2005" theme_string="'ABDULLAH v. KENNET ET AL" id="142419_12" relation_type="asymmetric" theme="142419_2" at_date="142419_9" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="04-7654" theme_string="'ABDULLAH v. KENNET ET AL" id="142419_11" relation_type="asymmetric" includes_docket="142419_7" theme="142419_2" gram_type="multi_line" ></RELATION>
+

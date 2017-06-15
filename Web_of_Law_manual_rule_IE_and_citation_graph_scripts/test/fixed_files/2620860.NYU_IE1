@@ -1,0 +1,182 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="450" id1="2620860" id="2620860_1" lookup_key="u.s._4_450" alternative_keys="['lesseenoe#1', 'dall_4_450']" citation_local_level_id="0" start="1" citation_global_level_id="50.002" end="18" volume="4" line="2" >4 U.S. 450 (____)</CITATION>
+
+<CITATION reporter="Dall" entry_type="standard_key" standard_reporter="DALL" page_number="450" id1="2620860" id="2620860_2" lookup_key="dall_4_450" alternative_keys="['u.s._4_450', 'lesseenoe#1']" citation_local_level_id="1" start="19" citation_global_level_id="50.003" end="30" volume="4" line="3" >4 Dall. 450</CITATION>
+
+<CITATION id1="2620860" entry_type="party_key" party1="Moliere's Lessee" line="6" id="2620860_4" lookup_key="lesseenoe#1" alternative_keys="['u.s._4_450', 'dall_4_450']" party2="Noe" citation_local_level_id="2" start="31" party2_short="Noe" end="60" citation_global_level_id="50.001" party1_short="Lessee" >Moliere's Lessee versus Noe</CITATION>
+
+<NAME start="31" local_name_id="1" end="47" all_names="MOLIERE'S LESSEE" party1_of="2620860_4" id="2620860_5" >Moliere's Lessee</NAME>
+
+<NAME start="57" party2_of="2620860_4" end="60" all_names="NOE" id="2620860_6" local_name_id="2" >Noe</NAME>
+
+<ORGANIZATION start="62" end="92" id="2620860_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="145" end="158" id="2620860_12" >December 1806</DATE>
+
+<NAME start="163" local_name_id="3" end="167" all_names="LEVY	S LEVY" id="2620860_13" >Levy</NAME>
+
+<NAME start="169" local_name_id="4" end="175" all_names="M`KEAN" id="2620860_14" >M`Kean</NAME>
+
+<NAME start="177" local_name_id="3" end="184" all_names="LEVY	S LEVY" id="2620860_15" >S. Levy</NAME>
+
+<PROFESSION start="190" end="201" id="2620860_16" >J. Sergeant</PROFESSION>
+
+<LEGAL_ROLE start="211" end="220" id="2620860_17" >plaintiff</LEGAL_ROLE>
+
+<NAME start="226" local_name_id="5" end="249" all_names="INGERSOLL AND HOPKINSON" id="2620860_18" >Ingersoll and Hopkinson</NAME>
+
+<LEGAL_ROLE start="259" end="268" id="2620860_19" >defendant</LEGAL_ROLE>
+
+<NAME start="316" local_name_id="6" end="324" all_names="ASSEMBLY" id="2620860_20" >Assembly</NAME>
+
+<DATE start="381" end="394" id="2620860_21" >December 1806</DATE>
+
+<PROFESSION start="400" end="413" party="SHIPPEN" document_level_name_id="7" id="2620860_22" >chief justice</PROFESSION>
+
+<ORGANIZATION start="443" end="448" id="2620860_23" >Court</ORGANIZATION>
+
+<NAME start="474" local_name_id="7" end="482" all_names="TILGHMAN" id="2620860_24" >TILGHMAN</NAME>
+
+<PROFESSION start="484" end="497" party="TILGHMAN" document_level_name_id="7" id="2620860_25" >Chief Justice</PROFESSION>
+
+<ORGANIZATION start="535" end="554" id="2620860_28" >Court of Nisi Prius</ORGANIZATION>
+
+<NAME start="566" local_name_id="8" end="570" all_names="JULY" id="2620860_29" >July</NAME>
+
+<NAME start="802" local_name_id="9" end="808" all_names="ORPHAN" id="2620860_30" >Orphan</NAME>
+
+<ORGANIZATION start="811" end="816" id="2620860_31" >Court</ORGANIZATION>
+
+<DATE start="836" end="846" id="2620860_27" >April 1794</DATE>
+
+<DATE start="963" end="967" id="2620860_35" >1705</DATE>
+
+<NAME start="973" local_name_id="9" end="979" all_names="ORPHAN" id="2620860_39" >Orphan</NAME>
+
+<ORGANIZATION start="982" end="987" id="2620860_40" >Court</ORGANIZATION>
+
+<FAMILY start="1171" end="1179" plural="True" id="2620860_41" >children</FAMILY>
+
+<DATE start="1287" end="1298" id="2620860_36" >April, 1794</DATE>
+
+<PROFESSION start="1638" end="1651" party="SHIPPEN" document_level_name_id="10" id="2620860_42" >chief justice</PROFESSION>
+
+<NAME start="1652" local_name_id="10" end="1659" all_names="SHIPPEN" id="2620860_43" >Shippen</NAME>
+
+<ORGANIZATION start="1684" end="1722" id="2620860_44" >president of the Court of Common Pleas</ORGANIZATION>
+
+<CITATION id1="Dummy_File_1323" entry_type="party_key" party1="Graff" line="13" id="2620860_32" lookup_key="graffs#1" party2="Smith's" citation_local_level_id="3" start="1739" party2_short="s" end="1755" citation_global_level_id="1475.001" no_current_file="True" party1_short="Graff" >Graff v. Smith's</CITATION>
+
+<NAME start="1739" local_name_id="11" end="1744" all_names="GRAFF" party1_of="2620860_32" id="2620860_33" >Graff</NAME>
+
+<NAME start="1748" party2_of="2620860_32" end="1755" all_names="SMITH'S" id="2620860_34" local_name_id="12" >Smith's</NAME>
+
+<PROFESSION start="1756" end="1770" plural="True" id="2620860_45" >administrators</PROFESSION>
+
+<ORGANIZATION start="1801" end="1806" id="2620860_46" >Court</ORGANIZATION>
+
+<PROFESSION start="1898" end="1907" id="2620860_47" >president</PROFESSION>
+
+<PROFESSION start="1917" end="1924" id="2620860_48" >general</PROFESSION>
+
+<DATE start="2135" end="2139" id="2620860_37" >1789</DATE>
+
+<DATE start="2169" end="2179" id="2620860_38" >April 1794</DATE>
+
+<NAME start="2282" local_name_id="9" end="2288" all_names="ORPHAN" id="2620860_53" >Orphan</NAME>
+
+<ORGANIZATION start="2291" end="2296" id="2620860_54" >Court</ORGANIZATION>
+
+<DATE start="2312" end="2316" id="2620860_52" >1705</DATE>
+
+<FAMILY start="2479" end="2487" plural="True" id="2620860_55" >children</FAMILY>
+
+<ORGANIZATION start="2564" end="2569" id="2620860_56" >Court</ORGANIZATION>
+
+<NAME start="2821" local_name_id="9" end="2827" all_names="ORPHAN" id="2620860_57" >Orphan</NAME>
+
+<ORGANIZATION start="2830" end="2835" id="2620860_58" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="3135" end="3160" id="2620860_59" >counsel for the plaintiff</LEGAL_ROLE>
+
+<PROFESSION start="3336" end="3347" id="2620860_60" >legislature</PROFESSION>
+
+<ORGANIZATION start="3536" end="3541" id="2620860_61" >Court</ORGANIZATION>
+
+<PROFESSION start="3723" end="3734" id="2620860_62" >legislature</PROFESSION>
+
+<ORGANIZATION start="3749" end="3754" id="2620860_63" >Court</ORGANIZATION>
+
+<PROFESSION start="3796" end="3803" id="2620860_64" >General</PROFESSION>
+
+<PROFESSION start="3978" end="3985" id="2620860_65" >general</PROFESSION>
+
+<PROFESSION start="4093" end="4104" id="2620860_66" >legislature</PROFESSION>
+
+<NAME start="4350" local_name_id="9" end="4356" all_names="ORPHAN" id="2620860_67" >Orphan</NAME>
+
+<ORGANIZATION start="4359" end="4386" id="2620860_68" >Court and the administrator</ORGANIZATION>
+
+<NAME start="5522" local_name_id="9" end="5528" all_names="ORPHAN" id="2620860_69" >Orphan</NAME>
+
+<ORGANIZATION start="5531" end="5536" id="2620860_70" >Court</ORGANIZATION>
+
+<PROFESSION start="5781" end="5792" id="2620860_71" >legislature</PROFESSION>
+
+<NAME start="6072" local_name_id="9" end="6078" all_names="ORPHAN" id="2620860_72" >Orphan</NAME>
+
+<ORGANIZATION start="6081" end="6086" id="2620860_73" >Court</ORGANIZATION>
+
+<PROFESSION start="6293" end="6306" id="2620860_74" >administrator</PROFESSION>
+
+<ORGANIZATION start="6339" end="6344" plural="True" id="2620860_75" >funds</ORGANIZATION>
+
+<LEGAL_ROLE start="6592" end="6601" id="2620860_76" >defendant</LEGAL_ROLE>
+
+<NAME start="6644" local_name_id="9" end="6650" all_names="ORPHAN" id="2620860_77" >Orphan</NAME>
+
+<ORGANIZATION start="6653" end="6658" id="2620860_78" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="6696" end="6705" id="2620860_79" >plaintiff</LEGAL_ROLE>
+
+<NAME start="6718" local_name_id="13" end="6724" all_names="YEATES" id="2620860_80" >YEATES</NAME>
+
+<PROFESSION start="6726" end="6733" party="YEATES" document_level_name_id="13" id="2620860_81" >Justice</PROFESSION>
+
+<PROFESSION start="6781" end="6794" party="SHIPPEN" document_level_name_id="10" id="2620860_82" >chief justice</PROFESSION>
+
+<NAME start="6836" local_name_id="14" end="6848" all_names="BRACKENRIDGE" id="2620860_84" >BRACKENRIDGE</NAME>
+
+<PROFESSION start="6850" end="6857" party="YEATES" document_level_name_id="13" id="2620860_85" >Justice</PROFESSION>
+
+<NAME start="6897" local_name_id="15" end="6905" all_names="JUDGMENT" id="2620860_87" >Judgment</NAME>
+
+<LEGAL_ROLE start="6928" end="6937" id="2620860_88" >defendant</LEGAL_ROLE>
+
+<NAME start="6939" local_name_id="16" end="6944" all_names="NOTES" id="2620860_89" >NOTES</NAME>
+
+<NAME start="6952" local_name_id="17" end="6954" all_names="ST" id="2620860_90" >St</NAME>
+
+<NAME start="6973" local_name_id="18" end="6976" all_names="DAL" id="2620860_91" >Dal</NAME>
+
+<NAME start="6997" local_name_id="17" end="6999" all_names="ST" id="2620860_92" >St</NAME>
+
+<RELATION party1_string="Moliere's Lessee" party1="2620860_5" theme_string="Moliere's Lessee  versus  Noe" id="2620860_7" relation_type="asymmetric" theme="2620860_4" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Noe" theme_string="Moliere's Lessee  versus  Noe" id="2620860_8" relation_type="asymmetric" party2="2620860_6" theme="2620860_4" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Moliere's Lessee  versus  Noe" gram_type="multi_line" standard_case="2620860_1" relation_type="equivalence" id="2620860_10" X_vs_Y="2620860_4" standard_case_string="4 U.S. 450 (____)" ></RELATION>
+
+<RELATION X_vs_Y_string="Moliere's Lessee  versus  Noe" gram_type="multi_line" standard_case="2620860_2" relation_type="equivalence" id="2620860_11" X_vs_Y="2620860_4" standard_case_string="4 Dall. 450" ></RELATION>
+
+<RELATION profession="2620860_25" gram_type="apposition" id="2620860_26" profession_string="Chief Justice" relation_type="asymmetric" theme="2620860_24" theme_string="TILGHMAN" ></RELATION>
+
+<RELATION profession="2620860_42" gram_type="pre_nom" id="2620860_49" profession_string="chief justice" relation_type="asymmetric" theme="2620860_43" theme_string="Shippen" ></RELATION>
+
+<RELATION party1_string="Graff" party1="2620860_33" theme_string="Graff v. Smith's" id="2620860_50" relation_type="asymmetric" theme="2620860_32" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Smith's" theme_string="Graff v. Smith's" id="2620860_51" relation_type="asymmetric" party2="2620860_34" theme="2620860_32" gram_type="infix" ></RELATION>
+
+<RELATION profession="2620860_81" gram_type="apposition" id="2620860_83" profession_string="Justice" relation_type="asymmetric" theme="2620860_80" theme_string="YEATES" ></RELATION>
+
+<RELATION profession="2620860_85" gram_type="apposition" id="2620860_86" profession_string="Justice" relation_type="asymmetric" theme="2620860_84" theme_string="BRACKENRIDGE" ></RELATION>
+

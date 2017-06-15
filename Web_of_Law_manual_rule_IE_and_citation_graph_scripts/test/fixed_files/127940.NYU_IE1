@@ -1,0 +1,32 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="902" id1="127940" id="127940_1" lookup_key="u.s._538_902" alternative_keys="['in re sullivan#1']" citation_local_level_id="0" start="0" citation_global_level_id="92.002" end="12" volume="538" name="IN RE SULLIVAN" line="1" >538 U.S. 902</CITATION>
+
+<CITATION start="17" id1="127940" entry_type="case_key" citation_global_level_id="92.003" line="2" name="IN RE SULLIVAN" id="127940_3" lookup_key="in re sullivan#1" alternative_keys="['u.s._538_902']" end="31" citation_local_level_id="1" >IN RE SULLIVAN</CITATION>
+
+<DOCKET start="37" citation_global_level_id="92.003" entry_type="docket" line="2" id1="127940" id="127940_2" lookup_key="in re sullivan#1" alternative_keys="['u.s._538_902']" end="43" citation_local_level_id="1" >D-2346</DOCKET>
+
+<ORGANIZATION start="49" end="79" id="127940_5" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="85" citation_global_level_id="92.003" end="99" citation_local_level_id="1" id="127940_6" >March 10, 2003</DATE>
+
+<NAME start="121" local_name_id="1" end="140" all_names="CHARLES W SULLIVAN" id="127940_11" >Charles W. Sullivan</NAME>
+
+<NAME start="145" local_name_id="2" end="153" all_names="NEW YORK" id="127940_12" >New York</NAME>
+
+<NAME start="155" local_name_id="3" end="159" all_names="N Y" id="127940_13" >N. Y</NAME>
+
+<ORGANIZATION start="220" end="225" id="127940_14" >Court</ORGANIZATION>
+
+<PROFESSION start="284" end="293" plural="True" id="127940_15" >attorneys</PROFESSION>
+
+<ORGANIZATION start="338" end="343" id="127940_16" >Court</ORGANIZATION>
+
+<DATE start="379" end="396" id="127940_10" >February 24, 2003</DATE>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="1184" id1="Dummy_File_1065" id="127940_9" lookup_key="u.s._537_1184" citation_local_level_id="2" start="398" citation_global_level_id="1217.001" end="412" volume="537" no_current_file="True" line="7" >537 U. S. 1184</CITATION>
+
+<RELATION includes_docket_string="D-2346" theme_string="IN RE SULLIVAN" id="127940_4" relation_type="asymmetric" includes_docket="127940_2" theme="127940_3" gram_type="apposition" ></RELATION>
+
+<RELATION case_citation_other_string="IN RE SULLIVAN" gram_type="multi_line" standard_case="127940_1" relation_type="equivalence" id="127940_7" standard_case_string="538 U.S. 902" case_citation_other="127940_3" ></RELATION>
+
+<RELATION at_date_string="March 10, 2003" theme_string="IN RE SULLIVAN" id="127940_8" relation_type="asymmetric" theme="127940_3" at_date="127940_6" gram_type="multi_line" ></RELATION>
+

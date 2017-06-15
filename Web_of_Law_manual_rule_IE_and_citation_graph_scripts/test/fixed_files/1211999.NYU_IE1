@@ -1,0 +1,22 @@
+<DATE start="2" end="6" id="1211999_1" >2006</DATE>
+
+<CITATION id1="Dummy_File_125" entry_type="party_key" party1="BRADLEY S. WHITMAN" line="5" id="1211999_3" lookup_key="whitmancenter#1" party2="BARTOW, DIR., WI RESOURCE CENTER" citation_local_level_id="0" start="8" party2_short="CENTER" end="64" citation_global_level_id="277.001" no_current_file="True" party1_short="WHITMAN" >BRADLEY S. WHITMAN v. BARTOW, DIR., WI RESOURCE CENTER</CITATION>
+
+<NAME start="8" local_name_id="1" end="26" all_names="BRADLEY S WHITMAN" party1_of="1211999_3" id="1211999_4" >BRADLEY S. WHITMAN</NAME>
+
+<NAME start="32" party2_of="1211999_3" end="64" all_names="BARTOW DIR WI RESOURCE CENTER" id="1211999_5" local_name_id="2" >BARTOW, DIR., WI RESOURCE CENTER</NAME>
+
+<DOCKET start="69" citation_global_level_id="277.001" entry_type="docket" line="6" id1="Dummy_File_125" no_current_file="True" id="1211999_8" lookup_key="whitmancenter#1" end="77" citation_local_level_id="0" >05-10881</DOCKET>
+
+<ORGANIZATION start="78" end="108" id="1211999_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="110" citation_global_level_id="277.001" end="123" citation_local_level_id="0" id="1211999_10" >June 12, 2006</DATE>
+
+<RELATION party1_string="BRADLEY S. WHITMAN" party1="1211999_4" theme_string="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" id="1211999_6" relation_type="asymmetric" theme="1211999_3" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="BARTOW, DIR., WI RESOURCE CENTER" theme_string="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" id="1211999_7" relation_type="asymmetric" party2="1211999_5" theme="1211999_3" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="June 12, 2006" theme_string="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" id="1211999_12" relation_type="asymmetric" theme="1211999_3" at_date="1211999_10" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="05-10881" theme_string="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" id="1211999_11" relation_type="asymmetric" includes_docket="1211999_8" theme="1211999_3" gram_type="multi_line" ></RELATION>
+

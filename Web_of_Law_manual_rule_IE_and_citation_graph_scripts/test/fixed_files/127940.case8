@@ -1,0 +1,16 @@
+<citation id="127940_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="538" page_number="902" line="1">538 U.S. 902</citation>
+<citation id="127940_3" entry_type="case_citation_other" start="17" end="31" name="IN RE SULLIVAN" line="2">IN RE SULLIVAN</citation>
+<docket id="127940_2" entry_type="docket" start="37" end="43" line="2">D-2346</docket>
+<ORGANIZATION id="127940_5" start="49" end="79">Supreme Court of United States</ORGANIZATION>
+<date id="127940_6" start="85" end="99">March 10, 2003</date>
+<NAME id="127940_11" start="121" end="140">Charles W. Sullivan</NAME>
+<NAME id="127940_12" start="145" end="153">New York</NAME>
+<NAME id="127940_13" start="155" end="159">N. Y</NAME>
+<ORGANIZATION id="127940_14" start="220" end="225">Court</ORGANIZATION>
+<PROFESSION id="127940_15" start="284" end="293" plural="True">attorneys</PROFESSION>
+<ORGANIZATION id="127940_16" start="338" end="343">Court</ORGANIZATION>
+<date id="127940_10" start="379" end="396">February 24, 2003</date>
+<citation id="127940_9" entry_type="standard_case" start="398" end="412" reporter="U. S." standard_reporter="U.S." volume="537" page_number="1184" line="7">537 U. S. 1184</citation>
+<RELATION id="127940_4" relation_type="asymmetric" gram_type="apposition" theme="127940_3" theme_string="IN RE SULLIVAN" includes_docket="127940_2" includes_docket_string="D-2346"></RELATION>
+<RELATION id="127940_7" relation_type="equivalence" gram_type="multi_line" standard_case="127940_1" standard_case_string="538 U.S. 902" case_citation_other="127940_3" case_citation_other_string="IN RE SULLIVAN"></RELATION>
+<RELATION id="127940_8" relation_type="asymmetric" gram_type="multi_line" theme="127940_3" theme_string="IN RE SULLIVAN" at_date="127940_6" at_date_string="March 10, 2003"></RELATION>

@@ -1,0 +1,21 @@
+{
+  "resource_uri": "http://www.courtlistener.com/api/rest/v3/opinions/105702/",
+  "absolute_url": "/opinion/105702/amlin-v-verbeem/",
+  "cluster": "http://www.courtlistener.com/api/rest/v3/clusters/105702/",
+  "author": null,
+  "joined_by": [],
+  "per_curiam": true,
+  "date_created": "2010-04-28T16:55:41Z",
+  "date_modified": "2016-04-26T20:04:01.615275Z",
+  "type": "010combined",
+  "sha1": "db05b62711bffc721d21a35563a0dee68d655929",
+  "download_url": null,
+  "local_path": null,
+  "plain_text": "",
+  "html": "<p class=\"case_cite\">356 U.S. 676</p>\n    <p class=\"case_cite\">78 S.Ct. 1006</p>\n    <p class=\"case_cite\">2 L.Ed.2d 1072</p>\n    <p class=\"parties\">William AMLIN and Darrell Amlin, d/b/a Amlin Cartage,  H. Bondy, d/b/a Bondy Cartage, et al., appellants,<br>v.<br>Peter VERBEEM, Doing Business as Peters Cartage, et al.</p>\n    <p class=\"docket\">No. 881.</p>\n    <p class=\"court\">Supreme Court of the United States</p>\n    <p class=\"date\">May 26, 1958</p>\n    <div class=\"prelims\">\n      <p class=\"indent\">Mr. George H. Cholack, for appellants.</p>\n      <p class=\"indent\">Wilhelmina Boersma and Mr. Wilber M. Brucker, Jr., for appellees.</p>\n      <p class=\"indent\">PER CURIAM.</p>\n    </div>\n    <div class=\"num\" id=\"p1\">\n      <span class=\"num\">1</span>\n      <p class=\"indent\">The motion to affirm is granted and the judgment is affirmed.</p>\n    </div>\n    ",
+  "html_lawbox": "<div>\n<center><b>356 U.S. 676 (1958)</b></center>\n<center><h1>AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL.<br>\nv.<br>\nVERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL.</h1></center>\n<center>No. 881.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 26, 1958.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF MICHIGAN.\n<p><i>George H. Cholack</i> for appellants.</p>\n<p><i>Wilhelmina Boersma</i> and <i>Wilber M. Brucker, Jr.</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>",
+  "html_columbia": null,
+  "html_with_citations": "<div>\n<center><b><span class=\"citation no-link\"><span class=\"volume\">356</span> <span class=\"reporter\">U.S.</span> <span class=\"page\">676</span></span> (1958)</b></center>\n<center><h1>AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL.<br>\nv.<br>\nVERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL.</h1></center>\n<center>No. 881.</center>\n<center><p><b>Supreme Court of United States.</b></p></center>\n<center>Decided May 26, 1958.</center>\nAPPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF MICHIGAN.\n<p><i>George H. Cholack</i> for appellants.</p>\n<p><i>Wilhelmina Boersma</i> and <i>Wilber M. Brucker, Jr.</i> for appellees.</p>\n<p>PER CURIAM.</p>\n<p>The motion to affirm is granted and the judgment is affirmed.</p>\n</div>",
+  "extracted_by_ocr": false,
+  "opinions_cited": []
+}

@@ -1,0 +1,80 @@
+<citation id="86863_1" entry_type="standard_case" start="1" end="19" reporter="U.S." standard_reporter="U.S." volume="57" page_number="135" line="2">57 U.S. 135 (____)</citation>
+<citation id="86863_2" entry_type="standard_case" start="20" end="31" reporter="How." standard_reporter="HOW." volume="16" page_number="135" line="3">16 How. 135</citation>
+<NAME id="86863_12" start="39" end="45">MATTER</NAME>
+<citation id="86863_8" entry_type="case_X_vs_Y" start="49" end="146" party1="JOSIAH S. STAFFORD AND JEANNETTE KIRKLAND, HIS WIFE," party2="THE UNION BANK OF LOUISIANA" party1_role="appellants" line="6">JOSIAH S. STAFFORD AND JEANNETTE KIRKLAND, HIS WIFE, APPELLANTS,  v.  THE UNION BANK OF LOUISIANA</citation>
+<NAME id="86863_9" start="49" end="101" party1_of="86863_8">JOSIAH S. STAFFORD AND JEANNETTE KIRKLAND, HIS WIFE,</NAME>
+<FAMILY id="86863_13" start="96" end="100">WIFE</FAMILY>
+<LEGAL_ROLE id="86863_11" start="102" end="112">APPELLANTS</LEGAL_ROLE>
+<NAME id="86863_10" start="119" end="146" party2_of="86863_8">THE UNION BANK OF LOUISIANA</NAME>
+<ORGANIZATION id="86863_16" start="148" end="178">Supreme Court of United States</ORGANIZATION>
+<NAME id="86863_17" start="186" end="204">Mr. Justice M'LEAN</NAME>
+<PROFESSION id="86863_18" start="190" end="197">Justice</PROFESSION>
+<ORGANIZATION id="86863_19" start="234" end="239">court</ORGANIZATION>
+<ORGANIZATION id="86863_20" start="268" end="291">District Court of Texas</ORGANIZATION>
+<ORGANIZATION id="86863_21" start="521" end="535">District Court</ORGANIZATION>
+<NAME id="86863_23" start="559" end="565">Notice</NAME>
+<LEGAL_ROLE id="86863_24" start="605" end="630">counsel for the appellant</LEGAL_ROLE>
+<date id="86863_22" start="643" end="654">March, 1854</date>
+<LEGAL_ROLE id="86863_25" start="728" end="737">appellant</LEGAL_ROLE>
+<ORGANIZATION id="86863_26" start="812" end="826">District Court</ORGANIZATION>
+<ORGANIZATION id="86863_27" start="911" end="934">Union Bank of Louisiana</ORGANIZATION>
+<ORGANIZATION id="86863_28" start="1089" end="1093">bank</ORGANIZATION>
+<NAME id="86863_29" start="1387" end="1391">July</NAME>
+<date id="86863_30" start="1475" end="1486">March, 1854</date>
+<LEGAL_ROLE id="86863_31" start="1536" end="1546" plural="True">defendants</LEGAL_ROLE>
+<ORGANIZATION id="86863_32" start="1682" end="1687">court</ORGANIZATION>
+<LEGAL_ROLE id="86863_33" start="1760" end="1769">appellant</LEGAL_ROLE>
+<ORGANIZATION id="86863_34" start="1949" end="1954">court</ORGANIZATION>
+<date id="86863_39" start="2048" end="2052">1803</date>
+<citation id="86863_36" entry_type="case_X_vs_Y" start="2138" end="2155" party1="Catlett" party2="Brodie" line="16">Catlett v. Brodie</citation>
+<NAME id="86863_37" start="2138" end="2145" party1_of="86863_36">Catlett</NAME>
+<NAME id="86863_38" start="2149" end="2155" party2_of="86863_36">Brodie</NAME>
+<citation id="86863_35" entry_type="standard_case" start="2157" end="2169" reporter="Wheat." standard_reporter="WHEAT." volume="9" page_number="553" line="16">9 Wheat. 553</citation>
+<ORGANIZATION id="86863_41" start="2176" end="2181">court</ORGANIZATION>
+<date id="86863_40" start="2315" end="2329">December, 1794</date>
+<ORGANIZATION id="86863_46" start="2444" end="2458">District Court</ORGANIZATION>
+<LEGAL_ROLE id="86863_47" start="2600" end="2624">counsel of the appellant</LEGAL_ROLE>
+<LEGAL_ROLE id="86863_48" start="3055" end="3064">appellant</LEGAL_ROLE>
+<ORGANIZATION id="86863_49" start="3106" end="3111">court</ORGANIZATION>
+<ORGANIZATION id="86863_50" start="3155" end="3160">court</ORGANIZATION>
+<LEGAL_ROLE id="86863_51" start="3249" end="3258">plaintiff</LEGAL_ROLE>
+<LEGAL_ROLE id="86863_52" start="3517" end="3526">defendant</LEGAL_ROLE>
+<ORGANIZATION id="86863_53" start="3581" end="3586">court</ORGANIZATION>
+<LEGAL_ROLE id="86863_54" start="3625" end="3634">defendant</LEGAL_ROLE>
+<PROFESSION id="86863_56" start="4024" end="4029">judge</PROFESSION>
+<date id="86863_55" start="4142" end="4146">1817</date>
+<LEGAL_ROLE id="86863_57" start="4221" end="4230">appellant</LEGAL_ROLE>
+<LEGAL_ROLE id="86863_58" start="4273" end="4282">appellant</LEGAL_ROLE>
+<PROFESSION id="86863_59" start="4410" end="4419">principal</PROFESSION>
+<LEGAL_ROLE id="86863_60" start="4893" end="4902">appellant</LEGAL_ROLE>
+<NAME id="86863_61" start="4999" end="5017">District Court. It</NAME>
+<ORGANIZATION id="86863_62" start="5008" end="5013">Court</ORGANIZATION>
+<ORGANIZATION id="86863_63" start="5450" end="5455">court</ORGANIZATION>
+<LEGAL_ROLE id="86863_64" start="5673" end="5683" plural="True">appellants</LEGAL_ROLE>
+<LEGAL_ROLE id="86863_65" start="5851" end="5860">appellant</LEGAL_ROLE>
+<ORGANIZATION id="86863_66" start="5878" end="5892">District Court</ORGANIZATION>
+<LEGAL_ROLE id="86863_67" start="6130" end="6140" plural="True">appellants</LEGAL_ROLE>
+<ORGANIZATION id="86863_68" start="6409" end="6414">court</ORGANIZATION>
+<ORGANIZATION id="86863_69" start="6447" end="6452">court</ORGANIZATION>
+<ORGANIZATION id="86863_70" start="6848" end="6853">court</ORGANIZATION>
+<PROFESSION id="86863_71" start="6971" end="6976">judge</PROFESSION>
+<NAME id="86863_72" start="7066" end="7084">Mr. Justice CATRON</NAME>
+<PROFESSION id="86863_73" start="7070" end="7077">Justice</PROFESSION>
+<ORGANIZATION id="86863_74" start="7114" end="7128">District Court</ORGANIZATION>
+<NAME id="86863_75" start="7133" end="7138">March</NAME>
+<ORGANIZATION id="86863_76" start="7181" end="7186">court</ORGANIZATION>
+<FAMILY id="86863_77" start="7414" end="7428">brother judges</FAMILY>
+<LEGAL_ROLE id="86863_78" start="7442" end="7451" plural="True">appellees</LEGAL_ROLE>
+<PROFESSION id="86863_79" start="7495" end="7500">judge</PROFESSION>
+<LEGAL_ROLE id="86863_80" start="7842" end="7853">complainant</LEGAL_ROLE>
+<ORGANIZATION id="86863_81" start="7903" end="7908">court</ORGANIZATION>
+<ORGANIZATION id="86863_82" start="8068" end="8073">court</ORGANIZATION>
+<ORGANIZATION id="86863_83" start="8268" end="8273">court</ORGANIZATION>
+<NAME id="86863_84" start="8413" end="8421">Congress</NAME>
+<NAME id="86863_85" start="8491" end="8497">Motion</NAME>
+<RELATION id="86863_14" relation_type="asymmetric" gram_type="infix" theme="86863_8" theme_string="JOSIAH S. STAFFORD AND JEANNETTE KIRKLAND, HIS WIFE, APPELLANTS,  v.  THE UNION BANK OF LOUISIANA" party1="86863_9" party1_string="JOSIAH S. STAFFORD AND JEANNETTE KIRKLAND, HIS WIFE,"></RELATION>
+<RELATION id="86863_15" relation_type="asymmetric" gram_type="infix" theme="86863_8" theme_string="JOSIAH S. STAFFORD AND JEANNETTE KIRKLAND, HIS WIFE, APPELLANTS,  v.  THE UNION BANK OF LOUISIANA" party2="86863_10" party2_string="THE UNION BANK OF LOUISIANA"></RELATION>
+<RELATION id="86863_42" relation_type="asymmetric" gram_type="pre_nom" theme="86863_36" theme_string="Catlett v. Brodie" at_date="86863_39" at_date_string="1803"></RELATION>
+<RELATION id="86863_45" relation_type="equivalence" gram_type="apposition" standard_case="86863_35" standard_case_string="9 Wheat. 553" X_vs_Y="86863_36" X_vs_Y_string="Catlett v. Brodie"></RELATION>
+<RELATION id="86863_43" relation_type="asymmetric" gram_type="infix" theme="86863_36" theme_string="Catlett v. Brodie" party1="86863_37" party1_string="Catlett"></RELATION>
+<RELATION id="86863_44" relation_type="asymmetric" gram_type="infix" theme="86863_36" theme_string="Catlett v. Brodie" party2="86863_38" party2_string="Brodie"></RELATION>

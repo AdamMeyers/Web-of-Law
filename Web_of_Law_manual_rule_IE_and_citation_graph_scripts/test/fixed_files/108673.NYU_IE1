@@ -1,0 +1,28 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="921" id1="108673" id="108673_1" lookup_key="u.s._409_921" alternative_keys="['in the matter of the disbarment of seymour r thaler#1', 's.ct._93_1350', 'l.ed.2d_35_583']" citation_local_level_id="0" start="0" citation_global_level_id="71.002" end="12" volume="409" name="In the Matter of the Disbarment of Seymour R. THALER" line="1" >409 U.S. 921</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="1350" id1="108673" id="108673_2" lookup_key="s.ct._93_1350" alternative_keys="['u.s._409_921', 'in the matter of the disbarment of seymour r thaler#1', 'l.ed.2d_35_583']" citation_local_level_id="1" start="17" citation_global_level_id="71.003" end="31" volume="93" name="In the Matter of the Disbarment of Seymour R. THALER" line="2" >93 S. Ct. 1350</CITATION>
+
+<CITATION reporter="L. Ed. 2d" entry_type="standard_key" standard_reporter="L.ED.2D" page_number="583" id1="108673" id="108673_3" lookup_key="l.ed.2d_35_583" alternative_keys="['u.s._409_921', 's.ct._93_1350', 'in the matter of the disbarment of seymour r thaler#1']" citation_local_level_id="2" start="36" citation_global_level_id="71.004" end="52" volume="35" name="In the Matter of the Disbarment of Seymour R. THALER" line="3" >35 L. Ed. 2d 583</CITATION>
+
+<CITATION start="57" id1="108673" entry_type="case_key" citation_global_level_id="71.005" line="4" name="In the Matter of the Disbarment of Seymour R. THALER" id="108673_5" lookup_key="in the matter of the disbarment of seymour r thaler#1" alternative_keys="['s.ct._93_1350', 'l.ed.2d_35_583', 'u.s._409_921']" end="109" citation_local_level_id="3" >In the Matter of the Disbarment of Seymour R. THALER</CITATION>
+
+<DOCKET start="115" citation_global_level_id="71.005" entry_type="docket" line="4" id1="108673" id="108673_4" lookup_key="in the matter of the disbarment of seymour r thaler#1" alternative_keys="['s.ct._93_1350', 'l.ed.2d_35_583', 'u.s._409_921']" end="118" citation_local_level_id="3" >D-9</DOCKET>
+
+<DATE start="163" end="180" id="108673_10" >February 20, 1973</DATE>
+
+<NAME start="220" local_name_id="1" end="249" all_names="SEYMOUR R THALER OF NEW YORK	NEW YORK" id="108673_11" >Seymour R. Thaler of New York</NAME>
+
+<NAME start="251" local_name_id="1" end="259" all_names="SEYMOUR R THALER OF NEW YORK	NEW YORK" id="108673_12" >New York</NAME>
+
+<ORGANIZATION start="307" end="312" id="108673_13" >Court</ORGANIZATION>
+
+<ORGANIZATION start="456" end="461" id="108673_14" >Court</ORGANIZATION>
+
+<RELATION includes_docket_string="D-9" theme_string="In the Matter of the Disbarment of Seymour R. THALER" id="108673_6" relation_type="asymmetric" includes_docket="108673_4" theme="108673_5" gram_type="apposition" ></RELATION>
+
+<RELATION case_citation_other_string="In the Matter of the Disbarment of Seymour R. THALER" gram_type="multi_line" standard_case="108673_1" relation_type="equivalence" id="108673_7" standard_case_string="409 U.S. 921" case_citation_other="108673_5" ></RELATION>
+
+<RELATION case_citation_other_string="In the Matter of the Disbarment of Seymour R. THALER" gram_type="multi_line" standard_case="108673_2" relation_type="equivalence" id="108673_8" standard_case_string="93 S. Ct. 1350" case_citation_other="108673_5" ></RELATION>
+
+<RELATION case_citation_other_string="In the Matter of the Disbarment of Seymour R. THALER" gram_type="multi_line" standard_case="108673_3" relation_type="equivalence" id="108673_9" standard_case_string="35 L. Ed. 2d 583" case_citation_other="108673_5" ></RELATION>
+

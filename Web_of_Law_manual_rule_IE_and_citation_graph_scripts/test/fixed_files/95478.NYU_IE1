@@ -1,0 +1,144 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="402" id1="95478" id="95478_1" lookup_key="u.s._181_402" alternative_keys="['shumateheman#1']" citation_local_level_id="0" start="1" citation_global_level_id="115.002" end="20" volume="181" year="1901" line="2" >181 U.S. 402 (1901)</CITATION>
+
+<DATE start="15" citation_global_level_id="115.002" end="19" citation_local_level_id="0" id="95478_2" >1901</DATE>
+
+<CITATION id1="95478" entry_type="party_key" party1="SHUMATE" line="5" id="95478_5" lookup_key="shumateheman#1" alternative_keys="['u.s._181_402']" party2="HEMAN" citation_local_level_id="1" start="21" party2_short="HEMAN" end="39" citation_global_level_id="115.001" party1_short="SHUMATE" >SHUMATE v. HEMAN</CITATION>
+
+<NAME start="21" local_name_id="1" end="28" all_names="SHUMATE" party1_of="95478_5" id="95478_6" >SHUMATE</NAME>
+
+<NAME start="34" party2_of="95478_5" end="39" all_names="HEMAN	MR DAVID GOLDSMITH FOR HEMAN	ST LOUIS BY AUGUST HEMAN" id="95478_7" local_name_id="2" >HEMAN</NAME>
+
+<ORGANIZATION start="50" end="80" id="95478_11" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="89" end="106" id="95478_12" >February 27, 1901</DATE>
+
+<NAME start="108" local_name_id="3" end="115" all_names="DECIDED" id="95478_14" >Decided</NAME>
+
+<DATE start="116" end="130" id="95478_13" >April 29, 1901</DATE>
+
+<ORGANIZATION start="132" end="183" id="95478_15" >ERROR TO THE SUPREME COURT OF THE STATE OF MISSOURI</ORGANIZATION>
+
+<NAME start="185" local_name_id="4" end="258" all_names="MR GB WEBSTER FOR SHUMATE MR HIRAM J GROVER AND MR HAMILTON GROVER" id="95478_16" >Mr. G.B. Webster for Shumate. Mr. Hiram J. Grover and Mr. Hamilton Grover</NAME>
+
+<NAME start="283" local_name_id="2" end="312" all_names="HEMAN	MR DAVID GOLDSMITH FOR HEMAN	ST LOUIS BY AUGUST HEMAN" id="95478_17" >Mr. David Goldsmith for Heman</NAME>
+
+<NAME start="314" local_name_id="5" end="356" all_names="MR ROBERT E COLLINS AND MR HP RODGERS" id="95478_18" >Mr. Robert E. Collins and Mr. H.P. Rodgers</NAME>
+
+<NAME start="376" local_name_id="6" end="378" all_names="MR" id="95478_19" >MR</NAME>
+
+<ORGANIZATION start="462" end="475" id="95478_24" >Circuit Court</ORGANIZATION>
+
+<NAME start="491" local_name_id="2" end="516" all_names="HEMAN	MR DAVID GOLDSMITH FOR HEMAN	ST LOUIS BY AUGUST HEMAN" id="95478_25" >St. Louis by August Heman</NAME>
+
+<NAME start="641" local_name_id="7" end="647" all_names="EUCLID" id="95478_26" >Euclid</NAME>
+
+<LEGAL_ROLE start="675" end="684" id="95478_27" >plaintiff</LEGAL_ROLE>
+
+<LEGAL_ROLE start="715" end="725" plural="True" id="95478_28" >defendants</LEGAL_ROLE>
+
+<ORGANIZATION start="815" end="840" id="95478_29" >Supreme Court of Missouri</ORGANIZATION>
+
+<ORGANIZATION start="874" end="879" id="95478_30" >court</ORGANIZATION>
+
+<CITATION standard_reporter="MO." id1="Dummy_File_2007" entry_type="party_key" party1="Heman" line="14" id="95478_21" lookup_key="hemanallen#1" alternative_keys="['mo._156_534']" party2="Allen" citation_local_level_id="2" start="921" party2_short="Allen" end="935" citation_global_level_id="2159.003" volume="156" no_current_file="True" page_number="534" party1_short="Heman" >Heman v. Allen</CITATION>
+
+<NAME start="921" local_name_id="2" end="926" all_names="HEMAN	MR DAVID GOLDSMITH FOR HEMAN	ST LOUIS BY AUGUST HEMAN" party1_of="95478_21" id="95478_22" >Heman</NAME>
+
+<NAME start="930" party2_of="95478_21" end="935" all_names="ALLEN" id="95478_23" local_name_id="8" >Allen</NAME>
+
+<CITATION reporter="Mo." entry_type="standard_key" standard_reporter="MO." page_number="534" id1="Dummy_File_2007" id="95478_20" lookup_key="mo._156_534" alternative_keys="['hemanallen#1']" citation_local_level_id="3" start="937" citation_global_level_id="2159.003" end="948" volume="156" no_current_file="True" line="14" >156 Mo. 534</CITATION>
+
+<LEGAL_ROLE start="980" end="989" id="95478_31" >defendant</LEGAL_ROLE>
+
+<ORGANIZATION start="1015" end="1020" id="95478_32" >court</ORGANIZATION>
+
+<LEGAL_ROLE start="1134" end="1143" id="95478_40" >plaintiff</LEGAL_ROLE>
+
+<NAME start="1204" local_name_id="9" end="1213" all_names="ST LOUIS" id="95478_41" >St. Louis</NAME>
+
+<LEGAL_ROLE start="1279" end="1288" id="95478_42" >defendant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1362" end="1371" id="95478_43" >plaintiff</LEGAL_ROLE>
+
+<NAME start="1521" local_name_id="10" end="1571" all_names="AMENDMENT OF THE CONSTITUTION OF THE UNITED STATES" id="95478_44" >Amendment of the Constitution of the United States</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_2008" entry_type="party_key" party1="Norwood" line="15" id="95478_37" lookup_key="norwoodbaker#1" alternative_keys="['u.s._172_269']" party2="Baker" citation_local_level_id="4" start="1613" party2_short="Baker" end="1629" citation_global_level_id="2160.003" volume="172" no_current_file="True" page_number="269" party1_short="Norwood" >Norwood v. Baker</CITATION>
+
+<NAME start="1613" local_name_id="11" end="1620" all_names="NORWOOD" party1_of="95478_37" id="95478_38" >Norwood</NAME>
+
+<NAME start="1624" party2_of="95478_37" end="1629" all_names="BAKER" id="95478_39" local_name_id="12" >Baker</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="269" id1="Dummy_File_2008" id="95478_36" lookup_key="u.s._172_269" alternative_keys="['norwoodbaker#1']" citation_local_level_id="5" start="1631" citation_global_level_id="2160.003" end="1643" volume="172" no_current_file="True" line="15" >172 U.S. 269</CITATION>
+
+<ORGANIZATION start="1737" end="1742" id="95478_51" >court</ORGANIZATION>
+
+<CITATION id1="Dummy_File_2009" entry_type="party_key" party1="French" line="16" id="95478_48" lookup_key="frenchcompany#1" party2="The Barber Asphalt Paving Company" citation_local_level_id="6" start="1766" party2_short="Company" end="1809" citation_global_level_id="2161.001" no_current_file="True" party1_short="French" >French v. The Barber Asphalt Paving Company</CITATION>
+
+<NAME start="1766" local_name_id="13" end="1772" all_names="FRENCH" party1_of="95478_48" id="95478_49" >French</NAME>
+
+<NAME start="1776" party2_of="95478_48" end="1809" all_names="THE BARBER ASPHALT PAVING COMPANY" id="95478_50" local_name_id="14" >The Barber Asphalt Paving Company</NAME>
+
+<ORGANIZATION start="1780" end="1809" id="95478_52" >Barber Asphalt Paving Company</ORGANIZATION>
+
+<ORGANIZATION start="1838" end="1876" id="95478_53" >Supreme Court of the State of Missouri</ORGANIZATION>
+
+<ORGANIZATION start="1934" end="1959" id="95478_54" >Supreme Court of Missouri</ORGANIZATION>
+
+<NAME start="1973" local_name_id="6" end="1975" all_names="MR" id="95478_57" >MR</NAME>
+
+<CITATION id1="Dummy_File_2010" entry_type="party_key" party1="French" line="19" id="95478_58" lookup_key="frenchpaving#1" party2="Barber Asphalt Paving Co" citation_local_level_id="7" start="2138" party2_short="Paving" end="2172" citation_global_level_id="2162.001" no_current_file="True" party1_short="French" >French v. Barber Asphalt Paving Co</CITATION>
+
+<NAME start="2138" local_name_id="13" end="2144" all_names="FRENCH" party1_of="95478_58" id="95478_61" >French</NAME>
+
+<NAME start="2148" party2_of="95478_58" end="2172" all_names="BARBER ASPHALT PAVING CO" id="95478_62" local_name_id="15" >Barber Asphalt Paving Co</NAME>
+
+<CITATION id1="Dummy_File_2011" entry_type="party_key" party1="Wight" line="19" id="95478_59" lookup_key="wightdavidson#1" party2="Davidson" citation_local_level_id="8" start="2186" party2_short="Davidson" end="2203" citation_global_level_id="2163.001" no_current_file="True" party1_short="Wight" >Wight v. Davidson</CITATION>
+
+<NAME start="2186" local_name_id="16" end="2191" all_names="WIGHT" party1_of="95478_59" id="95478_63" >Wight</NAME>
+
+<NAME start="2195" party2_of="95478_59" end="2203" all_names="DAVIDSON" id="95478_64" local_name_id="17" >Davidson</NAME>
+
+<CITATION id1="Dummy_File_2012" entry_type="party_key" party1="Tonawanda" line="19" id="95478_60" lookup_key="tonawandalyon#1" party2="Lyon" citation_local_level_id="9" start="2220" party2_short="Lyon" end="2237" citation_global_level_id="2164.001" no_current_file="True" party1_short="Tonawanda" >Tonawanda v. Lyon</CITATION>
+
+<NAME start="2220" local_name_id="18" end="2229" all_names="TONAWANDA" party1_of="95478_60" id="95478_65" >Tonawanda</NAME>
+
+<NAME start="2233" party2_of="95478_60" end="2237" all_names="LYON" id="95478_66" local_name_id="19" >Lyon</NAME>
+
+<ORGANIZATION start="2365" end="2370" id="95478_67" >court</ORGANIZATION>
+
+<RELATION at_date_string="1901" theme_string="181 U.S. 402 (1901)" id="95478_3" relation_type="asymmetric" theme="95478_1" at_date="95478_2" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="SHUMATE" party1="95478_6" theme_string="SHUMATE  v.  HEMAN" id="95478_8" relation_type="asymmetric" theme="95478_5" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="HEMAN" theme_string="SHUMATE  v.  HEMAN" id="95478_9" relation_type="asymmetric" party2="95478_7" theme="95478_5" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="SHUMATE  v.  HEMAN" gram_type="multi_line" standard_case="95478_1" relation_type="equivalence" id="95478_10" X_vs_Y="95478_5" standard_case_string="181 U.S. 402 (1901)" ></RELATION>
+
+<RELATION X_vs_Y_string="Heman v. Allen" gram_type="apposition" standard_case="95478_20" relation_type="equivalence" id="95478_35" X_vs_Y="95478_21" standard_case_string="156 Mo. 534" ></RELATION>
+
+<RELATION party1_string="Heman" party1="95478_22" theme_string="Heman v. Allen" id="95478_33" relation_type="asymmetric" theme="95478_21" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Allen" theme_string="Heman v. Allen" id="95478_34" relation_type="asymmetric" party2="95478_23" theme="95478_21" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Norwood v. Baker" gram_type="apposition" standard_case="95478_36" relation_type="equivalence" id="95478_47" X_vs_Y="95478_37" standard_case_string="172 U.S. 269" ></RELATION>
+
+<RELATION party1_string="Norwood" party1="95478_38" theme_string="Norwood v. Baker" id="95478_45" relation_type="asymmetric" theme="95478_37" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Baker" theme_string="Norwood v. Baker" id="95478_46" relation_type="asymmetric" party2="95478_39" theme="95478_37" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="French" party1="95478_49" theme_string="French v. The Barber Asphalt Paving Company" id="95478_55" relation_type="asymmetric" theme="95478_48" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="The Barber Asphalt Paving Company" theme_string="French v. The Barber Asphalt Paving Company" id="95478_56" relation_type="asymmetric" party2="95478_50" theme="95478_48" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="French" party1="95478_61" theme_string="French v. Barber Asphalt Paving Co" id="95478_68" relation_type="asymmetric" theme="95478_58" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Barber Asphalt Paving Co" theme_string="French v. Barber Asphalt Paving Co" id="95478_69" relation_type="asymmetric" party2="95478_62" theme="95478_58" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Wight" party1="95478_63" theme_string="Wight v. Davidson" id="95478_70" relation_type="asymmetric" theme="95478_59" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Davidson" theme_string="Wight v. Davidson" id="95478_71" relation_type="asymmetric" party2="95478_64" theme="95478_59" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Tonawanda" party1="95478_65" theme_string="Tonawanda v. Lyon" id="95478_72" relation_type="asymmetric" theme="95478_60" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Lyon" theme_string="Tonawanda v. Lyon" id="95478_73" relation_type="asymmetric" party2="95478_66" theme="95478_60" gram_type="infix" ></RELATION>
+

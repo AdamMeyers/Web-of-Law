@@ -1,0 +1,804 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="593" id1="112218" id="112218_1" lookup_key="u.s._489_593" alternative_keys="['browercounty#1']" citation_local_level_id="0" start="1" citation_global_level_id="127.002" end="20" volume="489" year="1989" line="2" >489 U.S. 593 (1989)</CITATION>
+
+<DATE start="15" citation_global_level_id="127.002" end="19" citation_local_level_id="0" id="112218_2" >1989</DATE>
+
+<CITATION id1="112218" entry_type="party_key" party1="BROWER, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER), ET AL." line="5" id="112218_9" lookup_key="browercounty#1" alternative_keys="['u.s._489_593']" party2="COUNTY OF INYO ET AL" citation_local_level_id="1" start="21" party2_short="COUNTY" end="131" citation_global_level_id="127.001" party1_short="BROWER" >BROWER, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER), ET AL. v. COUNTY OF INYO ET AL</CITATION>
+
+<NAME start="21" local_name_id="1" end="105" all_names="BROWER INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER)" party1_of="112218_9" id="112218_10" >BROWER, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER), ET AL.</NAME>
+
+<PROFESSION start="49" end="88" id="112218_12" >ADMINISTRATOR OF THE ESTATE OF CALDWELL</PROFESSION>
+
+<NAME start="111" party2_of="112218_9" end="131" all_names="COUNTY OF INYO" id="112218_11" local_name_id="2" >COUNTY OF INYO ET AL</NAME>
+
+<DOCKET start="137" citation_global_level_id="127.001" entry_type="docket" line="6" id1="112218" id="112218_15" lookup_key="browercounty#1" end="143" citation_local_level_id="1" >87-248</DOCKET>
+
+<ORGANIZATION start="145" end="175" id="112218_16" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="184" end="200" id="112218_17" >January 11, 1989</DATE>
+
+<NAME start="201" local_name_id="3" end="208" all_names="DECIDED" id="112218_21" >Decided</NAME>
+
+<DATE start="209" end="223" id="112218_20" >March 21, 1989</DATE>
+
+<ORGANIZATION start="224" end="294" id="112218_22" >CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT</ORGANIZATION>
+
+<NAME start="300" local_name_id="4" end="317" all_names="ROBERT G GILMORE" id="112218_23" >Robert G. Gilmore</NAME>
+
+<LEGAL_ROLE start="339" end="350" plural="True" id="112218_24" >petitioners</LEGAL_ROLE>
+
+<NAME start="397" local_name_id="5" end="415" all_names="PHILIP W MCDOWELL" id="112218_25" >Philip W. McDowell</NAME>
+
+<LEGAL_ROLE start="437" end="448" plural="True" id="112218_26" >respondents</LEGAL_ROLE>
+
+<NAME start="450" local_name_id="6" end="454" all_names="WITH" id="112218_27" >With</NAME>
+
+<NAME start="476" local_name_id="7" end="492" all_names="GREGORY L JAMES" id="112218_28" >Gregory L. James</NAME>
+
+<PROFESSION start="494" end="501" party="SCALIA" document_level_name_id="8" id="112218_29" >JUSTICE</PROFESSION>
+
+<NAME start="502" local_name_id="8" end="508" all_names="SCALIA" id="112218_30" >SCALIA</NAME>
+
+<ORGANIZATION start="538" end="543" id="112218_31" >Court</ORGANIZATION>
+
+<DATE start="561" end="577" id="112218_39" >October 23, 1984</DATE>
+
+<NAME start="579" local_name_id="9" end="601" all_names="WILLIAM JAMES CALDWELL" id="112218_44" >William James Caldwell</NAME>
+
+<NAME start="603" local_name_id="10" end="609" all_names="BROWER	GARNER BROWER" id="112218_45" >Brower</NAME>
+
+<PROFESSION start="740" end="746" id="112218_46" >police</PROFESSION>
+
+<PROFESSION start="762" end="768" id="112218_47" >police</PROFESSION>
+
+<FAMILY start="784" end="789" plural="True" id="112218_48" >heirs</FAMILY>
+
+<LEGAL_ROLE start="791" local_name_id="11" end="802" name="heirs" id="112218_49" plural="True" >petitioners</LEGAL_ROLE>
+
+<ORGANIZATION start="832" end="871" id="112218_50" >Federal District Court under 42 U. S. C</ORGANIZATION>
+
+<DATE start="875" end="879" id="112218_40" >1983</DATE>
+
+<LEGAL_ROLE start="908" end="919" plural="True" id="112218_51" >respondents</LEGAL_ROLE>
+
+<ORGANIZATION start="983" end="988" id="112218_52" >force</ORGANIZATION>
+
+<NAME start="1066" local_name_id="10" end="1072" all_names="BROWER	GARNER BROWER" id="112218_53" >Brower</NAME>
+
+<LEGAL_ROLE start="1094" end="1123" plural="True" id="112218_54" >Fourth Amendment. Petitioners</LEGAL_ROLE>
+
+<LEGAL_ROLE start="1197" end="1208" plural="True" id="112218_55" >respondents</LEGAL_ROLE>
+
+<NAME start="1316" local_name_id="10" end="1322" all_names="BROWER	GARNER BROWER" id="112218_56" >Brower</NAME>
+
+<PROFESSION start="1456" end="1462" id="112218_57" >police</PROFESSION>
+
+<NAME start="1500" local_name_id="10" end="1506" all_names="BROWER	GARNER BROWER" id="112218_58" >Brower</NAME>
+
+<NAME start="1549" local_name_id="10" end="1555" all_names="BROWER	GARNER BROWER" id="112218_59" >Brower</NAME>
+
+<NAME start="1592" local_name_id="12" end="1595" all_names="APP" id="112218_60" >App</NAME>
+
+<LEGAL_ROLE start="1602" end="1613" plural="True" id="112218_61" >Petitioners</LEGAL_ROLE>
+
+<NAME start="1635" local_name_id="10" end="1641" all_names="BROWER	GARNER BROWER" id="112218_62" >Brower</NAME>
+
+<PROFESSION start="1708" end="1716" id="112218_63" >official</PROFESSION>
+
+<NAME start="1726" local_name_id="13" end="1728" all_names="ID" id="112218_64" >Id</NAME>
+
+<ORGANIZATION start="1741" end="1755" id="112218_65" >District Court</ORGANIZATION>
+
+<LEGAL_ROLE start="1764" end="1775" plural="True" id="112218_66" >respondents</LEGAL_ROLE>
+
+<NAME start="1868" local_name_id="14" end="1884" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_67" >Fourth Amendment</NAME>
+
+<NAME start="1986" local_name_id="15" end="2007" all_names="APP TO PET FOR CERT" id="112218_68" >App. to Pet. for Cert</NAME>
+
+<ORGANIZATION start="2025" end="2030" id="112218_69" >panel</ORGANIZATION>
+
+<ORGANIZATION start="2038" end="2076" id="112218_70" >Court of Appeals for the Ninth Circuit</ORGANIZATION>
+
+<NAME start="2107" local_name_id="14" end="2123" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_71" >Fourth Amendment</NAME>
+
+<CITATION reporter="F.2d" entry_type="standard_key" standard_reporter="F.2D" page_number="540" id1="Dummy_File_855" id="112218_33" lookup_key="f.2d_817_540" citation_local_level_id="2" start="2175" citation_global_level_id="1007.001" end="2203" paragraph_number="545-546" volume="817" no_current_file="True" year="1987" line="14" >817 F.2d 540, 545-546 (1987)</CITATION>
+
+<DATE start="2198" citation_global_level_id="1007.001" end="2202" citation_local_level_id="2" id="112218_41" >1987</DATE>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1217" id1="Dummy_File_856" id="112218_34" lookup_key="u.s._487_1217" citation_local_level_id="3" start="2228" citation_global_level_id="1008.001" end="2248" volume="487" no_current_file="True" year="1988" line="14" >487 U.S. 1217 (1988)</CITATION>
+
+<DATE start="2243" citation_global_level_id="1008.001" end="2247" citation_local_level_id="3" id="112218_42" >1988</DATE>
+
+<CITATION standard_reporter="F.2D" id1="Dummy_File_857" entry_type="party_key" party1="Court of Appeals for the Fifth Circuit in Jamieson" line="14" id="112218_36" lookup_key="courtshaw#1" alternative_keys="['f.2d_772_1205']" party2="Shaw" citation_local_level_id="4" start="2331" party2_short="Shaw" end="2389" citation_global_level_id="1009.003" volume="772" no_current_file="True" page_number="1205" party1_short="Court" >Court of Appeals for the Fifth Circuit in Jamieson v. Shaw</CITATION>
+
+<NAME start="2331" local_name_id="16" end="2381" all_names="COURT OF APPEALS FOR THE FIFTH CIRCUIT IN JAMIESON" party1_of="112218_36" id="112218_37" >Court of Appeals for the Fifth Circuit in Jamieson</NAME>
+
+<ORGANIZATION start="2331" end="2369" id="112218_72" >Court of Appeals for the Fifth Circuit</ORGANIZATION>
+
+<NAME start="2385" party2_of="112218_36" end="2389" all_names="SHAW" id="112218_38" local_name_id="17" >Shaw</NAME>
+
+<CITATION reporter="F.2d" entry_type="standard_key" standard_reporter="F.2D" page_number="1205" id1="Dummy_File_857" id="112218_35" lookup_key="f.2d_772_1205" alternative_keys="['courtshaw#1']" citation_local_level_id="5" start="2391" citation_global_level_id="1009.003" end="2411" volume="772" no_current_file="True" year="1985" line="14" >772 F.2d 1205 (1985)</CITATION>
+
+<DATE start="2406" citation_global_level_id="1009.003" end="2410" citation_local_level_id="5" id="112218_43" >1985</DATE>
+
+<NAME start="2417" local_name_id="18" end="2453" all_names="FOURTH AMENDMENT TO THE CONSTITUTION	CONSTITUTION" id="112218_80" >Fourth Amendment to the Constitution</NAME>
+
+<NAME start="2623" local_name_id="19" end="2631" all_names="WARRANTS" id="112218_81" >Warrants</NAME>
+
+<NAME start="2683" local_name_id="20" end="2687" all_names="OATH" id="112218_82" >Oath</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_855" entry_type="party_key" party1="Tennessee" line="17" id="112218_85" lookup_key="tennesseegarner#1" alternative_keys="['u.s._471_1', 'f.2d_817_540']" party2="Garner" citation_local_level_id="6" start="2801" party2_short="Garner" end="2820" citation_global_level_id="1007.003" volume="471" no_current_file="True" page_number="1" party1_short="Tennessee" >Tennessee v. Garner</CITATION>
+
+<NAME start="2801" local_name_id="21" end="2810" all_names="TENNESSEE" party1_of="112218_85" id="112218_86" >Tennessee</NAME>
+
+<NAME start="2814" party2_of="112218_85" end="2820" all_names="GARNER" id="112218_87" local_name_id="22" >Garner</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1" id1="Dummy_File_855" id="112218_83" lookup_key="u.s._471_1" alternative_keys="['tennesseegarner#1', 'f.2d_817_540']" citation_local_level_id="7" start="2822" citation_global_level_id="1007.002" end="2839" volume="471" no_current_file="True" year="1985" line="17" >471 U.S. 1 (1985)</CITATION>
+
+<DATE start="2834" citation_global_level_id="1010.003" end="2838" citation_local_level_id="7" id="112218_88" >1985</DATE>
+
+<ORGANIZATION start="2845" end="2865" id="112218_89" >Members of the Court</ORGANIZATION>
+
+<PROFESSION start="2880" end="2894" id="112218_90" >police officer</PROFESSION>
+
+<NAME start="2947" local_name_id="14" end="2963" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_91" >Fourth Amendment</NAME>
+
+<NAME start="2975" local_name_id="23" end="2978" all_names="SEE" id="112218_92" >See</NAME>
+
+<NAME start="3002" local_name_id="24" end="3010" all_names="O'CONNOR" id="112218_93" >O'CONNOR</NAME>
+
+<PROFESSION start="3061" end="3068" id="112218_94" >officer</PROFESSION>
+
+<NAME start="3145" local_name_id="13" end="3147" all_names="ID" id="112218_95" >Id</NAME>
+
+<NAME start="3176" local_name_id="22" end="3182" all_names="GARNER" id="112218_96" >Garner</NAME>
+
+<ORGANIZATION start="3188" end="3204" id="112218_97" >Court of Appeals</ORGANIZATION>
+
+<NAME start="3252" local_name_id="10" end="3258" all_names="BROWER	GARNER BROWER" id="112218_98" >Brower</NAME>
+
+<PROFESSION start="3277" end="3283" id="112218_99" >police</PROFESSION>
+
+<CITATION reporter="F. 2d" entry_type="standard_key" standard_reporter="F.2D" page_number="546" id1="Dummy_File_859" id="112218_84" lookup_key="f.2d_817_546" citation_local_level_id="8" start="3498" citation_global_level_id="1011.001" end="3515" volume="817" no_current_file="True" line="17" >817 F. 2d, at 546</CITATION>
+
+<NAME start="3578" local_name_id="10" end="3592" all_names="BROWER	GARNER BROWER" id="112218_100" >Garner. Brower</NAME>
+
+<LEGAL_ROLE start="3660" end="3671" plural="True" id="112218_101" >respondents</LEGAL_ROLE>
+
+<NAME start="3755" local_name_id="22" end="3761" all_names="GARNER" id="112218_102" >Garner</NAME>
+
+<PROFESSION start="3808" end="3830" id="112218_103" >Memphis police officer</PROFESSION>
+
+<ORGANIZATION start="3912" end="3928" id="112218_139" >Court of Appeals</ORGANIZATION>
+
+<PROFESSION start="4028" end="4034" id="112218_140" >police</PROFESSION>
+
+<NAME start="4113" local_name_id="23" end="4116" all_names="SEE" id="112218_141" >See</NAME>
+
+<CITATION standard_reporter="F.2D" id1="Dummy_File_860" entry_type="party_key" party1="Galas" line="18" id="112218_113" lookup_key="galasmckee#1" alternative_keys="['f.2d_801_200']" party2="McKee" citation_local_level_id="9" start="4117" party2_short="McKee" end="4131" citation_global_level_id="1012.003" volume="801" no_current_file="True" page_number="200" party1_short="Galas" >Galas v. McKee</CITATION>
+
+<NAME start="4117" local_name_id="25" end="4122" all_names="GALAS" party1_of="112218_113" id="112218_119" >Galas</NAME>
+
+<NAME start="4126" party2_of="112218_113" end="4131" all_names="MCKEE" id="112218_120" local_name_id="26" >McKee</NAME>
+
+<CITATION reporter="F.2d" entry_type="standard_key" standard_reporter="F.2D" page_number="200" id1="Dummy_File_860" line="18" id="112218_108" lookup_key="f.2d_801_200" alternative_keys="['galasmckee#1']" court="CA6" citation_local_level_id="10" start="4133" citation_global_level_id="1012.003" end="4165" volume="801" no_current_file="True" year="1986" paragraph_number="202-203" >801 F.2d 200, 202-203 (CA6 1986)</CITATION>
+
+<DATE start="4160" citation_global_level_id="1012.003" end="4164" citation_local_level_id="10" id="112218_131" >1986</DATE>
+
+<NAME start="4330" local_name_id="14" end="4363" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_142" >Violation of the Fourth Amendment</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_861" entry_type="party_key" party1="Hill" line="18" id="112218_114" lookup_key="hillcalifornia#1" alternative_keys="['u.s._401_797']" party2="California" citation_local_level_id="11" start="4524" party2_short="California" end="4542" citation_global_level_id="1013.003" volume="401" no_current_file="True" page_number="797" party1_short="Hill" >Hill v. California</CITATION>
+
+<NAME start="4524" local_name_id="27" end="4528" all_names="HILL" party1_of="112218_114" id="112218_121" >Hill</NAME>
+
+<NAME start="4532" party2_of="112218_114" end="4542" all_names="CALIFORNIA" id="112218_122" local_name_id="28" >California</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="797" id1="Dummy_File_861" id="112218_109" lookup_key="u.s._401_797" alternative_keys="['hillcalifornia#1']" citation_local_level_id="12" start="4544" citation_global_level_id="1013.003" end="4572" paragraph_number="802-805" volume="401" no_current_file="True" year="1971" line="18" >401 U.S. 797, 802-805 (1971)</CITATION>
+
+<DATE start="4567" citation_global_level_id="1013.003" end="4571" citation_local_level_id="12" id="112218_132" >1971</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_862" entry_type="party_key" party1="Maryland" line="18" id="112218_115" lookup_key="marylandgarrison#1" alternative_keys="['u.s._480_79']" party2="Garrison" citation_local_level_id="13" start="4578" party2_short="Garrison" end="4598" citation_global_level_id="1014.003" volume="480" no_current_file="True" page_number="79" party1_short="Maryland" >Maryland v. Garrison</CITATION>
+
+<NAME start="4578" local_name_id="29" end="4586" all_names="MARYLAND" party1_of="112218_115" id="112218_123" >Maryland</NAME>
+
+<NAME start="4590" party2_of="112218_115" end="4598" all_names="GARRISON" id="112218_124" local_name_id="30" >Garrison</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="79" id1="Dummy_File_862" id="112218_110" lookup_key="u.s._480_79" alternative_keys="['marylandgarrison#1']" citation_local_level_id="14" start="4600" citation_global_level_id="1014.003" end="4625" paragraph_number="85-89" volume="480" no_current_file="True" year="1987" line="18" >480 U.S. 79, 85-89 (1987)</CITATION>
+
+<DATE start="4620" citation_global_level_id="1014.003" end="4624" citation_local_level_id="14" id="112218_133" >1987</DATE>
+
+<PROFESSION start="4806" end="4815" id="112218_143" >principal</PROFESSION>
+
+<NAME start="4844" local_name_id="14" end="4860" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_144" >Fourth Amendment</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_863" entry_type="party_key" party1="Boyd" line="18" id="112218_116" lookup_key="boydstates#1" alternative_keys="['u.s._116_616']" party2="United States" citation_local_level_id="15" start="4879" party2_short="States" end="4900" citation_global_level_id="1015.003" volume="116" no_current_file="True" page_number="616" party1_short="Boyd" >Boyd v. United States</CITATION>
+
+<NAME start="4879" local_name_id="31" end="4883" all_names="BOYD" party1_of="112218_116" id="112218_125" >Boyd</NAME>
+
+<NAME start="4887" party2_of="112218_116" end="4900" all_names="UNITED STATES" id="112218_126" local_name_id="32" >United States</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="616" id1="Dummy_File_863" id="112218_111" lookup_key="u.s._116_616" alternative_keys="['boydstates#1']" citation_local_level_id="16" start="4902" citation_global_level_id="1015.003" end="4930" paragraph_number="624-625" volume="116" no_current_file="True" year="1886" line="18" >116 U.S. 616, 624-625 (1886)</CITATION>
+
+<DATE start="4925" citation_global_level_id="1015.003" end="4929" citation_local_level_id="16" id="112218_134" >1886</DATE>
+
+<NAME start="4932" local_name_id="33" end="4941" all_names="T COOLEY" id="112218_145" >T. Cooley</NAME>
+
+<NAME start="4943" local_name_id="34" end="4969" all_names="CONSTITUTIONAL LIMITATIONS" id="112218_146" >Constitutional Limitations</NAME>
+
+<PROFESSION start="5024" end="5034" id="112218_147" >government</PROFESSION>
+
+<PROFESSION start="5055" end="5062" id="112218_148" >general</PROFESSION>
+
+<NAME start="5082" local_name_id="35" end="5094" all_names="LORD HALIFAX" id="112218_149" >Lord Halifax</NAME>
+
+<DATE start="5102" end="5106" id="112218_135" >1760</DATE>
+
+<PROFESSION start="5145" end="5150" id="112218_150" >major</PROFESSION>
+
+<ORGANIZATION start="5169" end="5183" plural="True" id="112218_151" >English courts</ORGANIZATION>
+
+<NAME start="5221" local_name_id="36" end="5230" all_names="T TAYLOR" id="112218_152" >T. Taylor</NAME>
+
+<NAME start="5236" local_name_id="37" end="5243" all_names="STUDIES" id="112218_153" >Studies</NAME>
+
+<NAME start="5247" local_name_id="38" end="5276" all_names="CONSTITUTIONAL INTERPRETATION" id="112218_154" >Constitutional Interpretation</NAME>
+
+<DATE start="5281" end="5285" id="112218_136" >1969</DATE>
+
+<NAME start="5343" local_name_id="39" end="5350" all_names="ENGLISH" id="112218_155" >English</NAME>
+
+<NAME start="5393" local_name_id="40" end="5401" all_names="AMERICAN" id="112218_156" >American</NAME>
+
+<NAME start="5429" local_name_id="18" end="5441" all_names="FOURTH AMENDMENT TO THE CONSTITUTION	CONSTITUTION" id="112218_157" >Constitution</NAME>
+
+<NAME start="5534" local_name_id="31" end="5538" all_names="BOYD" id="112218_158" >Boyd</NAME>
+
+<CITATION id1="Dummy_File_864" entry_type="party_key" party1="Entick" line="18" id="112218_117" lookup_key="entickcarrington#1" party2="Carrington" citation_local_level_id="17" start="5566" party2_short="Carrington" end="5586" citation_global_level_id="1016.001" no_current_file="True" party1_short="Entick" >Entick v. Carrington</CITATION>
+
+<NAME start="5566" local_name_id="41" end="5572" all_names="ENTICK" party1_of="112218_117" id="112218_127" >Entick</NAME>
+
+<NAME start="5576" party2_of="112218_117" end="5586" all_names="CARRINGTON" id="112218_128" local_name_id="42" >Carrington</NAME>
+
+<NAME start="5596" local_name_id="43" end="5602" all_names="ST TR" id="112218_159" >St. Tr</NAME>
+
+<PROFESSION start="5613" end="5621" id="112218_160" >Eng. Rep</PROFESSION>
+
+<NAME start="5628" local_name_id="44" end="5632" all_names="K B" id="112218_161" >K. B</NAME>
+
+<DATE start="5634" end="5638" id="112218_137" >1765</DATE>
+
+<NAME start="5654" local_name_id="14" end="5670" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_162" >Fourth Amendment</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_865" entry_type="party_key" party1="Byars" line="18" id="112218_118" lookup_key="byarsstates#1" alternative_keys="['u.s._273_28']" party2="United States" citation_local_level_id="18" start="5700" party2_short="States" end="5722" citation_global_level_id="1017.003" volume="273" no_current_file="True" page_number="28" party1_short="Byars" >Byars v. United States</CITATION>
+
+<NAME start="5700" local_name_id="45" end="5705" all_names="BYARS" party1_of="112218_118" id="112218_129" >Byars</NAME>
+
+<NAME start="5709" party2_of="112218_118" end="5722" all_names="UNITED STATES" id="112218_130" local_name_id="32" >United States</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="28" id1="Dummy_File_865" id="112218_112" lookup_key="u.s._273_28" alternative_keys="['byarsstates#1']" citation_local_level_id="19" start="5724" citation_global_level_id="1017.003" end="5746" paragraph_number="33" volume="273" no_current_file="True" year="1927" line="18" >273 U.S. 28, 33 (1927)</CITATION>
+
+<DATE start="5741" citation_global_level_id="1017.003" end="5745" citation_local_level_id="19" id="112218_138" >1927</DATE>
+
+<PROFESSION start="5795" end="5805" id="112218_163" >government</PROFESSION>
+
+<PROFESSION start="5848" end="5854" id="112218_186" >police</PROFESSION>
+
+<NAME start="5977" local_name_id="14" end="5993" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_187" >Fourth Amendment</NAME>
+
+<NAME start="6293" local_name_id="14" end="6309" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_188" >Fourth Amendment</NAME>
+
+<ORGANIZATION start="6805" end="6821" id="112218_189" >Court of Appeals</ORGANIZATION>
+
+<PROFESSION start="6836" end="6842" id="112218_190" >police</PROFESSION>
+
+<PROFESSION start="7118" end="7124" id="112218_191" >police</PROFESSION>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_866" entry_type="party_key" party1="Hester" line="20" id="112218_193" lookup_key="hesterstates#1" alternative_keys="['u.s._265_57']" party2="United States" citation_local_level_id="20" start="7341" party2_short="States" end="7364" citation_global_level_id="1018.003" volume="265" no_current_file="True" page_number="57" party1_short="Hester" >Hester v. United States</CITATION>
+
+<NAME start="7341" local_name_id="46" end="7347" all_names="HESTER" party1_of="112218_193" id="112218_194" >Hester</NAME>
+
+<NAME start="7351" party2_of="112218_193" end="7364" all_names="UNITED STATES" id="112218_195" local_name_id="32" >United States</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="57" id1="Dummy_File_866" id="112218_192" lookup_key="u.s._265_57" alternative_keys="['hesterstates#1']" citation_local_level_id="21" start="7366" citation_global_level_id="1018.003" end="7384" volume="265" no_current_file="True" year="1924" line="20" >265 U.S. 57 (1924)</CITATION>
+
+<DATE start="7379" citation_global_level_id="1018.003" end="7383" citation_local_level_id="21" id="112218_196" >1924</DATE>
+
+<PROFESSION start="7409" end="7414" id="112218_197" >agent</PROFESSION>
+
+<LEGAL_ROLE start="7431" end="7440" id="112218_198" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="7601" end="7606" id="112218_199" >agent</PROFESSION>
+
+<LEGAL_ROLE start="7622" end="7631" id="112218_200" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="7736" end="7743" party="HOLMES" document_level_name_id="47" id="112218_201" >Justice</PROFESSION>
+
+<NAME start="7744" local_name_id="47" end="7750" all_names="HOLMES" id="112218_202" >Holmes</NAME>
+
+<ORGANIZATION start="7777" end="7782" id="112218_203" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="7800" end="7809" id="112218_204" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="7839" end="7849" plural="True" id="112218_205" >associates</PROFESSION>
+
+<PROFESSION start="7953" end="7961" plural="True" id="112218_206" >officers</PROFESSION>
+
+<NAME start="8024" local_name_id="13" end="8026" all_names="ID" id="112218_207" >Id</NAME>
+
+<PROFESSION start="8175" end="8181" id="112218_208" >police</PROFESSION>
+
+<ORGANIZATION start="8187" end="8192" id="112218_209" >Court</ORGANIZATION>
+
+<PROFESSION start="8293" end="8298" id="112218_210" >agent</PROFESSION>
+
+<NAME start="8313" local_name_id="48" end="8317" all_names="STOP" id="112218_211" >Stop</NAME>
+
+<LEGAL_ROLE start="8378" end="8387" id="112218_212" >defendant</LEGAL_ROLE>
+
+<PROFESSION start="8497" end="8507" id="112218_213" >government</PROFESSION>
+
+<PROFESSION start="8581" end="8591" id="112218_214" >government</PROFESSION>
+
+<NAME start="8608" local_name_id="14" end="8624" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_215" >Fourth Amendment</NAME>
+
+<LEGAL_ROLE start="8703" end="8732" plural="True" id="112218_253" >petitioners' Fourth Amendment</LEGAL_ROLE>
+
+<ORGANIZATION start="8792" end="8806" id="112218_254" >District Court</ORGANIZATION>
+
+<LEGAL_ROLE start="8896" end="8907" plural="True" id="112218_255" >petitioners</LEGAL_ROLE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_867" entry_type="party_key" party1="Scheuer" line="21" id="112218_228" lookup_key="scheuerrhodes#1" alternative_keys="['u.s._416_232']" party2="Rhodes" citation_local_level_id="22" start="8913" party2_short="Rhodes" end="8930" citation_global_level_id="1019.003" volume="416" no_current_file="True" page_number="232" party1_short="Scheuer" >Scheuer v. Rhodes</CITATION>
+
+<NAME start="8913" local_name_id="49" end="8920" all_names="SCHEUER" party1_of="112218_228" id="112218_234" >Scheuer</NAME>
+
+<NAME start="8924" party2_of="112218_228" end="8930" all_names="RHODES" id="112218_235" local_name_id="50" >Rhodes</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="232" id1="Dummy_File_867" id="112218_221" lookup_key="u.s._416_232" alternative_keys="['scheuerrhodes#1']" citation_local_level_id="23" start="8932" citation_global_level_id="1019.003" end="8956" paragraph_number="236" volume="416" no_current_file="True" year="1974" line="21" >416 U.S. 232, 236 (1974)</CITATION>
+
+<DATE start="8951" citation_global_level_id="1019.003" end="8955" citation_local_level_id="23" id="112218_246" >1974</DATE>
+
+<NAME start="9062" local_name_id="23" end="9065" all_names="SEE" id="112218_256" >See</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_868" entry_type="party_key" party1="Conley" line="21" id="112218_229" lookup_key="conleygibson#1" alternative_keys="['u.s._355_41']" party2="Gibson" citation_local_level_id="24" start="9066" party2_short="Gibson" end="9082" citation_global_level_id="1020.003" volume="355" no_current_file="True" page_number="41" party1_short="Conley" >Conley v. Gibson</CITATION>
+
+<NAME start="9066" local_name_id="51" end="9072" all_names="CONLEY" party1_of="112218_229" id="112218_236" >Conley</NAME>
+
+<NAME start="9076" party2_of="112218_229" end="9082" all_names="GIBSON" id="112218_237" local_name_id="52" >Gibson</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="41" id1="Dummy_File_868" id="112218_222" lookup_key="u.s._355_41" alternative_keys="['conleygibson#1']" citation_local_level_id="25" start="9084" citation_global_level_id="1020.003" end="9109" paragraph_number="45-46" volume="355" no_current_file="True" year="1957" line="21" >355 U.S. 41, 45-46 (1957)</CITATION>
+
+<DATE start="9104" citation_global_level_id="1020.003" end="9108" citation_local_level_id="25" id="112218_247" >1957</DATE>
+
+<LEGAL_ROLE start="9111" end="9122" plural="True" id="112218_257" >Petitioners</LEGAL_ROLE>
+
+<ORGANIZATION start="9140" end="9153" id="112218_258" >establishment</ORGANIZATION>
+
+<PROFESSION start="9229" end="9235" id="112218_259" >police</PROFESSION>
+
+<CITATION standard_reporter="F.2D" id1="Dummy_File_869" entry_type="party_key" party1="Kibbe" line="21" id="112218_230" lookup_key="kibbespringfield#1" alternative_keys="['f.2d_777_801']" party2="Springfield" citation_local_level_id="26" start="9340" party2_short="Springfield" end="9360" citation_global_level_id="1021.003" volume="777" no_current_file="True" page_number="801" party1_short="Kibbe" >Kibbe v. Springfield</CITATION>
+
+<NAME start="9340" local_name_id="53" end="9345" all_names="KIBBE" party1_of="112218_230" id="112218_238" >Kibbe</NAME>
+
+<NAME start="9349" party2_of="112218_230" end="9360" all_names="SPRINGFIELD" id="112218_239" local_name_id="54" >Springfield</NAME>
+
+<CITATION reporter="F.2d" entry_type="standard_key" standard_reporter="F.2D" page_number="801" id1="Dummy_File_869" line="21" id="112218_223" lookup_key="f.2d_777_801" alternative_keys="['kibbespringfield#1']" court="CA1" citation_local_level_id="27" start="9362" citation_global_level_id="1021.003" end="9394" volume="777" no_current_file="True" year="1985" paragraph_number="802-803" >777 F.2d 801, 802-803 (CA1 1985)</CITATION>
+
+<DATE start="9389" citation_global_level_id="1021.003" end="9393" citation_local_level_id="27" id="112218_248" >1985</DATE>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="257" id1="Dummy_File_870" id="112218_224" lookup_key="u.s._480_257" citation_local_level_id="28" start="9410" citation_global_level_id="1022.001" end="9429" volume="480" no_current_file="True" year="1987" line="21" >480 U.S. 257 (1987)</CITATION>
+
+<DATE start="9424" citation_global_level_id="1022.001" end="9428" citation_local_level_id="28" id="112218_249" >1987</DATE>
+
+<LEGAL_ROLE start="9628" end="9639" plural="True" id="112218_260" >respondents</LEGAL_ROLE>
+
+<NAME start="9689" local_name_id="10" end="9695" all_names="BROWER	GARNER BROWER" id="112218_261" >Brower</NAME>
+
+<NAME start="9835" local_name_id="23" end="9838" all_names="SEE" id="112218_262" >See</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_871" entry_type="party_key" party1="United States" line="21" id="112218_231" lookup_key="statesleon#1" alternative_keys="['u.s._468_897']" party2="Leon" citation_local_level_id="29" start="9839" party2_short="Leon" end="9860" citation_global_level_id="1023.003" volume="468" no_current_file="True" page_number="897" party1_short="States" >United States v. Leon</CITATION>
+
+<NAME start="9839" local_name_id="32" end="9852" all_names="UNITED STATES" party1_of="112218_231" id="112218_240" >United States</NAME>
+
+<NAME start="9856" party2_of="112218_231" end="9860" all_names="LEON" id="112218_241" local_name_id="55" >Leon</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="897" id1="Dummy_File_871" id="112218_225" lookup_key="u.s._468_897" alternative_keys="['statesleon#1']" citation_local_level_id="30" start="9862" citation_global_level_id="1023.003" end="9879" paragraph_number="922" volume="468" no_current_file="True" line="21" >468 U.S. 897, 922</CITATION>
+
+<DATE start="9888" end="9892" id="112218_250" >1984</DATE>
+
+<CITATION id1="Dummy_File_460" entry_type="party_key" party1="Anderson" line="21" id="112218_232" lookup_key="andersoncreighton#1" alternative_keys="['u.s._483_635']" party2="Creighton" citation_local_level_id="31" start="9904" party2_short="Creighton" end="9925" citation_global_level_id="612.003" no_current_file="True" party1_short="Anderson" >Anderson v. Creighton</CITATION>
+
+<NAME start="9904" local_name_id="56" end="9912" all_names="ANDERSON" party1_of="112218_232" id="112218_242" >Anderson</NAME>
+
+<NAME start="9916" party2_of="112218_232" end="9925" all_names="CREIGHTON" id="112218_243" local_name_id="57" >Creighton</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="635" id1="Dummy_File_460" id="112218_226" lookup_key="u.s._483_635" alternative_keys="['andersoncreighton#1']" citation_local_level_id="32" start="9927" citation_global_level_id="612.003" end="9951" paragraph_number="641" volume="483" no_current_file="True" year="1987" line="21" >483 U.S. 635, 641 (1987)</CITATION>
+
+<DATE start="9946" citation_global_level_id="612.003" end="9950" citation_local_level_id="32" id="112218_251" >1987</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_872" entry_type="party_key" party1="Harlow" line="21" id="112218_233" lookup_key="harlowfitzgerald#1" alternative_keys="['u.s._457_800']" party2="Fitzgerald" citation_local_level_id="33" start="9953" party2_short="Fitzgerald" end="9973" citation_global_level_id="1024.003" volume="457" no_current_file="True" page_number="800" party1_short="Harlow" >Harlow v. Fitzgerald</CITATION>
+
+<NAME start="9953" local_name_id="58" end="9959" all_names="HARLOW" party1_of="112218_233" id="112218_244" >Harlow</NAME>
+
+<NAME start="9963" party2_of="112218_233" end="9973" all_names="FITZGERALD" id="112218_245" local_name_id="59" >Fitzgerald</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="800" id1="Dummy_File_872" id="112218_227" lookup_key="u.s._457_800" alternative_keys="['harlowfitzgerald#1']" citation_local_level_id="34" start="9975" citation_global_level_id="1024.003" end="10003" paragraph_number="815-819" volume="457" no_current_file="True" year="1982" line="21" >457 U.S. 800, 815-819 (1982)</CITATION>
+
+<DATE start="9998" citation_global_level_id="1024.003" end="10002" citation_local_level_id="34" id="112218_252" >1982</DATE>
+
+<PROFESSION start="10472" end="10482" id="112218_263" >government</PROFESSION>
+
+<NAME start="10982" local_name_id="10" end="10988" all_names="BROWER	GARNER BROWER" id="112218_264" >Brower</NAME>
+
+<NAME start="11195" local_name_id="60" end="11202" all_names="SEIZURE" id="112218_300" >Seizure</NAME>
+
+<DATE start="11230" end="11234" id="112218_297" >1983</DATE>
+
+<LEGAL_ROLE start="11282" end="11293" plural="True" id="112218_301" >Petitioners</LEGAL_ROLE>
+
+<NAME start="11329" local_name_id="10" end="11335" all_names="BROWER	GARNER BROWER" id="112218_302" >Brower</NAME>
+
+<NAME start="11651" local_name_id="10" end="11657" all_names="BROWER	GARNER BROWER" id="112218_303" >Brower</NAME>
+
+<LEGAL_ROLE start="11819" end="11830" plural="True" id="112218_304" >respondents</LEGAL_ROLE>
+
+<NAME start="11932" local_name_id="23" end="11935" all_names="SEE" id="112218_305" >See</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_873" entry_type="party_key" party1="Martinez" line="22" id="112218_291" lookup_key="martinezcalifornia#1" alternative_keys="['u.s._444_277']" party2="California" citation_local_level_id="35" start="11936" party2_short="California" end="11958" citation_global_level_id="1025.003" volume="444" no_current_file="True" page_number="277" party1_short="Martinez" >Martinez v. California</CITATION>
+
+<NAME start="11936" local_name_id="61" end="11944" all_names="MARTINEZ" party1_of="112218_291" id="112218_293" >Martinez</NAME>
+
+<NAME start="11948" party2_of="112218_291" end="11958" all_names="CALIFORNIA" id="112218_294" local_name_id="28" >California</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="277" id1="Dummy_File_873" id="112218_289" lookup_key="u.s._444_277" alternative_keys="['martinezcalifornia#1']" citation_local_level_id="36" start="11960" citation_global_level_id="1025.003" end="11984" paragraph_number="285" volume="444" no_current_file="True" year="1980" line="22" >444 U.S. 277, 285 (1980)</CITATION>
+
+<DATE start="11979" citation_global_level_id="1025.003" end="11983" citation_local_level_id="36" id="112218_298" >1980</DATE>
+
+<CITATION standard_reporter="F.2D" id1="Dummy_File_874" entry_type="party_key" party1="Cameron" line="22" id="112218_292" lookup_key="cameronpontiac#1" alternative_keys="['f.2d_813_782']" party2="Pontiac" citation_local_level_id="37" start="11986" party2_short="Pontiac" end="12004" citation_global_level_id="1026.003" volume="813" no_current_file="True" page_number="782" party1_short="Cameron" >Cameron v. Pontiac</CITATION>
+
+<NAME start="11986" local_name_id="62" end="11993" all_names="CAMERON" party1_of="112218_292" id="112218_295" >Cameron</NAME>
+
+<NAME start="11997" party2_of="112218_292" end="12004" all_names="PONTIAC" id="112218_296" local_name_id="63" >Pontiac</NAME>
+
+<CITATION reporter="F.2d" entry_type="standard_key" standard_reporter="F.2D" page_number="782" id1="Dummy_File_874" line="22" id="112218_290" lookup_key="f.2d_813_782" alternative_keys="['cameronpontiac#1']" court="CA6" citation_local_level_id="38" start="12006" citation_global_level_id="1026.003" end="12034" volume="813" no_current_file="True" year="1987" paragraph_number="786" >813 F.2d 782, 786 (CA6 1987)</CITATION>
+
+<DATE start="12029" citation_global_level_id="1026.003" end="12033" citation_local_level_id="38" id="112218_299" >1987</DATE>
+
+<LEGAL_ROLE start="12249" end="12260" plural="True" id="112218_314" >respondents</LEGAL_ROLE>
+
+<NAME start="12297" local_name_id="10" end="12303" all_names="BROWER	GARNER BROWER" id="112218_315" >Brower</NAME>
+
+<NAME start="12422" local_name_id="64" end="12451" all_names="FOURTH AMENDMENT ACCORDINGLY" id="112218_316" >Fourth Amendment. Accordingly</NAME>
+
+<ORGANIZATION start="12484" end="12500" id="112218_317" >Court of Appeals</ORGANIZATION>
+
+<ORGANIZATION start="12545" end="12559" id="112218_318" >District Court</ORGANIZATION>
+
+<NAME start="12583" local_name_id="14" end="12599" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_319" >Fourth Amendment</NAME>
+
+<PROFESSION start="12719" end="12726" party="SCALIA" document_level_name_id="8" id="112218_320" >JUSTICE</PROFESSION>
+
+<NAME start="12727" local_name_id="65" end="12734" all_names="STEVENS" id="112218_321" >STEVENS</NAME>
+
+<PROFESSION start="12746" end="12753" party="SCALIA" document_level_name_id="8" id="112218_322" >JUSTICE</PROFESSION>
+
+<NAME start="12754" local_name_id="66" end="12761" all_names="BRENNAN" id="112218_323" >BRENNAN</NAME>
+
+<PROFESSION start="12763" end="12770" party="SCALIA" document_level_name_id="8" id="112218_324" >JUSTICE</PROFESSION>
+
+<NAME start="12771" local_name_id="67" end="12779" all_names="MARSHALL" id="112218_325" >MARSHALL</NAME>
+
+<PROFESSION start="12785" end="12792" party="SCALIA" document_level_name_id="8" id="112218_326" >JUSTICE</PROFESSION>
+
+<NAME start="12793" local_name_id="68" end="12801" all_names="BLACKMUN" id="112218_327" >BLACKMUN</NAME>
+
+<ORGANIZATION start="12840" end="12845" id="112218_333" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="12891" end="12902" plural="True" id="112218_334" >respondents</LEGAL_ROLE>
+
+<NAME start="12931" local_name_id="10" end="12937" all_names="BROWER	GARNER BROWER" id="112218_335" >Brower</NAME>
+
+<NAME start="12992" local_name_id="69" end="13011" all_names="FOURTH AMENDMENT I" id="112218_336" >Fourth Amendment. I</NAME>
+
+<ORGANIZATION start="13157" end="13162" id="112218_337" >Court</ORGANIZATION>
+
+<NAME start="13221" local_name_id="14" end="13237" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_338" >Fourth Amendment</NAME>
+
+<NAME start="13296" local_name_id="70" end="13300" all_names="ANTE" id="112218_339" >Ante</NAME>
+
+<ORGANIZATION start="13578" end="13583" id="112218_355" >Court</ORGANIZATION>
+
+<PROFESSION start="13668" end="13675" id="112218_356" >officer</PROFESSION>
+
+<NAME start="13677" local_name_id="70" end="13681" all_names="ANTE" id="112218_357" >Ante</NAME>
+
+<CITATION id1="Dummy_File_872" entry_type="party_key" party1="Harlow" line="27" id="112218_343" lookup_key="harlowfitzgerald#1" alternative_keys="['u.s._457_800']" party2="Fitzgerald" citation_local_level_id="39" start="13774" party2_short="Fitzgerald" end="13794" citation_global_level_id="1024.003" no_current_file="True" party1_short="Harlow" >Harlow v. Fitzgerald</CITATION>
+
+<NAME start="13774" local_name_id="58" end="13780" all_names="HARLOW" party1_of="112218_343" id="112218_346" >Harlow</NAME>
+
+<NAME start="13784" party2_of="112218_343" end="13794" all_names="FITZGERALD" id="112218_347" local_name_id="59" >Fitzgerald</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="800" id1="Dummy_File_872" id="112218_340" lookup_key="u.s._457_800" alternative_keys="['harlowfitzgerald#1']" citation_local_level_id="40" start="13796" citation_global_level_id="1024.003" end="13824" paragraph_number="815-819" volume="457" no_current_file="True" year="1982" line="27" >457 U.S. 800, 815-819 (1982)</CITATION>
+
+<DATE start="13819" citation_global_level_id="1024.003" end="13823" citation_local_level_id="40" id="112218_352" >1982</DATE>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_875" entry_type="party_key" party1="United States" line="27" id="112218_344" lookup_key="statesmendenhall#1" alternative_keys="['u.s._446_544']" party2="Mendenhall" citation_local_level_id="41" start="13826" party2_short="Mendenhall" end="13853" citation_global_level_id="1027.003" volume="446" no_current_file="True" page_number="544" party1_short="States" >United States v. Mendenhall</CITATION>
+
+<NAME start="13826" local_name_id="32" end="13839" all_names="UNITED STATES" party1_of="112218_344" id="112218_348" >United States</NAME>
+
+<NAME start="13843" party2_of="112218_344" end="13853" all_names="MENDENHALL" id="112218_349" local_name_id="71" >Mendenhall</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="544" id1="Dummy_File_875" id="112218_341" lookup_key="u.s._446_544" alternative_keys="['statesmendenhall#1']" citation_local_level_id="42" start="13855" citation_global_level_id="1027.003" end="13872" paragraph_number="554" volume="446" no_current_file="True" line="27" >446 U.S. 544, 554</CITATION>
+
+<DATE start="13880" end="13884" id="112218_353" >1980</DATE>
+
+<NAME start="13898" local_name_id="72" end="13905" all_names="STEWART" id="112218_358" >Stewart</NAME>
+
+<NAME start="13972" local_name_id="14" end="13988" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_359" >Fourth Amendment</NAME>
+
+<PROFESSION start="14022" end="14036" id="112218_360" >police officer</PROFESSION>
+
+<NAME start="14346" local_name_id="14" end="14362" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_361" >Fourth Amendment</NAME>
+
+<NAME start="14506" local_name_id="13" end="14508" all_names="ID" id="112218_362" >Id</NAME>
+
+<NAME start="14535" local_name_id="72" end="14542" all_names="STEWART" id="112218_363" >Stewart</NAME>
+
+<CITATION standard_reporter="U.S." id1="Dummy_File_876" entry_type="party_key" party1="INS" line="27" id="112218_345" lookup_key="insdelgado#1" alternative_keys="['u.s._466_210']" party2="Delgado" citation_local_level_id="43" start="14558" party2_short="Delgado" end="14572" citation_global_level_id="1028.003" volume="466" no_current_file="True" page_number="210" party1_short="INS" >INS v. Delgado</CITATION>
+
+<NAME start="14558" local_name_id="73" end="14561" all_names="INS" party1_of="112218_345" id="112218_350" >INS</NAME>
+
+<NAME start="14565" party2_of="112218_345" end="14572" all_names="DELGADO" id="112218_351" local_name_id="74" >Delgado</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="210" id1="Dummy_File_876" id="112218_342" lookup_key="u.s._466_210" alternative_keys="['insdelgado#1']" citation_local_level_id="44" start="14574" citation_global_level_id="1028.003" end="14598" paragraph_number="215" volume="466" no_current_file="True" year="1984" line="27" >466 U.S. 210, 215 (1984)</CITATION>
+
+<DATE start="14593" citation_global_level_id="1028.003" end="14597" citation_local_level_id="44" id="112218_354" >1984</DATE>
+
+<ORGANIZATION start="14651" end="14656" id="112218_383" >Court</ORGANIZATION>
+
+<NAME start="14714" local_name_id="75" end="14736" all_names="FOURTH AMENDMENT WHAT" id="112218_384" >Fourth Amendment. What</NAME>
+
+<ORGANIZATION start="14764" end="14769" id="112218_385" >Court</ORGANIZATION>
+
+<NAME start="14904" local_name_id="76" end="14912" all_names="DECISION" id="112218_386" >Decision</NAME>
+
+<NAME start="15054" local_name_id="77" end="15078" all_names="FOURTH AMENDMENT RATHER" id="112218_387" >Fourth Amendment. Rather</NAME>
+
+<PROFESSION start="15096" end="15101" party="PREGERSON" document_level_name_id="78" id="112218_388" >Judge</PROFESSION>
+
+<NAME start="15102" local_name_id="78" end="15111" all_names="PREGERSON" id="112218_389" >Pregerson</NAME>
+
+<ORGANIZATION start="15129" end="15145" id="112218_390" >Court of Appeals</ORGANIZATION>
+
+<CITATION id1="Dummy_File_855" entry_type="party_key" party1="Tennessee" line="28" id="112218_378" lookup_key="tennesseegarner#1" alternative_keys="['u.s._471_1', 'f.2d_817_540']" party2="Garner" citation_local_level_id="45" start="15198" party2_short="Garner" end="15217" citation_global_level_id="1007.003" no_current_file="True" party1_short="Tennessee" >Tennessee v. Garner</CITATION>
+
+<NAME start="15198" local_name_id="21" end="15207" all_names="TENNESSEE" party1_of="112218_378" id="112218_379" >Tennessee</NAME>
+
+<NAME start="15211" party2_of="112218_378" end="15217" all_names="GARNER" id="112218_380" local_name_id="22" >Garner</NAME>
+
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1" id1="Dummy_File_855" id="112218_375" lookup_key="u.s._471_1" alternative_keys="['tennesseegarner#1', 'f.2d_817_540']" citation_local_level_id="46" start="15219" citation_global_level_id="1007.002" end="15236" volume="471" no_current_file="True" year="1985" line="28" >471 U.S. 1 (1985)</CITATION>
+
+<DATE start="15231" citation_global_level_id="1007.002" end="15235" citation_local_level_id="46" id="112218_381" >1985</DATE>
+
+<CITATION reporter="F.2d" entry_type="standard_key" standard_reporter="F.2D" page_number="540" id1="Dummy_File_855" line="28" id="112218_376" lookup_key="f.2d_817_540" alternative_keys="['tennesseegarner#1', 'u.s._471_1']" court="CA9" citation_local_level_id="47" start="15238" citation_global_level_id="1007.001" end="15266" volume="817" no_current_file="True" year="1987" paragraph_number="548" >817 F.2d 540, 548 (CA9 1987)</CITATION>
+
+<DATE start="15261" citation_global_level_id="1007.001" end="15265" citation_local_level_id="47" id="112218_382" >1987</DATE>
+
+<ORGANIZATION start="15412" end="15417" id="112218_391" >force</ORGANIZATION>
+
+<NAME start="15480" local_name_id="14" end="15496" all_names="FOURTH AMENDMENT	VIOLATION OF THE FOURTH AMENDMENT" id="112218_392" >Fourth Amendment</NAME>
+
+<CITATION reporter="U. S." entry_type="standard_key" standard_reporter="U.S." page_number="7" id1="Dummy_File_877" id="112218_377" lookup_key="u.s._471_7" citation_local_level_id="48" start="15499" citation_global_level_id="1029.001" end="15514" volume="471" no_current_file="True" line="28" >471 U. S., at 7</CITATION>
+
+<PROFESSION start="15551" end="15565" id="112218_393" >police officer</PROFESSION>
+
+<PROFESSION start="15724" end="15729" party="PREGERSON" document_level_name_id="78" id="112218_403" >Judge</PROFESSION>
+
+<NAME start="15730" local_name_id="78" end="15739" all_names="PREGERSON" id="112218_404" >Pregerson</NAME>
+
+<CITATION start="15817" id1="Dummy_File_878" entry_type="case_key" citation_global_level_id="1030.001" line="29" no_current_file="True" name="Court's judgment" id="112218_402" lookup_key="court's judgment#1" end="15833" citation_local_level_id="49" >Court's judgment</CITATION>
+
+<ORGANIZATION start="15817" end="15822" id="112218_405" >Court</ORGANIZATION>
+
+<RELATION at_date_string="1989" theme_string="489 U.S. 593 (1989)" id="112218_3" relation_type="asymmetric" theme="112218_1" at_date="112218_2" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="BROWER, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER), ET AL." party1="112218_10" theme_string="BROWER, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER), ET AL.  v.  COUNTY OF INYO ET AL" id="112218_13" relation_type="asymmetric" theme="112218_9" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="COUNTY OF INYO ET AL" theme_string="BROWER, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER), ET AL.  v.  COUNTY OF INYO ET AL" id="112218_14" relation_type="asymmetric" party2="112218_11" theme="112218_9" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="BROWER, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER), ET AL.  v.  COUNTY OF INYO ET AL" gram_type="multi_line" standard_case="112218_1" relation_type="equivalence" id="112218_18" X_vs_Y="112218_9" standard_case_string="489 U.S. 593 (1989)" ></RELATION>
+
+<RELATION includes_docket_string="87-248" theme_string="BROWER, INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF CALDWELL (BROWER), ET AL.  v.  COUNTY OF INYO ET AL" id="112218_19" relation_type="asymmetric" includes_docket="112218_15" theme="112218_9" gram_type="multi_line" ></RELATION>
+
+<RELATION profession="112218_29" gram_type="pre_nom" id="112218_32" profession_string="JUSTICE" relation_type="asymmetric" theme="112218_30" theme_string="SCALIA" ></RELATION>
+
+<RELATION gram_type="apposition" id="112218_73" relation_type="asymmetric" theme="112218_48" theme_string="heirs" legal_role="112218_49" legal_role_string="petitioners" ></RELATION>
+
+<RELATION at_date_string="1987" theme_string="817 F.2d 540, 545-546 (1987)" id="112218_74" relation_type="asymmetric" theme="112218_33" at_date="112218_41" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1988" theme_string="487 U.S. 1217 (1988)" id="112218_75" relation_type="asymmetric" theme="112218_34" at_date="112218_42" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Court of Appeals for the Fifth Circuit in Jamieson v. Shaw" gram_type="apposition" standard_case="112218_35" relation_type="equivalence" id="112218_78" X_vs_Y="112218_36" standard_case_string="772 F.2d 1205 (1985)" ></RELATION>
+
+<RELATION party1_string="Court of Appeals for the Fifth Circuit in Jamieson" party1="112218_37" theme_string="Court of Appeals for the Fifth Circuit in Jamieson v. Shaw" id="112218_76" relation_type="asymmetric" theme="112218_36" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Shaw" theme_string="Court of Appeals for the Fifth Circuit in Jamieson v. Shaw" id="112218_77" relation_type="asymmetric" party2="112218_38" theme="112218_36" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1985" theme_string="772 F.2d 1205 (1985)" id="112218_79" relation_type="asymmetric" theme="112218_35" at_date="112218_43" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Tennessee v. Garner" gram_type="apposition" standard_case="112218_83" relation_type="equivalence" id="112218_106" X_vs_Y="112218_85" standard_case_string="471 U.S. 1 (1985)" ></RELATION>
+
+<RELATION party1_string="Tennessee" party1="112218_86" theme_string="Tennessee v. Garner" id="112218_104" relation_type="asymmetric" theme="112218_85" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Garner" theme_string="Tennessee v. Garner" id="112218_105" relation_type="asymmetric" party2="112218_87" theme="112218_85" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1985" theme_string="471 U.S. 1 (1985)" id="112218_107" relation_type="asymmetric" theme="112218_83" at_date="112218_88" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Galas v. McKee" gram_type="apposition" standard_case="112218_108" relation_type="equivalence" id="112218_166" X_vs_Y="112218_113" standard_case_string="801 F.2d 200, 202-203 (CA6 1986)" ></RELATION>
+
+<RELATION party1_string="Galas" party1="112218_119" theme_string="Galas v. McKee" id="112218_164" relation_type="asymmetric" theme="112218_113" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="McKee" theme_string="Galas v. McKee" id="112218_165" relation_type="asymmetric" party2="112218_120" theme="112218_113" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1986" theme_string="801 F.2d 200, 202-203 (CA6 1986)" id="112218_167" relation_type="asymmetric" theme="112218_108" at_date="112218_131" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Hill v. California" gram_type="apposition" standard_case="112218_109" relation_type="equivalence" id="112218_170" X_vs_Y="112218_114" standard_case_string="401 U.S. 797, 802-805 (1971)" ></RELATION>
+
+<RELATION party1_string="Hill" party1="112218_121" theme_string="Hill v. California" id="112218_168" relation_type="asymmetric" theme="112218_114" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="California" theme_string="Hill v. California" id="112218_169" relation_type="asymmetric" party2="112218_122" theme="112218_114" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1971" theme_string="401 U.S. 797, 802-805 (1971)" id="112218_171" relation_type="asymmetric" theme="112218_109" at_date="112218_132" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Maryland v. Garrison" gram_type="apposition" standard_case="112218_110" relation_type="equivalence" id="112218_174" X_vs_Y="112218_115" standard_case_string="480 U.S. 79, 85-89 (1987)" ></RELATION>
+
+<RELATION party1_string="Maryland" party1="112218_123" theme_string="Maryland v. Garrison" id="112218_172" relation_type="asymmetric" theme="112218_115" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Garrison" theme_string="Maryland v. Garrison" id="112218_173" relation_type="asymmetric" party2="112218_124" theme="112218_115" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1987" theme_string="480 U.S. 79, 85-89 (1987)" id="112218_175" relation_type="asymmetric" theme="112218_110" at_date="112218_133" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Boyd v. United States" gram_type="apposition" standard_case="112218_111" relation_type="equivalence" id="112218_178" X_vs_Y="112218_116" standard_case_string="116 U.S. 616, 624-625 (1886)" ></RELATION>
+
+<RELATION party1_string="Boyd" party1="112218_125" theme_string="Boyd v. United States" id="112218_176" relation_type="asymmetric" theme="112218_116" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="United States" theme_string="Boyd v. United States" id="112218_177" relation_type="asymmetric" party2="112218_126" theme="112218_116" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1886" theme_string="116 U.S. 616, 624-625 (1886)" id="112218_179" relation_type="asymmetric" theme="112218_111" at_date="112218_134" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Entick" party1="112218_127" theme_string="Entick v. Carrington" id="112218_180" relation_type="asymmetric" theme="112218_117" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Carrington" theme_string="Entick v. Carrington" id="112218_181" relation_type="asymmetric" party2="112218_128" theme="112218_117" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Byars v. United States" gram_type="apposition" standard_case="112218_112" relation_type="equivalence" id="112218_184" X_vs_Y="112218_118" standard_case_string="273 U.S. 28, 33 (1927)" ></RELATION>
+
+<RELATION party1_string="Byars" party1="112218_129" theme_string="Byars v. United States" id="112218_182" relation_type="asymmetric" theme="112218_118" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="United States" theme_string="Byars v. United States" id="112218_183" relation_type="asymmetric" party2="112218_130" theme="112218_118" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1927" theme_string="273 U.S. 28, 33 (1927)" id="112218_185" relation_type="asymmetric" theme="112218_112" at_date="112218_138" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Hester v. United States" gram_type="apposition" standard_case="112218_192" relation_type="equivalence" id="112218_218" X_vs_Y="112218_193" standard_case_string="265 U.S. 57 (1924)" ></RELATION>
+
+<RELATION party1_string="Hester" party1="112218_194" theme_string="Hester v. United States" id="112218_216" relation_type="asymmetric" theme="112218_193" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="United States" theme_string="Hester v. United States" id="112218_217" relation_type="asymmetric" party2="112218_195" theme="112218_193" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1924" theme_string="265 U.S. 57 (1924)" id="112218_219" relation_type="asymmetric" theme="112218_192" at_date="112218_196" gram_type="infix" ></RELATION>
+
+<RELATION profession="112218_201" gram_type="pre_nom" id="112218_220" profession_string="Justice" relation_type="asymmetric" theme="112218_202" theme_string="Holmes" ></RELATION>
+
+<RELATION X_vs_Y_string="Scheuer v. Rhodes" gram_type="apposition" standard_case="112218_221" relation_type="equivalence" id="112218_267" X_vs_Y="112218_228" standard_case_string="416 U.S. 232, 236 (1974)" ></RELATION>
+
+<RELATION party1_string="Scheuer" party1="112218_234" theme_string="Scheuer v. Rhodes" id="112218_265" relation_type="asymmetric" theme="112218_228" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Rhodes" theme_string="Scheuer v. Rhodes" id="112218_266" relation_type="asymmetric" party2="112218_235" theme="112218_228" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1974" theme_string="416 U.S. 232, 236 (1974)" id="112218_268" relation_type="asymmetric" theme="112218_221" at_date="112218_246" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Conley v. Gibson" gram_type="apposition" standard_case="112218_222" relation_type="equivalence" id="112218_271" X_vs_Y="112218_229" standard_case_string="355 U.S. 41, 45-46 (1957)" ></RELATION>
+
+<RELATION party1_string="Conley" party1="112218_236" theme_string="Conley v. Gibson" id="112218_269" relation_type="asymmetric" theme="112218_229" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Gibson" theme_string="Conley v. Gibson" id="112218_270" relation_type="asymmetric" party2="112218_237" theme="112218_229" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1957" theme_string="355 U.S. 41, 45-46 (1957)" id="112218_272" relation_type="asymmetric" theme="112218_222" at_date="112218_247" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Kibbe v. Springfield" gram_type="apposition" standard_case="112218_223" relation_type="equivalence" id="112218_275" X_vs_Y="112218_230" standard_case_string="777 F.2d 801, 802-803 (CA1 1985)" ></RELATION>
+
+<RELATION party1_string="Kibbe" party1="112218_238" theme_string="Kibbe v. Springfield" id="112218_273" relation_type="asymmetric" theme="112218_230" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Springfield" theme_string="Kibbe v. Springfield" id="112218_274" relation_type="asymmetric" party2="112218_239" theme="112218_230" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1985" theme_string="777 F.2d 801, 802-803 (CA1 1985)" id="112218_276" relation_type="asymmetric" theme="112218_223" at_date="112218_248" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1987" theme_string="480 U.S. 257 (1987)" id="112218_277" relation_type="asymmetric" theme="112218_224" at_date="112218_249" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="United States v. Leon" gram_type="apposition" standard_case="112218_225" relation_type="equivalence" id="112218_280" X_vs_Y="112218_231" standard_case_string="468 U.S. 897, 922" ></RELATION>
+
+<RELATION party1_string="United States" party1="112218_240" theme_string="United States v. Leon" id="112218_278" relation_type="asymmetric" theme="112218_231" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Leon" theme_string="United States v. Leon" id="112218_279" relation_type="asymmetric" party2="112218_241" theme="112218_231" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Anderson v. Creighton" gram_type="apposition" standard_case="112218_226" relation_type="equivalence" id="112218_283" X_vs_Y="112218_232" standard_case_string="483 U.S. 635, 641 (1987)" ></RELATION>
+
+<RELATION party1_string="Anderson" party1="112218_242" theme_string="Anderson v. Creighton" id="112218_281" relation_type="asymmetric" theme="112218_232" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Creighton" theme_string="Anderson v. Creighton" id="112218_282" relation_type="asymmetric" party2="112218_243" theme="112218_232" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1987" theme_string="483 U.S. 635, 641 (1987)" id="112218_284" relation_type="asymmetric" theme="112218_226" at_date="112218_251" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Harlow v. Fitzgerald" gram_type="apposition" standard_case="112218_227" relation_type="equivalence" id="112218_287" X_vs_Y="112218_233" standard_case_string="457 U.S. 800, 815-819 (1982)" ></RELATION>
+
+<RELATION party1_string="Harlow" party1="112218_244" theme_string="Harlow v. Fitzgerald" id="112218_285" relation_type="asymmetric" theme="112218_233" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Fitzgerald" theme_string="Harlow v. Fitzgerald" id="112218_286" relation_type="asymmetric" party2="112218_245" theme="112218_233" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1982" theme_string="457 U.S. 800, 815-819 (1982)" id="112218_288" relation_type="asymmetric" theme="112218_227" at_date="112218_252" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Martinez v. California" gram_type="apposition" standard_case="112218_289" relation_type="equivalence" id="112218_308" X_vs_Y="112218_291" standard_case_string="444 U.S. 277, 285 (1980)" ></RELATION>
+
+<RELATION party1_string="Martinez" party1="112218_293" theme_string="Martinez v. California" id="112218_306" relation_type="asymmetric" theme="112218_291" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="California" theme_string="Martinez v. California" id="112218_307" relation_type="asymmetric" party2="112218_294" theme="112218_291" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1980" theme_string="444 U.S. 277, 285 (1980)" id="112218_309" relation_type="asymmetric" theme="112218_289" at_date="112218_298" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Cameron v. Pontiac" gram_type="apposition" standard_case="112218_290" relation_type="equivalence" id="112218_312" X_vs_Y="112218_292" standard_case_string="813 F.2d 782, 786 (CA6 1987)" ></RELATION>
+
+<RELATION party1_string="Cameron" party1="112218_295" theme_string="Cameron v. Pontiac" id="112218_310" relation_type="asymmetric" theme="112218_292" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Pontiac" theme_string="Cameron v. Pontiac" id="112218_311" relation_type="asymmetric" party2="112218_296" theme="112218_292" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1987" theme_string="813 F.2d 782, 786 (CA6 1987)" id="112218_313" relation_type="asymmetric" theme="112218_290" at_date="112218_299" gram_type="infix" ></RELATION>
+
+<RELATION profession="112218_320" gram_type="pre_nom" id="112218_328" profession_string="JUSTICE" relation_type="asymmetric" theme="112218_321" theme_string="STEVENS" ></RELATION>
+
+<RELATION profession="112218_322" gram_type="pre_nom" id="112218_329" profession_string="JUSTICE" relation_type="asymmetric" theme="112218_323" theme_string="BRENNAN" ></RELATION>
+
+<RELATION profession="112218_324" gram_type="apposition" id="112218_330" profession_string="JUSTICE" relation_type="asymmetric" theme="112218_323" theme_string="BRENNAN" ></RELATION>
+
+<RELATION profession="112218_324" gram_type="pre_nom" id="112218_331" profession_string="JUSTICE" relation_type="asymmetric" theme="112218_325" theme_string="MARSHALL" ></RELATION>
+
+<RELATION profession="112218_326" gram_type="pre_nom" id="112218_332" profession_string="JUSTICE" relation_type="asymmetric" theme="112218_327" theme_string="BLACKMUN" ></RELATION>
+
+<RELATION X_vs_Y_string="Harlow v. Fitzgerald" gram_type="apposition" standard_case="112218_340" relation_type="equivalence" id="112218_366" X_vs_Y="112218_343" standard_case_string="457 U.S. 800, 815-819 (1982)" ></RELATION>
+
+<RELATION party1_string="Harlow" party1="112218_346" theme_string="Harlow v. Fitzgerald" id="112218_364" relation_type="asymmetric" theme="112218_343" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Fitzgerald" theme_string="Harlow v. Fitzgerald" id="112218_365" relation_type="asymmetric" party2="112218_347" theme="112218_343" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1982" theme_string="457 U.S. 800, 815-819 (1982)" id="112218_367" relation_type="asymmetric" theme="112218_340" at_date="112218_352" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="United States v. Mendenhall" gram_type="apposition" standard_case="112218_341" relation_type="equivalence" id="112218_370" X_vs_Y="112218_344" standard_case_string="446 U.S. 544, 554" ></RELATION>
+
+<RELATION party1_string="United States" party1="112218_348" theme_string="United States v. Mendenhall" id="112218_368" relation_type="asymmetric" theme="112218_344" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Mendenhall" theme_string="United States v. Mendenhall" id="112218_369" relation_type="asymmetric" party2="112218_349" theme="112218_344" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="INS v. Delgado" gram_type="apposition" standard_case="112218_342" relation_type="equivalence" id="112218_373" X_vs_Y="112218_345" standard_case_string="466 U.S. 210, 215 (1984)" ></RELATION>
+
+<RELATION party1_string="INS" party1="112218_350" theme_string="INS v. Delgado" id="112218_371" relation_type="asymmetric" theme="112218_345" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Delgado" theme_string="INS v. Delgado" id="112218_372" relation_type="asymmetric" party2="112218_351" theme="112218_345" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1984" theme_string="466 U.S. 210, 215 (1984)" id="112218_374" relation_type="asymmetric" theme="112218_342" at_date="112218_354" gram_type="infix" ></RELATION>
+
+<RELATION profession="112218_388" gram_type="pre_nom" id="112218_394" profession_string="Judge" relation_type="asymmetric" theme="112218_389" theme_string="Pregerson" ></RELATION>
+
+<RELATION X_vs_Y_string="Tennessee v. Garner" gram_type="apposition" standard_case="112218_376" relation_type="equivalence" id="112218_400" X_vs_Y="112218_378" standard_case_string="817 F.2d 540, 548 (CA9 1987)" ></RELATION>
+
+<RELATION X_vs_Y_string="Tennessee v. Garner" gram_type="apposition" standard_case="112218_375" relation_type="equivalence" id="112218_397" X_vs_Y="112218_378" standard_case_string="471 U.S. 1 (1985)" ></RELATION>
+
+<RELATION party1_string="Tennessee" party1="112218_379" theme_string="Tennessee v. Garner" id="112218_395" relation_type="asymmetric" theme="112218_378" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Garner" theme_string="Tennessee v. Garner" id="112218_396" relation_type="asymmetric" party2="112218_380" theme="112218_378" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1985" theme_string="471 U.S. 1 (1985)" id="112218_398" relation_type="asymmetric" theme="112218_375" at_date="112218_381" gram_type="infix" ></RELATION>
+
+<RELATION at_date_string="1985" theme_string="817 F.2d 540, 548 (CA9 1987)" id="112218_399" relation_type="asymmetric" theme="112218_376" at_date="112218_381" gram_type="indirect_infix" ></RELATION>
+
+<RELATION at_date_string="1987" theme_string="817 F.2d 540, 548 (CA9 1987)" id="112218_401" relation_type="asymmetric" theme="112218_376" at_date="112218_382" gram_type="infix" ></RELATION>
+
+<RELATION profession="112218_403" gram_type="pre_nom" id="112218_406" profession_string="Judge" relation_type="asymmetric" theme="112218_404" theme_string="Pregerson" ></RELATION>
+
+<NAME local_name_id="11" from="from_legal_role" name="HEIRS" >HEIRS</NAME>
+

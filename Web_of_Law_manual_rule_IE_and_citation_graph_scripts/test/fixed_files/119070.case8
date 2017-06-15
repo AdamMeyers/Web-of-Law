@@ -1,0 +1,12 @@
+<citation id="119070_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="535" page_number="955" line="1">535 U.S. 955</citation>
+<citation id="119070_2" entry_type="case_X_vs_Y" start="20" end="46" party1="SUK CHANG" party2="UNITED STATES" line="2">SUK CHANG v. UNITED STATES</citation>
+<NAME id="119070_3" start="20" end="29" party1_of="119070_2">SUK CHANG</NAME>
+<NAME id="119070_4" start="33" end="46" party2_of="119070_2">UNITED STATES</NAME>
+<docket id="119070_7" entry_type="docket" start="56" end="63" line="3">01-1219</docket>
+<date id="119070_8" start="109" end="123">March 25, 2002</date>
+<NAME id="119070_12" start="154" end="157">Cir</NAME>
+<RELATION id="119070_5" relation_type="asymmetric" gram_type="infix" theme="119070_2" theme_string="SUK CHANG v. UNITED STATES" party1="119070_3" party1_string="SUK CHANG"></RELATION>
+<RELATION id="119070_6" relation_type="asymmetric" gram_type="infix" theme="119070_2" theme_string="SUK CHANG v. UNITED STATES" party2="119070_4" party2_string="UNITED STATES"></RELATION>
+<RELATION id="119070_9" relation_type="equivalence" gram_type="multi_line" standard_case="119070_1" standard_case_string="535 U.S. 955" X_vs_Y="119070_2" X_vs_Y_string="SUK CHANG v. UNITED STATES"></RELATION>
+<RELATION id="119070_11" relation_type="asymmetric" gram_type="multi_line" theme="119070_2" theme_string="SUK CHANG v. UNITED STATES" at_date="119070_8" at_date_string="March 25, 2002"></RELATION>
+<RELATION id="119070_10" relation_type="asymmetric" gram_type="multi_line" theme="119070_2" theme_string="SUK CHANG v. UNITED STATES" includes_docket="119070_7" includes_docket_string="01-1219"></RELATION>

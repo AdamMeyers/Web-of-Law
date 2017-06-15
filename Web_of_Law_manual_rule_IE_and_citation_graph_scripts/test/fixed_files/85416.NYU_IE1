@@ -1,0 +1,526 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="362" id1="85416" id="85416_1" lookup_key="u.s._22_362" alternative_keys="['the apollon edon#1', 'wheat._9_362']" citation_local_level_id="0" start="1" citation_global_level_id="54.002" end="19" volume="22" name="The APOLLON, Edon" year="1824" line="2" >22 U.S. 362 (1824)</CITATION>
+
+<DATE start="14" citation_global_level_id="54.002" end="18" citation_local_level_id="0" id="85416_2" >1824</DATE>
+
+<CITATION reporter="Wheat." entry_type="standard_key" standard_reporter="WHEAT." page_number="362" id1="85416" id="85416_4" lookup_key="wheat._9_362" alternative_keys="['u.s._22_362', 'the apollon edon#1']" citation_local_level_id="1" start="20" citation_global_level_id="54.003" end="32" volume="9" name="The APOLLON, Edon" line="3" >9 Wheat. 362</CITATION>
+
+<CITATION id1="85416" entry_type="case_key" party1=" APOLLON, Edon" line="4" id="85416_5" lookup_key="the apollon edon#1" alternative_keys="['wheat._9_362', 'u.s._22_362']" citation_local_level_id="2" start="33" citation_global_level_id="54.004" end="60" party1_role="Claimant" name="The APOLLON, Edon" party1_short="Edon" >The APOLLON, Edon, Claimant</CITATION>
+
+<LEGAL_ROLE start="52" end="60" id="85416_6" >Claimant</LEGAL_ROLE>
+
+<ORGANIZATION start="62" end="92" id="85416_7" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="94" citation_global_level_id="54.004" end="108" citation_local_level_id="2" id="85416_8" >March 13, 1824</DATE>
+
+<DATE start="110" citation_global_level_id="54.004" end="124" citation_local_level_id="2" id="85416_9" >March 17, 1824</DATE>
+
+<NAME start="159" local_name_id="1" end="175" all_names="ATTORNEY-GENERAL" id="85416_10" >Attorney-General</NAME>
+
+<LEGAL_ROLE start="188" end="198" id="85416_11" >respondent</LEGAL_ROLE>
+
+<NAME start="207" local_name_id="2" end="230" all_names="MR HARPER AND MR CLAY" id="85416_12" >Mr. Harper and Mr. Clay</NAME>
+
+<LEGAL_ROLE start="243" end="252" party="party1" id="85416_13" >appellant</LEGAL_ROLE>
+
+<NAME start="254" local_name_id="3" end="271" all_names="MR JUSTICE STORY" id="85416_19" >Mr. Justice STORY</NAME>
+
+<PROFESSION start="258" end="265" id="85416_20" >Justice</PROFESSION>
+
+<ORGANIZATION start="301" end="306" id="85416_21" >Court</ORGANIZATION>
+
+<PROFESSION start="340" end="360" id="85416_25" >master of the French</PROFESSION>
+
+<CITATION id1="Dummy_File_298" entry_type="party_key" party1="Apollon," line="10" id="85416_22" lookup_key="apolloncollector#1" party2="the Collector of the District of St. Mary's" citation_local_level_id="3" start="366" party2_short="Collector" end="426" citation_global_level_id="450.001" no_current_file="True" party1_short="Apollon" >Apollon, against the Collector of the District of St. Mary's</CITATION>
+
+<NAME start="366" local_name_id="4" end="374" all_names="APOLLON" party1_of="85416_22" id="85416_23" >Apollon,</NAME>
+
+<NAME start="383" party2_of="85416_22" end="426" all_names="THE COLLECTOR OF THE DISTRICT OF ST MARY'S" id="85416_24" local_name_id="5" >the Collector of the District of St. Mary's</NAME>
+
+<LEGAL_ROLE start="512" end="522" id="85416_26" >respondent</LEGAL_ROLE>
+
+<NAME start="547" local_name_id="6" end="552" all_names="BELLE" id="85416_27" >Belle</NAME>
+
+<NAME start="576" local_name_id="7" end="583" all_names="ST MARY" id="85416_28" >St Mary</NAME>
+
+<PROFESSION start="630" end="643" id="85416_29" >King of Spain</PROFESSION>
+
+<NAME start="739" local_name_id="8" end="745" all_names="FRANCE" id="85416_33" >France</NAME>
+
+<NAME start="756" local_name_id="9" end="766" all_names="CHARLESTON" id="85416_34" >Charleston</NAME>
+
+<NAME start="777" local_name_id="10" end="785" all_names="CAROLINA" id="85416_35" >Carolina</NAME>
+
+<NAME start="865" local_name_id="11" end="871" all_names="FRENCH" id="85416_36" >French</NAME>
+
+<NAME start="899" local_name_id="12" end="907" all_names="CONGRESS" id="85416_37" >Congress</NAME>
+
+<NAME start="959" local_name_id="13" end="966" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_38" >Spanish</NAME>
+
+<NAME start="1029" local_name_id="14" end="1042" all_names="UNITED STATES" id="85416_39" >United States</NAME>
+
+<NAME start="1084" local_name_id="8" end="1090" all_names="FRANCE" id="85416_40" >France</NAME>
+
+<NAME start="1122" local_name_id="11" end="1128" all_names="FRENCH" id="85416_41" >French</NAME>
+
+<NAME start="1155" local_name_id="15" end="1168" all_names="MR LE MAITRE" id="85416_42" >Mr. Le Maitre</NAME>
+
+<NAME start="1199" local_name_id="9" end="1209" all_names="CHARLESTON" id="85416_43" >Charleston</NAME>
+
+<NAME start="1272" local_name_id="9" end="1282" all_names="CHARLESTON" id="85416_44" >Charleston</NAME>
+
+<PROFESSION start="1288" end="1294" id="85416_45" >master</PROFESSION>
+
+<NAME start="1317" local_name_id="11" end="1323" all_names="FRENCH" id="85416_46" >French</NAME>
+
+<DATE start="1369" end="1378" id="85416_32" >May, 1820</DATE>
+
+<ORGANIZATION start="1444" end="1449" id="85416_47" >board</ORGANIZATION>
+
+<ORGANIZATION start="1479" end="1504" id="85416_48" >Bank of the United States</ORGANIZATION>
+
+<NAME start="1646" local_name_id="16" end="1659" all_names="AMELIA ISLAND" id="85416_49" >Amelia Island</NAME>
+
+<NAME start="1678" local_name_id="17" end="1686" all_names="AMERICAN" id="85416_50" >American</NAME>
+
+<PROFESSION start="1820" end="1826" id="85416_51" >master</PROFESSION>
+
+<NAME start="1840" local_name_id="18" end="1853" all_names="ST AUGUSTINE" id="85416_52" >St. Augustine</NAME>
+
+<NAME start="1970" local_name_id="13" end="1977" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_53" >Spanish</NAME>
+
+<NAME start="2125" local_name_id="19" end="2135" all_names="ST JOSEPH" id="85416_54" >St. Joseph</NAME>
+
+<NAME start="2142" local_name_id="6" end="2147" all_names="BELLE" id="85416_55" >Belle</NAME>
+
+<NAME start="2166" local_name_id="13" end="2173" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_56" >Spanish</NAME>
+
+<PROFESSION start="2200" end="2208" plural="True" id="85416_57" >officers</PROFESSION>
+
+<ORGANIZATION start="2275" end="2288" id="85416_58" >establishment</ORGANIZATION>
+
+<PROFESSION start="2348" end="2354" plural="True" id="85416_59" >agents</PROFESSION>
+
+<NAME start="2525" local_name_id="20" end="2546" all_names="UNITED STATES INDEED" id="85416_60" >United States. Indeed</NAME>
+
+<PROFESSION start="2753" end="2760" party="EDON" document_level_name_id="21" id="85416_61" >Captain</PROFESSION>
+
+<NAME start="2761" local_name_id="21" end="2765" all_names="EDON" id="85416_62" >Edon</NAME>
+
+<NAME start="2933" local_name_id="14" end="2946" all_names="UNITED STATES" id="85416_63" >United States</NAME>
+
+<NAME start="3043" local_name_id="11" end="3049" all_names="FRENCH" id="85416_64" >French</NAME>
+
+<NAME start="3094" local_name_id="18" end="3107" all_names="ST AUGUSTINE" id="85416_65" >St. Augustine</NAME>
+
+<PROFESSION start="3154" end="3161" party="EDON" document_level_name_id="21" id="85416_66" >Captain</PROFESSION>
+
+<NAME start="3162" local_name_id="21" end="3166" all_names="EDON" id="85416_67" >Edon</NAME>
+
+<NAME start="3179" local_name_id="16" end="3192" all_names="AMELIA ISLAND" id="85416_68" >Amelia Island</NAME>
+
+<PROFESSION start="3235" end="3251" plural="True" id="85416_69" >Spanish officers</PROFESSION>
+
+<NAME start="3295" local_name_id="16" end="3308" all_names="AMELIA ISLAND" id="85416_70" >Amelia Island</NAME>
+
+<NAME start="3312" local_name_id="6" end="3317" all_names="BELLE" id="85416_71" >Belle</NAME>
+
+<NAME start="3388" local_name_id="19" end="3398" all_names="ST JOSEPH" id="85416_72" >St. Joseph</NAME>
+
+<NAME start="3481" local_name_id="7" end="3489" all_names="ST MARY" id="85416_73" >St. Mary</NAME>
+
+<NAME start="3542" local_name_id="22" end="3551" all_names="ADMIRALTY" id="85416_74" >Admiralty</NAME>
+
+<PROFESSION start="3587" end="3617" id="85416_75" >attorney for the United States</PROFESSION>
+
+<ORGANIZATION start="3626" end="3651" id="85416_76" >District Court of Georgia</ORGANIZATION>
+
+<ORGANIZATION start="3777" end="3782" id="85416_77" >Court</ORGANIZATION>
+
+<PROFESSION start="3859" end="3869" id="85416_78" >Government</PROFESSION>
+
+<ORGANIZATION start="3965" end="3970" id="85416_79" >Court</ORGANIZATION>
+
+<NAME start="3972" local_name_id="23" end="3974" all_names="IN" id="85416_80" >In</NAME>
+
+<ORGANIZATION start="4185" end="4190" id="85416_81" >Court</ORGANIZATION>
+
+<PROFESSION start="4339" end="4349" id="85416_82" >Government</PROFESSION>
+
+<ORGANIZATION start="4480" end="4494" id="85416_83" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="4566" end="4579" id="85416_84" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="4608" end="4621" id="85416_85" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="4652" end="4666" id="85416_86" >District Court</ORGANIZATION>
+
+<ORGANIZATION start="4996" end="5024" id="85416_89" >department of the government</ORGANIZATION>
+
+<NAME start="5026" local_name_id="24" end="5028" all_names="IT" id="85416_90" >It</NAME>
+
+<ORGANIZATION start="5076" end="5081" id="85416_91" >Court</ORGANIZATION>
+
+<PROFESSION start="5278" end="5288" id="85416_92" >government</PROFESSION>
+
+<PROFESSION start="5488" end="5498" id="85416_93" >government</PROFESSION>
+
+<NAME start="5600" local_name_id="12" end="5608" all_names="CONGRESS" id="85416_94" >Congress</NAME>
+
+<PROFESSION start="5886" end="5896" id="85416_95" >government</PROFESSION>
+
+<PROFESSION start="5953" end="5962" id="85416_96" >executive</PROFESSION>
+
+<PROFESSION start="6249" end="6260" id="85416_97" >Legislature</PROFESSION>
+
+<ORGANIZATION start="6311" end="6316" id="85416_98" >Court</ORGANIZATION>
+
+<PROFESSION start="6404" end="6411" id="85416_99" >justice</PROFESSION>
+
+<CITATION id1="Dummy_File_299" entry_type="party_key" party1="Gelston" line="13" id="85416_100" lookup_key="gelstonhoyt#1" party2="Hoyt, (3 Wheat. Rep" citation_local_level_id="4" start="6853" party2_short="Hoyt" end="6883" citation_global_level_id="451.001" no_current_file="True" party1_short="Gelston" >Gelston v. Hoyt, (3 Wheat. Rep</CITATION>
+
+<NAME start="6853" local_name_id="25" end="6860" all_names="GELSTON" party1_of="85416_100" id="85416_101" >Gelston</NAME>
+
+<NAME start="6864" party2_of="85416_100" end="6883" all_names="HOYT (3 WHEAT REP" id="85416_102" local_name_id="26" >Hoyt, (3 Wheat. Rep</NAME>
+
+<PROFESSION start="6873" end="6883" id="85416_108" >Wheat. Rep</PROFESSION>
+
+<DATE start="7334" end="7338" id="85416_103" >1820</DATE>
+
+<NAME start="7491" local_name_id="11" end="7497" all_names="FRENCH" id="85416_109" >French</NAME>
+
+<NAME start="7535" local_name_id="14" end="7548" all_names="UNITED STATES" id="85416_110" >United States</NAME>
+
+<DATE start="7682" end="7686" id="85416_104" >1799</DATE>
+
+<DATE start="7955" end="7959" id="85416_105" >1799</DATE>
+
+<NAME start="8138" local_name_id="14" end="8151" all_names="UNITED STATES" id="85416_111" >United States</NAME>
+
+<PROFESSION start="8369" end="8375" id="85416_112" >master</PROFESSION>
+
+<NAME start="8424" local_name_id="14" end="8437" all_names="UNITED STATES" id="85416_113" >United States</NAME>
+
+<PROFESSION start="8443" end="8449" id="85416_114" >master</PROFESSION>
+
+<NAME start="8656" local_name_id="14" end="8669" all_names="UNITED STATES" id="85416_115" >United States</NAME>
+
+<PROFESSION start="8833" end="8839" id="85416_116" >master</PROFESSION>
+
+<NAME start="8841" local_name_id="27" end="8846" all_names="THERE" id="85416_117" >There</NAME>
+
+<ORGANIZATION start="8873" end="8882" id="85416_118" >institute</ORGANIZATION>
+
+<ORGANIZATION start="8902" end="8916" id="85416_119" >District Court</ORGANIZATION>
+
+<NAME start="9230" local_name_id="7" end="9238" all_names="ST MARY" id="85416_120" >St. Mary</NAME>
+
+<NAME start="9322" local_name_id="7" end="9330" all_names="ST MARY" id="85416_121" >St. Mary</NAME>
+
+<NAME start="9447" local_name_id="28" end="9459" all_names="JEKYL ISLAND" id="85416_122" >Jekyl Island</NAME>
+
+<NAME start="9475" local_name_id="7" end="9483" all_names="ST MARY" id="85416_123" >St. Mary</NAME>
+
+<NAME start="9505" local_name_id="7" end="9513" all_names="ST MARY" id="85416_124" >St. Mary</NAME>
+
+<NAME start="9571" local_name_id="13" end="9600" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_125" >United States and the Spanish</NAME>
+
+<DATE start="9648" end="9652" id="85416_106" >1795</DATE>
+
+<NAME start="9717" local_name_id="29" end="9725" all_names="ATLANTIC" id="85416_126" >Atlantic</NAME>
+
+<NAME start="9771" local_name_id="13" end="9778" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_127" >Spanish</NAME>
+
+<NAME start="9803" local_name_id="7" end="9811" all_names="ST MARY" id="85416_128" >St. Mary</NAME>
+
+<NAME start="9842" local_name_id="13" end="9849" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_129" >Spanish</NAME>
+
+<PROFESSION start="9905" end="9912" id="85416_130" >general</PROFESSION>
+
+<NAME start="10186" local_name_id="4" end="10193" all_names="APOLLON" id="85416_131" >Apollon</NAME>
+
+<NAME start="10212" local_name_id="7" end="10220" all_names="ST MARY" id="85416_132" >St. Mary</NAME>
+
+<NAME start="10257" local_name_id="17" end="10265" all_names="AMERICAN" id="85416_133" >American</NAME>
+
+<NAME start="10333" local_name_id="13" end="10340" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_134" >Spanish</NAME>
+
+<NAME start="10352" local_name_id="13" end="10359" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_135" >Spanish</NAME>
+
+<NAME start="10403" local_name_id="7" end="10411" all_names="ST MARY" id="85416_136" >St. Mary</NAME>
+
+<NAME start="10431" local_name_id="13" end="10438" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_137" >Spanish</NAME>
+
+<NAME start="10476" local_name_id="6" end="10481" all_names="BELLE" id="85416_138" >Belle</NAME>
+
+<NAME start="10628" local_name_id="7" end="10636" all_names="ST MARY" id="85416_139" >St. Mary</NAME>
+
+<NAME start="10677" local_name_id="13" end="10684" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_140" >Spanish</NAME>
+
+<NAME start="10748" local_name_id="14" end="10761" all_names="UNITED STATES" id="85416_141" >United States</NAME>
+
+<ORGANIZATION start="11047" end="11052" id="85416_142" >force</ORGANIZATION>
+
+<PROFESSION start="11153" end="11160" id="85416_143" >general</PROFESSION>
+
+<PROFESSION start="11311" end="11322" id="85416_144" >Legislature</PROFESSION>
+
+<NAME start="11377" local_name_id="30" end="11382" all_names="SPAIN" id="85416_145" >Spain</NAME>
+
+<NAME start="11415" local_name_id="14" end="11428" all_names="UNITED STATES" id="85416_146" >United States</NAME>
+
+<NAME start="11444" local_name_id="7" end="11452" all_names="ST MARY" id="85416_147" >St. Mary</NAME>
+
+<NAME start="11532" local_name_id="13" end="11539" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_148" >Spanish</NAME>
+
+<PROFESSION start="11647" end="11657" id="85416_149" >government</PROFESSION>
+
+<NAME start="11716" local_name_id="11" end="11722" all_names="FRENCH" id="85416_150" >French</NAME>
+
+<NAME start="11793" local_name_id="13" end="11800" all_names="SPANISH	UNITED STATES AND THE SPANISH" id="85416_151" >Spanish</NAME>
+
+<PROFESSION start="12239" end="12250" id="85416_152" >Legislature</PROFESSION>
+
+<NAME start="12403" local_name_id="4" end="12410" all_names="APOLLON" id="85416_153" >Apollon</NAME>
+
+<PROFESSION start="12636" end="12644" plural="True" id="85416_154" >officers</PROFESSION>
+
+<NAME start="12805" local_name_id="12" end="12813" all_names="CONGRESS" id="85416_155" >Congress</NAME>
+
+<DATE start="13285" end="13289" id="85416_107" >1799</DATE>
+
+<ORGANIZATION start="13343" end="13350" plural="True" id="85416_156" >leagues</ORGANIZATION>
+
+<NAME start="14145" local_name_id="31" end="14163" all_names="AMERICAN ASSUMING" id="85416_157" >American. Assuming</NAME>
+
+<NAME start="14337" local_name_id="4" end="14344" all_names="APOLLON" id="85416_158" >Apollon</NAME>
+
+<LEGAL_ROLE start="14882" end="14893" id="85416_165" >prosecution</LEGAL_ROLE>
+
+<LEGAL_ROLE start="15789" end="15797" id="85416_166" >claimant</LEGAL_ROLE>
+
+<NAME start="15995" local_name_id="32" end="16003" all_names="PROBABLE" id="85416_167" >Probable</NAME>
+
+<PROFESSION start="16506" end="16517" id="85416_168" >Legislature</PROFESSION>
+
+<NAME start="16519" local_name_id="24" end="16521" all_names="IT" id="85416_169" >It</NAME>
+
+<LEGAL_ROLE start="16568" end="16579" id="85416_170" >prosecution</LEGAL_ROLE>
+
+<LEGAL_ROLE start="16697" end="16705" id="85416_171" >claimant</LEGAL_ROLE>
+
+<ORGANIZATION start="16738" end="16743" id="85416_172" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="16762" end="16773" id="85416_173" >prosecution</LEGAL_ROLE>
+
+<ORGANIZATION start="16845" end="16850" id="85416_174" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="16937" end="16945" id="85416_175" >claimant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="17033" end="17043" id="85416_176" >prosecutor</LEGAL_ROLE>
+
+<LEGAL_ROLE start="17115" end="17126" id="85416_177" >prosecution</LEGAL_ROLE>
+
+<DATE start="17170" end="17184" id="85416_164" >February, 1807</DATE>
+
+<NAME start="17260" local_name_id="12" end="17268" all_names="CONGRESS" id="85416_178" >Congress</NAME>
+
+<PROFESSION start="17446" end="17453" id="85416_179" >officer</PROFESSION>
+
+<ORGANIZATION start="17515" end="17520" id="85416_180" >Court</ORGANIZATION>
+
+<CITATION id1="Dummy_File_299" entry_type="party_key" party1="Gelston" line="14" id="85416_161" lookup_key="gelstonhoyt#1" party2="Hoyt, (3 Wheat. Rep" citation_local_level_id="5" start="17537" party2_short="Hoyt" end="17567" citation_global_level_id="451.001" no_current_file="True" party1_short="Gelston" >Gelston v. Hoyt, (3 Wheat. Rep</CITATION>
+
+<NAME start="17537" local_name_id="25" end="17544" all_names="GELSTON" party1_of="85416_161" id="85416_162" >Gelston</NAME>
+
+<NAME start="17548" party2_of="85416_161" end="17567" all_names="HOYT (3 WHEAT REP" id="85416_163" local_name_id="26" >Hoyt, (3 Wheat. Rep</NAME>
+
+<PROFESSION start="17557" end="17567" id="85416_181" >Wheat. Rep</PROFESSION>
+
+<NAME start="17752" local_name_id="4" end="17759" all_names="APOLLON" id="85416_182" >Apollon</NAME>
+
+<ORGANIZATION start="18345" end="18350" id="85416_185" >Court</ORGANIZATION>
+
+<PROFESSION start="18528" end="18535" id="85416_186" >general</PROFESSION>
+
+<PROFESSION start="18600" end="18610" id="85416_187" >government</PROFESSION>
+
+<NAME start="18642" local_name_id="4" end="18649" all_names="APOLLON" id="85416_188" >Apollon</NAME>
+
+<PROFESSION start="18759" end="18766" id="85416_189" >general</PROFESSION>
+
+<NAME start="18977" local_name_id="14" end="18990" all_names="UNITED STATES" id="85416_190" >United States</NAME>
+
+<NAME start="19063" local_name_id="17" end="19071" all_names="AMERICAN" id="85416_191" >American</NAME>
+
+<NAME start="19163" local_name_id="11" end="19169" all_names="FRENCH" id="85416_192" >French</NAME>
+
+<NAME start="19261" local_name_id="12" end="19269" all_names="CONGRESS" id="85416_193" >Congress</NAME>
+
+<NAME start="19398" local_name_id="12" end="19406" all_names="CONGRESS" id="85416_194" >Congress</NAME>
+
+<NAME start="19529" local_name_id="11" end="19535" all_names="FRENCH" id="85416_195" >French</NAME>
+
+<NAME start="19586" local_name_id="8" end="19592" all_names="FRANCE" id="85416_196" >France</NAME>
+
+<NAME start="19689" local_name_id="11" end="19695" all_names="FRENCH" id="85416_197" >French</NAME>
+
+<PROFESSION start="19886" end="19890" id="85416_198" >Capt</PROFESSION>
+
+<NAME start="19892" local_name_id="21" end="19896" all_names="EDON" id="85416_199" >Edon</NAME>
+
+<NAME start="20396" local_name_id="6" end="20401" all_names="BELLE" id="85416_200" >Belle</NAME>
+
+<NAME start="20433" local_name_id="33" end="20440" all_names="FLORIDA" id="85416_201" >Florida</NAME>
+
+<ORGANIZATION start="20799" end="20813" id="85416_202" >District Court</ORGANIZATION>
+
+<NAME start="20855" local_name_id="34" end="20864" all_names="DEMURRAGE" id="85416_203" >Demurrage</NAME>
+
+<ORGANIZATION start="20962" end="20967" id="85416_204" >Court</ORGANIZATION>
+
+<LEGAL_ROLE start="21257" end="21266" plural="True" id="85416_205" >claimants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="21402" end="21411" id="85416_206" >libellant</LEGAL_ROLE>
+
+<NAME start="21440" local_name_id="35" end="21450" all_names="WASHINGTON	ALLOWANCE FOR WASHINGTON" id="85416_207" >Washington</NAME>
+
+<PROFESSION start="21476" end="21490" id="85416_208" >second captain</PROFESSION>
+
+<NAME start="21538" local_name_id="36" end="21546" all_names="SAVANNAH" id="85416_209" >Savannah</NAME>
+
+<PROFESSION start="21623" end="21630" id="85416_210" >counsel</PROFESSION>
+
+<PROFESSION start="21641" end="21650" id="85416_211" >principal</PROFESSION>
+
+<NAME start="21771" local_name_id="1" end="21787" all_names="ATTORNEY-GENERAL" id="85416_212" >Attorney-General</NAME>
+
+<LEGAL_ROLE start="21866" end="21891" id="85416_213" >Counsel for the libellant</LEGAL_ROLE>
+
+<ORGANIZATION start="21932" end="21937" id="85416_214" >Court</ORGANIZATION>
+
+<ORGANIZATION start="23569" end="23588" plural="True" id="85416_215" >Courts of Admiralty</ORGANIZATION>
+
+<ORGANIZATION start="24982" end="24995" id="85416_216" >Circuit Court</ORGANIZATION>
+
+<PROFESSION start="25083" end="25088" id="85416_217" >Judge</PROFESSION>
+
+<LEGAL_ROLE start="25985" end="25996" id="85416_218" >prosecution</LEGAL_ROLE>
+
+<PROFESSION start="26189" end="26196" id="85416_219" >counsel</PROFESSION>
+
+<NAME start="26271" local_name_id="22" end="26280" all_names="ADMIRALTY" id="85416_220" >Admiralty</NAME>
+
+<ORGANIZATION start="26428" end="26433" id="85416_221" >Court</ORGANIZATION>
+
+<ORGANIZATION start="26465" end="26470" id="85416_222" >Court</ORGANIZATION>
+
+<ORGANIZATION start="26586" end="26599" id="85416_223" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="26845" end="26858" id="85416_224" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="26910" end="26915" id="85416_225" >Court</ORGANIZATION>
+
+<ORGANIZATION start="26949" end="26954" id="85416_226" >Court</ORGANIZATION>
+
+<NAME start="26956" local_name_id="37" end="26962" all_names="DECREE" id="85416_227" >DECREE</NAME>
+
+<ORGANIZATION start="27032" end="27064" id="85416_228" >ORDERED and DECREED by the Court</ORGANIZATION>
+
+<ORGANIZATION start="27089" end="27102" id="85416_229" >Circuit Court</ORGANIZATION>
+
+<LEGAL_ROLE start="27167" end="27176" id="85416_230" >libellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="27324" end="27333" id="85416_231" >libellant</LEGAL_ROLE>
+
+<LEGAL_ROLE start="27352" end="27362" id="85416_232" >respondent</LEGAL_ROLE>
+
+<ORGANIZATION start="27411" end="27424" id="85416_233" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="27639" end="27652" id="85416_234" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="27711" end="27724" id="85416_235" >Circuit Court</ORGANIZATION>
+
+<ORGANIZATION start="27758" end="27763" id="85416_236" >Court</ORGANIZATION>
+
+<NAME start="27769" local_name_id="37" end="27775" all_names="DECREE" id="85416_237" >Decree</NAME>
+
+<ORGANIZATION start="27779" end="27792" id="85416_238" >Circuit Court</ORGANIZATION>
+
+<NAME start="27894" local_name_id="35" end="27918" all_names="WASHINGTON	ALLOWANCE FOR WASHINGTON" id="85416_239" >Allowance for Washington</NAME>
+
+<NAME start="28161" local_name_id="38" end="28166" all_names="NOTES" id="85416_240" >NOTES</NAME>
+
+<CITATION standard_reporter="CRANCH" id1="Dummy_File_300" entry_type="party_key" party1="Church" line="38" id="85416_244" lookup_key="churchhubbart#1" alternative_keys="['cranch_2_187']" party2="Hubbart" citation_local_level_id="6" start="28181" party2_short="Hubbart" end="28198" citation_global_level_id="452.003" volume="2" no_current_file="True" page_number="187" party1_short="Church" >Church v. Hubbart</CITATION>
+
+<NAME start="28181" local_name_id="39" end="28187" all_names="CHURCH" party1_of="85416_244" id="85416_246" >Church</NAME>
+
+<NAME start="28191" party2_of="85416_244" end="28198" all_names="HUBBART" id="85416_247" local_name_id="40" >Hubbart</NAME>
+
+<CITATION reporter="Cranch" entry_type="standard_key" standard_reporter="CRANCH" page_number="187" id1="Dummy_File_300" id="85416_241" lookup_key="cranch_2_187" alternative_keys="['churchhubbart#1']" citation_local_level_id="7" start="28200" citation_global_level_id="452.003" end="28213" volume="2" no_current_file="True" line="38" >2 Cranch, 187</CITATION>
+
+<CITATION standard_reporter="CRANCH" id1="Dummy_File_301" entry_type="party_key" party1="Locke" line="38" id="85416_245" lookup_key="lockes#1" alternative_keys="['cranch_7_339']" party2="U.S" citation_local_level_id="8" start="28220" party2_short="S" end="28232" citation_global_level_id="453.003" volume="7" no_current_file="True" page_number="339" party1_short="Locke" >Locke v. U.S</CITATION>
+
+<NAME start="28220" local_name_id="41" end="28225" all_names="LOCKE" party1_of="85416_245" id="85416_248" >Locke</NAME>
+
+<NAME start="28229" party2_of="85416_245" end="28232" all_names="US" id="85416_249" local_name_id="42" >U.S</NAME>
+
+<CITATION reporter="Cranch" entry_type="standard_key" standard_reporter="CRANCH" page_number="339" id1="Dummy_File_301" id="85416_242" lookup_key="cranch_7_339" alternative_keys="['lockes#1']" citation_local_level_id="9" start="28235" citation_global_level_id="453.003" end="28248" volume="7" no_current_file="True" line="38" >7 Cranch, 339</CITATION>
+
+<PROFESSION start="28252" end="28278" id="85416_250" >Mass. Rep. 27. 1 Gall. Rep</PROFESSION>
+
+<PROFESSION start="28275" end="28278" id="85416_251" >Rep</PROFESSION>
+
+<CITATION reporter="Cranch" entry_type="standard_key" standard_reporter="CRANCH" page_number="311" id1="Dummy_File_302" id="85416_243" lookup_key="cranch_5_311" citation_local_level_id="10" start="28290" citation_global_level_id="454.001" end="28303" volume="5" no_current_file="True" line="38" >5 Cranch, 311</CITATION>
+
+<CITATION reporter="Cranch" entry_type="standard_key" standard_reporter="CRANCH" page_number="122" id1="Dummy_File_303" id="85416_258" lookup_key="cranch_2_122" citation_local_level_id="11" start="28321" citation_global_level_id="455.001" end="28334" volume="2" no_current_file="True" line="39" >2 Cranch, 122</CITATION>
+
+<CITATION reporter="Cranch" entry_type="standard_key" standard_reporter="CRANCH" page_number="490" id1="Dummy_File_304" id="85416_259" lookup_key="cranch_3_490" citation_local_level_id="12" start="28336" citation_global_level_id="456.001" end="28349" volume="3" no_current_file="True" line="39" >3 Cranch, 490</CITATION>
+
+<CITATION reporter="Dall" entry_type="standard_key" standard_reporter="DALL" page_number="335" id1="Dummy_File_305" id="85416_260" lookup_key="dall_3_335" citation_local_level_id="13" start="28351" citation_global_level_id="457.001" end="28362" volume="3" no_current_file="True" line="39" >3 Dall. 335</CITATION>
+
+<PROFESSION start="28366" end="28453" id="85416_262" >Rob. 208. 5 Rob. 43. 4 Rob. 72. 1 Gall. Rep. 427. 3 Wheat. Rep. 559. 3 Dall. 133. 1 Rob</PROFESSION>
+
+<PROFESSION start="28425" end="28428" id="85416_263" >Rep</PROFESSION>
+
+<CITATION reporter="Dall" entry_type="standard_key" standard_reporter="DALL" page_number="133" id1="Dummy_File_306" id="85416_261" lookup_key="dall_3_133" citation_local_level_id="14" start="28435" citation_global_level_id="458.001" end="28446" volume="3" no_current_file="True" line="39" >3 Dall. 133</CITATION>
+
+<RELATION at_date_string="1824" theme_string="22 U.S. 362 (1824)" id="85416_3" relation_type="asymmetric" theme="85416_1" at_date="85416_2" gram_type="infix" ></RELATION>
+
+<RELATION case_citation_other_string="The APOLLON, Edon, Claimant" gram_type="multi_line" standard_case="85416_1" relation_type="equivalence" id="85416_14" standard_case_string="22 U.S. 362 (1824)" case_citation_other="85416_5" ></RELATION>
+
+<RELATION at_date_string="1824" theme_string="The APOLLON, Edon, Claimant" id="85416_16" relation_type="asymmetric" theme="85416_5" at_date="85416_2" gram_type="multi_line" ></RELATION>
+
+<RELATION case_citation_other_string="The APOLLON, Edon, Claimant" gram_type="multi_line" standard_case="85416_4" relation_type="equivalence" id="85416_15" standard_case_string="9 Wheat. 362" case_citation_other="85416_5" ></RELATION>
+
+<RELATION at_date_string="March 17, 1824" theme_string="The APOLLON, Edon, Claimant" id="85416_18" relation_type="asymmetric" theme="85416_5" at_date="85416_9" gram_type="multi_line" ></RELATION>
+
+<RELATION at_date_string="March 13, 1824" theme_string="The APOLLON, Edon, Claimant" id="85416_17" relation_type="asymmetric" theme="85416_5" at_date="85416_8" gram_type="multi_line" ></RELATION>
+
+<RELATION party1_string="Apollon," party1="85416_23" theme_string="Apollon, against the Collector of the District of St. Mary's" id="85416_30" relation_type="asymmetric" theme="85416_22" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="the Collector of the District of St. Mary's" theme_string="Apollon, against the Collector of the District of St. Mary's" id="85416_31" relation_type="asymmetric" party2="85416_24" theme="85416_22" gram_type="infix" ></RELATION>
+
+<RELATION profession="85416_61" gram_type="pre_nom" id="85416_87" profession_string="Captain" relation_type="asymmetric" theme="85416_62" theme_string="Edon" ></RELATION>
+
+<RELATION profession="85416_66" gram_type="pre_nom" id="85416_88" profession_string="Captain" relation_type="asymmetric" theme="85416_67" theme_string="Edon" ></RELATION>
+
+<RELATION party1_string="Gelston" party1="85416_101" theme_string="Gelston v. Hoyt, (3 Wheat. Rep" id="85416_159" relation_type="asymmetric" theme="85416_100" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Hoyt, (3 Wheat. Rep" theme_string="Gelston v. Hoyt, (3 Wheat. Rep" id="85416_160" relation_type="asymmetric" party2="85416_102" theme="85416_100" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="Gelston" party1="85416_162" theme_string="Gelston v. Hoyt, (3 Wheat. Rep" id="85416_183" relation_type="asymmetric" theme="85416_161" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Hoyt, (3 Wheat. Rep" theme_string="Gelston v. Hoyt, (3 Wheat. Rep" id="85416_184" relation_type="asymmetric" party2="85416_163" theme="85416_161" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Church v. Hubbart" gram_type="apposition" standard_case="85416_241" relation_type="equivalence" id="85416_254" X_vs_Y="85416_244" standard_case_string="2 Cranch, 187" ></RELATION>
+
+<RELATION party1_string="Church" party1="85416_246" theme_string="Church v. Hubbart" id="85416_252" relation_type="asymmetric" theme="85416_244" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="Hubbart" theme_string="Church v. Hubbart" id="85416_253" relation_type="asymmetric" party2="85416_247" theme="85416_244" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="Locke v. U.S" gram_type="apposition" standard_case="85416_242" relation_type="equivalence" id="85416_257" X_vs_Y="85416_245" standard_case_string="7 Cranch, 339" ></RELATION>
+
+<RELATION party1_string="Locke" party1="85416_248" theme_string="Locke v. U.S" id="85416_255" relation_type="asymmetric" theme="85416_245" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="U.S" theme_string="Locke v. U.S" id="85416_256" relation_type="asymmetric" party2="85416_249" theme="85416_245" gram_type="infix" ></RELATION>
+

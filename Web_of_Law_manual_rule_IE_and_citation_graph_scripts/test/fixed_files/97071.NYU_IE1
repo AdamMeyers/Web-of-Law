@@ -1,0 +1,28 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="490" id1="97071" id="97071_1" lookup_key="u.s._214_490" alternative_keys="['in the matter of the consolidated rubber tire company#1', 's.ct._29_695', 'l.ed._53_1057']" citation_local_level_id="0" start="0" citation_global_level_id="79.002" end="12" volume="214" name="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY" line="1" >214 U.S. 490</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="695" id1="97071" id="97071_2" lookup_key="s.ct._29_695" alternative_keys="['u.s._214_490', 'in the matter of the consolidated rubber tire company#1', 'l.ed._53_1057']" citation_local_level_id="1" start="17" citation_global_level_id="79.003" end="30" volume="29" name="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY" line="2" >29 S. Ct. 695</CITATION>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="1057" id1="97071" id="97071_3" lookup_key="l.ed._53_1057" alternative_keys="['u.s._214_490', 's.ct._29_695', 'in the matter of the consolidated rubber tire company#1']" citation_local_level_id="2" start="35" citation_global_level_id="79.004" end="49" volume="53" name="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY" line="3" >53 L. Ed. 1057</CITATION>
+
+<NAME start="54" local_name_id="1" end="62" all_names="EX PARTE" id="97071_5" >EX PARTE</NAME>
+
+<CITATION id1="97071" entry_type="case_key" party1=" THE CONSOLIDATED RUBBER TIRE  COMPANY" line="4" id="97071_4" lookup_key="in the matter of the consolidated rubber tire company#1" alternative_keys="['s.ct._29_695', 'l.ed._53_1057', 'u.s._214_490']" citation_local_level_id="3" start="64" citation_global_level_id="79.005" end="130" party1_role="Petitioner" name="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY" party1_short="COMPANY" >IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE COMPANY, Petitioner</CITATION>
+
+<LEGAL_ROLE start="71" end="130" id="97071_6" >MATTER OF THE CONSOLIDATED RUBBER TIRE COMPANY, Petitioner</LEGAL_ROLE>
+
+<NAME start="145" local_name_id="2" end="153" all_names="ORIGINAL" id="97071_7" >Original</NAME>
+
+<ORGANIZATION start="159" end="193" id="97071_8" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="198" citation_global_level_id="79.005" end="212" citation_local_level_id="3" id="97071_9" >April 12, 1909</DATE>
+
+<LEGAL_ROLE start="224" end="263" id="97071_14" >Mr. Charles W. Stapleton for petitioner</LEGAL_ROLE>
+
+<RELATION case_citation_other_string="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" gram_type="multi_line" standard_case="97071_1" relation_type="equivalence" id="97071_10" standard_case_string="214 U.S. 490" case_citation_other="97071_4" ></RELATION>
+
+<RELATION case_citation_other_string="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" gram_type="multi_line" standard_case="97071_2" relation_type="equivalence" id="97071_11" standard_case_string="29 S. Ct. 695" case_citation_other="97071_4" ></RELATION>
+
+<RELATION case_citation_other_string="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" gram_type="multi_line" standard_case="97071_3" relation_type="equivalence" id="97071_12" standard_case_string="53 L. Ed. 1057" case_citation_other="97071_4" ></RELATION>
+
+<RELATION at_date_string="April 12, 1909" theme_string="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" id="97071_13" relation_type="asymmetric" theme="97071_4" at_date="97071_9" gram_type="multi_line" ></RELATION>
+

@@ -1,0 +1,22 @@
+<citation id="104177_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="325" page_number="898" line="1">325 U.S. 898</citation>
+<citation id="104177_2" entry_type="standard_case" start="17" end="31" reporter="S. Ct." standard_reporter="S.CT." volume="65" page_number="1562" line="1">65 S. Ct. 1562</citation>
+<NAME id="104177_7" start="20" end="25">S. Ct</NAME>
+<citation id="104177_3" entry_type="standard_case" start="36" end="50" reporter="L. Ed." standard_reporter="L.ED." volume="89" page_number="2007" line="1">89 L. Ed. 2007</citation>
+<date id="104177_4" start="46" end="50">2007</date>
+<citation id="104177_6" entry_type="case_citation_other" start="55" end="85" name="ESTATE OF John S. GARRETT, Jr." line="1">ESTATE OF John S. GARRETT, Jr.</citation>
+<NAME id="104177_8" start="97" end="105">Bankrupt</NAME>
+<date id="104177_5" start="168" end="181">June 18, 1945</date>
+<NAME id="104177_9" start="193" end="220">Messrs. Vincent P. McDevitt</NAME>
+<NAME id="104177_10" start="225" end="241">Philadelphia, Pa</NAME>
+<LEGAL_ROLE id="104177_11" start="248" end="258">petitioner</LEGAL_ROLE>
+<NAME id="104177_16" start="266" end="312">Messrs. Ernest Scott and Joseph S. Conwell, Jr</NAME>
+<NAME id="104177_17" start="323" end="339">Philadelphia, Pa</NAME>
+<NAME id="104177_18" start="342" end="361">W. Edward Greenwood</NAME>
+<NAME id="104177_19" start="371" end="382">Chester, Pa</NAME>
+<NAME id="104177_20" start="389" end="400">David Rosen</NAME>
+<NAME id="104177_21" start="405" end="421">Philadelphia, Pa</NAME>
+<LEGAL_ROLE id="104177_22" start="428" end="438">respondent</LEGAL_ROLE>
+<RELATION id="104177_14" relation_type="equivalence" gram_type="pre_nom" standard_case="104177_1" standard_case_string="325 U.S. 898" case_citation_other="104177_6" case_citation_other_string="ESTATE OF John S. GARRETT, Jr."></RELATION>
+<RELATION id="104177_15" relation_type="equivalence" gram_type="pre_nom" standard_case="104177_2" standard_case_string="65 S. Ct. 1562" case_citation_other="104177_6" case_citation_other_string="ESTATE OF John S. GARRETT, Jr."></RELATION>
+<RELATION id="104177_13" relation_type="equivalence" gram_type="pre_nom" standard_case="104177_3" standard_case_string="89 L. Ed. 2007" case_citation_other="104177_6" case_citation_other_string="ESTATE OF John S. GARRETT, Jr."></RELATION>
+<RELATION id="104177_12" relation_type="asymmetric" gram_type="infix" theme="104177_3" theme_string="89 L. Ed. 2007" at_date="104177_4" at_date_string="2007"></RELATION>

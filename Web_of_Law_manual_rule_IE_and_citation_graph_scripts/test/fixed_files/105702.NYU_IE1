@@ -1,0 +1,32 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="676" id1="105702" id="105702_1" lookup_key="u.s._356_676" alternative_keys="['amlinverbeem#1']" citation_local_level_id="0" start="1" citation_global_level_id="64.002" end="20" volume="356" year="1958" line="2" >356 U.S. 676 (1958)</CITATION>
+
+<DATE start="15" citation_global_level_id="64.002" end="19" citation_local_level_id="0" id="105702_2" >1958</DATE>
+
+<CITATION id1="105702" entry_type="party_key" party1="AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL." line="5" id="105702_7" lookup_key="amlinverbeem#1" alternative_keys="['u.s._356_676']" party2="VERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL" citation_local_level_id="1" start="21" party2_short="VERBEEM" end="128" citation_global_level_id="64.001" party1_short="AMLIN" >AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL. v. VERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL</CITATION>
+
+<NAME start="21" local_name_id="1" end="74" all_names="AMLIN DOING BUSINESS AS AMLIN CARTAGE" party1_of="105702_7" id="105702_8" >AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL.</NAME>
+
+<NAME start="80" party2_of="105702_7" end="128" all_names="VERBEEM DOING BUSINESS AS PETERS CARTAGE" id="105702_9" local_name_id="2" >VERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL</NAME>
+
+<ORGANIZATION start="139" end="169" id="105702_13" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="171" local_name_id="3" end="178" all_names="DECIDED" id="105702_15" >Decided</NAME>
+
+<DATE start="179" end="191" id="105702_14" >May 26, 1958</DATE>
+
+<ORGANIZATION start="193" end="274" id="105702_16" >APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF MICHIGAN</ORGANIZATION>
+
+<LEGAL_ROLE start="276" end="308" plural="True" id="105702_17" >George H. Cholack for appellants</LEGAL_ROLE>
+
+<LEGAL_ROLE start="310" end="369" plural="True" id="105702_18" >Wilhelmina Boersma and Wilber M. Brucker, Jr. for appellees</LEGAL_ROLE>
+
+<NAME start="375" local_name_id="4" end="381" all_names="CURIAM" id="105702_19" >CURIAM</NAME>
+
+<RELATION at_date_string="1958" theme_string="356 U.S. 676 (1958)" id="105702_3" relation_type="asymmetric" theme="105702_1" at_date="105702_2" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL." party1="105702_8" theme_string="AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL.  v.  VERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL" id="105702_10" relation_type="asymmetric" theme="105702_7" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="VERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL" theme_string="AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL.  v.  VERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL" id="105702_11" relation_type="asymmetric" party2="105702_9" theme="105702_7" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="AMLIN ET AL., DOING BUSINESS AS AMLIN CARTAGE, ET AL.  v.  VERBEEM, DOING BUSINESS AS PETERS CARTAGE, ET AL" gram_type="multi_line" standard_case="105702_1" relation_type="equivalence" id="105702_12" X_vs_Y="105702_7" standard_case_string="356 U.S. 676 (1958)" ></RELATION>
+

@@ -1,0 +1,18 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="807" id1="137795" id="137795_1" lookup_key="u.s._543_807" alternative_keys="['in re cruz-rivera#1']" citation_local_level_id="0" start="0" citation_global_level_id="111.002" end="12" volume="543" name="IN RE CRUZ-RIVERA" line="1" >543 U.S. 807</CITATION>
+
+<CITATION start="17" id1="137795" entry_type="case_key" citation_global_level_id="111.001" line="2" name="IN RE CRUZ-RIVERA" id="137795_2" lookup_key="in re cruz-rivera#1" alternative_keys="['u.s._543_807']" end="34" citation_local_level_id="1" >IN RE CRUZ-RIVERA</CITATION>
+
+<DOCKET start="44" citation_global_level_id="111.001" entry_type="docket" line="3" id1="137795" id="137795_3" lookup_key="in re cruz-rivera#1" end="51" citation_local_level_id="1" >04-5811</DOCKET>
+
+<ORGANIZATION start="57" end="87" id="137795_4" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="93" citation_global_level_id="111.001" end="108" citation_local_level_id="1" id="137795_5" >October 4, 2004</DATE>
+
+<NAME start="130" local_name_id="1" end="139" all_names="PETITIONS" id="137795_9" >Petitions</NAME>
+
+<RELATION case_citation_other_string="IN RE CRUZ-RIVERA" gram_type="multi_line" standard_case="137795_1" relation_type="equivalence" id="137795_6" standard_case_string="543 U.S. 807" case_citation_other="137795_2" ></RELATION>
+
+<RELATION at_date_string="October 4, 2004" theme_string="IN RE CRUZ-RIVERA" id="137795_8" relation_type="asymmetric" theme="137795_2" at_date="137795_5" gram_type="multi_line" ></RELATION>
+
+<RELATION includes_docket_string="04-5811" theme_string="IN RE CRUZ-RIVERA" id="137795_7" relation_type="asymmetric" includes_docket="137795_3" theme="137795_2" gram_type="multi_line" ></RELATION>
+

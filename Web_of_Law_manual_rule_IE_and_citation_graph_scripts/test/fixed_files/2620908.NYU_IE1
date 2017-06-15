@@ -1,0 +1,52 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="211" id1="2620908" id="2620908_1" lookup_key="u.s._386_211" alternative_keys="['oilboard#1']" citation_local_level_id="0" start="1" citation_global_level_id="7.002" end="20" volume="386" year="1967" line="2" >386 U.S. 211 (1967)</CITATION>
+
+<DATE start="15" citation_global_level_id="7.002" end="19" citation_local_level_id="0" id="2620908_2" >1967</DATE>
+
+<CITATION id1="2620908" entry_type="party_key" party1="SHELL OIL CO." line="5" id="2620908_6" lookup_key="oilboard#1" alternative_keys="['u.s._386_211']" party2="STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" citation_local_level_id="1" start="21" party2_short="BOARD" end="87" citation_global_level_id="7.001" party1_short="OIL" >SHELL OIL CO. v. STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL</CITATION>
+
+<NAME start="21" local_name_id="1" end="34" all_names="SHELL OIL CO" party1_of="2620908_6" id="2620908_7" >SHELL OIL CO.</NAME>
+
+<ORGANIZATION start="21" end="33" id="2620908_9" >SHELL OIL CO</ORGANIZATION>
+
+<NAME start="40" party2_of="2620908_6" end="87" all_names="STATE BOARD OF EQUALIZATION OF CALIFORNIA" id="2620908_8" local_name_id="2" >STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL</NAME>
+
+<ORGANIZATION start="98" end="128" id="2620908_13" >Supreme Court of United States</ORGANIZATION>
+
+<NAME start="130" local_name_id="3" end="137" all_names="DECIDED" id="2620908_15" >Decided</NAME>
+
+<DATE start="138" end="155" id="2620908_14" >February 27, 1967</DATE>
+
+<ORGANIZATION start="157" end="200" id="2620908_16" >APPEAL FROM THE SUPREME COURT OF CALIFORNIA</ORGANIZATION>
+
+<LEGAL_ROLE start="202" end="235" id="2620908_17" >Robert D. Mackenzie for appellant</LEGAL_ROLE>
+
+<NAME start="237" local_name_id="4" end="252" all_names="THOMAS C LYNCH" id="2620908_18" >Thomas C. Lynch</NAME>
+
+<PROFESSION start="254" end="284" party="THOMAS C LYNCH" document_level_name_id="4" id="2620908_19" >Attorney General of California</PROFESSION>
+
+<NAME start="286" local_name_id="5" end="323" all_names="JAMES E SABINE AND ERNEST P GOODMAN" id="2620908_20" >James E. Sabine and Ernest P. Goodman</NAME>
+
+<PROFESSION start="325" end="352" party="JAMES E SABINE AND ERNEST P GOODMAN" document_level_name_id="5" id="2620908_21" >Assistant Attorneys General</PROFESSION>
+
+<NAME start="358" local_name_id="6" end="374" all_names="JOHN J KLEE JR" id="2620908_22" >John J. Klee, Jr</NAME>
+
+<PROFESSION start="377" end="400" party="JOHN J KLEE JR" document_level_name_id="6" id="2620908_23" >Deputy Attorney General</PROFESSION>
+
+<LEGAL_ROLE start="406" end="415" party="party2" plural="True" id="2620908_24" >appellees</LEGAL_ROLE>
+
+<NAME start="421" local_name_id="7" end="427" all_names="CURIAM" id="2620908_28" >CURIAM</NAME>
+
+<RELATION at_date_string="1967" theme_string="386 U.S. 211 (1967)" id="2620908_3" relation_type="asymmetric" theme="2620908_1" at_date="2620908_2" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="SHELL OIL CO." party1="2620908_7" theme_string="SHELL OIL CO.  v.  STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" id="2620908_10" relation_type="asymmetric" theme="2620908_6" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" theme_string="SHELL OIL CO.  v.  STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" id="2620908_11" relation_type="asymmetric" party2="2620908_8" theme="2620908_6" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="SHELL OIL CO.  v.  STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" gram_type="multi_line" standard_case="2620908_1" relation_type="equivalence" id="2620908_12" X_vs_Y="2620908_6" standard_case_string="386 U.S. 211 (1967)" ></RELATION>
+
+<RELATION profession="2620908_19" gram_type="apposition" id="2620908_25" profession_string="Attorney General of California" relation_type="asymmetric" theme="2620908_18" theme_string="Thomas C. Lynch" ></RELATION>
+
+<RELATION profession="2620908_21" gram_type="apposition" id="2620908_26" profession_string="Assistant Attorneys General" relation_type="asymmetric" theme="2620908_20" theme_string="James E. Sabine and Ernest P. Goodman" ></RELATION>
+
+<RELATION profession="2620908_23" gram_type="apposition" id="2620908_27" profession_string="Deputy Attorney General" relation_type="asymmetric" theme="2620908_22" theme_string="John J. Klee, Jr" ></RELATION>
+

@@ -1,0 +1,26 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="1084" id1="125863" id="125863_1" lookup_key="u.s._537_1084" alternative_keys="['hershfieldcounty#1']" citation_local_level_id="0" start="0" citation_global_level_id="25.002" end="13" volume="537" line="1" >537 U.S. 1084</CITATION>
+
+<CITATION id1="125863" entry_type="party_key" party1="HERSHFIELD" line="2" id="125863_3" lookup_key="hershfieldcounty#1" alternative_keys="['u.s._537_1084']" party2="COUNTY OF KING GEORGE, VIRGINIA" citation_local_level_id="1" start="18" party2_short="COUNTY" end="63" citation_global_level_id="25.001" party1_short="HERSHFIELD" >HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA</CITATION>
+
+<NAME start="18" local_name_id="1" end="28" all_names="HERSHFIELD" party1_of="125863_3" id="125863_4" >HERSHFIELD</NAME>
+
+<NAME start="32" party2_of="125863_3" end="63" all_names="COUNTY OF KING GEORGE VIRGINIA" id="125863_5" local_name_id="2" >COUNTY OF KING GEORGE, VIRGINIA</NAME>
+
+<DOCKET start="73" citation_global_level_id="25.001" entry_type="docket" line="2" id1="125863" id="125863_2" lookup_key="hershfieldcounty#1" end="79" citation_local_level_id="1" >02-285</DOCKET>
+
+<ORGANIZATION start="85" end="115" id="125863_9" >Supreme Court of United States</ORGANIZATION>
+
+<DATE start="121" citation_global_level_id="25.001" end="137" citation_local_level_id="1" id="125863_10" >December 9, 2002</DATE>
+
+<NAME start="173" local_name_id="3" end="181" all_names="PETITION" id="125863_13" >Petition</NAME>
+
+<RELATION includes_docket_string="02-285" theme_string="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" id="125863_8" relation_type="asymmetric" includes_docket="125863_2" theme="125863_3" gram_type="apposition" ></RELATION>
+
+<RELATION party1_string="HERSHFIELD" party1="125863_4" theme_string="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" id="125863_6" relation_type="asymmetric" theme="125863_3" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="COUNTY OF KING GEORGE, VIRGINIA" theme_string="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" id="125863_7" relation_type="asymmetric" party2="125863_5" theme="125863_3" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" gram_type="multi_line" standard_case="125863_1" relation_type="equivalence" id="125863_11" X_vs_Y="125863_3" standard_case_string="537 U.S. 1084" ></RELATION>
+
+<RELATION at_date_string="December 9, 2002" theme_string="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" id="125863_12" relation_type="asymmetric" theme="125863_3" at_date="125863_10" gram_type="multi_line" ></RELATION>
+

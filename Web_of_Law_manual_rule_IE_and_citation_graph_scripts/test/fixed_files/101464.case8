@@ -1,0 +1,106 @@
+<citation id="101464_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="279" page_number="821" line="1">279 U.S. 821</citation>
+<citation id="101464_2" entry_type="standard_case" start="17" end="30" reporter="S. Ct." standard_reporter="S.CT." volume="49" page_number="349" line="2">49 S. Ct. 349</citation>
+<citation id="101464_3" entry_type="standard_case" start="35" end="48" reporter="L. Ed." standard_reporter="L.ED." volume="73" page_number="976" line="3">73 L. Ed. 976</citation>
+<citation id="101464_4" entry_type="case_X_vs_Y" start="53" end="128" party1="The STATE OF WISCONSIN et al.," party2="The STATE OF ILLINOIS et al" party1_role="complainants" line="4">The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al</citation>
+<NAME id="101464_7" start="53" end="83" party1_of="101464_4">The STATE OF WISCONSIN et al.,</NAME>
+<LEGAL_ROLE id="101464_9" start="84" end="96">complainants</LEGAL_ROLE>
+<NAME id="101464_8" start="101" end="128" party2_of="101464_4">The STATE OF ILLINOIS et al</NAME>
+<citation id="101464_5" entry_type="case_X_vs_Y" start="132" end="196" party1="STATE OF MICHIGAN," party2="The STATE OF ILLINOIS et al" party1_role="complainant" line="4">STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al</citation>
+<NAME id="101464_10" start="132" end="150" party1_of="101464_5">STATE OF MICHIGAN,</NAME>
+<LEGAL_ROLE id="101464_12" start="151" end="162">complainant</LEGAL_ROLE>
+<NAME id="101464_11" start="169" end="196" party2_of="101464_5">The STATE OF ILLINOIS et al</NAME>
+<citation id="101464_6" entry_type="case_X_vs_Y" start="201" end="261" party1="STATE OF NEW YORK," party2="STATE OF ILLINOIS et al" party1_role="complainant" line="4">STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al</citation>
+<NAME id="101464_13" start="201" end="219" party1_of="101464_6">STATE OF NEW YORK,</NAME>
+<LEGAL_ROLE id="101464_15" start="220" end="231">complainant</LEGAL_ROLE>
+<NAME id="101464_14" start="238" end="261" party2_of="101464_6">STATE OF ILLINOIS et al</NAME>
+<ORGANIZATION id="101464_31" start="332" end="366">Supreme Court of the United States</ORGANIZATION>
+<date id="101464_32" start="371" end="385">April 22, 1929</date>
+<NAME id="101464_33" start="433" end="443">Messrs. Wm</NAME>
+<NAME id="101464_34" start="445" end="472">J. Morgan and Ralph M. Hoyt</NAME>
+<NAME id="101464_35" start="482" end="496">Milwaukee, Wis</NAME>
+<NAME id="101464_36" start="499" end="514">Herman L. Ekern</NAME>
+<NAME id="101464_37" start="519" end="531">Madison, Wis</NAME>
+<NAME id="101464_38" start="534" end="546">C. L. Hilton</NAME>
+<NAME id="101464_39" start="551" end="553">St</NAME>
+<NAME id="101464_40" start="876" end="887">Messrs. Edw</NAME>
+<NAME id="101464_41" start="889" end="904">J. Brundage, Wm</NAME>
+<NAME id="101464_42" start="906" end="918">F. Mulvihill</NAME>
+<NAME id="101464_43" start="920" end="936">Morton S. Cressy</NAME>
+<NAME id="101464_44" start="938" end="954">Edmond D. Adcock</NAME>
+<NAME id="101464_45" start="956" end="974">Oscar E. Carlstrom</NAME>
+<NAME id="101464_46" start="976" end="996">H. A. Brouillet, Jas</NAME>
+<NAME id="101464_47" start="998" end="1017">Hamilton Lewis, Geo</NAME>
+<NAME id="101464_48" start="1019" end="1029">F. Barrett</NAME>
+<NAME id="101464_49" start="1035" end="1049">Louis J. Behan</NAME>
+<NAME id="101464_50" start="1058" end="1070">Chicago, Ill</NAME>
+<NAME id="101464_51" start="1073" end="1107">J. T. Kenworthy and Cyrus E. Dietz</NAME>
+<NAME id="101464_52" start="1117" end="1133">Rock Island, Ill</NAME>
+<NAME id="101464_53" start="1136" end="1151">Hugh S. Johnson</NAME>
+<NAME id="101464_54" start="1156" end="1172">Springfield, Ill</NAME>
+<NAME id="101464_55" start="1175" end="1187">Maclay Hoyne</NAME>
+<NAME id="101464_56" start="1192" end="1204">Chicago, Ill</NAME>
+<NAME id="101464_57" start="1211" end="1224">James M. Beck</NAME>
+<NAME id="101464_58" start="1229" end="1239">Washington</NAME>
+<NAME id="101464_59" start="1241" end="1245">D. C</NAME>
+<NAME id="101464_60" start="1256" end="1273">State of Illinois</NAME>
+<NAME id="101464_61" start="1310" end="1335">Messrs. Wilber M. Brucker</NAME>
+<PROFESSION id="101464_62" start="1337" end="1346">Atty. Gen</PROFESSION>
+<NAME id="101464_63" start="1352" end="1364">B. Dougherty</NAME>
+<NAME id="101464_64" start="1366" end="1383">William W. Potter</NAME>
+<NAME id="101464_65" start="1389" end="1405">Arthur E. Kidder</NAME>
+<NAME id="101464_66" start="1414" end="1427">Lansing, Mich</NAME>
+<NAME id="101464_67" start="1438" end="1455">State of Michigan</NAME>
+<NAME id="101464_69" start="1481" end="1502">Messrs. Hamilton Ward</NAME>
+<PROFESSION id="101464_70" start="1504" end="1513">Atty. Gen</PROFESSION>
+<NAME id="101464_71" start="1519" end="1532">New York City</NAME>
+<NAME id="101464_72" start="1534" end="1551">Albert J. Danaher</NAME>
+<PROFESSION id="101464_73" start="1553" end="1568">Asst. Atty. Gen</PROFESSION>
+<NAME id="101464_74" start="1574" end="1580">Albany</NAME>
+<NAME id="101464_75" start="1582" end="1586">N. Y</NAME>
+<NAME id="101464_76" start="1589" end="1604">Albert Ottinger</NAME>
+<NAME id="101464_77" start="1609" end="1622">New York City</NAME>
+<NAME id="101464_78" start="1624" end="1642">R. J. Le Boeuf, Jr</NAME>
+<NAME id="101464_79" start="1648" end="1654">Albany</NAME>
+<NAME id="101464_80" start="1656" end="1660">N. Y</NAME>
+<NAME id="101464_81" start="1667" end="1683">Nathan L. Miller</NAME>
+<NAME id="101464_82" start="1688" end="1701">New York City</NAME>
+<NAME id="101464_83" start="1711" end="1728">State of New York</NAME>
+<NAME id="101464_87" start="1754" end="1777">Messrs. North T. Gentry</NAME>
+<NAME id="101464_88" start="1782" end="1794">Columbia, Mo</NAME>
+<NAME id="101464_89" start="1797" end="1812">Daniel N. Kirby</NAME>
+<NAME id="101464_90" start="1817" end="1819">St</NAME>
+<NAME id="101464_91" start="1930" end="1948">Mr. F. M. Thompson</NAME>
+<NAME id="101464_92" start="1953" end="1968">Nashville, Tenn</NAME>
+<NAME id="101464_93" start="1986" end="2004">State of Tennessee</NAME>
+<NAME id="101464_94" start="2030" end="2049">Mr. F. E. Daugherty</NAME>
+<NAME id="101464_95" start="2054" end="2068">Louisville, Ky</NAME>
+<NAME id="101464_96" start="2086" end="2103">State of Kentucky</NAME>
+<NAME id="101464_97" start="2129" end="2144">Mr. Percy Saint</NAME>
+<NAME id="101464_98" start="2149" end="2160">New Orleans</NAME>
+<NAME id="101464_99" start="2182" end="2200">State of Louisiana</NAME>
+<NAME id="101464_100" start="2227" end="2246">Mr. H. W. Applegate</NAME>
+<NAME id="101464_101" start="2251" end="2267">Little Rock, Ark</NAME>
+<NAME id="101464_102" start="2285" end="2302">State of Arkansas</NAME>
+<NAME id="101464_103" start="2329" end="2345">Mr. Rush H. Knox</NAME>
+<NAME id="101464_104" start="2350" end="2363">Jackson, Miss</NAME>
+<NAME id="101464_105" start="2381" end="2401">State of Mississippi</NAME>
+<NAME id="101464_106" start="2428" end="2457">Motion of the City of Chicago</NAME>
+<RELATION id="101464_16" relation_type="asymmetric" gram_type="infix" theme="101464_4" theme_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" party1="101464_7" party1_string="The STATE OF WISCONSIN et al.,"></RELATION>
+<RELATION id="101464_17" relation_type="asymmetric" gram_type="infix" theme="101464_4" theme_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" party2="101464_8" party2_string="The STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_18" relation_type="asymmetric" gram_type="infix" theme="101464_5" theme_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" party1="101464_10" party1_string="STATE OF MICHIGAN,"></RELATION>
+<RELATION id="101464_19" relation_type="asymmetric" gram_type="infix" theme="101464_5" theme_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" party2="101464_11" party2_string="The STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_20" relation_type="asymmetric" gram_type="infix" theme="101464_6" theme_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" party1="101464_13" party1_string="STATE OF NEW YORK,"></RELATION>
+<RELATION id="101464_21" relation_type="asymmetric" gram_type="infix" theme="101464_6" theme_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" party2="101464_14" party2_string="STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_28" relation_type="equivalence" gram_type="multi_line" standard_case="101464_1" standard_case_string="279 U.S. 821" X_vs_Y="101464_6" X_vs_Y_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_25" relation_type="equivalence" gram_type="multi_line" standard_case="101464_1" standard_case_string="279 U.S. 821" X_vs_Y="101464_5" X_vs_Y_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_22" relation_type="equivalence" gram_type="multi_line" standard_case="101464_1" standard_case_string="279 U.S. 821" X_vs_Y="101464_4" X_vs_Y_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_29" relation_type="equivalence" gram_type="multi_line" standard_case="101464_2" standard_case_string="49 S. Ct. 349" X_vs_Y="101464_6" X_vs_Y_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_26" relation_type="equivalence" gram_type="multi_line" standard_case="101464_2" standard_case_string="49 S. Ct. 349" X_vs_Y="101464_5" X_vs_Y_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_23" relation_type="equivalence" gram_type="multi_line" standard_case="101464_2" standard_case_string="49 S. Ct. 349" X_vs_Y="101464_4" X_vs_Y_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_30" relation_type="equivalence" gram_type="multi_line" standard_case="101464_3" standard_case_string="73 L. Ed. 976" X_vs_Y="101464_6" X_vs_Y_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_27" relation_type="equivalence" gram_type="multi_line" standard_case="101464_3" standard_case_string="73 L. Ed. 976" X_vs_Y="101464_5" X_vs_Y_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_24" relation_type="equivalence" gram_type="multi_line" standard_case="101464_3" standard_case_string="73 L. Ed. 976" X_vs_Y="101464_4" X_vs_Y_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al"></RELATION>
+<RELATION id="101464_68" relation_type="asymmetric" gram_type="apposition" profession="101464_62" profession_string="Atty. Gen" theme="101464_61" theme_string="Messrs. Wilber M. Brucker"></RELATION>
+<RELATION id="101464_84" relation_type="asymmetric" gram_type="apposition" profession="101464_70" profession_string="Atty. Gen" theme="101464_69" theme_string="Messrs. Hamilton Ward"></RELATION>
+<RELATION id="101464_86" relation_type="asymmetric" gram_type="apposition" profession="101464_73" profession_string="Asst. Atty. Gen" theme="101464_71" theme_string="New York City"></RELATION>
+<RELATION id="101464_85" relation_type="asymmetric" gram_type="apposition" profession="101464_73" profession_string="Asst. Atty. Gen" theme="101464_72" theme_string="Albert J. Danaher"></RELATION>

@@ -1,0 +1,13 @@
+<citation id="118659_1" entry_type="standard_case" start="0" end="12" reporter="U.S." standard_reporter="U.S." volume="535" page_number="925" line="1">535 U.S. 925</citation>
+<citation id="118659_2" entry_type="case_X_vs_Y" start="17" end="30" party1="M. C." party2="E. E" line="2">M. C. v. E. E</citation>
+<NAME id="118659_3" start="17" end="22" party1_of="118659_2">M. C.</NAME>
+<NAME id="118659_4" start="26" end="30" party2_of="118659_2">E. E</NAME>
+<docket id="118659_7" entry_type="docket" start="40" end="47" line="3">01-7835</docket>
+<date id="118659_8" start="93" end="107">March 18, 2002</date>
+<NAME id="118659_13" start="129" end="131">Ct</NAME>
+<date id="118659_12" start="248" end="261">April 8, 2002</date>
+<RELATION id="118659_5" relation_type="asymmetric" gram_type="infix" theme="118659_2" theme_string="M. C. v. E. E" party1="118659_3" party1_string="M. C."></RELATION>
+<RELATION id="118659_6" relation_type="asymmetric" gram_type="infix" theme="118659_2" theme_string="M. C. v. E. E" party2="118659_4" party2_string="E. E"></RELATION>
+<RELATION id="118659_9" relation_type="equivalence" gram_type="multi_line" standard_case="118659_1" standard_case_string="535 U.S. 925" X_vs_Y="118659_2" X_vs_Y_string="M. C. v. E. E"></RELATION>
+<RELATION id="118659_11" relation_type="asymmetric" gram_type="multi_line" theme="118659_2" theme_string="M. C. v. E. E" at_date="118659_8" at_date_string="March 18, 2002"></RELATION>
+<RELATION id="118659_10" relation_type="asymmetric" gram_type="multi_line" theme="118659_2" theme_string="M. C. v. E. E" includes_docket="118659_7" includes_docket_string="01-7835"></RELATION>

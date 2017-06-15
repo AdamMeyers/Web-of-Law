@@ -1,0 +1,52 @@
+<citation id="88926_1" entry_type="standard_case" start="0" end="11" reporter="U.S." standard_reporter="U.S." volume="87" page_number="114" line="1">87 U.S. 114</citation>
+<citation id="88926_2" entry_type="standard_case" start="16" end="29" reporter="L. Ed." standard_reporter="L.ED." volume="22" page_number="327" line="2">22 L. Ed. 327</citation>
+<citation id="88926_3" entry_type="standard_case" start="34" end="46" reporter="Wall." standard_reporter="WALL." volume="20" page_number="114" line="3">20 Wall. 114</citation>
+<citation id="88926_4" entry_type="case_citation_other" start="51" end="75" name="CLAIMS OF MARCUARD ET AL" line="4">CLAIMS OF MARCUARD ET AL</citation>
+<NAME id="88926_6" start="81" end="93">October Term</NAME>
+<date id="88926_5" start="95" end="99">1873</date>
+<ORGANIZATION id="88926_11" start="238" end="281">Circuit Court for the District of Louisiana</ORGANIZATION>
+<NAME id="88926_12" start="283" end="291">Marcuard</NAME>
+<ORGANIZATION id="88926_13" start="297" end="324">Citizens' Bank of Louisiana</ORGANIZATION>
+<ORGANIZATION id="88926_14" start="334" end="364">Merchants' Bank of New Orleans</ORGANIZATION>
+<ORGANIZATION id="88926_15" start="456" end="466">foundation</ORGANIZATION>
+<NAME id="88926_16" start="564" end="575">New Orleans</NAME>
+<NAME id="88926_17" start="586" end="593">Slidell</NAME>
+<ORGANIZATION id="88926_18" start="682" end="688" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="88926_19" start="750" end="756" plural="True">courts</ORGANIZATION>
+<ORGANIZATION id="88926_20" start="770" end="790">District Court first</ORGANIZATION>
+<ORGANIZATION id="88926_21" start="800" end="813">Circuit Court</ORGANIZATION>
+<NAME id="88926_22" start="989" end="1012">Mr. Thomas Allen Clarke</NAME>
+<LEGAL_ROLE id="88926_23" start="1030" end="1039">appellant</LEGAL_ROLE>
+<LEGAL_ROLE id="88926_24" start="1043" end="1053" plural="True">plaintiffs</LEGAL_ROLE>
+<NAME id="88926_25" start="1090" end="1104">Mr. C. H. Hill</NAME>
+<PROFESSION id="88926_26" start="1106" end="1115">Assistant</PROFESSION>
+<NAME id="88926_27" start="1116" end="1132">Attorney-General</NAME>
+<NAME id="88926_30" start="1148" end="1166">Mr. Justice STRONG</NAME>
+<PROFESSION id="88926_31" start="1152" end="1159">Justice</PROFESSION>
+<ORGANIZATION id="88926_32" start="1196" end="1201">court</ORGANIZATION>
+<NAME id="88926_39" start="1490" end="1502">John Slidell</NAME>
+<NAME id="88926_40" start="1681" end="1694">United States</NAME>
+<NAME id="88926_41" start="1724" end="1731">Slidell</NAME>
+<NAME id="88926_42" start="1853" end="1869">Confiscation Act</NAME>
+<citation id="88926_33" entry_type="case_X_vs_Y" start="1891" end="1909" party1="Bigelow" party2="Forrest" line="15">Bigelow v. Forrest</citation>
+<NAME id="88926_35" start="1891" end="1898" party1_of="88926_33">Bigelow</NAME>
+<NAME id="88926_36" start="1902" end="1909" party2_of="88926_33">Forrest</NAME>
+<citation id="88926_34" entry_type="case_X_vs_Y" start="1933" end="1965" party1="Day" party2="Micou2 The District Court" line="15">Day v. Micou2 The District Court</citation>
+<NAME id="88926_37" start="1933" end="1936" party1_of="88926_34">Day</NAME>
+<NAME id="88926_38" start="1940" end="1965" party2_of="88926_34">Micou2 The District Court</NAME>
+<ORGANIZATION id="88926_47" start="2247" end="2260">Circuit Court</ORGANIZATION>
+<citation id="88926_48" entry_type="case_citation_other" start="2316" end="2345" name="AFFIRMED IN EACH OF THE CASES" line="23">AFFIRMED IN EACH OF THE CASES</citation>
+<NAME id="88926_49" start="2371" end="2390">Mr. Justice BRADLEY</NAME>
+<PROFESSION id="88926_50" start="2375" end="2382">Justice</PROFESSION>
+<NAME id="88926_51" start="2523" end="2530">Wallace</NAME>
+<NAME id="88926_52" start="2573" end="2575">Id</NAME>
+<RELATION id="88926_7" relation_type="equivalence" gram_type="multi_line" standard_case="88926_1" standard_case_string="87 U.S. 114" case_citation_other="88926_4" case_citation_other_string="CLAIMS OF MARCUARD ET AL"></RELATION>
+<RELATION id="88926_8" relation_type="equivalence" gram_type="multi_line" standard_case="88926_2" standard_case_string="22 L. Ed. 327" case_citation_other="88926_4" case_citation_other_string="CLAIMS OF MARCUARD ET AL"></RELATION>
+<RELATION id="88926_9" relation_type="equivalence" gram_type="multi_line" standard_case="88926_3" standard_case_string="20 Wall. 114" case_citation_other="88926_4" case_citation_other_string="CLAIMS OF MARCUARD ET AL"></RELATION>
+<RELATION id="88926_10" relation_type="asymmetric" gram_type="multi_line" theme="88926_4" theme_string="CLAIMS OF MARCUARD ET AL" at_date="88926_5" at_date_string="1873"></RELATION>
+<RELATION id="88926_28" relation_type="asymmetric" gram_type="apposition" profession="88926_26" profession_string="Assistant" theme="88926_25" theme_string="Mr. C. H. Hill"></RELATION>
+<RELATION id="88926_29" relation_type="asymmetric" gram_type="pre_nom" profession="88926_26" profession_string="Assistant" theme="88926_27" theme_string="Attorney-General"></RELATION>
+<RELATION id="88926_43" relation_type="asymmetric" gram_type="infix" theme="88926_33" theme_string="Bigelow v. Forrest" party1="88926_35" party1_string="Bigelow"></RELATION>
+<RELATION id="88926_44" relation_type="asymmetric" gram_type="infix" theme="88926_33" theme_string="Bigelow v. Forrest" party2="88926_36" party2_string="Forrest"></RELATION>
+<RELATION id="88926_45" relation_type="asymmetric" gram_type="infix" theme="88926_34" theme_string="Day v. Micou2 The District Court" party1="88926_37" party1_string="Day"></RELATION>
+<RELATION id="88926_46" relation_type="asymmetric" gram_type="infix" theme="88926_34" theme_string="Day v. Micou2 The District Court" party2="88926_38" party2_string="Micou2 The District Court"></RELATION>

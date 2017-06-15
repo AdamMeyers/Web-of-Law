@@ -1,0 +1,29 @@
+<citation id="106118_1" entry_type="standard_case" start="1" end="20" reporter="U.S." standard_reporter="U.S." volume="364" page_number="295" year="1960" line="2">364 U.S. 295 (1960)</citation>
+<date id="106118_2" start="15" end="19">1960</date>
+<citation id="106118_5" entry_type="case_X_vs_Y" start="21" end="64" party1="MORALES ET AL." party2="CITY OF GALVESTON ET AL" line="5">MORALES ET AL.  v.  CITY OF GALVESTON ET AL</citation>
+<NAME id="106118_6" start="21" end="35" party1_of="106118_5">MORALES ET AL.</NAME>
+<NAME id="106118_7" start="41" end="64" party2_of="106118_5">CITY OF GALVESTON ET AL</NAME>
+<NAME id="106118_10" start="75" end="79">Misc</NAME>
+<ORGANIZATION id="106118_11" start="81" end="111">Supreme Court of United States</ORGANIZATION>
+<NAME id="106118_13" start="113" end="120">Decided</NAME>
+<date id="106118_12" start="121" end="137">October 17, 1960</date>
+<ORGANIZATION id="106118_15" start="142" end="233">PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT</ORGANIZATION>
+<LEGAL_ROLE id="106118_16" start="235" end="268" plural="True">Arthur J. Mandell for petitioners</LEGAL_ROLE>
+<NAME id="106118_17" start="270" end="311">Preston Shirley for the City of Galveston</NAME>
+<ORGANIZATION id="106118_18" start="317" end="365">Byron F. Williams for Cardigan Shipping Co., Ltd</ORGANIZATION>
+<LEGAL_ROLE id="106118_19" start="368" end="379" plural="True">respondents</LEGAL_ROLE>
+<NAME id="106118_21" start="385" end="391">CURIAM</NAME>
+<ORGANIZATION id="106118_26" start="516" end="532">Court of Appeals</ORGANIZATION>
+<ORGANIZATION id="106118_27" start="577" end="582">court</ORGANIZATION>
+<citation id="106118_23" entry_type="case_X_vs_Y" start="613" end="643" party1="Mitchell" party2="Trawler Racer, Inc" line="13">Mitchell v. Trawler Racer, Inc</citation>
+<NAME id="106118_24" start="613" end="621" party1_of="106118_23">Mitchell</NAME>
+<NAME id="106118_25" start="625" end="643" party2_of="106118_23">Trawler Racer, Inc</NAME>
+<citation id="106118_22" entry_type="standard_case" start="646" end="659" reporter="U. S." standard_reporter="U.S." volume="362" page_number="539" line="13">362 U. S. 539</citation>
+<RELATION id="106118_3" relation_type="asymmetric" gram_type="infix" theme="106118_1" theme_string="364 U.S. 295 (1960)" at_date="106118_2" at_date_string="1960"></RELATION>
+<RELATION id="106118_8" relation_type="asymmetric" gram_type="infix" theme="106118_5" theme_string="MORALES ET AL.  v.  CITY OF GALVESTON ET AL" party1="106118_6" party1_string="MORALES ET AL."></RELATION>
+<RELATION id="106118_9" relation_type="asymmetric" gram_type="infix" theme="106118_5" theme_string="MORALES ET AL.  v.  CITY OF GALVESTON ET AL" party2="106118_7" party2_string="CITY OF GALVESTON ET AL"></RELATION>
+<RELATION id="106118_14" relation_type="equivalence" gram_type="multi_line" standard_case="106118_1" standard_case_string="364 U.S. 295 (1960)" X_vs_Y="106118_5" X_vs_Y_string="MORALES ET AL.  v.  CITY OF GALVESTON ET AL"></RELATION>
+<RELATION id="106118_20" legal_role="106118_19" legal_role_string="respondents" relation_type="asymmetric" gram_type="apposition" theme="106118_18" theme_string="Byron F. Williams for Cardigan Shipping Co., Ltd"></RELATION>
+<RELATION id="106118_30" relation_type="equivalence" gram_type="apposition" standard_case="106118_22" standard_case_string="362 U. S. 539" X_vs_Y="106118_23" X_vs_Y_string="Mitchell v. Trawler Racer, Inc"></RELATION>
+<RELATION id="106118_28" relation_type="asymmetric" gram_type="infix" theme="106118_23" theme_string="Mitchell v. Trawler Racer, Inc" party1="106118_24" party1_string="Mitchell"></RELATION>
+<RELATION id="106118_29" relation_type="asymmetric" gram_type="infix" theme="106118_23" theme_string="Mitchell v. Trawler Racer, Inc" party2="106118_25" party2_string="Trawler Racer, Inc"></RELATION>

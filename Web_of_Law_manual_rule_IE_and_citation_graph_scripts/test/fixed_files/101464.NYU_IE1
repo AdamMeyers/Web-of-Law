@@ -1,0 +1,212 @@
+<CITATION reporter="U.S." entry_type="standard_key" standard_reporter="U.S." page_number="821" id1="101464" id="101464_1" lookup_key="u.s._279_821" alternative_keys="['statestate#4', 'statestate#3', 'statestate#2', 's.ct._49_349', 'l.ed._73_976']" citation_local_level_id="0" start="0" citation_global_level_id="42.002" end="12" volume="279" line="1" >279 U.S. 821</CITATION>
+
+<CITATION reporter="S. Ct." entry_type="standard_key" standard_reporter="S.CT." page_number="349" id1="101464" id="101464_2" lookup_key="s.ct._49_349" alternative_keys="['u.s._279_821', 'statestate#4', 'statestate#3', 'statestate#2', 'l.ed._73_976']" citation_local_level_id="1" start="17" citation_global_level_id="42.003" end="30" volume="49" line="2" >49 S. Ct. 349</CITATION>
+
+<CITATION reporter="L. Ed." entry_type="standard_key" standard_reporter="L.ED." page_number="976" id1="101464" id="101464_3" lookup_key="l.ed._73_976" alternative_keys="['u.s._279_821', 's.ct._49_349', 'statestate#4', 'statestate#3', 'statestate#2']" citation_local_level_id="2" start="35" citation_global_level_id="42.004" end="48" volume="73" line="3" >73 L. Ed. 976</CITATION>
+
+<CITATION id1="101464" entry_type="party_key" party1="The STATE OF WISCONSIN et al.," line="4" id="101464_4" party2_short="STATE" alternative_keys="['statestate#4', 'statestate#3', 's.ct._49_349', 'l.ed._73_976', 'u.s._279_821']" party2="The STATE OF ILLINOIS et al" citation_local_level_id="3" start="53" lookup_key="statestate#2" end="128" party1_role="complainants" party1_short="STATE" citation_global_level_id="42.007" >The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al</CITATION>
+
+<NAME start="53" local_name_id="1" end="83" all_names="THE STATE OF WISCONSIN" party1_of="101464_4" id="101464_7" >The STATE OF WISCONSIN et al.,</NAME>
+
+<LEGAL_ROLE start="84" end="96" id="101464_9" >complainants</LEGAL_ROLE>
+
+<NAME start="101" party2_of="101464_4" end="128" all_names="THE STATE OF ILLINOIS	STATE OF ILLINOIS" id="101464_8" local_name_id="2" >The STATE OF ILLINOIS et al</NAME>
+
+<CITATION id1="101464" entry_type="party_key" party1="STATE OF MICHIGAN," line="4" id="101464_5" party2_short="STATE" alternative_keys="['statestate#4', 'statestate#2', 's.ct._49_349', 'l.ed._73_976', 'u.s._279_821']" party2="The STATE OF ILLINOIS et al" citation_local_level_id="4" start="132" lookup_key="statestate#3" end="196" party1_role="complainant" party1_short="STATE" citation_global_level_id="42.006" >STATE OF MICHIGAN, complainant, v. The STATE OF ILLINOIS et al</CITATION>
+
+<NAME start="132" local_name_id="3" end="150" all_names="STATE OF MICHIGAN" party1_of="101464_5" id="101464_10" >STATE OF MICHIGAN,</NAME>
+
+<LEGAL_ROLE start="151" end="162" id="101464_12" >complainant</LEGAL_ROLE>
+
+<NAME start="169" party2_of="101464_5" end="196" all_names="THE STATE OF ILLINOIS	STATE OF ILLINOIS" id="101464_11" local_name_id="2" >The STATE OF ILLINOIS et al</NAME>
+
+<CITATION id1="101464" entry_type="party_key" party1="STATE OF NEW YORK," line="4" id="101464_6" party2_short="STATE" alternative_keys="['statestate#3', 'statestate#2', 's.ct._49_349', 'l.ed._73_976', 'u.s._279_821']" party2="STATE OF ILLINOIS et al" citation_local_level_id="5" start="201" lookup_key="statestate#4" end="261" party1_role="complainant" party1_short="STATE" citation_global_level_id="42.005" >STATE OF NEW YORK, complainant. v. STATE OF ILLINOIS et al</CITATION>
+
+<NAME start="201" local_name_id="4" end="219" all_names="STATE OF NEW YORK" party1_of="101464_6" id="101464_13" >STATE OF NEW YORK,</NAME>
+
+<LEGAL_ROLE start="220" end="231" id="101464_15" >complainant</LEGAL_ROLE>
+
+<NAME start="238" party2_of="101464_6" end="261" all_names="THE STATE OF ILLINOIS	STATE OF ILLINOIS" id="101464_14" local_name_id="2" >STATE OF ILLINOIS et al</NAME>
+
+<ORGANIZATION start="332" end="366" id="101464_31" >Supreme Court of the United States</ORGANIZATION>
+
+<DATE start="371" end="385" id="101464_32" >April 22, 1929</DATE>
+
+<NAME start="433" local_name_id="5" end="443" all_names="MESSRS WM" id="101464_33" >Messrs. Wm</NAME>
+
+<NAME start="445" local_name_id="6" end="472" all_names="J MORGAN AND RALPH M HOYT" id="101464_34" >J. Morgan and Ralph M. Hoyt</NAME>
+
+<NAME start="482" local_name_id="7" end="496" all_names="MILWAUKEE WIS" id="101464_35" >Milwaukee, Wis</NAME>
+
+<NAME start="499" local_name_id="8" end="514" all_names="HERMAN L EKERN" id="101464_36" >Herman L. Ekern</NAME>
+
+<NAME start="519" local_name_id="9" end="531" all_names="MADISON WIS" id="101464_37" >Madison, Wis</NAME>
+
+<NAME start="534" local_name_id="10" end="546" all_names="C L HILTON" id="101464_38" >C. L. Hilton</NAME>
+
+<NAME start="551" local_name_id="11" end="553" all_names="ST" id="101464_39" >St</NAME>
+
+<NAME start="876" local_name_id="12" end="887" all_names="MESSRS EDW" id="101464_40" >Messrs. Edw</NAME>
+
+<NAME start="889" local_name_id="13" end="904" all_names="J BRUNDAGE WM" id="101464_41" >J. Brundage, Wm</NAME>
+
+<NAME start="906" local_name_id="14" end="918" all_names="F MULVIHILL" id="101464_42" >F. Mulvihill</NAME>
+
+<NAME start="920" local_name_id="15" end="936" all_names="MORTON S CRESSY" id="101464_43" >Morton S. Cressy</NAME>
+
+<NAME start="938" local_name_id="16" end="954" all_names="EDMOND D ADCOCK" id="101464_44" >Edmond D. Adcock</NAME>
+
+<NAME start="956" local_name_id="17" end="974" all_names="OSCAR E CARLSTROM" id="101464_45" >Oscar E. Carlstrom</NAME>
+
+<NAME start="976" local_name_id="18" end="996" all_names="H A BROUILLET JAS" id="101464_46" >H. A. Brouillet, Jas</NAME>
+
+<NAME start="998" local_name_id="19" end="1017" all_names="HAMILTON LEWIS GEO" id="101464_47" >Hamilton Lewis, Geo</NAME>
+
+<NAME start="1019" local_name_id="20" end="1029" all_names="F BARRETT" id="101464_48" >F. Barrett</NAME>
+
+<NAME start="1035" local_name_id="21" end="1049" all_names="LOUIS J BEHAN" id="101464_49" >Louis J. Behan</NAME>
+
+<NAME start="1058" local_name_id="22" end="1070" all_names="CHICAGO ILL" id="101464_50" >Chicago, Ill</NAME>
+
+<NAME start="1073" local_name_id="23" end="1107" all_names="J T KENWORTHY AND CYRUS E DIETZ" id="101464_51" >J. T. Kenworthy and Cyrus E. Dietz</NAME>
+
+<NAME start="1117" local_name_id="24" end="1133" all_names="ROCK ISLAND ILL" id="101464_52" >Rock Island, Ill</NAME>
+
+<NAME start="1136" local_name_id="25" end="1151" all_names="HUGH S JOHNSON" id="101464_53" >Hugh S. Johnson</NAME>
+
+<NAME start="1156" local_name_id="26" end="1172" all_names="SPRINGFIELD ILL" id="101464_54" >Springfield, Ill</NAME>
+
+<NAME start="1175" local_name_id="27" end="1187" all_names="MACLAY HOYNE" id="101464_55" >Maclay Hoyne</NAME>
+
+<NAME start="1192" local_name_id="22" end="1204" all_names="CHICAGO ILL" id="101464_56" >Chicago, Ill</NAME>
+
+<NAME start="1211" local_name_id="28" end="1224" all_names="JAMES M BECK" id="101464_57" >James M. Beck</NAME>
+
+<NAME start="1229" local_name_id="29" end="1239" all_names="WASHINGTON" id="101464_58" >Washington</NAME>
+
+<NAME start="1241" local_name_id="30" end="1245" all_names="D C" id="101464_59" >D. C</NAME>
+
+<NAME start="1256" local_name_id="2" end="1273" all_names="THE STATE OF ILLINOIS	STATE OF ILLINOIS" id="101464_60" >State of Illinois</NAME>
+
+<NAME start="1310" local_name_id="31" end="1335" all_names="MESSRS WILBER M BRUCKER" id="101464_61" >Messrs. Wilber M. Brucker</NAME>
+
+<PROFESSION start="1337" end="1346" party="MESSRS WILBER M BRUCKER" document_level_name_id="31" id="101464_62" >Atty. Gen</PROFESSION>
+
+<NAME start="1352" local_name_id="32" end="1364" all_names="B DOUGHERTY" id="101464_63" >B. Dougherty</NAME>
+
+<NAME start="1366" local_name_id="33" end="1383" all_names="WILLIAM W POTTER" id="101464_64" >William W. Potter</NAME>
+
+<NAME start="1389" local_name_id="34" end="1405" all_names="ARTHUR E KIDDER" id="101464_65" >Arthur E. Kidder</NAME>
+
+<NAME start="1414" local_name_id="35" end="1427" all_names="LANSING MICH" id="101464_66" >Lansing, Mich</NAME>
+
+<NAME start="1438" local_name_id="3" end="1455" all_names="STATE OF MICHIGAN" id="101464_67" >State of Michigan</NAME>
+
+<NAME start="1481" local_name_id="36" end="1502" all_names="MESSRS HAMILTON WARD" id="101464_69" >Messrs. Hamilton Ward</NAME>
+
+<PROFESSION start="1504" end="1513" party="MESSRS WILBER M BRUCKER" document_level_name_id="31" id="101464_70" >Atty. Gen</PROFESSION>
+
+<NAME start="1519" local_name_id="37" end="1532" all_names="NEW YORK CITY" id="101464_71" >New York City</NAME>
+
+<NAME start="1534" local_name_id="38" end="1551" all_names="ALBERT J DANAHER" id="101464_72" >Albert J. Danaher</NAME>
+
+<PROFESSION start="1553" end="1568" party="NEW YORK CITY" document_level_name_id="37" id="101464_73" >Asst. Atty. Gen</PROFESSION>
+
+<NAME start="1574" local_name_id="39" end="1580" all_names="ALBANY" id="101464_74" >Albany</NAME>
+
+<NAME start="1582" local_name_id="40" end="1586" all_names="N Y" id="101464_75" >N. Y</NAME>
+
+<NAME start="1589" local_name_id="41" end="1604" all_names="ALBERT OTTINGER" id="101464_76" >Albert Ottinger</NAME>
+
+<NAME start="1609" local_name_id="37" end="1622" all_names="NEW YORK CITY" id="101464_77" >New York City</NAME>
+
+<NAME start="1624" local_name_id="42" end="1642" all_names="R J LE BOEUF JR" id="101464_78" >R. J. Le Boeuf, Jr</NAME>
+
+<NAME start="1648" local_name_id="39" end="1654" all_names="ALBANY" id="101464_79" >Albany</NAME>
+
+<NAME start="1656" local_name_id="40" end="1660" all_names="N Y" id="101464_80" >N. Y</NAME>
+
+<NAME start="1667" local_name_id="43" end="1683" all_names="NATHAN L MILLER" id="101464_81" >Nathan L. Miller</NAME>
+
+<NAME start="1688" local_name_id="37" end="1701" all_names="NEW YORK CITY" id="101464_82" >New York City</NAME>
+
+<NAME start="1711" local_name_id="4" end="1728" all_names="STATE OF NEW YORK" id="101464_83" >State of New York</NAME>
+
+<NAME start="1754" local_name_id="44" end="1777" all_names="MESSRS NORTH T GENTRY" id="101464_87" >Messrs. North T. Gentry</NAME>
+
+<NAME start="1782" local_name_id="45" end="1794" all_names="COLUMBIA MO" id="101464_88" >Columbia, Mo</NAME>
+
+<NAME start="1797" local_name_id="46" end="1812" all_names="DANIEL N KIRBY" id="101464_89" >Daniel N. Kirby</NAME>
+
+<NAME start="1817" local_name_id="11" end="1819" all_names="ST" id="101464_90" >St</NAME>
+
+<NAME start="1930" local_name_id="47" end="1948" all_names="MR F M THOMPSON" id="101464_91" >Mr. F. M. Thompson</NAME>
+
+<NAME start="1953" local_name_id="48" end="1968" all_names="NASHVILLE TENN" id="101464_92" >Nashville, Tenn</NAME>
+
+<NAME start="1986" local_name_id="49" end="2004" all_names="STATE OF TENNESSEE" id="101464_93" >State of Tennessee</NAME>
+
+<NAME start="2030" local_name_id="50" end="2049" all_names="MR F E DAUGHERTY" id="101464_94" >Mr. F. E. Daugherty</NAME>
+
+<NAME start="2054" local_name_id="51" end="2068" all_names="LOUISVILLE KY" id="101464_95" >Louisville, Ky</NAME>
+
+<NAME start="2086" local_name_id="52" end="2103" all_names="STATE OF KENTUCKY" id="101464_96" >State of Kentucky</NAME>
+
+<NAME start="2129" local_name_id="53" end="2144" all_names="MR PERCY SAINT" id="101464_97" >Mr. Percy Saint</NAME>
+
+<NAME start="2149" local_name_id="54" end="2160" all_names="NEW ORLEANS" id="101464_98" >New Orleans</NAME>
+
+<NAME start="2182" local_name_id="55" end="2200" all_names="STATE OF LOUISIANA" id="101464_99" >State of Louisiana</NAME>
+
+<NAME start="2227" local_name_id="56" end="2246" all_names="MR H W APPLEGATE" id="101464_100" >Mr. H. W. Applegate</NAME>
+
+<NAME start="2251" local_name_id="57" end="2267" all_names="LITTLE ROCK ARK" id="101464_101" >Little Rock, Ark</NAME>
+
+<NAME start="2285" local_name_id="58" end="2302" all_names="STATE OF ARKANSAS" id="101464_102" >State of Arkansas</NAME>
+
+<NAME start="2329" local_name_id="59" end="2345" all_names="MR RUSH H KNOX" id="101464_103" >Mr. Rush H. Knox</NAME>
+
+<NAME start="2350" local_name_id="60" end="2363" all_names="JACKSON MISS" id="101464_104" >Jackson, Miss</NAME>
+
+<NAME start="2381" local_name_id="61" end="2401" all_names="STATE OF MISSISSIPPI" id="101464_105" >State of Mississippi</NAME>
+
+<NAME start="2428" local_name_id="62" end="2457" all_names="MOTION OF THE CITY OF CHICAGO" id="101464_106" >Motion of the City of Chicago</NAME>
+
+<RELATION party1_string="The STATE OF WISCONSIN et al.," party1="101464_7" theme_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" id="101464_16" relation_type="asymmetric" theme="101464_4" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="The STATE OF ILLINOIS et al" theme_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" id="101464_17" relation_type="asymmetric" party2="101464_8" theme="101464_4" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="STATE OF MICHIGAN," party1="101464_10" theme_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" id="101464_18" relation_type="asymmetric" theme="101464_5" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="The STATE OF ILLINOIS et al" theme_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" id="101464_19" relation_type="asymmetric" party2="101464_11" theme="101464_5" gram_type="infix" ></RELATION>
+
+<RELATION party1_string="STATE OF NEW YORK," party1="101464_13" theme_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" id="101464_20" relation_type="asymmetric" theme="101464_6" gram_type="infix" ></RELATION>
+
+<RELATION party2_string="STATE OF ILLINOIS et al" theme_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" id="101464_21" relation_type="asymmetric" party2="101464_14" theme="101464_6" gram_type="infix" ></RELATION>
+
+<RELATION X_vs_Y_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_1" relation_type="equivalence" id="101464_28" X_vs_Y="101464_6" standard_case_string="279 U.S. 821" ></RELATION>
+
+<RELATION X_vs_Y_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_1" relation_type="equivalence" id="101464_25" X_vs_Y="101464_5" standard_case_string="279 U.S. 821" ></RELATION>
+
+<RELATION X_vs_Y_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_1" relation_type="equivalence" id="101464_22" X_vs_Y="101464_4" standard_case_string="279 U.S. 821" ></RELATION>
+
+<RELATION X_vs_Y_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_2" relation_type="equivalence" id="101464_29" X_vs_Y="101464_6" standard_case_string="49 S. Ct. 349" ></RELATION>
+
+<RELATION X_vs_Y_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_2" relation_type="equivalence" id="101464_26" X_vs_Y="101464_5" standard_case_string="49 S. Ct. 349" ></RELATION>
+
+<RELATION X_vs_Y_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_2" relation_type="equivalence" id="101464_23" X_vs_Y="101464_4" standard_case_string="49 S. Ct. 349" ></RELATION>
+
+<RELATION X_vs_Y_string="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_3" relation_type="equivalence" id="101464_30" X_vs_Y="101464_6" standard_case_string="73 L. Ed. 976" ></RELATION>
+
+<RELATION X_vs_Y_string="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_3" relation_type="equivalence" id="101464_27" X_vs_Y="101464_5" standard_case_string="73 L. Ed. 976" ></RELATION>
+
+<RELATION X_vs_Y_string="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" gram_type="multi_line" standard_case="101464_3" relation_type="equivalence" id="101464_24" X_vs_Y="101464_4" standard_case_string="73 L. Ed. 976" ></RELATION>
+
+<RELATION profession="101464_62" gram_type="apposition" id="101464_68" profession_string="Atty. Gen" relation_type="asymmetric" theme="101464_61" theme_string="Messrs. Wilber M. Brucker" ></RELATION>
+
+<RELATION profession="101464_70" gram_type="apposition" id="101464_84" profession_string="Atty. Gen" relation_type="asymmetric" theme="101464_69" theme_string="Messrs. Hamilton Ward" ></RELATION>
+
+<RELATION profession="101464_73" gram_type="apposition" id="101464_86" profession_string="Asst. Atty. Gen" relation_type="asymmetric" theme="101464_71" theme_string="New York City" ></RELATION>
+
+<RELATION profession="101464_73" gram_type="apposition" id="101464_85" profession_string="Asst. Atty. Gen" relation_type="asymmetric" theme="101464_72" theme_string="Albert J. Danaher" ></RELATION>
+
