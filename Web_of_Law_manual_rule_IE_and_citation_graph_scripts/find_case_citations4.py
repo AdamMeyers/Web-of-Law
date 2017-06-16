@@ -2376,7 +2376,7 @@ def look_for_close_relations(entities,line,offset,file_id,citation_dictionary,li
             if not gram_type:
                 list_of_same_type = []                
             else:
-                if (last_type == current_type) and (gram_type in 'prenom', 'apposition','conj'):
+                if (last_type == current_type) and (gram_type in ['prenom', 'apposition','conj']):
                     partner_tuples = []
                     if not last_entity in list_of_same_type:
                         list_of_same_type.append(last_entity)
