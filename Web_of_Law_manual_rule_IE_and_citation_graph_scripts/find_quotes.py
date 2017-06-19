@@ -5,13 +5,16 @@ from xml.sax.saxutils import unescape
 
 quote_id = 0
 
+def make_one_line(string):
+  return(re.sub(os.linesep,' ',string))
+
 def make_quote_output_string(start,end,string):
   global quote_id
   quote_id += 1
   out_string = "<quote"
-  for attribute, value in [['local_id',quote_id],['start',start],['end',end],['string',wol_escape(string)]]:
+  for attribute, value in [['local_id',quote_id],['start',start],['end',end],['string',make_one_line(wol_escape(string))]]:
     out_string += ' '+attribute+'="'+str(value)+'"'
-  out_string+=('>')
+  out_string+=('></quote>')
   return(out_string)
 
 def find_quotes(txt_file,quotes_file):
