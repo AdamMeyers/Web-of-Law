@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[539 U.S. 962     Hernandez, aka Hernandez Llanas v. Texas.     No. 02-10346.     Supreme Court of United States.     June 27, 2003.            11       Appeal from the Ct. Crim. App. Tex.          
+      22
+      Certiorari denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="130901_1" page_number="962" reporter="U.S." standard_reporter="U.S." start="0" text="539 U.S. 962" volume="539"/>
+<citation id="c1" end="57" entry_type="case_X_vs_Y" line="1" local_id="130901_3" party1="Hernandez, aka Hernandez Llanas" party2="Texas" start="17" text="Hernandez, aka Hernandez Llanas v. Texas"/>
+<NAME id="N2" end="48" local_id="130901_4" party1_of="130901_3" start="17" text="Hernandez, aka Hernandez Llanas"/>
+<NAME id="N3" end="26" local_id="130901_7" start="17" text="Hernandez"/>
+<NAME id="N4" end="57" local_id="130901_5" party2_of="130901_3" start="52" text="Texas"/>
+<docket id="d5" end="75" entry_type="docket" line="1" local_id="130901_2" start="67" text="02-10346"/>
+<date id="d6" end="130" local_id="130901_6" start="117" text="June 27, 2003"/>
+<NAME id="N7" end="223" local_id="130901_13" start="213" text="Certiorari"/>
+<RELATION id="R10" fromID="c1" fromText="Hernandez, aka Hernandez Llanas v. Texas" toID="d5" toText="02-10346" gram_type="apposition" local_id="130901_11" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c1" fromText="Hernandez, aka Hernandez Llanas v. Texas" toID="N4" toText="Texas" gram_type="infix" local_id="130901_10" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c1" fromText="Hernandez, aka Hernandez Llanas v. Texas" toID="N2" toText="Hernandez, aka Hernandez Llanas" gram_type="infix" local_id="130901_9" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c0" fromText="539 U.S. 962" toID="d5" toText="02-10346" gram_type="apposition" local_id="130901_12" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c0" fromText="539 U.S. 962" toID="c1" toText="Hernandez, aka Hernandez Llanas v. Texas" gram_type="pre_nom" local_id="130901_8" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

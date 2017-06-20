@@ -31,6 +31,7 @@ I. Files
 2.3 Preprocessing code (See 2.6.1 for corresponding run files).
 2.3.1 encoding_fix.py
 2.3.2 make_txt_file_from_json2.py
+2.3.3 pre_process_annotation.py (pre-processing for annotation with Mae)
 
 2.4 Rule-based Entity and Relation Tagging (See 2.6.2 for corresponding run files)
 2.4.1 find_case_citations4.py
@@ -142,6 +143,20 @@ look up files from citations).
 	    Note that directory_list is a text file 
 	    containing a single directory: test/fixed_files
 
+2.6.4 Files for pre-processing of files for manual annotation. The
+      purpose of this file is to create input to Mae, so annotation
+      can be manually corrected.  Additional code may be needed to
+      complete the annotation process. Changes to the task, changes to
+      the annotation procedure, among other factors may cause the
+      processing to change.  In addition, post-processors may be
+      necessary to create the equivalent of the input files. This
+      program is in a testing stage. It has not been run on the entire
+      scotus corpus, just on a few test files. To run on the current
+      test directory, the command is:
+
+      run_pre_processing.py test/fixed_files
+
+
 **************************************************************************
 Note about the full Scotus Run
 
@@ -202,3 +217,19 @@ different stages of the same case (hopefully including the final
 verdict or the binding opinion); and cases that have been grouped
 together -- while originally separate cases, they were later merged
 into one case and a decision was given to the whole set.
+
+IV. Notes about Manual Annotation
+
+1) There will be a separate directory having to do with manual
+annotation, including a README.
+
+2) Note that due to idiosyncrasies of the MAE program, and possibly of
+XML in general, the quotations posed a problem. By beginning and
+ending with quotation marks, quoted text complicates recognition of
+xml attributes. Given a feature value pair: feature=""abcdefg hijk"",
+it is necessary to choose the correct instance of a quotation marks
+(") as delimiters. To simplify this problem, the pre-processor
+substitutes the inside quotation mark (") with the following character
+(«). Post-processing should be prepared to handle this character
+correctly (e.g., subsituting a "; or substituting a &quot; as
+appropriate).

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[(ORDER LIST:   552 U.S.)  
+                           TUESDAY, OCTOBER 16, 2007                               ORDER IN PENDING CASE   07A311     NORRIS, DIR., AR DOC, ET AL. V. JONES, JACK H.  
+                  The application to vacate the stay of execution of sentence             of death entered by the United States Court of Appeals for the             Eighth Circuit on October 11, 2007, presented to Justice Alito             and by him referred to the Court, is denied. 
+                  Justice Scalia, dissenting. 
+                  I vote to grant the State’s application to vacate the stay             because in my view the decision of the Eighth Circuit was based             on the mistaken premise that our grant of certiorari in Baze v. 
+           Rees, ___ S. Ct. ___ (2007), calls for the stay of every             execution in which an individual raises an Eighth Amendment             challenge to the lethal injection protocol.    The grant of             certiorari in a single case does not alter the application of             normal rules of procedure, including those related to timeliness. 
+           In this case, Jones’s challenge to the lethal injection protocol, 
+           which was brought nine years after his conviction and sentence 
+           became final, was dilatory.
+ 
+ ]]></TEXT>
+<TAGS>
+<NAME id="N0" end="11" local_id="145957_1" start="1" text="ORDER LIST"/>
+<NAME id="N1" end="22" local_id="145957_2" start="19" text="U.S"/>
+<citation id="c2" end="140" entry_type="standard_case" line="2" local_id="145957_3" page_number="311" reporter="A" standard_reporter="A." start="134" text="07A311" volume="07"/>
+<NAME id="N3" end="156" local_id="145957_5" start="145" text="NORRIS, DIR"/>
+<NAME id="N4" end="165" local_id="145957_6" start="159" text="AR DOC"/>
+<NAME id="N5" end="172" local_id="145957_7" start="167" text="ET AL"/>
+<NAME id="N6" end="182" local_id="145957_8" start="174" text="V. JONES"/>
+<NAME id="N7" end="190" local_id="145957_9" start="184" text="JACK H"/>
+<ORGANIZATION id="O8" end="373" local_id="145957_11" start="308" text="United States Court of Appeals for the             Eighth Circuit"/>
+<date id="d9" end="393" local_id="145957_10" start="377" text="October 11, 2007"/>
+<PROFESSION id="P10" end="415" local_id="145957_12" start="408" text="Justice"/>
+<NAME id="N11" end="421" local_id="145957_13" start="416" text="Alito"/>
+<ORGANIZATION id="O12" end="466" local_id="145957_14" start="461" text="Court"/>
+<PROFESSION id="P13" end="505" local_id="145957_23" start="498" text="Justice"/>
+<NAME id="N14" end="512" local_id="145957_24" start="506" text="Scalia"/>
+<citation id="c15" end="783" entry_type="case_X_vs_Y" line="6" local_id="145957_19" party1="Baze" party2="Rees, ___ S. Ct" start="748" text="Baze v.             Rees, ___ S. Ct"/>
+<NAME id="N16" end="752" local_id="145957_20" party1_of="145957_19" start="748" text="Baze"/>
+<NAME id="N17" end="783" local_id="145957_21" party2_of="145957_19" start="768" text="Rees, ___ S. Ct"/>
+<date id="d18" end="794" local_id="145957_22" start="790" text="2007"/>
+<NAME id="N19" end="1152" local_id="145957_28" start="1147" text="Jones"/>
+<RELATION id="R20" fromID="N11" fromText="Alito" toID="P10" toText="Justice" gram_type="pre_nom" local_id="145957_15" relation_type="asymmetric"/>
+<RELATION id="R21" fromID="N14" fromText="Scalia" toID="P13" toText="Justice" gram_type="pre_nom" local_id="145957_25" relation_type="asymmetric"/>
+<RELATION id="R22" fromID="c15" fromText="Baze v.             Rees, ___ S. Ct" toID="N16" toText="Baze" gram_type="infix" local_id="145957_26" relation_type="asymmetric"/>
+<RELATION id="R23" fromID="c15" fromText="Baze v.             Rees, ___ S. Ct" toID="N17" toText="Rees, ___ S. Ct" gram_type="infix" local_id="145957_27" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

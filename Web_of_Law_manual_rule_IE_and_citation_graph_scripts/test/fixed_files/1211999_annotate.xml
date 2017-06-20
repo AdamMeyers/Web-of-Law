@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+(2006)
+BRADLEY S. WHITMAN 
+v. 
+BARTOW, DIR., WI RESOURCE CENTER
+No. 05-10881
+Supreme Court of United States.
+June 12, 2006.
+
+The petition for a writ of certiorari is denied.
+]]></TEXT>
+<TAGS>
+<date id="d0" end="6" local_id="1211999_1" start="2" text="2006"/>
+<citation id="c1" end="64" entry_type="case_X_vs_Y" line="5" local_id="1211999_3" party1="BRADLEY S. WHITMAN" party2="BARTOW, DIR., WI RESOURCE CENTER" start="8" text="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER"/>
+<NAME id="N2" end="26" local_id="1211999_4" party1_of="1211999_3" start="8" text="BRADLEY S. WHITMAN"/>
+<NAME id="N3" end="64" local_id="1211999_5" party2_of="1211999_3" start="32" text="BARTOW, DIR., WI RESOURCE CENTER"/>
+<docket id="d4" end="77" entry_type="docket" line="6" local_id="1211999_8" start="69" text="05-10881"/>
+<ORGANIZATION id="O5" end="108" local_id="1211999_9" start="78" text="Supreme Court of United States"/>
+<date id="d6" end="123" local_id="1211999_10" start="110" text="June 12, 2006"/>
+<RELATION id="R10" fromID="c1" fromText="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" toID="d4" toText="05-10881" gram_type="multi_line" local_id="1211999_11" relation_type="asymmetric"/>
+<RELATION id="R7" fromID="c1" fromText="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" toID="N2" toText="BRADLEY S. WHITMAN" gram_type="infix" local_id="1211999_6" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c1" fromText="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" toID="N3" toText="BARTOW, DIR., WI RESOURCE CENTER" gram_type="infix" local_id="1211999_7" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c1" fromText="BRADLEY S. WHITMAN  v.  BARTOW, DIR., WI RESOURCE CENTER" toID="d6" toText="June 12, 2006" gram_type="multi_line" local_id="1211999_12" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

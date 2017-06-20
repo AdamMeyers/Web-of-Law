@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[537 U.S. 1084
+    HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA,     No. 02-285.
+    Supreme Court of United States.
+    December 9, 2002.
+    
+      11
+      ante, p. 975. Petition for rehearing denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="13" entry_type="standard_case" line="1" local_id="125863_1" page_number="1084" reporter="U.S." standard_reporter="U.S." start="0" text="537 U.S. 1084" volume="537"/>
+<citation id="c1" end="63" entry_type="case_X_vs_Y" line="2" local_id="125863_3" party1="HERSHFIELD" party2="COUNTY OF KING GEORGE, VIRGINIA" start="18" text="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA"/>
+<NAME id="N2" end="28" local_id="125863_4" party1_of="125863_3" start="18" text="HERSHFIELD"/>
+<NAME id="N3" end="63" local_id="125863_5" party2_of="125863_3" start="32" text="COUNTY OF KING GEORGE, VIRGINIA"/>
+<docket id="d4" end="79" entry_type="docket" line="2" local_id="125863_2" start="73" text="02-285"/>
+<ORGANIZATION id="O5" end="115" local_id="125863_9" start="85" text="Supreme Court of United States"/>
+<date id="d6" end="137" local_id="125863_10" start="121" text="December 9, 2002"/>
+<NAME id="N7" end="181" local_id="125863_13" start="173" text="Petition"/>
+<RELATION id="R10" fromID="c1" fromText="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" toID="N3" toText="COUNTY OF KING GEORGE, VIRGINIA" gram_type="infix" local_id="125863_7" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c0" fromText="537 U.S. 1084" toID="c1" toText="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" gram_type="multi_line" local_id="125863_11" relation_type="equivalence"/>
+<RELATION id="R12" fromID="c1" fromText="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" toID="d6" toText="December 9, 2002" gram_type="multi_line" local_id="125863_12" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c1" fromText="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" toID="d4" toText="02-285" gram_type="apposition" local_id="125863_8" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c1" fromText="HERSHFIELD v. COUNTY OF KING GEORGE, VIRGINIA" toID="N2" toText="HERSHFIELD" gram_type="infix" local_id="125863_6" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

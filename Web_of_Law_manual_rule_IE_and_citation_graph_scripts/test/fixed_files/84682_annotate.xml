@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[2 U.S. 479
+    2 Dall. 479
+    Appointment of PATERSON
+    August Term, 1793.
+    
+      1
+      The Court being met, a commission appointing William Paterson, one of the Justices, bearing date the 4th of March, 1793, was read; and he was qualified according to law.*
+    
+    
+      
+        *
+         Judge Paterson's appointment was in the room of Mr. Justice Johnson, who had resigned.
+        The Malignant Fever, which during this year, raged in the City of Philadelphia, dispersed the great body of its inhabitants, and proved fatal to thousands, interrupted, likewise, the business of the Courts; and I cannot trace, that any important cause was agitated in the present Term.
+      
+    
+    ]]></TEXT>
+<TAGS>
+<citation id="c0" end="10" entry_type="standard_case" line="1" local_id="84682_1" page_number="479" reporter="U.S." standard_reporter="U.S." start="0" text="2 U.S. 479" volume="2"/>
+<citation id="c1" end="26" entry_type="standard_case" line="2" local_id="84682_2" page_number="479" reporter="Dall" standard_reporter="DALL" start="15" text="2 Dall. 479" volume="2"/>
+<NAME id="N2" end="54" local_id="84682_3" start="31" text="Appointment of PATERSON"/>
+<citation id="c3" end="54" entry_type="case_citation_other" line="3" local_id="84682_4" name="Appointment of PATERSON" start="31" text="Appointment of PATERSON"/>
+<NAME id="N4" end="70" local_id="84682_6" start="59" text="August Term"/>
+<date id="d5" end="76" local_id="84682_5" start="72" text="1793"/>
+<ORGANIZATION id="O6" end="106" local_id="84682_11" start="101" text="Court"/>
+<ORGANIZATION id="O7" end="130" local_id="84682_12" start="120" text="commission"/>
+<NAME id="N8" end="158" local_id="84682_13" start="142" text="William Paterson"/>
+<PROFESSION id="P9" end="179" local_id="84682_14" plural="True" start="171" text="Justices"/>
+<date id="d10" end="216" local_id="84682_10" start="205" text="March, 1793"/>
+<PROFESSION id="P11" end="309" local_id="84682_15" start="304" text="Judge"/>
+<NAME id="N12" end="318" local_id="84682_16" start="310" text="Paterson"/>
+<NAME id="N13" end="371" local_id="84682_17" start="352" text="Mr. Justice Johnson"/>
+<PROFESSION id="P14" end="363" local_id="84682_18" start="356" text="Justice"/>
+<NAME id="N15" end="418" local_id="84682_20" start="403" text="Malignant Fever"/>
+<NAME id="N16" end="477" local_id="84682_21" start="457" text="City of Philadelphia"/>
+<ORGANIZATION id="O17" end="604" local_id="84682_22" plural="True" start="598" text="Courts"/>
+<NAME id="N18" end="683" local_id="84682_23" start="679" text="Term"/>
+<RELATION id="R19" fromID="c0" fromText="2 U.S. 479" toID="c3" toText="Appointment of PATERSON" gram_type="multi_line" local_id="84682_7" relation_type="equivalence"/>
+<RELATION id="R20" fromID="c1" fromText="2 Dall. 479" toID="c3" toText="Appointment of PATERSON" gram_type="multi_line" local_id="84682_8" relation_type="equivalence"/>
+<RELATION id="R21" fromID="c3" fromText="Appointment of PATERSON" toID="d5" toText="1793" gram_type="multi_line" local_id="84682_9" relation_type="asymmetric"/>
+<RELATION id="R22" fromID="N12" fromText="Paterson" toID="P11" toText="Judge" gram_type="pre_nom" local_id="84682_19" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

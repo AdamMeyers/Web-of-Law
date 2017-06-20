@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+113 U.S. 215 (1885)
+CAILLOT & Another 
+v. 
+DEETKEN.
+Supreme Court of United States.
+Submitted January 12, 1885.
+Decided January 26, 1885.
+IN ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF CALIFORNIA.
+*216 Mr. J.J. Scrivner for plaintiffs in error.
+Mr. John A. Wright, Mr. John F. Hanna and Mr. James M. Johnston for defendant in error.
+MR. JUSTICE MILLER delivered the opinion of the court.
+It has been repeatedly decided by this court that where no return has been made to a writ of error by filing the transcript of the record here, either before or during the term of the court next succeeding the filing of the writ in the Circuit Court, this court has acquired no jurisdiction of the case, and the writ having then expired, can acquire none under that writ, and it must, therefore, be dismissed. Villabolos v. United States, 6 How. 81; Castro v. United States, 3 Wall. 46; Mussina v. Cavasos, 6 Wall. 355, 358; Murdock v. Memphis, 20 Wall. 590, 624.
+In the case before us the writ of error was filed in the Circuit Court in which the record was March 16, 1882, and the transcript that was returned with it was filed in this court November 28, 1884. Two full terms of the court had passed, therefore, between the filing of the writ of error in the Circuit Court and its return with the transcript into this court.
+It must, therefore, be
+Dismissed for want of jurisdiction.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="91278_1" page_number="215" reporter="U.S." standard_reporter="U.S." start="1" text="113 U.S. 215 (1885)" volume="113" year="1885"/>
+<date id="d1" end="19" local_id="91278_2" start="15" text="1885"/>
+<citation id="c2" end="51" entry_type="case_X_vs_Y" line="5" local_id="91278_5" party1="CAILLOT &amp; Another" party2="DEETKEN" start="21" text="CAILLOT &amp; Another  v.  DEETKEN"/>
+<NAME id="N3" end="38" local_id="91278_6" party1_of="91278_5" start="21" text="CAILLOT &amp; Another"/>
+<NAME id="N4" end="51" local_id="91278_7" party2_of="91278_5" start="44" text="DEETKEN"/>
+<ORGANIZATION id="O5" end="83" local_id="91278_10" start="53" text="Supreme Court of United States"/>
+<date id="d6" end="111" local_id="91278_11" start="95" text="January 12, 1885"/>
+<NAME id="N7" end="120" local_id="91278_14" start="113" text="Decided"/>
+<date id="d8" end="137" local_id="91278_13" start="121" text="January 26, 1885"/>
+<ORGANIZATION id="O9" end="220" local_id="91278_15" start="142" text="ERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE DISTRICT OF CALIFORNIA"/>
+<LEGAL_ROLE id="L10" end="259" local_id="91278_16" plural="True" start="227" text="Mr. J.J. Scrivner for plaintiffs"/>
+<NAME id="N11" end="288" local_id="91278_17" start="270" text="Mr. John A. Wright"/>
+<LEGAL_ROLE id="L12" end="347" local_id="91278_18" start="290" text="Mr. John F. Hanna and Mr. James M. Johnston for defendant"/>
+<NAME id="N13" end="360" local_id="91278_20" start="358" text="MR"/>
+<ORGANIZATION id="O14" end="457" local_id="91278_37" start="452" text="court"/>
+<ORGANIZATION id="O15" end="602" local_id="91278_38" start="597" text="court"/>
+<ORGANIZATION id="O16" end="662" local_id="91278_39" start="649" text="Circuit Court"/>
+<ORGANIZATION id="O17" end="674" local_id="91278_40" start="669" text="court"/>
+<citation id="c18" end="850" entry_type="case_X_vs_Y" line="13" local_id="91278_25" party1="Villabolos" party2="United States" start="823" text="Villabolos v. United States"/>
+<NAME id="N19" end="833" local_id="91278_29" party1_of="91278_25" start="823" text="Villabolos"/>
+<NAME id="N20" end="850" local_id="91278_30" party2_of="91278_25" start="837" text="United States"/>
+<citation id="c21" end="861" entry_type="standard_case" line="13" local_id="91278_21" page_number="81" reporter="How." standard_reporter="HOW." start="852" text="6 How. 81" volume="6"/>
+<citation id="c22" end="886" entry_type="case_X_vs_Y" line="13" local_id="91278_26" party1="Castro" party2="United States" start="863" text="Castro v. United States"/>
+<NAME id="N23" end="869" local_id="91278_31" party1_of="91278_26" start="863" text="Castro"/>
+<NAME id="N24" end="886" local_id="91278_32" party2_of="91278_26" start="873" text="United States"/>
+<citation id="c25" end="898" entry_type="standard_case" line="13" local_id="91278_22" page_number="46" reporter="Wall." standard_reporter="WALL." start="888" text="3 Wall. 46" volume="3"/>
+<citation id="c26" end="918" entry_type="case_X_vs_Y" line="13" local_id="91278_27" party1="Mussina" party2="Cavasos" start="900" text="Mussina v. Cavasos"/>
+<NAME id="N27" end="907" local_id="91278_33" party1_of="91278_27" start="900" text="Mussina"/>
+<NAME id="N28" end="918" local_id="91278_34" party2_of="91278_27" start="911" text="Cavasos"/>
+<citation id="c29" end="936" entry_type="standard_case" line="13" local_id="91278_23" page_number="355" paragraph_number="358" reporter="Wall." standard_reporter="WALL." start="920" text="6 Wall. 355, 358" volume="6"/>
+<citation id="c30" end="956" entry_type="case_X_vs_Y" line="13" local_id="91278_28" party1="Murdock" party2="Memphis" start="938" text="Murdock v. Memphis"/>
+<NAME id="N31" end="945" local_id="91278_35" party1_of="91278_28" start="938" text="Murdock"/>
+<NAME id="N32" end="956" local_id="91278_36" party2_of="91278_28" start="949" text="Memphis"/>
+<citation id="c33" end="975" entry_type="standard_case" line="13" local_id="91278_24" page_number="590" paragraph_number="624" reporter="Wall." standard_reporter="WALL." start="958" text="20 Wall. 590, 624" volume="20"/>
+<ORGANIZATION id="O34" end="1047" local_id="91278_55" start="1034" text="Circuit Court"/>
+<date id="d35" end="1086" local_id="91278_53" start="1072" text="March 16, 1882"/>
+<ORGANIZATION id="O36" end="1156" local_id="91278_56" start="1151" text="court"/>
+<date id="d37" end="1174" local_id="91278_54" start="1157" text="November 28, 1884"/>
+<ORGANIZATION id="O38" end="1203" local_id="91278_57" start="1198" text="court"/>
+<ORGANIZATION id="O39" end="1287" local_id="91278_58" start="1274" text="Circuit Court"/>
+<ORGANIZATION id="O40" end="1338" local_id="91278_59" start="1333" text="court"/>
+<RELATION id="R41" fromID="c0" fromText="113 U.S. 215 (1885)" toID="d1" toText="1885" gram_type="infix" local_id="91278_3" relation_type="asymmetric"/>
+<RELATION id="R42" fromID="c2" fromText="CAILLOT & Another  v.  DEETKEN" toID="N3" toText="CAILLOT & Another" gram_type="infix" local_id="91278_8" relation_type="asymmetric"/>
+<RELATION id="R43" fromID="c2" fromText="CAILLOT & Another  v.  DEETKEN" toID="N4" toText="DEETKEN" gram_type="infix" local_id="91278_9" relation_type="asymmetric"/>
+<RELATION id="R44" fromID="c0" fromText="113 U.S. 215 (1885)" toID="c2" toText="CAILLOT & Another  v.  DEETKEN" gram_type="multi_line" local_id="91278_12" relation_type="equivalence"/>
+<RELATION id="R45" fromID="N11" fromText="Mr. John A. Wright" toID="L12" toText="Mr. John F. Hanna and Mr. James M. Johnston for defendant" gram_type="apposition" local_id="91278_19" relation_type="asymmetric"/>
+<RELATION id="R46" fromID="c21" fromText="6 How. 81" toID="c18" toText="Villabolos v. United States" gram_type="apposition" local_id="91278_43" relation_type="equivalence"/>
+<RELATION id="R47" fromID="c18" fromText="Villabolos v. United States" toID="N19" toText="Villabolos" gram_type="infix" local_id="91278_41" relation_type="asymmetric"/>
+<RELATION id="R48" fromID="c18" fromText="Villabolos v. United States" toID="N20" toText="United States" gram_type="infix" local_id="91278_42" relation_type="asymmetric"/>
+<RELATION id="R49" fromID="c25" fromText="3 Wall. 46" toID="c22" toText="Castro v. United States" gram_type="apposition" local_id="91278_46" relation_type="equivalence"/>
+<RELATION id="R50" fromID="c22" fromText="Castro v. United States" toID="N23" toText="Castro" gram_type="infix" local_id="91278_44" relation_type="asymmetric"/>
+<RELATION id="R51" fromID="c22" fromText="Castro v. United States" toID="N24" toText="United States" gram_type="infix" local_id="91278_45" relation_type="asymmetric"/>
+<RELATION id="R52" fromID="c29" fromText="6 Wall. 355, 358" toID="c26" toText="Mussina v. Cavasos" gram_type="apposition" local_id="91278_49" relation_type="equivalence"/>
+<RELATION id="R53" fromID="c26" fromText="Mussina v. Cavasos" toID="N27" toText="Mussina" gram_type="infix" local_id="91278_47" relation_type="asymmetric"/>
+<RELATION id="R54" fromID="c26" fromText="Mussina v. Cavasos" toID="N28" toText="Cavasos" gram_type="infix" local_id="91278_48" relation_type="asymmetric"/>
+<RELATION id="R55" fromID="c33" fromText="20 Wall. 590, 624" toID="c30" toText="Murdock v. Memphis" gram_type="apposition" local_id="91278_52" relation_type="equivalence"/>
+<RELATION id="R56" fromID="c30" fromText="Murdock v. Memphis" toID="N31" toText="Murdock" gram_type="infix" local_id="91278_50" relation_type="asymmetric"/>
+<RELATION id="R57" fromID="c30" fromText="Murdock v. Memphis" toID="N32" toText="Memphis" gram_type="infix" local_id="91278_51" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

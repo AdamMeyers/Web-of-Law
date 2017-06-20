@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[543 U.S. 1116
+    SALAS v. UNITED STATES; and TORRES-VASQUEZ v. UNITED STATES.
+    No. 03-10427.
+    Supreme Court of United States.
+    January 24, 2005.
+    
+      11
+      542 U.S. 927; Petitions for rehearing granted. Orders denying petitions for writs of certiorari vacated. Motions of petitioners for leave to proceed in forma pauperis granted. Certiorari granted, judgments vacated, and cases remanded for further consideration in light of United States v. Booker, ante, p. 220.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="13" entry_type="standard_case" line="1" local_id="141903_1" page_number="1116" reporter="U.S." standard_reporter="U.S." start="0" text="543 U.S. 1116" volume="543"/>
+<citation id="c1" end="40" entry_type="case_X_vs_Y" line="2" local_id="141903_2" party1="SALAS" party2="UNITED STATES" start="18" text="SALAS v. UNITED STATES"/>
+<NAME id="N2" end="23" local_id="141903_4" party1_of="141903_2" start="18" text="SALAS"/>
+<NAME id="N3" end="40" local_id="141903_5" party2_of="141903_2" start="27" text="UNITED STATES"/>
+<citation id="c4" end="77" entry_type="case_X_vs_Y" line="2" local_id="141903_3" party1="TORRES-VASQUEZ" party2="UNITED STATES" start="46" text="TORRES-VASQUEZ v. UNITED STATES"/>
+<NAME id="N5" end="60" local_id="141903_6" party1_of="141903_3" start="46" text="TORRES-VASQUEZ"/>
+<NAME id="N6" end="77" local_id="141903_7" party2_of="141903_3" start="64" text="UNITED STATES"/>
+<docket id="d7" end="95" entry_type="docket" line="3" local_id="141903_12" start="87" text="03-10427"/>
+<ORGANIZATION id="O8" end="131" local_id="141903_13" start="101" text="Supreme Court of United States"/>
+<date id="d9" end="153" local_id="141903_14" start="137" text="January 24, 2005"/>
+<citation id="c10" end="187" entry_type="standard_case" line="8" local_id="141903_21" page_number="927" reporter="U.S." standard_reporter="U.S." start="175" text="542 U.S. 927" volume="542"/>
+<NAME id="N11" end="198" local_id="141903_25" start="189" text="Petitions"/>
+<NAME id="N12" end="228" local_id="141903_26" start="222" text="Orders"/>
+<LEGAL_ROLE id="L13" end="302" local_id="141903_27" plural="True" start="280" text="Motions of petitioners"/>
+<NAME id="N14" end="361" local_id="141903_28" start="351" text="Certiorari"/>
+<citation id="c15" end="470" entry_type="case_X_vs_Y" line="8" local_id="141903_22" party1="United States" party2="Booker" start="447" text="United States v. Booker"/>
+<NAME id="N16" end="460" local_id="141903_23" party1_of="141903_22" start="447" text="United States"/>
+<NAME id="N17" end="470" local_id="141903_24" party2_of="141903_22" start="464" text="Booker"/>
+<RELATION id="R18" fromID="c1" fromText="SALAS v. UNITED STATES" toID="N2" toText="SALAS" gram_type="infix" local_id="141903_8" relation_type="asymmetric"/>
+<RELATION id="R19" fromID="c1" fromText="SALAS v. UNITED STATES" toID="N3" toText="UNITED STATES" gram_type="infix" local_id="141903_9" relation_type="asymmetric"/>
+<RELATION id="R20" fromID="c4" fromText="TORRES-VASQUEZ v. UNITED STATES" toID="N5" toText="TORRES-VASQUEZ" gram_type="infix" local_id="141903_10" relation_type="asymmetric"/>
+<RELATION id="R21" fromID="c4" fromText="TORRES-VASQUEZ v. UNITED STATES" toID="N6" toText="UNITED STATES" gram_type="infix" local_id="141903_11" relation_type="asymmetric"/>
+<RELATION id="R22" fromID="c0" fromText="543 U.S. 1116" toID="c4" toText="TORRES-VASQUEZ v. UNITED STATES" gram_type="multi_line" local_id="141903_18" relation_type="equivalence"/>
+<RELATION id="R23" fromID="c0" fromText="543 U.S. 1116" toID="c1" toText="SALAS v. UNITED STATES" gram_type="multi_line" local_id="141903_15" relation_type="equivalence"/>
+<RELATION id="R24" fromID="c1" fromText="SALAS v. UNITED STATES" toID="d9" toText="January 24, 2005" gram_type="multi_line" local_id="141903_17" relation_type="asymmetric"/>
+<RELATION id="R25" fromID="c1" fromText="SALAS v. UNITED STATES" toID="d7" toText="03-10427" gram_type="multi_line" local_id="141903_16" relation_type="asymmetric"/>
+<RELATION id="R26" fromID="c4" fromText="TORRES-VASQUEZ v. UNITED STATES" toID="d9" toText="January 24, 2005" gram_type="multi_line" local_id="141903_20" relation_type="asymmetric"/>
+<RELATION id="R27" fromID="c4" fromText="TORRES-VASQUEZ v. UNITED STATES" toID="d7" toText="03-10427" gram_type="multi_line" local_id="141903_19" relation_type="asymmetric"/>
+<RELATION id="R28" fromID="c15" fromText="United States v. Booker" toID="N16" toText="United States" gram_type="infix" local_id="141903_29" relation_type="asymmetric"/>
+<RELATION id="R29" fromID="c15" fromText="United States v. Booker" toID="N17" toText="Booker" gram_type="infix" local_id="141903_30" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

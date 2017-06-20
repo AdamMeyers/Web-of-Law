@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[279 U.S. 821
+    49 S. Ct. 349
+    73 L. Ed. 976
+    The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al.;  STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al.;   STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al.
+    No. 7, original.
+    No. 11, original.
+    No. 12, original.
+    Supreme Court of the United States
+    April 22, 1929
+    
+      1
+      and
+    
+    
+      2
+      Messrs. Wm. J. Morgan and Ralph M. Hoyt, both of Milwaukee, Wis., Herman L. Ekern, of Madison, Wis., C. L. Hilton, of St. Paul, Minn., E. C. Turner and C. C. Crabbe, both of Columbus, Ohio, Geo. W. Woodruff, of Philadelphia, Pa., Newton D. Baker, of Cleveland, Ohio, John W. Reynolds, of Madison, Wis., R. T. Jackson, of Mineral Point, Wis., G. A. Youngquist, of St. Paul, Minn., for the State of Wisconsin and others.
+    
+    
+      3
+      Messrs. Edw. J. Brundage, Wm. F. Mulvihill, Morton S. Cressy, Edmond D. Adcock, Oscar E. Carlstrom, H. A. Brouillet, Jas. Hamilton Lewis, Geo. F. Barrett, and Louis J. Behan, all of Chicago, Ill., J. T. Kenworthy and Cyrus E. Dietz, both of Rock Island, Ill., Hugh S. Johnson, of Springfield, Ill., Maclay Hoyne, of Chicago, Ill., and James M. Beck, of Washington, D. C., for the State of Illinois and others.
+    
+    
+      4
+      Messrs. Wilber M. Brucker, Atty. Gen., A. B. Dougherty, William W. Potter, and Arthur E. Kidder, all of Lansing, Mich., for the State of Michigan.
+    
+    
+      5
+      Messrs. Hamilton Ward, Atty. Gen., of New York City, Albert J. Danaher, Asst. Atty. Gen., of Albany, N. Y., Albert Ottinger, of New York City, R. J. Le Boeuf, Jr., of Albany, N. Y., and Nathan L. Miller, of New York City, for the State of New York.
+    
+    
+      6
+      Messrs. North T. Gentry, of Columbia, Mo., Daniel N. Kirby, of St. Louis, Mo., and Cornelius Lynde, of Chicago, Ill., for intervener State of Missouri.
+    
+    
+      7
+      Mr. F. M. Thompson, of Nashville, Tenn., for intervener State of Tennessee.
+    
+    
+      8
+      Mr. F. E. Daugherty, of Louisville, Ky., for intervener State of Kentucky.
+    
+    
+      9
+      Mr. Percy Saint, of New Orleans, La., for intervener State of Louisiana.
+    
+    
+      10
+      Mr. H. W. Applegate, of Little Rock, Ark., for intervener State of Arkansas.
+    
+    
+      11
+      Mr. Rush H. Knox, of Jackson, Miss., for intervener State of Mississippi.
+    
+    
+      12
+      Motion of the City of Chicago for leave to intervene denied.
+    
+    ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="101464_1" page_number="821" reporter="U.S." standard_reporter="U.S." start="0" text="279 U.S. 821" volume="279"/>
+<citation id="c1" end="30" entry_type="standard_case" line="2" local_id="101464_2" page_number="349" reporter="S. Ct." standard_reporter="S.CT." start="17" text="49 S. Ct. 349" volume="49"/>
+<citation id="c2" end="48" entry_type="standard_case" line="3" local_id="101464_3" page_number="976" reporter="L. Ed." standard_reporter="L.ED." start="35" text="73 L. Ed. 976" volume="73"/>
+<citation id="c3" end="128" entry_type="case_X_vs_Y" line="4" local_id="101464_4" party1="The STATE OF WISCONSIN et al.," party1_role="complainants" party2="The STATE OF ILLINOIS et al" start="53" text="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al"/>
+<NAME id="N4" end="83" local_id="101464_7" party1_of="101464_4" start="53" text="The STATE OF WISCONSIN et al.,"/>
+<LEGAL_ROLE id="L5" end="96" local_id="101464_9" start="84" text="complainants"/>
+<NAME id="N6" end="128" local_id="101464_8" party2_of="101464_4" start="101" text="The STATE OF ILLINOIS et al"/>
+<citation id="c7" end="196" entry_type="case_X_vs_Y" line="4" local_id="101464_5" party1="STATE OF MICHIGAN," party1_role="complainant" party2="The STATE OF ILLINOIS et al" start="132" text="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al"/>
+<NAME id="N8" end="150" local_id="101464_10" party1_of="101464_5" start="132" text="STATE OF MICHIGAN,"/>
+<LEGAL_ROLE id="L9" end="162" local_id="101464_12" start="151" text="complainant"/>
+<NAME id="N10" end="196" local_id="101464_11" party2_of="101464_5" start="169" text="The STATE OF ILLINOIS et al"/>
+<citation id="c11" end="261" entry_type="case_X_vs_Y" line="4" local_id="101464_6" party1="STATE OF NEW YORK," party1_role="complainant" party2="STATE OF ILLINOIS et al" start="201" text="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al"/>
+<NAME id="N12" end="219" local_id="101464_13" party1_of="101464_6" start="201" text="STATE OF NEW YORK,"/>
+<LEGAL_ROLE id="L13" end="231" local_id="101464_15" start="220" text="complainant"/>
+<NAME id="N14" end="261" local_id="101464_14" party2_of="101464_6" start="238" text="STATE OF ILLINOIS et al"/>
+<ORGANIZATION id="O15" end="366" local_id="101464_31" start="332" text="Supreme Court of the United States"/>
+<date id="d16" end="385" local_id="101464_32" start="371" text="April 22, 1929"/>
+<NAME id="N17" end="443" local_id="101464_33" start="433" text="Messrs. Wm"/>
+<NAME id="N18" end="472" local_id="101464_34" start="445" text="J. Morgan and Ralph M. Hoyt"/>
+<NAME id="N19" end="496" local_id="101464_35" start="482" text="Milwaukee, Wis"/>
+<NAME id="N20" end="514" local_id="101464_36" start="499" text="Herman L. Ekern"/>
+<NAME id="N21" end="531" local_id="101464_37" start="519" text="Madison, Wis"/>
+<NAME id="N22" end="546" local_id="101464_38" start="534" text="C. L. Hilton"/>
+<NAME id="N23" end="553" local_id="101464_39" start="551" text="St"/>
+<NAME id="N24" end="887" local_id="101464_40" start="876" text="Messrs. Edw"/>
+<NAME id="N25" end="904" local_id="101464_41" start="889" text="J. Brundage, Wm"/>
+<NAME id="N26" end="918" local_id="101464_42" start="906" text="F. Mulvihill"/>
+<NAME id="N27" end="936" local_id="101464_43" start="920" text="Morton S. Cressy"/>
+<NAME id="N28" end="954" local_id="101464_44" start="938" text="Edmond D. Adcock"/>
+<NAME id="N29" end="974" local_id="101464_45" start="956" text="Oscar E. Carlstrom"/>
+<NAME id="N30" end="996" local_id="101464_46" start="976" text="H. A. Brouillet, Jas"/>
+<NAME id="N31" end="1017" local_id="101464_47" start="998" text="Hamilton Lewis, Geo"/>
+<NAME id="N32" end="1029" local_id="101464_48" start="1019" text="F. Barrett"/>
+<NAME id="N33" end="1049" local_id="101464_49" start="1035" text="Louis J. Behan"/>
+<NAME id="N34" end="1070" local_id="101464_50" start="1058" text="Chicago, Ill"/>
+<NAME id="N35" end="1107" local_id="101464_51" start="1073" text="J. T. Kenworthy and Cyrus E. Dietz"/>
+<NAME id="N36" end="1133" local_id="101464_52" start="1117" text="Rock Island, Ill"/>
+<NAME id="N37" end="1151" local_id="101464_53" start="1136" text="Hugh S. Johnson"/>
+<NAME id="N38" end="1172" local_id="101464_54" start="1156" text="Springfield, Ill"/>
+<NAME id="N39" end="1187" local_id="101464_55" start="1175" text="Maclay Hoyne"/>
+<NAME id="N40" end="1204" local_id="101464_56" start="1192" text="Chicago, Ill"/>
+<NAME id="N41" end="1224" local_id="101464_57" start="1211" text="James M. Beck"/>
+<NAME id="N42" end="1239" local_id="101464_58" start="1229" text="Washington"/>
+<NAME id="N43" end="1245" local_id="101464_59" start="1241" text="D. C"/>
+<NAME id="N44" end="1273" local_id="101464_60" start="1256" text="State of Illinois"/>
+<NAME id="N45" end="1335" local_id="101464_61" start="1310" text="Messrs. Wilber M. Brucker"/>
+<PROFESSION id="P46" end="1346" local_id="101464_62" start="1337" text="Atty. Gen"/>
+<NAME id="N47" end="1364" local_id="101464_63" start="1352" text="B. Dougherty"/>
+<NAME id="N48" end="1383" local_id="101464_64" start="1366" text="William W. Potter"/>
+<NAME id="N49" end="1405" local_id="101464_65" start="1389" text="Arthur E. Kidder"/>
+<NAME id="N50" end="1427" local_id="101464_66" start="1414" text="Lansing, Mich"/>
+<NAME id="N51" end="1455" local_id="101464_67" start="1438" text="State of Michigan"/>
+<NAME id="N52" end="1502" local_id="101464_69" start="1481" text="Messrs. Hamilton Ward"/>
+<PROFESSION id="P53" end="1513" local_id="101464_70" start="1504" text="Atty. Gen"/>
+<NAME id="N54" end="1532" local_id="101464_71" start="1519" text="New York City"/>
+<NAME id="N55" end="1551" local_id="101464_72" start="1534" text="Albert J. Danaher"/>
+<PROFESSION id="P56" end="1568" local_id="101464_73" start="1553" text="Asst. Atty. Gen"/>
+<NAME id="N57" end="1580" local_id="101464_74" start="1574" text="Albany"/>
+<NAME id="N58" end="1586" local_id="101464_75" start="1582" text="N. Y"/>
+<NAME id="N59" end="1604" local_id="101464_76" start="1589" text="Albert Ottinger"/>
+<NAME id="N60" end="1622" local_id="101464_77" start="1609" text="New York City"/>
+<NAME id="N61" end="1642" local_id="101464_78" start="1624" text="R. J. Le Boeuf, Jr"/>
+<NAME id="N62" end="1654" local_id="101464_79" start="1648" text="Albany"/>
+<NAME id="N63" end="1660" local_id="101464_80" start="1656" text="N. Y"/>
+<NAME id="N64" end="1683" local_id="101464_81" start="1667" text="Nathan L. Miller"/>
+<NAME id="N65" end="1701" local_id="101464_82" start="1688" text="New York City"/>
+<NAME id="N66" end="1728" local_id="101464_83" start="1711" text="State of New York"/>
+<NAME id="N67" end="1777" local_id="101464_87" start="1754" text="Messrs. North T. Gentry"/>
+<NAME id="N68" end="1794" local_id="101464_88" start="1782" text="Columbia, Mo"/>
+<NAME id="N69" end="1812" local_id="101464_89" start="1797" text="Daniel N. Kirby"/>
+<NAME id="N70" end="1819" local_id="101464_90" start="1817" text="St"/>
+<NAME id="N71" end="1948" local_id="101464_91" start="1930" text="Mr. F. M. Thompson"/>
+<NAME id="N72" end="1968" local_id="101464_92" start="1953" text="Nashville, Tenn"/>
+<NAME id="N73" end="2004" local_id="101464_93" start="1986" text="State of Tennessee"/>
+<NAME id="N74" end="2049" local_id="101464_94" start="2030" text="Mr. F. E. Daugherty"/>
+<NAME id="N75" end="2068" local_id="101464_95" start="2054" text="Louisville, Ky"/>
+<NAME id="N76" end="2103" local_id="101464_96" start="2086" text="State of Kentucky"/>
+<NAME id="N77" end="2144" local_id="101464_97" start="2129" text="Mr. Percy Saint"/>
+<NAME id="N78" end="2160" local_id="101464_98" start="2149" text="New Orleans"/>
+<NAME id="N79" end="2200" local_id="101464_99" start="2182" text="State of Louisiana"/>
+<NAME id="N80" end="2246" local_id="101464_100" start="2227" text="Mr. H. W. Applegate"/>
+<NAME id="N81" end="2267" local_id="101464_101" start="2251" text="Little Rock, Ark"/>
+<NAME id="N82" end="2302" local_id="101464_102" start="2285" text="State of Arkansas"/>
+<NAME id="N83" end="2345" local_id="101464_103" start="2329" text="Mr. Rush H. Knox"/>
+<NAME id="N84" end="2363" local_id="101464_104" start="2350" text="Jackson, Miss"/>
+<NAME id="N85" end="2401" local_id="101464_105" start="2381" text="State of Mississippi"/>
+<NAME id="N86" end="2457" local_id="101464_106" start="2428" text="Motion of the City of Chicago"/>
+<RELATION id="R100" fromID="c2" fromText="73 L. Ed. 976" toID="c7" toText="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_27" relation_type="equivalence"/>
+<RELATION id="R101" fromID="c2" fromText="73 L. Ed. 976" toID="c3" toText="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_24" relation_type="equivalence"/>
+<RELATION id="R102" fromID="N45" fromText="Messrs. Wilber M. Brucker" toID="P46" toText="Atty. Gen" gram_type="apposition" local_id="101464_68" relation_type="asymmetric"/>
+<RELATION id="R103" fromID="N52" fromText="Messrs. Hamilton Ward" toID="P53" toText="Atty. Gen" gram_type="apposition" local_id="101464_84" relation_type="asymmetric"/>
+<RELATION id="R104" fromID="N54" fromText="New York City" toID="P56" toText="Asst. Atty. Gen" gram_type="apposition" local_id="101464_86" relation_type="asymmetric"/>
+<RELATION id="R105" fromID="N55" fromText="Albert J. Danaher" toID="P56" toText="Asst. Atty. Gen" gram_type="apposition" local_id="101464_85" relation_type="asymmetric"/>
+<RELATION id="R87" fromID="c3" fromText="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" toID="N4" toText="The STATE OF WISCONSIN et al.," gram_type="infix" local_id="101464_16" relation_type="asymmetric"/>
+<RELATION id="R88" fromID="c3" fromText="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" toID="N6" toText="The STATE OF ILLINOIS et al" gram_type="infix" local_id="101464_17" relation_type="asymmetric"/>
+<RELATION id="R89" fromID="c7" fromText="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" toID="N8" toText="STATE OF MICHIGAN," gram_type="infix" local_id="101464_18" relation_type="asymmetric"/>
+<RELATION id="R90" fromID="c7" fromText="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" toID="N10" toText="The STATE OF ILLINOIS et al" gram_type="infix" local_id="101464_19" relation_type="asymmetric"/>
+<RELATION id="R91" fromID="c11" fromText="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" toID="N12" toText="STATE OF NEW YORK," gram_type="infix" local_id="101464_20" relation_type="asymmetric"/>
+<RELATION id="R92" fromID="c11" fromText="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" toID="N14" toText="STATE OF ILLINOIS et al" gram_type="infix" local_id="101464_21" relation_type="asymmetric"/>
+<RELATION id="R93" fromID="c0" fromText="279 U.S. 821" toID="c11" toText="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_28" relation_type="equivalence"/>
+<RELATION id="R94" fromID="c0" fromText="279 U.S. 821" toID="c7" toText="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_25" relation_type="equivalence"/>
+<RELATION id="R95" fromID="c0" fromText="279 U.S. 821" toID="c3" toText="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_22" relation_type="equivalence"/>
+<RELATION id="R96" fromID="c1" fromText="49 S. Ct. 349" toID="c11" toText="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_29" relation_type="equivalence"/>
+<RELATION id="R97" fromID="c1" fromText="49 S. Ct. 349" toID="c7" toText="STATE OF MICHIGAN, complainant,  v.  The STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_26" relation_type="equivalence"/>
+<RELATION id="R98" fromID="c1" fromText="49 S. Ct. 349" toID="c3" toText="The STATE OF WISCONSIN et al., complainants, v. The STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_23" relation_type="equivalence"/>
+<RELATION id="R99" fromID="c2" fromText="73 L. Ed. 976" toID="c11" toText="STATE OF NEW YORK, complainant.  v.  STATE OF ILLINOIS et al" gram_type="multi_line" local_id="101464_30" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[510 U.S. 1045     Shu Yan Eng, aka Ah Shu v. United States.     No. 93-740.     Supreme Court of United States.     January 10, 1994.            11       Appeal from the C. A. 2d Cir.          
+      22
+      Certiorari denied. Reported below: 997 F. 2d 987.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="13" entry_type="standard_case" line="1" local_id="115983_1" page_number="1045" reporter="U.S." standard_reporter="U.S." start="0" text="510 U.S. 1045" volume="510"/>
+<citation id="c1" end="58" entry_type="case_X_vs_Y" line="1" local_id="115983_3" party1="Shu Yan Eng, aka Ah Shu" party2="United States" start="18" text="Shu Yan Eng, aka Ah Shu v. United States"/>
+<NAME id="N2" end="41" local_id="115983_4" party1_of="115983_3" start="18" text="Shu Yan Eng, aka Ah Shu"/>
+<NAME id="N3" end="29" local_id="115983_7" start="18" text="Shu Yan Eng"/>
+<NAME id="N4" end="58" local_id="115983_5" party2_of="115983_3" start="45" text="United States"/>
+<docket id="d5" end="74" entry_type="docket" line="1" local_id="115983_2" start="68" text="93-740"/>
+<date id="d6" end="132" local_id="115983_6" start="116" text="January 10, 1994"/>
+<NAME id="N7" end="219" local_id="115983_14" start="209" text="Certiorari"/>
+<citation id="c8" end="257" entry_type="standard_case" line="3" local_id="115983_13" page_number="987" reporter="F. 2d" standard_reporter="F.2D" start="244" text="997 F. 2d 987" volume="997"/>
+<RELATION id="R10" fromID="c0" fromText="510 U.S. 1045" toID="c1" toText="Shu Yan Eng, aka Ah Shu v. United States" gram_type="pre_nom" local_id="115983_8" relation_type="equivalence"/>
+<RELATION id="R11" fromID="c1" fromText="Shu Yan Eng, aka Ah Shu v. United States" toID="d5" toText="93-740" gram_type="apposition" local_id="115983_11" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c1" fromText="Shu Yan Eng, aka Ah Shu v. United States" toID="N4" toText="United States" gram_type="infix" local_id="115983_10" relation_type="asymmetric"/>
+<RELATION id="R13" fromID="c1" fromText="Shu Yan Eng, aka Ah Shu v. United States" toID="N2" toText="Shu Yan Eng, aka Ah Shu" gram_type="infix" local_id="115983_9" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c0" fromText="510 U.S. 1045" toID="d5" toText="93-740" gram_type="apposition" local_id="115983_12" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

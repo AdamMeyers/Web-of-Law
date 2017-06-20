@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[214 U.S. 490
+    29 S. Ct. 695
+    53 L. Ed. 1057
+    EX PARTE: IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner.
+    No. ___, Original.
+    Supreme Court of the United States
+    April 12, 1909
+    
+      Mr. Charles W. Stapleton for petitioner.
+    
+    
+      11
+      Denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="97071_1" page_number="490" reporter="U.S." standard_reporter="U.S." start="0" text="214 U.S. 490" volume="214"/>
+<citation id="c1" end="30" entry_type="standard_case" line="2" local_id="97071_2" page_number="695" reporter="S. Ct." standard_reporter="S.CT." start="17" text="29 S. Ct. 695" volume="29"/>
+<citation id="c2" end="49" entry_type="standard_case" line="3" local_id="97071_3" page_number="1057" reporter="L. Ed." standard_reporter="L.ED." start="35" text="53 L. Ed. 1057" volume="53"/>
+<NAME id="N3" end="62" local_id="97071_5" start="54" text="EX PARTE"/>
+<citation id="c4" end="130" entry_type="case_citation_other" line="4" local_id="97071_4" name="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY" party1=" THE CONSOLIDATED RUBBER TIRE  COMPANY" party1_role="Petitioner" start="64" text="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner"/>
+<LEGAL_ROLE id="L5" end="130" local_id="97071_6" start="71" text="MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner"/>
+<NAME id="N6" end="153" local_id="97071_7" start="145" text="Original"/>
+<ORGANIZATION id="O7" end="193" local_id="97071_8" start="159" text="Supreme Court of the United States"/>
+<date id="d8" end="212" local_id="97071_9" start="198" text="April 12, 1909"/>
+<LEGAL_ROLE id="L9" end="263" local_id="97071_14" start="224" text="Mr. Charles W. Stapleton for petitioner"/>
+<RELATION id="R10" fromID="c0" fromText="214 U.S. 490" toID="c4" toText="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" gram_type="multi_line" local_id="97071_10" relation_type="equivalence"/>
+<RELATION id="R11" fromID="c1" fromText="29 S. Ct. 695" toID="c4" toText="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" gram_type="multi_line" local_id="97071_11" relation_type="equivalence"/>
+<RELATION id="R12" fromID="c2" fromText="53 L. Ed. 1057" toID="c4" toText="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" gram_type="multi_line" local_id="97071_12" relation_type="equivalence"/>
+<RELATION id="R13" fromID="c4" fromText="IN THE MATTER OF THE CONSOLIDATED RUBBER TIRE  COMPANY, Petitioner" toID="d8" toText="April 12, 1909" gram_type="multi_line" local_id="97071_13" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

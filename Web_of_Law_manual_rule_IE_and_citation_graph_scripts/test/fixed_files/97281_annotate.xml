@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+218 U.S. 124 (1910)
+DOZIER 
+v. 
+STATE OF ALABAMA.
+No. 105.
+Supreme Court of United States.
+Submitted January 25, 1910.
+Decided May 31, 1910.
+ERROR TO THE SUPREME COURT OF THE STATE OF ALABAMA.
+Mr. A.D. Gash for plaintiff in error.
+Mr. Alexander M. Garber, Attorney General of the State *126 of Alabama, and Mr. Thomas W. Martin for defendant in error.
+*125 MR. JUSTICE HOLMES delivered the opinion of the court.
+The plaintiff in error was convicted and sentenced to a fine on a complaint for breach of an Alabama statute of *127 March 7, 1907. By § 17 of that act a license tax was imposed on persons who did not have a permanent place of business in the State and also keep picture frames as a part of their stock in trade, if they solicited orders for the enlargement of photographs or pictures of any character, or for picture frames, whether they made charge for such frames or not, or if they sold or disposed of picture frames. The Chicago Crayon Company, having its only place of business in Chicago and being engaged in the business of making and enlarging portraits from photographs and in the manufacturing of picture frames, solicited orders in Alabama without paying the license tax. These orders were given in writing for a portrait of the size and kind wanted, specified the price, cash on delivery, and continued, "I understand that my portrait is to be delivered in an appropriate frame which this contract entitles me to accept at factory price." The agent of the company gave back a written acceptance, repeating the other terms of the bargain and adding, "all portraits are delivered in appropriate frames, which this contract entitled the purchaser to accept at factory prices," with particulars purporting to show that these prices were from one-third to one-half the retail or usual ones. The plaintiff in error, who also had no permanent place of business in Alabama and had paid no license tax, was an agent of the company who delivered pictures and frames and collected for them in pursuance of the agreed plan. The pictures and frames were sent to the agent and remained the property of the company until paid for and delivered. On these facts the Supreme Court of Alabama, while admitting that the dealings concerning the pictures were commerce among the States, sustained the conviction on the ground that the sale of the frames was a wholly local matter. 154 Alabama, 83.
+No doubt it is true that the customer was not bound to take the frame unless he saw fit, and that the sale of it *128 took place wholly within the State of Alabama, if a sale was made. But as was hinted in Rearick v. Pennsylvania, 203 U.S. 507, 512, what is commerce among the States is a question depending upon broader considerations than the existence of a technically binding contract, or the time and place where the title passed. It was agreed that the frame should be offered along with the picture. The offer was a part of the interstate bargain, and as it was agreed that the frame should be offered 'at factory prices,' and the company and factory were in Chicago, obviously it was contemplated if not agreed that the frame should come on with the picture. In fact the frames were sent on with the pictures from Chicago, and were offered when the pictures were tendered, as part of a transaction commercially continuous and one, at prices generically fixed by the contract for the pictures, and by that contract represented to be less than retail or usual prices, in consideration, it is implied, of the purchase already agreed to be made. We are of opinion that the sale of the frames cannot be so separated from the rest of the dealing between the Chicago company and the Alabama purchaser as to sustain the license tax upon it. Under the decisions the statute as applied to this case is a regulation of commerce among the States, and void under the Constitution of the United States. Art. I, § 8. Robbins v. Shelby County Taxing District, 120 U.S. 489. Caldwell v. North Carolina, 187 U.S. 622. Rearick v. Pennsylvania, 203 U.S. 507.
+Judgment reversed.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="97281_1" page_number="124" reporter="U.S." standard_reporter="U.S." start="1" text="218 U.S. 124 (1910)" volume="218" year="1910"/>
+<date id="d1" end="19" local_id="97281_2" start="15" text="1910"/>
+<citation id="c2" end="49" entry_type="case_X_vs_Y" line="5" local_id="97281_5" party1="DOZIER" party2="STATE OF ALABAMA" start="21" text="DOZIER  v.  STATE OF ALABAMA"/>
+<NAME id="N3" end="27" local_id="97281_6" party1_of="97281_5" start="21" text="DOZIER"/>
+<NAME id="N4" end="49" local_id="97281_7" party2_of="97281_5" start="33" text="STATE OF ALABAMA"/>
+<ORGANIZATION id="O5" end="90" local_id="97281_11" start="60" text="Supreme Court of United States"/>
+<date id="d6" end="118" local_id="97281_12" start="102" text="January 25, 1910"/>
+<NAME id="N7" end="127" local_id="97281_14" start="120" text="Decided"/>
+<date id="d8" end="140" local_id="97281_13" start="128" text="May 31, 1910"/>
+<ORGANIZATION id="O9" end="192" local_id="97281_15" start="142" text="ERROR TO THE SUPREME COURT OF THE STATE OF ALABAMA"/>
+<LEGAL_ROLE id="L10" end="221" local_id="97281_16" start="194" text="Mr. A.D. Gash for plaintiff"/>
+<NAME id="N11" end="255" local_id="97281_17" start="232" text="Mr. Alexander M. Garber"/>
+<PROFESSION id="P12" end="302" local_id="97281_18" start="257" text="Attorney General of the State *126 of Alabama"/>
+<LEGAL_ROLE id="L13" end="342" local_id="97281_19" start="308" text="Mr. Thomas W. Martin for defendant"/>
+<NAME id="N14" end="360" local_id="97281_21" start="358" text="MR"/>
+<LEGAL_ROLE id="L15" end="426" local_id="97281_23" start="417" text="plaintiff"/>
+<NAME id="N16" end="513" local_id="97281_24" start="506" text="Alabama"/>
+<date id="d17" end="543" local_id="97281_22" start="530" text="March 7, 1907"/>
+<NAME id="N18" end="661" local_id="97281_25" start="656" text="State"/>
+<ORGANIZATION id="O19" end="961" local_id="97281_26" start="939" text="Chicago Crayon Company"/>
+<NAME id="N20" end="1007" local_id="97281_27" start="1000" text="Chicago"/>
+<NAME id="N21" end="1164" local_id="97281_28" start="1157" text="Alabama"/>
+<quote id="q73" end="1464" local_id="2411" start="1330" text="«I understand that my portrait is to be delivered in an appropriate frame which this contract entitles me to accept at factory price.«"/>
+<ORGANIZATION id="O22" end="1489" local_id="97281_29" start="1469" text="agent of the company"/>
+<quote id="q74" end="1699" local_id="2412" start="1575" text="«all portraits are delivered in appropriate frames, which this contract entitled the purchaser to accept at factory prices,«"/>
+<LEGAL_ROLE id="L23" end="1825" local_id="97281_30" start="1816" text="plaintiff"/>
+<NAME id="N24" end="1890" local_id="97281_31" start="1883" text="Alabama"/>
+<ORGANIZATION id="O25" end="1947" local_id="97281_32" start="1927" text="agent of the company"/>
+<PROFESSION id="P26" end="2084" local_id="97281_33" start="2079" text="agent"/>
+<ORGANIZATION id="O27" end="2125" local_id="97281_34" start="2118" text="company"/>
+<ORGANIZATION id="O28" end="2199" local_id="97281_35" start="2175" text="Supreme Court of Alabama"/>
+<NAME id="N29" end="2289" local_id="97281_36" start="2283" text="States"/>
+<NAME id="N30" end="2396" local_id="97281_37" start="2389" text="Alabama"/>
+<NAME id="N31" end="2565" local_id="97281_54" start="2549" text="State of Alabama"/>
+<citation id="c32" end="2631" entry_type="case_X_vs_Y" line="15" local_id="97281_42" party1="Rearick" party2="Pennsylvania" start="2608" text="Rearick v. Pennsylvania"/>
+<NAME id="N33" end="2615" local_id="97281_46" party1_of="97281_42" start="2608" text="Rearick"/>
+<NAME id="N34" end="2631" local_id="97281_47" party2_of="97281_42" start="2619" text="Pennsylvania"/>
+<citation id="c35" end="2650" entry_type="standard_case" line="15" local_id="97281_38" page_number="507" paragraph_number="512" reporter="U.S." standard_reporter="U.S." start="2633" text="203 U.S. 507, 512" volume="203"/>
+<NAME id="N36" end="2685" local_id="97281_55" start="2679" text="States"/>
+<ORGANIZATION id="O37" end="3047" local_id="97281_56" start="3040" text="company"/>
+<NAME id="N38" end="3075" local_id="97281_57" start="3068" text="Chicago"/>
+<NAME id="N39" end="3231" local_id="97281_58" start="3224" text="Chicago"/>
+<ORGANIZATION id="O40" end="3693" local_id="97281_59" start="3662" text="Chicago company and the Alabama"/>
+<NAME id="N41" end="3843" local_id="97281_60" start="3837" text="States"/>
+<NAME id="N42" end="3905" local_id="97281_61" start="3864" text="Constitution of the United States. Art. I"/>
+<citation id="c43" end="3952" entry_type="case_X_vs_Y" line="15" local_id="97281_43" party1="Robbins" party2="Shelby County Taxing District" start="3912" text="Robbins v. Shelby County Taxing District"/>
+<NAME id="N44" end="3919" local_id="97281_48" party1_of="97281_43" start="3912" text="Robbins"/>
+<NAME id="N45" end="3952" local_id="97281_49" party2_of="97281_43" start="3923" text="Shelby County Taxing District"/>
+<citation id="c46" end="3966" entry_type="standard_case" line="15" local_id="97281_39" page_number="489" reporter="U.S." standard_reporter="U.S." start="3954" text="120 U.S. 489" volume="120"/>
+<citation id="c47" end="3994" entry_type="case_X_vs_Y" line="15" local_id="97281_44" party1="Caldwell" party2="North Carolina" start="3968" text="Caldwell v. North Carolina"/>
+<NAME id="N48" end="3976" local_id="97281_50" party1_of="97281_44" start="3968" text="Caldwell"/>
+<NAME id="N49" end="3994" local_id="97281_51" party2_of="97281_44" start="3980" text="North Carolina"/>
+<citation id="c50" end="4008" entry_type="standard_case" line="15" local_id="97281_40" page_number="622" reporter="U.S." standard_reporter="U.S." start="3996" text="187 U.S. 622" volume="187"/>
+<citation id="c51" end="4033" entry_type="case_X_vs_Y" line="15" local_id="97281_45" party1="Rearick" party2="Pennsylvania" start="4010" text="Rearick v. Pennsylvania"/>
+<NAME id="N52" end="4017" local_id="97281_52" party1_of="97281_45" start="4010" text="Rearick"/>
+<NAME id="N53" end="4033" local_id="97281_53" party2_of="97281_45" start="4021" text="Pennsylvania"/>
+<citation id="c54" end="4047" entry_type="standard_case" line="15" local_id="97281_41" page_number="507" reporter="U.S." standard_reporter="U.S." start="4035" text="203 U.S. 507" volume="203"/>
+<NAME id="N55" end="4057" local_id="97281_74" start="4049" text="Judgment"/>
+<RELATION id="R56" fromID="c0" fromText="218 U.S. 124 (1910)" toID="d1" toText="1910" gram_type="infix" local_id="97281_3" relation_type="asymmetric"/>
+<RELATION id="R57" fromID="c2" fromText="DOZIER  v.  STATE OF ALABAMA" toID="N3" toText="DOZIER" gram_type="infix" local_id="97281_8" relation_type="asymmetric"/>
+<RELATION id="R58" fromID="c2" fromText="DOZIER  v.  STATE OF ALABAMA" toID="N4" toText="STATE OF ALABAMA" gram_type="infix" local_id="97281_9" relation_type="asymmetric"/>
+<RELATION id="R59" fromID="c0" fromText="218 U.S. 124 (1910)" toID="c2" toText="DOZIER  v.  STATE OF ALABAMA" gram_type="multi_line" local_id="97281_10" relation_type="equivalence"/>
+<RELATION id="R60" fromID="N11" fromText="Mr. Alexander M. Garber" toID="P12" toText="Attorney General of the State *126 of Alabama" gram_type="apposition" local_id="97281_20" relation_type="asymmetric"/>
+<RELATION id="R61" fromID="c35" fromText="203 U.S. 507, 512" toID="c32" toText="Rearick v. Pennsylvania" gram_type="apposition" local_id="97281_64" relation_type="equivalence"/>
+<RELATION id="R62" fromID="c32" fromText="Rearick v. Pennsylvania" toID="N33" toText="Rearick" gram_type="infix" local_id="97281_62" relation_type="asymmetric"/>
+<RELATION id="R63" fromID="c32" fromText="Rearick v. Pennsylvania" toID="N34" toText="Pennsylvania" gram_type="infix" local_id="97281_63" relation_type="asymmetric"/>
+<RELATION id="R64" fromID="c46" fromText="120 U.S. 489" toID="c43" toText="Robbins v. Shelby County Taxing District" gram_type="apposition" local_id="97281_67" relation_type="equivalence"/>
+<RELATION id="R65" fromID="c43" fromText="Robbins v. Shelby County Taxing District" toID="N44" toText="Robbins" gram_type="infix" local_id="97281_65" relation_type="asymmetric"/>
+<RELATION id="R66" fromID="c43" fromText="Robbins v. Shelby County Taxing District" toID="N45" toText="Shelby County Taxing District" gram_type="infix" local_id="97281_66" relation_type="asymmetric"/>
+<RELATION id="R67" fromID="c50" fromText="187 U.S. 622" toID="c47" toText="Caldwell v. North Carolina" gram_type="apposition" local_id="97281_70" relation_type="equivalence"/>
+<RELATION id="R68" fromID="c47" fromText="Caldwell v. North Carolina" toID="N48" toText="Caldwell" gram_type="infix" local_id="97281_68" relation_type="asymmetric"/>
+<RELATION id="R69" fromID="c47" fromText="Caldwell v. North Carolina" toID="N49" toText="North Carolina" gram_type="infix" local_id="97281_69" relation_type="asymmetric"/>
+<RELATION id="R70" fromID="c54" fromText="203 U.S. 507" toID="c51" toText="Rearick v. Pennsylvania" gram_type="apposition" local_id="97281_73" relation_type="equivalence"/>
+<RELATION id="R71" fromID="c51" fromText="Rearick v. Pennsylvania" toID="N52" toText="Rearick" gram_type="infix" local_id="97281_71" relation_type="asymmetric"/>
+<RELATION id="R72" fromID="c51" fromText="Rearick v. Pennsylvania" toID="N53" toText="Pennsylvania" gram_type="infix" local_id="97281_72" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[535 U.S. 925
+    M. C. v. E. E.
+    No. 01-7835.
+    Supreme Court of the United States.
+    March 18, 2002.
+    
+      11
+      Ct. Civ. App. Ala. Motions of petitioners for leave to proceed in forma pauperis denied. Petitioners are allowed until April 8, 2002, within which to pay the docketing fees required by Rule 38(a) and to submit petitions in compliance with Rule 33.1 of the Rules of this Court.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="118659_1" page_number="925" reporter="U.S." standard_reporter="U.S." start="0" text="535 U.S. 925" volume="535"/>
+<citation id="c1" end="30" entry_type="case_X_vs_Y" line="2" local_id="118659_2" party1="M. C." party2="E. E" start="17" text="M. C. v. E. E"/>
+<NAME id="N2" end="22" local_id="118659_3" party1_of="118659_2" start="17" text="M. C."/>
+<NAME id="N3" end="30" local_id="118659_4" party2_of="118659_2" start="26" text="E. E"/>
+<docket id="d4" end="47" entry_type="docket" line="3" local_id="118659_7" start="40" text="01-7835"/>
+<date id="d5" end="107" local_id="118659_8" start="93" text="March 18, 2002"/>
+<NAME id="N6" end="131" local_id="118659_13" start="129" text="Ct"/>
+<date id="d7" end="261" local_id="118659_12" start="248" text="April 8, 2002"/>
+<RELATION id="R10" fromID="c0" fromText="535 U.S. 925" toID="c1" toText="M. C. v. E. E" gram_type="multi_line" local_id="118659_9" relation_type="equivalence"/>
+<RELATION id="R11" fromID="c1" fromText="M. C. v. E. E" toID="d5" toText="March 18, 2002" gram_type="multi_line" local_id="118659_11" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c1" fromText="M. C. v. E. E" toID="d4" toText="01-7835" gram_type="multi_line" local_id="118659_10" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c1" fromText="M. C. v. E. E" toID="N2" toText="M. C." gram_type="infix" local_id="118659_5" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c1" fromText="M. C. v. E. E" toID="N3" toText="E. E" gram_type="infix" local_id="118659_6" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

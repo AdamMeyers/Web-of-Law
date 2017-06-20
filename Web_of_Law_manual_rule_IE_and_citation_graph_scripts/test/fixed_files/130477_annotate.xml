@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[539 U.S. 927     Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al.     No. 02-1519.     Supreme Court of United States.     June 16, 2003.            11       Appeal from the C. A. 5th Cir.          
+      22
+      Certiorari denied. Reported below: 58 Fed. Appx. 596.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="130477_1" page_number="927" reporter="U.S." standard_reporter="U.S." start="0" text="539 U.S. 927" volume="539"/>
+<citation id="c1" end="91" entry_type="case_X_vs_Y" line="1" local_id="130477_3" party1="Moss et ux., on Behalf of Their Minor Child, Moss, et al." party2="Carrier et al" start="17" text="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al"/>
+<NAME id="N2" end="74" local_id="130477_4" party1_of="130477_3" start="17" text="Moss et ux., on Behalf of Their Minor Child, Moss, et al."/>
+<NAME id="N3" end="21" local_id="130477_7" start="17" text="Moss"/>
+<FAMILY id="F4" end="60" local_id="130477_8" start="33" text="Behalf of Their Minor Child"/>
+<NAME id="N5" end="91" local_id="130477_5" party2_of="130477_3" start="78" text="Carrier et al"/>
+<docket id="d6" end="108" entry_type="docket" line="1" local_id="130477_2" start="101" text="02-1519"/>
+<ORGANIZATION id="O7" end="144" local_id="130477_9" start="114" text="Supreme Court of United States"/>
+<date id="d8" end="163" local_id="130477_6" start="150" text="June 16, 2003"/>
+<NAME id="N9" end="202" local_id="130477_10" start="185" text="Appeal from the C"/>
+<NAME id="N10" end="214" local_id="130477_11" start="211" text="Cir"/>
+<NAME id="N11" end="251" local_id="130477_17" start="241" text="Certiorari"/>
+<RELATION id="R12" fromID="c0" fromText="539 U.S. 927" toID="d6" toText="02-1519" gram_type="apposition" local_id="130477_16" relation_type="asymmetric"/>
+<RELATION id="R13" fromID="c0" fromText="539 U.S. 927" toID="c1" toText="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" gram_type="pre_nom" local_id="130477_12" relation_type="equivalence"/>
+<RELATION id="R14" fromID="c1" fromText="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" toID="d6" toText="02-1519" gram_type="apposition" local_id="130477_15" relation_type="asymmetric"/>
+<RELATION id="R15" fromID="c1" fromText="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" toID="N2" toText="Moss et ux., on Behalf of Their Minor Child, Moss, et al." gram_type="infix" local_id="130477_13" relation_type="asymmetric"/>
+<RELATION id="R16" fromID="c1" fromText="Moss et ux., on Behalf of Their Minor Child, Moss, et al. v. Carrier et al" toID="N5" toText="Carrier et al" gram_type="infix" local_id="130477_14" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[543 U.S. 807
+    IN RE CRUZ-RIVERA;
+    No. 04-5811.
+    Supreme Court of United States.
+    October 4, 2004.
+    
+      11
+      Petitions for writs of habeas corpus denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="137795_1" page_number="807" reporter="U.S." standard_reporter="U.S." start="0" text="543 U.S. 807" volume="543"/>
+<citation id="c1" end="34" entry_type="case_citation_other" line="2" local_id="137795_2" name="IN RE CRUZ-RIVERA" start="17" text="IN RE CRUZ-RIVERA"/>
+<docket id="d2" end="51" entry_type="docket" line="3" local_id="137795_3" start="44" text="04-5811"/>
+<ORGANIZATION id="O3" end="87" local_id="137795_4" start="57" text="Supreme Court of United States"/>
+<date id="d4" end="108" local_id="137795_5" start="93" text="October 4, 2004"/>
+<NAME id="N5" end="139" local_id="137795_9" start="130" text="Petitions"/>
+<RELATION id="R6" fromID="c0" fromText="543 U.S. 807" toID="c1" toText="IN RE CRUZ-RIVERA" gram_type="multi_line" local_id="137795_6" relation_type="equivalence"/>
+<RELATION id="R7" fromID="c1" fromText="IN RE CRUZ-RIVERA" toID="d4" toText="October 4, 2004" gram_type="multi_line" local_id="137795_8" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c1" fromText="IN RE CRUZ-RIVERA" toID="d2" toText="04-5811" gram_type="multi_line" local_id="137795_7" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

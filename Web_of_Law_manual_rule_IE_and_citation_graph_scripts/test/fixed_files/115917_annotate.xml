@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[510 U.S. 1039     Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture.     No. 92-1398.     Supreme Court of United States.     January 10, 1994.            11       Appeal from the C. A. 9th Cir.          
+      22
+      Certiorari denied. Reported below: 980 F. 2d 590.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="13" entry_type="standard_case" line="1" local_id="115917_1" page_number="1039" reporter="U.S." standard_reporter="U.S." start="0" text="510 U.S. 1039" volume="510"/>
+<citation id="c1" end="76" entry_type="case_X_vs_Y" line="1" local_id="115917_3" party1="Richardson, Chapter 7 Panel Trustee" party2="Mt. Adams Furniture" start="18" text="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture"/>
+<NAME id="N2" end="53" local_id="115917_4" party1_of="115917_3" start="18" text="Richardson, Chapter 7 Panel Trustee"/>
+<NAME id="N3" end="28" local_id="115917_7" start="18" text="Richardson"/>
+<ORGANIZATION id="O4" end="53" local_id="115917_8" start="30" text="Chapter 7 Panel Trustee"/>
+<NAME id="N5" end="76" local_id="115917_5" party2_of="115917_3" start="57" text="Mt. Adams Furniture"/>
+<docket id="d6" end="93" entry_type="docket" line="1" local_id="115917_2" start="86" text="92-1398"/>
+<date id="d7" end="151" local_id="115917_6" start="135" text="January 10, 1994"/>
+<NAME id="N8" end="239" local_id="115917_15" start="229" text="Certiorari"/>
+<citation id="c9" end="277" entry_type="standard_case" line="3" local_id="115917_14" page_number="590" reporter="F. 2d" standard_reporter="F.2D" start="264" text="980 F. 2d 590" volume="980"/>
+<RELATION id="R10" fromID="c0" fromText="510 U.S. 1039" toID="d6" toText="92-1398" gram_type="apposition" local_id="115917_13" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c0" fromText="510 U.S. 1039" toID="c1" toText="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" gram_type="pre_nom" local_id="115917_9" relation_type="equivalence"/>
+<RELATION id="R12" fromID="c1" fromText="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" toID="d6" toText="92-1398" gram_type="apposition" local_id="115917_12" relation_type="asymmetric"/>
+<RELATION id="R13" fromID="c1" fromText="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" toID="N2" toText="Richardson, Chapter 7 Panel Trustee" gram_type="infix" local_id="115917_10" relation_type="asymmetric"/>
+<RELATION id="R14" fromID="c1" fromText="Richardson, Chapter 7 Panel Trustee v. Mt. Adams Furniture" toID="N5" toText="Mt. Adams Furniture" gram_type="infix" local_id="115917_11" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

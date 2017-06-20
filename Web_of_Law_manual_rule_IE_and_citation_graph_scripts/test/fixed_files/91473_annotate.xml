@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[6 S. Ct. 114
+    115 U.S. 523
+    29 L. Ed. 467
+    MISSOURI PAC. RY. CO. v. TERRY.
+    Filed November 23, 1885.
+    
+      11
+      This case involves the same questions presented and determined in Missouri Pac. Ry. Co. v. Humes, ante, 110. The judgment is therefore affirmed.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="91473_1" page_number="114" reporter="S. Ct." standard_reporter="S.CT." start="0" text="6 S. Ct. 114" volume="6"/>
+<citation id="c1" end="29" entry_type="standard_case" line="2" local_id="91473_2" page_number="523" reporter="U.S." standard_reporter="U.S." start="17" text="115 U.S. 523" volume="115"/>
+<citation id="c2" end="47" entry_type="standard_case" line="3" local_id="91473_3" page_number="467" reporter="L. Ed." standard_reporter="L.ED." start="34" text="29 L. Ed. 467" volume="29"/>
+<citation id="c3" end="82" entry_type="case_X_vs_Y" line="4" local_id="91473_4" party1="MISSOURI PAC. RY. CO." party2="TERRY" start="52" text="MISSOURI PAC. RY. CO. v. TERRY"/>
+<NAME id="N4" end="73" local_id="91473_5" party1_of="91473_4" start="52" text="MISSOURI PAC. RY. CO."/>
+<NAME id="N5" end="82" local_id="91473_6" party2_of="91473_4" start="77" text="TERRY"/>
+<date id="d6" end="111" local_id="91473_9" start="94" text="November 23, 1885"/>
+<NAME id="N7" end="211" local_id="91473_16" start="199" text="Missouri Pac"/>
+<citation id="c8" end="229" entry_type="case_X_vs_Y" line="8" local_id="91473_13" party1="Ry. Co." party2="Humes" start="213" text="Ry. Co. v. Humes"/>
+<NAME id="N9" end="220" local_id="91473_14" party1_of="91473_13" start="213" text="Ry. Co."/>
+<NAME id="N10" end="229" local_id="91473_15" party2_of="91473_13" start="224" text="Humes"/>
+<RELATION id="R11" fromID="c3" fromText="MISSOURI PAC. RY. CO. v. TERRY" toID="N4" toText="MISSOURI PAC. RY. CO." gram_type="infix" local_id="91473_7" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c3" fromText="MISSOURI PAC. RY. CO. v. TERRY" toID="N5" toText="TERRY" gram_type="infix" local_id="91473_8" relation_type="asymmetric"/>
+<RELATION id="R13" fromID="c0" fromText="6 S. Ct. 114" toID="c3" toText="MISSOURI PAC. RY. CO. v. TERRY" gram_type="multi_line" local_id="91473_10" relation_type="equivalence"/>
+<RELATION id="R14" fromID="c1" fromText="115 U.S. 523" toID="c3" toText="MISSOURI PAC. RY. CO. v. TERRY" gram_type="multi_line" local_id="91473_11" relation_type="equivalence"/>
+<RELATION id="R15" fromID="c2" fromText="29 L. Ed. 467" toID="c3" toText="MISSOURI PAC. RY. CO. v. TERRY" gram_type="multi_line" local_id="91473_12" relation_type="equivalence"/>
+<RELATION id="R16" fromID="c8" fromText="Ry. Co. v. Humes" toID="N9" toText="Ry. Co." gram_type="infix" local_id="91473_17" relation_type="asymmetric"/>
+<RELATION id="R17" fromID="c8" fromText="Ry. Co. v. Humes" toID="N10" toText="Humes" gram_type="infix" local_id="91473_18" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

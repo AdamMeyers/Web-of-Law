@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[409 U.S. 921
+    93 S. Ct. 1350
+    35 L. Ed. 2d 583
+    In the Matter of the Disbarment of Seymour R. THALER. No. D-9.
+    Supreme Court of the United States
+    February 20, 1973
+    
+      11
+      It is ordered that Seymour R. Thaler of New York, New York, be suspended from the practice of law in this Court and that a rule issue returnable within forty days requiring him to show cause why he should not be disbarred from the practice of law in this Court.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="108673_1" page_number="921" reporter="U.S." standard_reporter="U.S." start="0" text="409 U.S. 921" volume="409"/>
+<citation id="c1" end="31" entry_type="standard_case" line="2" local_id="108673_2" page_number="1350" reporter="S. Ct." standard_reporter="S.CT." start="17" text="93 S. Ct. 1350" volume="93"/>
+<citation id="c2" end="52" entry_type="standard_case" line="3" local_id="108673_3" page_number="583" reporter="L. Ed. 2d" standard_reporter="L.ED.2D" start="36" text="35 L. Ed. 2d 583" volume="35"/>
+<citation id="c3" end="109" entry_type="case_citation_other" line="4" local_id="108673_5" name="In the Matter of the Disbarment of Seymour R. THALER" start="57" text="In the Matter of the Disbarment of Seymour R. THALER"/>
+<docket id="d4" end="118" entry_type="docket" line="4" local_id="108673_4" start="115" text="D-9"/>
+<date id="d5" end="180" local_id="108673_10" start="163" text="February 20, 1973"/>
+<NAME id="N6" end="249" local_id="108673_11" start="220" text="Seymour R. Thaler of New York"/>
+<NAME id="N7" end="259" local_id="108673_12" start="251" text="New York"/>
+<ORGANIZATION id="O8" end="312" local_id="108673_13" start="307" text="Court"/>
+<ORGANIZATION id="O9" end="461" local_id="108673_14" start="456" text="Court"/>
+<RELATION id="R10" fromID="c3" fromText="In the Matter of the Disbarment of Seymour R. THALER" toID="d4" toText="D-9" gram_type="apposition" local_id="108673_6" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c0" fromText="409 U.S. 921" toID="c3" toText="In the Matter of the Disbarment of Seymour R. THALER" gram_type="multi_line" local_id="108673_7" relation_type="equivalence"/>
+<RELATION id="R12" fromID="c1" fromText="93 S. Ct. 1350" toID="c3" toText="In the Matter of the Disbarment of Seymour R. THALER" gram_type="multi_line" local_id="108673_8" relation_type="equivalence"/>
+<RELATION id="R13" fromID="c2" fromText="35 L. Ed. 2d 583" toID="c3" toText="In the Matter of the Disbarment of Seymour R. THALER" gram_type="multi_line" local_id="108673_9" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

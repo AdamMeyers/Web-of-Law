@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+106 U.S. 13 (____)
+THE "NEW ORLEANS."
+Supreme Court of United States.
+
+*16 Mr. John E. Parsons for the appellants.
+Mr. Henry J. Scudder for the appellees.
+MR. JUSTICE FIELD delivered the opinion of the court.
+The findings of the Circuit Court, which are conclusive here, show that the steamer was wholly in fault for its collision with the schooner; and she was therefore justly condemned to pay all the damages inflicted.
+The only question open for our consideration arises upon the exception to the exclusion by the commissioner of the testimony given in another suit by one of the part owners of the schooner as to the extent and value of its repairs. The exclusion, we think, was correct. The statements of the part owner, expressing his judgment as to the matters upon which he was examined, could, at most, bind only himself. They were not evidence against his co-owners, who were merely tenants in common with him, not partners. Story on Partnership, sect. 453.
+Decree affirmed.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="19" entry_type="standard_case" line="2" local_id="1468823_1" page_number="13" reporter="U.S." standard_reporter="U.S." start="1" text="106 U.S. 13 (____)" volume="106"/>
+<citation id="c1" end="38" entry_type="case_citation_other" line="3" local_id="1468823_2" name="THE &quot;NEW ORLEANS.&quot;" start="20" text="THE &quot;NEW ORLEANS.&quot;"/>
+<quote id="q13" end="38" local_id="1707" start="24" text="«NEW ORLEANS.«"/>
+<ORGANIZATION id="O2" end="69" local_id="1468823_3" start="39" text="Supreme Court of United States"/>
+<LEGAL_ROLE id="L3" end="114" local_id="1468823_5" plural="True" start="76" text="Mr. John E. Parsons for the appellants"/>
+<LEGAL_ROLE id="L4" end="154" local_id="1468823_6" plural="True" start="116" text="Mr. Henry J. Scudder for the appellees"/>
+<NAME id="N5" end="158" local_id="1468823_7" start="156" text="MR"/>
+<ORGANIZATION id="O6" end="243" local_id="1468823_8" start="230" text="Circuit Court"/>
+<PROFESSION id="P7" end="531" local_id="1468823_9" start="519" text="commissioner"/>
+<FAMILY id="F8" end="935" local_id="1468823_10" plural="True" start="927" text="partners"/>
+<NAME id="N9" end="942" local_id="1468823_11" start="937" text="Story"/>
+<ORGANIZATION id="O10" end="957" local_id="1468823_12" start="946" text="Partnership"/>
+<NAME id="N11" end="976" local_id="1468823_13" start="970" text="Decree"/>
+<RELATION id="R12" fromID="c0" fromText="106 U.S. 13 (____)" toID="c1" toText="THE "NEW ORLEANS."" gram_type="multi_line" local_id="1468823_4" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

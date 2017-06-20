@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+214 U.S. 506 (1909)
+MATTER OF TOBIN, PETITIONER. 
+MATTER OF KRISTIANSON.
+No. ___, Original.
+Supreme Court of United States.
+Submitted May 17, 1909.
+Decided May 24, 1909.
+MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS AGAINST HONORABLE Page MORRIS, DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND AGAINST THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT.
+*507 Mr. Samuel A. Anderson Anderson for petitioner.
+Per Curiam:
+Motion for leave to file petition for writ of mandamus denied.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="1087910_1" page_number="506" reporter="U.S." standard_reporter="U.S." start="1" text="214 U.S. 506 (1909)" volume="214" year="1909"/>
+<date id="d1" end="19" local_id="1087910_2" start="15" text="1909"/>
+<citation id="c2" end="48" entry_type="case_citation_other" line="3" local_id="1087910_4" name="MATTER OF TOBIN" party1=" TOBIN" party1_role="PETITIONER" start="21" text="MATTER OF TOBIN, PETITIONER"/>
+<citation id="c3" end="72" entry_type="case_citation_other" line="4" local_id="1087910_5" name="MATTER OF KRISTIANSON" start="51" text="MATTER OF KRISTIANSON"/>
+<NAME id="N4" end="91" local_id="1087910_6" start="83" text="Original"/>
+<ORGANIZATION id="O5" end="123" local_id="1087910_7" start="93" text="Supreme Court of United States"/>
+<date id="d6" end="147" local_id="1087910_8" start="135" text="May 17, 1909"/>
+<NAME id="N7" end="156" local_id="1087910_14" start="149" text="Decided"/>
+<date id="d8" end="169" local_id="1087910_13" start="157" text="May 24, 1909"/>
+<citation id="c9" end="255" entry_type="case_X_vs_Y" line="9" local_id="1087910_15" party1="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS" party2="HONORABLE Page MORRIS" start="171" text="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS AGAINST HONORABLE Page MORRIS"/>
+<NAME id="N10" end="225" local_id="1087910_17" party1_of="1087910_15" start="171" text="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS"/>
+<NAME id="N11" end="255" local_id="1087910_18" party2_of="1087910_15" start="234" text="HONORABLE Page MORRIS"/>
+<citation id="c12" end="392" entry_type="case_X_vs_Y" line="9" local_id="1087910_16" party1="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND" party2="THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" start="257" text="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND AGAINST THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT"/>
+<NAME id="N13" end="327" local_id="1087910_19" party1_of="1087910_16" start="257" text="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND"/>
+<PROFESSION id="P14" end="322" local_id="1087910_21" start="257" text="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA"/>
+<NAME id="N15" end="392" local_id="1087910_20" party2_of="1087910_16" start="336" text="THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT"/>
+<ORGANIZATION id="O16" end="392" local_id="1087910_22" start="340" text="CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT"/>
+<LEGAL_ROLE id="L17" end="445" local_id="1087910_27" start="399" text="Mr. Samuel A. Anderson Anderson for petitioner"/>
+<NAME id="N18" end="457" local_id="1087910_28" start="451" text="Curiam"/>
+<NAME id="N19" end="465" local_id="1087910_29" start="459" text="Motion"/>
+<RELATION id="R20" fromID="c0" fromText="214 U.S. 506 (1909)" toID="d1" toText="1909" gram_type="infix" local_id="1087910_3" relation_type="asymmetric"/>
+<RELATION id="R21" fromID="c0" fromText="214 U.S. 506 (1909)" toID="c3" toText="MATTER OF KRISTIANSON" gram_type="multi_line" local_id="1087910_11" relation_type="equivalence"/>
+<RELATION id="R22" fromID="c0" fromText="214 U.S. 506 (1909)" toID="c2" toText="MATTER OF TOBIN, PETITIONER" gram_type="multi_line" local_id="1087910_9" relation_type="equivalence"/>
+<RELATION id="R23" fromID="c3" fromText="MATTER OF KRISTIANSON" toID="d1" toText="1909" gram_type="multi_line" local_id="1087910_12" relation_type="asymmetric"/>
+<RELATION id="R24" fromID="c2" fromText="MATTER OF TOBIN, PETITIONER" toID="d1" toText="1909" gram_type="multi_line" local_id="1087910_10" relation_type="asymmetric"/>
+<RELATION id="R25" fromID="c9" fromText="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS AGAINST HONORABLE Page MORRIS" toID="N10" toText="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS" gram_type="infix" local_id="1087910_23" relation_type="asymmetric"/>
+<RELATION id="R26" fromID="c9" fromText="MOTION FOR LEAVE TO FILE PETITION FOR WRIT OF MANDAMUS AGAINST HONORABLE Page MORRIS" toID="N11" toText="HONORABLE Page MORRIS" gram_type="infix" local_id="1087910_24" relation_type="asymmetric"/>
+<RELATION id="R27" fromID="c12" fromText="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND AGAINST THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" toID="N13" toText="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND" gram_type="infix" local_id="1087910_25" relation_type="asymmetric"/>
+<RELATION id="R28" fromID="c12" fromText="DISTRICT JUDGE OF THE UNITED STATES FOR THE DISTRICT OF MINNESOTA, AND AGAINST THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" toID="N15" toText="THE CIRCUIT COURT OF THE UNITED STATES FOR THAT DISTRICT" gram_type="infix" local_id="1087910_26" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

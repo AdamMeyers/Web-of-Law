@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[535 U.S. 1077
+    IN RE WILLIAMS; and IN RE JONES.
+    No. 01-9223.
+    No. 01-9234.
+    Supreme Court of the United States.
+    May 20, 2002.
+    
+      11
+      Petitions for writs of mandamus denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="13" entry_type="standard_case" line="1" local_id="120585_1" page_number="1077" reporter="U.S." standard_reporter="U.S." start="0" text="535 U.S. 1077" volume="535"/>
+<citation id="c1" end="32" entry_type="case_citation_other" line="2" local_id="120585_2" name="IN RE WILLIAMS" start="18" text="IN RE WILLIAMS"/>
+<citation id="c2" end="49" entry_type="case_citation_other" line="2" local_id="120585_3" name="IN RE JONES" start="38" text="IN RE JONES"/>
+<docket id="d3" end="66" entry_type="docket" line="3" local_id="120585_4" start="59" text="01-9223"/>
+<docket id="d4" end="83" entry_type="docket" line="4" local_id="120585_5" start="76" text="01-9234"/>
+<date id="d5" end="141" local_id="120585_12" start="129" text="May 20, 2002"/>
+<NAME id="N6" end="172" local_id="120585_13" start="163" text="Petitions"/>
+<RELATION id="R10" fromID="c1" fromText="IN RE WILLIAMS" toID="d3" toText="01-9223" gram_type="multi_line" local_id="120585_7" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c2" fromText="IN RE JONES" toID="d4" toText="01-9234" gram_type="multi_line" local_id="120585_11" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c2" fromText="IN RE JONES" toID="d3" toText="01-9223" gram_type="multi_line" local_id="120585_10" relation_type="asymmetric"/>
+<RELATION id="R7" fromID="c0" fromText="535 U.S. 1077" toID="c2" toText="IN RE JONES" gram_type="multi_line" local_id="120585_9" relation_type="equivalence"/>
+<RELATION id="R8" fromID="c0" fromText="535 U.S. 1077" toID="c1" toText="IN RE WILLIAMS" gram_type="multi_line" local_id="120585_6" relation_type="equivalence"/>
+<RELATION id="R9" fromID="c1" fromText="IN RE WILLIAMS" toID="d4" toText="01-9234" gram_type="multi_line" local_id="120585_8" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

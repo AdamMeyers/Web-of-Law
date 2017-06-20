@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[87 U.S. 115     22 L. Ed. 328     20 Wall. 115     CONRAD'S LOTS.     October Term, 1873            ERROR to the Circuit Court for the District of Louisiana.
+      On an information very similar to that in Slidell's case, filed in the District Court for Louisiana, by The United States v. Ten Lots of Ground, the property of C. M. Conrad, the lots had been decreed by that court forfeited to the United States, and were sold accordingly; the money being paid into the registry of the court.
+      On error to the Circuit Court that judgment was set aside, and the information was ordered to be dismissed, but it was also ordered that the net proceeds of the property sold under the judgment be paid to Conrad, and that the sale stand confirmed.
+      Two writs of error were sued out, one by the United States and one by Conrad; that by the United States being to the action of the Circuit Court in setting aside the judgment of the District Court and ordering the information to be dismissed, and that by Conrad to the action of the court confirming the sale made under the judgment of condemnation and forfeiture.
+      On the writ taken by the United States this court (just after reversing the judgment in Slidell's case) reversed the judgment in Conrad's case also, and for the same reasons that it had reversed the judgment in Slidell's case, and remanded the cause, with instructions to affirm the judgment or decree of the District Court.
+      The present case was on the writ of error taken by Conrad, and upon it he now sought here to obtain a reversal of so much of the judgment as confirmed the sale made under the judgment of condemnation and forfeiture.
+      Mr. C. M. Conrad, plaintiff in error, in propri a person a; Mr. C. H. Hill, Assistant Attorney-General, contra.
+      Mr. Justice STRONG delivered the opinion of the court.                 11       We have just decided in the case of the United States v. Ten Lots of Ground, the property of C. M. Conrad (it being a writ of error sued out by the United States), that the judgment of the Circuit Court was erroneous, and reversed it, ordering that the decree of confiscation be affirmed. This leaves nothing upon which the present writ of error can act. The judgment having been reversed, the order of confirmation of the sale, as well as the order of distribution, fall with it. We can, therefore, only repeat the judgment given in the former case, which was a judgment of reversal.          
+      22
+      JUDGMENT REVERSED.     
+    
+      33
+      Justices CLIFFORD, DAVIS, and FIELD dissented from the judgment rendered, and were of opinion that only so much of the judgment of the Circuit Court should be reversed as confirmed the sale made under the decree of the District Court.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="11" entry_type="standard_case" line="1" local_id="88927_1" page_number="115" reporter="U.S." standard_reporter="U.S." start="0" text="87 U.S. 115" volume="87"/>
+<citation id="c1" end="29" entry_type="standard_case" line="1" local_id="88927_2" page_number="328" reporter="L. Ed." standard_reporter="L.ED." start="16" text="22 L. Ed. 328" volume="22"/>
+<NAME id="N2" end="24" local_id="88927_6" start="19" text="L. Ed"/>
+<citation id="c3" end="46" entry_type="standard_case" line="1" local_id="88927_3" page_number="115" reporter="Wall." standard_reporter="WALL." start="34" text="20 Wall. 115" volume="20"/>
+<citation id="c4" end="64" entry_type="case_citation_other" line="1" local_id="88927_5" name="CONRAD'S LOTS" start="51" text="CONRAD'S LOTS"/>
+<date id="d5" end="88" local_id="88927_4" start="84" text="1873"/>
+<NAME id="N6" end="213" local_id="88927_13" start="206" text="Slidell"/>
+<citation id="c7" end="307" entry_type="case_X_vs_Y" line="2" local_id="88927_10" party1="District Court for Louisiana, by The United States" party2="Ten Lots of Ground" start="235" text="District Court for Louisiana, by The United States v. Ten Lots of Ground"/>
+<NAME id="N8" end="285" local_id="88927_11" party1_of="88927_10" start="235" text="District Court for Louisiana, by The United States"/>
+<ORGANIZATION id="O9" end="263" local_id="88927_14" start="235" text="District Court for Louisiana"/>
+<NAME id="N10" end="307" local_id="88927_12" party2_of="88927_10" start="289" text="Ten Lots of Ground"/>
+<ORGANIZATION id="O11" end="526" local_id="88927_17" start="513" text="Circuit Court"/>
+<NAME id="N12" end="708" local_id="88927_18" start="702" text="Conrad"/>
+<NAME id="N13" end="809" local_id="88927_19" start="796" text="United States"/>
+<NAME id="N14" end="827" local_id="88927_20" start="821" text="Conrad"/>
+<NAME id="N15" end="854" local_id="88927_21" start="841" text="United States"/>
+<ORGANIZATION id="O16" end="895" local_id="88927_22" start="882" text="Circuit Court"/>
+<ORGANIZATION id="O17" end="947" local_id="88927_23" start="933" text="District Court"/>
+<NAME id="N18" end="1012" local_id="88927_24" start="1006" text="Conrad"/>
+<ORGANIZATION id="O19" end="1039" local_id="88927_25" start="1034" text="court"/>
+<NAME id="N20" end="1160" local_id="88927_26" start="1147" text="United States"/>
+<ORGANIZATION id="O21" end="1171" local_id="88927_27" start="1166" text="court"/>
+<NAME id="N22" end="1217" local_id="88927_28" start="1210" text="Slidell"/>
+<NAME id="N23" end="1257" local_id="88927_29" start="1251" text="Conrad"/>
+<NAME id="N24" end="1340" local_id="88927_30" start="1333" text="Slidell"/>
+<ORGANIZATION id="O25" end="1445" local_id="88927_31" start="1431" text="District Court"/>
+<NAME id="N26" end="1510" local_id="88927_32" start="1504" text="Conrad"/>
+<NAME id="N27" end="1691" local_id="88927_33" start="1675" text="Mr. C. M. Conrad"/>
+<LEGAL_ROLE id="L28" end="1702" local_id="88927_34" start="1693" text="plaintiff"/>
+<NAME id="N29" end="1749" local_id="88927_35" start="1735" text="Mr. C. H. Hill"/>
+<PROFESSION id="P30" end="1760" local_id="88927_36" start="1751" text="Assistant"/>
+<NAME id="N31" end="1777" local_id="88927_37" start="1761" text="Attorney-General"/>
+<NAME id="N32" end="1811" local_id="88927_44" start="1793" text="Mr. Justice STRONG"/>
+<PROFESSION id="P33" end="1804" local_id="88927_45" start="1797" text="Justice"/>
+<ORGANIZATION id="O34" end="1846" local_id="88927_46" start="1841" text="court"/>
+<citation id="c35" end="1948" entry_type="case_X_vs_Y" line="8" local_id="88927_41" party1="United States" party2="Ten Lots of Ground" start="1913" text="United States v. Ten Lots of Ground"/>
+<NAME id="N36" end="1926" local_id="88927_42" party1_of="88927_41" start="1913" text="United States"/>
+<NAME id="N37" end="1948" local_id="88927_43" party2_of="88927_41" start="1930" text="Ten Lots of Ground"/>
+<NAME id="N38" end="2500" local_id="88927_49" start="2483" text="JUDGMENT REVERSED"/>
+<PROFESSION id="P39" end="2544" local_id="88927_50" plural="True" start="2527" text="Justices CLIFFORD"/>
+<NAME id="N40" end="2551" local_id="88927_51" start="2546" text="DAVIS"/>
+<NAME id="N41" end="2562" local_id="88927_52" start="2557" text="FIELD"/>
+<ORGANIZATION id="O42" end="2675" local_id="88927_53" start="2662" text="Circuit Court"/>
+<ORGANIZATION id="O43" end="2760" local_id="88927_54" start="2746" text="District Court"/>
+<RELATION id="R44" fromID="c0" fromText="87 U.S. 115" toID="c4" toText="CONRAD'S LOTS" gram_type="pre_nom" local_id="88927_8" relation_type="equivalence"/>
+<RELATION id="R45" fromID="c1" fromText="22 L. Ed. 328" toID="c4" toText="CONRAD'S LOTS" gram_type="pre_nom" local_id="88927_9" relation_type="equivalence"/>
+<RELATION id="R46" fromID="c3" fromText="20 Wall. 115" toID="c4" toText="CONRAD'S LOTS" gram_type="pre_nom" local_id="88927_7" relation_type="equivalence"/>
+<RELATION id="R47" fromID="c7" fromText="District Court for Louisiana, by The United States v. Ten Lots of Ground" toID="N8" toText="District Court for Louisiana, by The United States" gram_type="infix" local_id="88927_15" relation_type="asymmetric"/>
+<RELATION id="R48" fromID="c7" fromText="District Court for Louisiana, by The United States v. Ten Lots of Ground" toID="N10" toText="Ten Lots of Ground" gram_type="infix" local_id="88927_16" relation_type="asymmetric"/>
+<RELATION id="R49" fromID="N27" fromText="Mr. C. M. Conrad" toID="L28" toText="plaintiff" gram_type="apposition" local_id="88927_38" relation_type="asymmetric"/>
+<RELATION id="R50" fromID="N29" fromText="Mr. C. H. Hill" toID="P30" toText="Assistant" gram_type="apposition" local_id="88927_39" relation_type="asymmetric"/>
+<RELATION id="R51" fromID="N31" fromText="Attorney-General" toID="P30" toText="Assistant" gram_type="pre_nom" local_id="88927_40" relation_type="asymmetric"/>
+<RELATION id="R52" fromID="c35" fromText="United States v. Ten Lots of Ground" toID="N36" toText="United States" gram_type="infix" local_id="88927_47" relation_type="asymmetric"/>
+<RELATION id="R53" fromID="c35" fromText="United States v. Ten Lots of Ground" toID="N37" toText="Ten Lots of Ground" gram_type="infix" local_id="88927_48" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

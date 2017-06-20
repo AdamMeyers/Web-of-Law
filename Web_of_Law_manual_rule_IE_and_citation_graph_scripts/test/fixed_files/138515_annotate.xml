@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[543 U.S. 859
+    MARTIN v. MICHIGAN.
+    No. 03-10951.
+    Supreme Court of United States.
+    October 4, 2004.
+    
+      11
+      Ct. App. Mich. Certiorari denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="138515_1" page_number="859" reporter="U.S." standard_reporter="U.S." start="0" text="543 U.S. 859" volume="543"/>
+<citation id="c1" end="35" entry_type="case_X_vs_Y" line="2" local_id="138515_2" party1="MARTIN" party2="MICHIGAN" start="17" text="MARTIN v. MICHIGAN"/>
+<NAME id="N2" end="23" local_id="138515_3" party1_of="138515_2" start="17" text="MARTIN"/>
+<NAME id="N3" end="35" local_id="138515_4" party2_of="138515_2" start="27" text="MICHIGAN"/>
+<docket id="d4" end="53" entry_type="docket" line="3" local_id="138515_7" start="45" text="03-10951"/>
+<ORGANIZATION id="O5" end="89" local_id="138515_8" start="59" text="Supreme Court of United States"/>
+<date id="d6" end="110" local_id="138515_9" start="95" text="October 4, 2004"/>
+<NAME id="N7" end="134" local_id="138515_13" start="132" text="Ct"/>
+<RELATION id="R10" fromID="c0" fromText="543 U.S. 859" toID="c1" toText="MARTIN v. MICHIGAN" gram_type="multi_line" local_id="138515_10" relation_type="equivalence"/>
+<RELATION id="R11" fromID="c1" fromText="MARTIN v. MICHIGAN" toID="d6" toText="October 4, 2004" gram_type="multi_line" local_id="138515_12" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c1" fromText="MARTIN v. MICHIGAN" toID="d4" toText="03-10951" gram_type="multi_line" local_id="138515_11" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c1" fromText="MARTIN v. MICHIGAN" toID="N2" toText="MARTIN" gram_type="infix" local_id="138515_5" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c1" fromText="MARTIN v. MICHIGAN" toID="N3" toText="MICHIGAN" gram_type="infix" local_id="138515_6" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

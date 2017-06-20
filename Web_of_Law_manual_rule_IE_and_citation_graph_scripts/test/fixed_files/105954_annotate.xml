@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[361 U.S. 34     80 S. Ct. 126     4 L. Ed. 2d 99     Ex Parte William K. POWELL.     No. 58, Misc.     Supreme Court of the United States     October 19, 1959            William K. Powell, pro se.
+      Messrs. MacDonald Gallion, Atty. Gen. of Alabama, and James W. Webb, Asst. Atty. Gen., for respondent.
+      On petition for writ of certiorari to the United States Court of Appeals for the Fifth Circuit.
+      PER CURIAM.
+    
+    
+      11
+      The motion for leave to proceed in forma pauperis and the petition for writ of certiorari are granted. The judgment is vacated and the case is remanded to the District Court for a full hearing. Ellis v. United States, 2"citation" data-id="105701">356 U.S. 674, 78 S. Ct. 974, 2 L.Ed.2d 1060.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="11" entry_type="standard_case" line="1" local_id="105954_1" page_number="34" reporter="U.S." standard_reporter="U.S." start="0" text="361 U.S. 34" volume="361"/>
+<citation id="c1" end="29" entry_type="standard_case" line="1" local_id="105954_2" page_number="126" reporter="S. Ct." standard_reporter="S.CT." start="16" text="80 S. Ct. 126" volume="80"/>
+<NAME id="N2" end="24" local_id="105954_6" start="19" text="S. Ct"/>
+<citation id="c3" end="48" entry_type="standard_case" line="1" local_id="105954_3" page_number="99" reporter="L. Ed. 2d" standard_reporter="L.ED.2D" start="34" text="4 L. Ed. 2d 99" volume="4"/>
+<citation id="c4" end="79" entry_type="case_citation_other" line="1" local_id="105954_5" name="Ex Parte William K. POWELL" start="53" text="Ex Parte William K. POWELL"/>
+<NAME id="N5" end="97" local_id="105954_7" start="93" text="Misc"/>
+<date id="d6" end="158" local_id="105954_4" start="142" text="October 19, 1959"/>
+<NAME id="N7" end="228" local_id="105954_11" start="203" text="Messrs. MacDonald Gallion"/>
+<PROFESSION id="P8" end="251" local_id="105954_12" start="230" text="Atty. Gen. of Alabama"/>
+<NAME id="N9" end="270" local_id="105954_13" start="257" text="James W. Webb"/>
+<PROFESSION id="P10" end="287" local_id="105954_14" start="272" text="Asst. Atty. Gen"/>
+<LEGAL_ROLE id="L11" end="304" local_id="105954_15" start="294" text="respondent"/>
+<ORGANIZATION id="O12" end="406" local_id="105954_18" start="354" text="United States Court of Appeals for the Fifth Circuit"/>
+<NAME id="N13" end="424" local_id="105954_19" start="418" text="CURIAM"/>
+<ORGANIZATION id="O14" end="624" local_id="105954_26" start="610" text="District Court"/>
+<citation id="c15" end="667" entry_type="case_X_vs_Y" line="8" local_id="105954_23" party1="Ellis" party2="United States" start="645" text="Ellis v. United States"/>
+<NAME id="N16" end="650" local_id="105954_24" party1_of="105954_23" start="645" text="Ellis"/>
+<NAME id="N17" end="667" local_id="105954_25" party2_of="105954_23" start="654" text="United States"/>
+<quote id="q28" end="680" local_id="73" start="670" text="«citation«"/>
+<quote id="q29" end="697" local_id="74" start="689" text="«105701«"/>
+<citation id="c18" end="710" entry_type="standard_case" line="8" local_id="105954_20" page_number="674" reporter="U.S." standard_reporter="U.S." start="698" text="356 U.S. 674" volume="356"/>
+<citation id="c19" end="725" entry_type="standard_case" line="8" local_id="105954_21" page_number="974" reporter="S. Ct." standard_reporter="S.CT." start="712" text="78 S. Ct. 974" volume="78"/>
+<citation id="c20" end="741" entry_type="standard_case" line="8" local_id="105954_22" page_number="1060" reporter="L.Ed.2d" standard_reporter="L.ED.2D" start="727" text="2 L.Ed.2d 1060" volume="2"/>
+<RELATION id="R21" fromID="c0" fromText="361 U.S. 34" toID="c4" toText="Ex Parte William K. POWELL" gram_type="pre_nom" local_id="105954_9" relation_type="equivalence"/>
+<RELATION id="R22" fromID="c1" fromText="80 S. Ct. 126" toID="c4" toText="Ex Parte William K. POWELL" gram_type="pre_nom" local_id="105954_10" relation_type="equivalence"/>
+<RELATION id="R23" fromID="c3" fromText="4 L. Ed. 2d 99" toID="c4" toText="Ex Parte William K. POWELL" gram_type="pre_nom" local_id="105954_8" relation_type="equivalence"/>
+<RELATION id="R24" fromID="N7" fromText="Messrs. MacDonald Gallion" toID="P8" toText="Atty. Gen. of Alabama" gram_type="apposition" local_id="105954_16" relation_type="asymmetric"/>
+<RELATION id="R25" fromID="N9" fromText="James W. Webb" toID="P10" toText="Asst. Atty. Gen" gram_type="apposition" local_id="105954_17" relation_type="asymmetric"/>
+<RELATION id="R26" fromID="c15" fromText="Ellis v. United States" toID="N16" toText="Ellis" gram_type="infix" local_id="105954_27" relation_type="asymmetric"/>
+<RELATION id="R27" fromID="c15" fromText="Ellis v. United States" toID="N17" toText="United States" gram_type="infix" local_id="105954_28" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

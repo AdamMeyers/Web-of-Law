@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+23 U.S. 428 (____)
+10 Wheat. 428
+The STEAM-BOAT THOMAS JEFFERSON. 
+JOHNSON and others, Claimants.
+Supreme Court of United States.
+
+Mr. Justice STORY delivered the opinion of the Court.
+This is a suit brought in the District Court of Kentucky for subtraction of wages. The libel claims wages earned on a voyage from Shippingport, in that State, up the river Missouri, and back again to the port of departure; and the question is, whether this case, as stated in the *429 libel, is of admiralty and maritime jurisdiction, or otherwise within the jurisdiction of the District Court? The Court below dismissed the libel for want of jurisdiction, and the libellants have appealed from that decree to this Court.
+In the great struggles between the Courts of common law and the Admiralty, the latter never attempted to assert any jurisdiction except over maritime contracts. In respect to contracts for the hire of seamen, the Admiralty never pretended to claim, nor could it rightfully exercise any jurisdiction, except in cases where the service was substantially performed, or to be performed, upon the sea, or upon waters within the ebb and flow of the tide. This is the prescribed limit which it was not at liberty to transcend. We say, the service was to be substantially performed on the sea, or on tide water, because there is no doubt that the jurisdiction exists, although the commencement or termination of the voyage may happen to be at some place beyond the reach of the tide. The material consideration is, whether the service is essentially a maritime service. In the present case, the voyage, not only in its commencement and termination, but in all its intermediate progress, was several hundreds of miles above the ebb and flow of the tide; and in no just sense can the wages be considered as earned in a maritime employment.
+Some reliance has been placed in argument upon that clause of the Judiciary Act of 1789, (ch. 20. s. 9.) which includes all seizures made on waters navigable from the sea by vessels of ten *430 or more tons burthen, (of which description the waters in this case are,) within the admiralty jurisdiction. But this is a statuteable provision, and limited to the cases there stated. To make the argument available, it should be shown, that some act of Congress had extended the right to sue in Courts having admiralty jurisdiction, to cases of voyages of this nature. We have for this purpose examined the act of Congress for the government and regulation of seamen in the merchants' service, (act of 1790, ch. 29.) and though its language is somewhat general, we think that its strict interpretation confines the remedy in the Admiralty to such cases as ordinarily belong to its cognisance, as maritime contracts for wages. It merely recognises the existing, and does not intend to confer any new jurisdiction. Whether, under the power to regulate commerce between the States, Congress may not extend the remedy, by the summary process of the Admiralty, to the case of voyages on the western waters, it is unnecessary for us to consider. If the public inconvenience, from the want of a process of an analogous nature, shall be extensively felt, the attention of the Legislature will doubtless be drawn to the subject. But we have now only to declare, that the present suit is not maintainable as a cause of admiralty and maritime jurisdiction, upon acknowledged principles of law.
+The decree of the Circuit Court, dismissing the libel for want of jurisdiction, is therefore affirmed.
+Decree accordingly.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="19" entry_type="standard_case" line="2" local_id="85472_1" page_number="428" reporter="U.S." standard_reporter="U.S." start="1" text="23 U.S. 428 (____)" volume="23"/>
+<citation id="c1" end="33" entry_type="standard_case" line="3" local_id="85472_2" page_number="428" reporter="Wheat." standard_reporter="WHEAT." start="20" text="10 Wheat. 428" volume="10"/>
+<citation id="c2" end="65" entry_type="case_citation_other" line="4" local_id="85472_3" name="The STEAM-BOAT THOMAS JEFFERSON" start="34" text="The STEAM-BOAT THOMAS JEFFERSON"/>
+<NAME id="N3" end="75" local_id="85472_4" start="68" text="JOHNSON"/>
+<LEGAL_ROLE id="L4" end="97" local_id="85472_5" plural="True" start="88" text="Claimants"/>
+<ORGANIZATION id="O5" end="129" local_id="85472_8" start="99" text="Supreme Court of United States"/>
+<NAME id="N6" end="149" local_id="85472_9" start="132" text="Mr. Justice STORY"/>
+<PROFESSION id="P7" end="143" local_id="85472_10" start="136" text="Justice"/>
+<ORGANIZATION id="O8" end="184" local_id="85472_11" start="179" text="Court"/>
+<ORGANIZATION id="O9" end="242" local_id="85472_12" start="216" text="District Court of Kentucky"/>
+<NAME id="N10" end="328" local_id="85472_13" start="316" text="Shippingport"/>
+<NAME id="N11" end="343" local_id="85472_14" start="338" text="State"/>
+<NAME id="N12" end="366" local_id="85472_15" start="358" text="Missouri"/>
+<ORGANIZATION id="O13" end="579" local_id="85472_16" start="565" text="District Court"/>
+<ORGANIZATION id="O14" end="590" local_id="85472_17" start="585" text="Court"/>
+<LEGAL_ROLE id="L15" end="661" local_id="85472_18" plural="True" start="651" text="libellants"/>
+<ORGANIZATION id="O16" end="706" local_id="85472_19" start="701" text="Court"/>
+<ORGANIZATION id="O17" end="749" local_id="85472_20" plural="True" start="743" text="Courts"/>
+<NAME id="N18" end="781" local_id="85472_21" start="772" text="Admiralty"/>
+<NAME id="N19" end="930" local_id="85472_22" start="921" text="Admiralty"/>
+<NAME id="N20" end="1917" local_id="85472_25" start="1904" text="Judiciary Act"/>
+<date id="d21" end="1925" local_id="85472_23" start="1921" text="1789"/>
+<NAME id="N22" end="2294" local_id="85472_26" start="2286" text="Congress"/>
+<ORGANIZATION id="O23" end="2334" local_id="85472_27" plural="True" start="2328" text="Courts"/>
+<PROFESSION id="P24" end="2474" local_id="85472_28" start="2447" text="Congress for the government"/>
+<date id="d25" end="2539" local_id="85472_24" start="2535" text="1790"/>
+<PROFESSION id="P26" end="2593" local_id="85472_29" start="2586" text="general"/>
+<NAME id="N27" end="2671" local_id="85472_30" start="2662" text="Admiralty"/>
+<NAME id="N28" end="2910" local_id="85472_31" start="2904" text="States"/>
+<NAME id="N29" end="2920" local_id="85472_32" start="2912" text="Congress"/>
+<NAME id="N30" end="2987" local_id="85472_33" start="2978" text="Admiralty"/>
+<PROFESSION id="P31" end="3212" local_id="85472_34" start="3201" text="Legislature"/>
+<ORGANIZATION id="O32" end="3447" local_id="85472_35" start="3434" text="Circuit Court"/>
+<NAME id="N33" end="3525" local_id="85472_36" start="3519" text="Decree"/>
+<RELATION id="R34" fromID="c0" fromText="23 U.S. 428 (____)" toID="c2" toText="The STEAM-BOAT THOMAS JEFFERSON" gram_type="multi_line" local_id="85472_6" relation_type="equivalence"/>
+<RELATION id="R35" fromID="c1" fromText="10 Wheat. 428" toID="c2" toText="The STEAM-BOAT THOMAS JEFFERSON" gram_type="multi_line" local_id="85472_7" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

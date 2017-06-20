@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+364 U.S. 295 (1960)
+MORALES ET AL. 
+v. 
+CITY OF GALVESTON ET AL.
+No. 167, Misc.
+Supreme Court of United States.
+Decided October 17, 1960.
+ON PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.
+Arthur J. Mandell for petitioners.
+Preston Shirley for the City of Galveston, and Byron F. Williams for Cardigan Shipping Co., Ltd., respondents.
+PER CURIAM.
+The motion for leave to proceed in forma pauperis and the petition for writ of certiorari are granted. The judgment of the Court of Appeals is vacated and the case is remanded to that court for consideration in light of Mitchell v. Trawler Racer, Inc., 362 U. S. 539.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="106118_1" page_number="295" reporter="U.S." standard_reporter="U.S." start="1" text="364 U.S. 295 (1960)" volume="364" year="1960"/>
+<date id="d1" end="19" local_id="106118_2" start="15" text="1960"/>
+<citation id="c2" end="64" entry_type="case_X_vs_Y" line="5" local_id="106118_5" party1="MORALES ET AL." party2="CITY OF GALVESTON ET AL" start="21" text="MORALES ET AL.  v.  CITY OF GALVESTON ET AL"/>
+<NAME id="N3" end="35" local_id="106118_6" party1_of="106118_5" start="21" text="MORALES ET AL."/>
+<NAME id="N4" end="64" local_id="106118_7" party2_of="106118_5" start="41" text="CITY OF GALVESTON ET AL"/>
+<NAME id="N5" end="79" local_id="106118_10" start="75" text="Misc"/>
+<ORGANIZATION id="O6" end="111" local_id="106118_11" start="81" text="Supreme Court of United States"/>
+<NAME id="N7" end="120" local_id="106118_13" start="113" text="Decided"/>
+<date id="d8" end="137" local_id="106118_12" start="121" text="October 17, 1960"/>
+<ORGANIZATION id="O9" end="233" local_id="106118_15" start="142" text="PETITION FOR WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT"/>
+<LEGAL_ROLE id="L10" end="268" local_id="106118_16" plural="True" start="235" text="Arthur J. Mandell for petitioners"/>
+<NAME id="N11" end="311" local_id="106118_17" start="270" text="Preston Shirley for the City of Galveston"/>
+<ORGANIZATION id="O12" end="365" local_id="106118_18" start="317" text="Byron F. Williams for Cardigan Shipping Co., Ltd"/>
+<LEGAL_ROLE id="L13" end="379" local_id="106118_19" plural="True" start="368" text="respondents"/>
+<NAME id="N14" end="391" local_id="106118_21" start="385" text="CURIAM"/>
+<ORGANIZATION id="O15" end="532" local_id="106118_26" start="516" text="Court of Appeals"/>
+<ORGANIZATION id="O16" end="582" local_id="106118_27" start="577" text="court"/>
+<citation id="c17" end="643" entry_type="case_X_vs_Y" line="13" local_id="106118_23" party1="Mitchell" party2="Trawler Racer, Inc" start="613" text="Mitchell v. Trawler Racer, Inc"/>
+<NAME id="N18" end="621" local_id="106118_24" party1_of="106118_23" start="613" text="Mitchell"/>
+<NAME id="N19" end="643" local_id="106118_25" party2_of="106118_23" start="625" text="Trawler Racer, Inc"/>
+<citation id="c20" end="659" entry_type="standard_case" line="13" local_id="106118_22" page_number="539" reporter="U. S." standard_reporter="U.S." start="646" text="362 U. S. 539" volume="362"/>
+<RELATION id="R21" fromID="c0" fromText="364 U.S. 295 (1960)" toID="d1" toText="1960" gram_type="infix" local_id="106118_3" relation_type="asymmetric"/>
+<RELATION id="R22" fromID="c2" fromText="MORALES ET AL.  v.  CITY OF GALVESTON ET AL" toID="N3" toText="MORALES ET AL." gram_type="infix" local_id="106118_8" relation_type="asymmetric"/>
+<RELATION id="R23" fromID="c2" fromText="MORALES ET AL.  v.  CITY OF GALVESTON ET AL" toID="N4" toText="CITY OF GALVESTON ET AL" gram_type="infix" local_id="106118_9" relation_type="asymmetric"/>
+<RELATION id="R24" fromID="c0" fromText="364 U.S. 295 (1960)" toID="c2" toText="MORALES ET AL.  v.  CITY OF GALVESTON ET AL" gram_type="multi_line" local_id="106118_14" relation_type="equivalence"/>
+<RELATION id="R25" fromID="O12" fromText="Byron F. Williams for Cardigan Shipping Co., Ltd" toID="L13" toText="respondents" gram_type="apposition" local_id="106118_20" relation_type="asymmetric"/>
+<RELATION id="R26" fromID="c20" fromText="362 U. S. 539" toID="c17" toText="Mitchell v. Trawler Racer, Inc" gram_type="apposition" local_id="106118_30" relation_type="equivalence"/>
+<RELATION id="R27" fromID="c17" fromText="Mitchell v. Trawler Racer, Inc" toID="N18" toText="Mitchell" gram_type="infix" local_id="106118_28" relation_type="asymmetric"/>
+<RELATION id="R28" fromID="c17" fromText="Mitchell v. Trawler Racer, Inc" toID="N19" toText="Trawler Racer, Inc" gram_type="infix" local_id="106118_29" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

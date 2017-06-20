@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[212 U.S. 569
+    29 S. Ct. 692
+    53 L. Ed. 655
+    EX PARTE: IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner.
+    No. ___, Original.
+    February 1, 1909.
+    
+      Messrs. Fred L. Chappell, Morison R. Waite, and Edmund Wetmore for petitioner.
+    
+    
+      11
+      Denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="96987_1" page_number="569" reporter="U.S." standard_reporter="U.S." start="0" text="212 U.S. 569" volume="212"/>
+<citation id="c1" end="30" entry_type="standard_case" line="2" local_id="96987_2" page_number="692" reporter="S. Ct." standard_reporter="S.CT." start="17" text="29 S. Ct. 692" volume="29"/>
+<citation id="c2" end="48" entry_type="standard_case" line="3" local_id="96987_3" page_number="655" reporter="L. Ed." standard_reporter="L.ED." start="35" text="53 L. Ed. 655" volume="53"/>
+<NAME id="N3" end="61" local_id="96987_5" start="53" text="EX PARTE"/>
+<citation id="c4" end="127" entry_type="case_citation_other" line="4" local_id="96987_4" name="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY" party1=" THE DOWAGIAC MANUFACTURING  COMPANY" party1_role="Petitioner" start="63" text="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner"/>
+<LEGAL_ROLE id="L5" end="127" local_id="96987_6" start="70" text="MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner"/>
+<NAME id="N6" end="150" local_id="96987_7" start="142" text="Original"/>
+<date id="d7" end="172" local_id="96987_8" start="156" text="February 1, 1909"/>
+<NAME id="N8" end="209" local_id="96987_13" start="185" text="Messrs. Fred L. Chappell"/>
+<NAME id="N9" end="227" local_id="96987_14" start="211" text="Morison R. Waite"/>
+<LEGAL_ROLE id="L10" end="262" local_id="96987_15" start="233" text="Edmund Wetmore for petitioner"/>
+<RELATION id="R11" fromID="c0" fromText="212 U.S. 569" toID="c4" toText="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" gram_type="multi_line" local_id="96987_9" relation_type="equivalence"/>
+<RELATION id="R12" fromID="c1" fromText="29 S. Ct. 692" toID="c4" toText="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" gram_type="multi_line" local_id="96987_10" relation_type="equivalence"/>
+<RELATION id="R13" fromID="c2" fromText="53 L. Ed. 655" toID="c4" toText="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" gram_type="multi_line" local_id="96987_11" relation_type="equivalence"/>
+<RELATION id="R14" fromID="c4" fromText="IN THE MATTER OF THE DOWAGIAC MANUFACTURING  COMPANY, Petitioner" toID="d7" toText="February 1, 1909" gram_type="multi_line" local_id="96987_12" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

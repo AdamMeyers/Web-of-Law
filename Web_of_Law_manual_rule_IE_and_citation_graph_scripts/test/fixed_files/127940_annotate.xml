@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[538 U.S. 902
+    IN RE SULLIVAN. No. D-2346.
+    Supreme Court of United States.
+    March 10, 2003.
+    
+      11
+      Charles W. Sullivan, of New York, N. Y., having requested to resign as a member of the Bar of this Court, it is ordered that his name be stricken from the roll of attorneys admitted to the practice of law before this Court. The rule to show cause, issued on February 24, 2003 [537 U. S. 1184], is discharged.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="127940_1" page_number="902" reporter="U.S." standard_reporter="U.S." start="0" text="538 U.S. 902" volume="538"/>
+<citation id="c1" end="31" entry_type="case_citation_other" line="2" local_id="127940_3" name="IN RE SULLIVAN" start="17" text="IN RE SULLIVAN"/>
+<docket id="d2" end="43" entry_type="docket" line="2" local_id="127940_2" start="37" text="D-2346"/>
+<ORGANIZATION id="O3" end="79" local_id="127940_5" start="49" text="Supreme Court of United States"/>
+<date id="d4" end="99" local_id="127940_6" start="85" text="March 10, 2003"/>
+<NAME id="N5" end="140" local_id="127940_11" start="121" text="Charles W. Sullivan"/>
+<NAME id="N6" end="153" local_id="127940_12" start="145" text="New York"/>
+<NAME id="N7" end="159" local_id="127940_13" start="155" text="N. Y"/>
+<ORGANIZATION id="O8" end="225" local_id="127940_14" start="220" text="Court"/>
+<PROFESSION id="P9" end="293" local_id="127940_15" plural="True" start="284" text="attorneys"/>
+<ORGANIZATION id="O10" end="343" local_id="127940_16" start="338" text="Court"/>
+<date id="d11" end="396" local_id="127940_10" start="379" text="February 24, 2003"/>
+<citation id="c12" end="412" entry_type="standard_case" line="7" local_id="127940_9" page_number="1184" reporter="U. S." standard_reporter="U.S." start="398" text="537 U. S. 1184" volume="537"/>
+<RELATION id="R13" fromID="c1" fromText="IN RE SULLIVAN" toID="d2" toText="D-2346" gram_type="apposition" local_id="127940_4" relation_type="asymmetric"/>
+<RELATION id="R14" fromID="c0" fromText="538 U.S. 902" toID="c1" toText="IN RE SULLIVAN" gram_type="multi_line" local_id="127940_7" relation_type="equivalence"/>
+<RELATION id="R15" fromID="c1" fromText="IN RE SULLIVAN" toID="d4" toText="March 10, 2003" gram_type="multi_line" local_id="127940_8" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

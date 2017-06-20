@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+224 U.S. 85 (1912)
+BEUTLER 
+v. 
+GRAND TRUNK JUNCTION RAILWAY COMPANY.
+No. 194.
+Supreme Court of United States.
+Submitted March 6, 1912.
+Decided March 18, 1912.
+CERTIFICATE FROM THE CIRCUIT COURT OF APPEALS FOR THE SEVENTH CIRCUIT.
+Mr. James J. Barbour, with whom Mr. Raymond W. Beach and Mr. Elmer E. Beach were on the brief for Beutler.
+Mr. George W. Kretzinger for Railway Company.
+*88 MR. JUSTICE HOLMES delivered the opinion of the court.
+The deceased, Fetta, was at work in the repair yard of a railroad; other servants of the road, an engine and switching crew, ran a car needing repair from the general tracks into the special yard, and by their negligence killed him. There was no further relation between the parties than these facts disclose, and the question is certified whether they were fellow-servants within the rule that would exempt the railroad from liability in that case.
+The doctrine as to fellow-servants may be, as it has been called, a bad exception to a bad rule, but it is established, and it is not open to courts to do away with it upon their personal notions of what is expedient. So it has been decided that in cases tried in the United States courts we must follow our own understanding of the common law when no settled rule of property intervenes. Kuhn v. Fairmont Coal Co., 215 U.S. 349. Northern Pacific R.R. Co. v. Hambly, 154 U.S. 349, 360.
+The precedents in this court carry the doctrine as far as it is necessary to carry it in this case to show that the two persons concerned were engaged in a common employment. No testimony can shake the obvious fact that the character of their respective occupations brought the people engaged in them into necessary and frequent contact, although they may have had no personal relations. Every time that a car was to be repaired it had to be switched into the repair yard. There is no room for the exception to the rule that exists where the negligence consists in the undisclosed failure to furnish a safe place to work in, an exception that perhaps has been pushed to an extreme in the effort to limit the rule. Santa Fe Pacific R.R. Co. v. Holmes, 202 U.S. 438. McCabe & Steen Construction Co. v. Wilson, 209 U.S. 275. The head of the switching crew and the deceased were as *89 clearly fellow-servants as the section hand and engineer in Texas & Pacific Railway Co. v. Bourman, 212 U.S. 536. Northern Pacific R.R. Co. v. Hambly, 154 U.S. 349. It may be that in the state court the question would be left to the jury, Gathman v. Chicago, 236 Illinois, 9; Indiana, Illinois & Iowa R.R. Co. v. Otstot, 212 Illinois, 429, but whether certain facts do or do not constitute a ground of liability is in its nature a question of law. To leave it uncertain is to leave the law uncertain. If the law is bad the legislature, not juries, must make a change. We answer the certificate, Yes.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="19" entry_type="standard_case" line="2" local_id="97586_1" page_number="85" reporter="U.S." standard_reporter="U.S." start="1" text="224 U.S. 85 (1912)" volume="224" year="1912"/>
+<date id="d1" end="18" local_id="97586_2" start="14" text="1912"/>
+<citation id="c2" end="69" entry_type="case_X_vs_Y" line="5" local_id="97586_5" party1="BEUTLER" party2="GRAND TRUNK JUNCTION RAILWAY COMPANY" start="20" text="BEUTLER  v.  GRAND TRUNK JUNCTION RAILWAY COMPANY"/>
+<NAME id="N3" end="27" local_id="97586_6" party1_of="97586_5" start="20" text="BEUTLER"/>
+<NAME id="N4" end="69" local_id="97586_7" party2_of="97586_5" start="33" text="GRAND TRUNK JUNCTION RAILWAY COMPANY"/>
+<ORGANIZATION id="O5" end="110" local_id="97586_11" start="80" text="Supreme Court of United States"/>
+<date id="d6" end="135" local_id="97586_12" start="122" text="March 6, 1912"/>
+<NAME id="N7" end="144" local_id="97586_14" start="137" text="Decided"/>
+<date id="d8" end="159" local_id="97586_13" start="145" text="March 18, 1912"/>
+<ORGANIZATION id="O9" end="230" local_id="97586_15" start="161" text="CERTIFICATE FROM THE CIRCUIT COURT OF APPEALS FOR THE SEVENTH CIRCUIT"/>
+<NAME id="N10" end="252" local_id="97586_16" start="232" text="Mr. James J. Barbour"/>
+<NAME id="N11" end="307" local_id="97586_17" start="264" text="Mr. Raymond W. Beach and Mr. Elmer E. Beach"/>
+<NAME id="N12" end="337" local_id="97586_18" start="330" text="Beutler"/>
+<ORGANIZATION id="O13" end="383" local_id="97586_19" start="339" text="Mr. George W. Kretzinger for Railway Company"/>
+<NAME id="N14" end="391" local_id="97586_20" start="389" text="MR"/>
+<NAME id="N15" end="463" local_id="97586_21" start="458" text="Fetta"/>
+<PROFESSION id="P16" end="610" local_id="97586_22" start="603" text="general"/>
+<ORGANIZATION id="O17" end="1042" local_id="97586_31" plural="True" start="1036" text="courts"/>
+<ORGANIZATION id="O18" end="1182" local_id="97586_32" plural="True" start="1162" text="United States courts"/>
+<citation id="c19" end="1307" entry_type="case_X_vs_Y" line="15" local_id="97586_25" party1="Kuhn" party2="Fairmont Coal Co" start="1283" text="Kuhn v. Fairmont Coal Co"/>
+<NAME id="N20" end="1287" local_id="97586_27" party1_of="97586_25" start="1283" text="Kuhn"/>
+<NAME id="N21" end="1307" local_id="97586_28" party2_of="97586_25" start="1291" text="Fairmont Coal Co"/>
+<citation id="c22" end="1322" entry_type="standard_case" line="15" local_id="97586_23" page_number="349" reporter="U.S." standard_reporter="U.S." start="1310" text="215 U.S. 349" volume="215"/>
+<citation id="c23" end="1359" entry_type="case_X_vs_Y" line="15" local_id="97586_26" party1="Northern Pacific R.R. Co." party2="Hambly" start="1324" text="Northern Pacific R.R. Co. v. Hambly"/>
+<NAME id="N24" end="1349" local_id="97586_29" party1_of="97586_26" start="1324" text="Northern Pacific R.R. Co."/>
+<ORGANIZATION id="O25" end="1348" local_id="97586_33" start="1324" text="Northern Pacific R.R. Co"/>
+<NAME id="N26" end="1359" local_id="97586_30" party2_of="97586_26" start="1353" text="Hambly"/>
+<citation id="c27" end="1378" entry_type="standard_case" line="15" local_id="97586_24" page_number="349" paragraph_number="360" reporter="U.S." standard_reporter="U.S." start="1361" text="154 U.S. 349, 360" volume="154"/>
+<ORGANIZATION id="O28" end="1408" local_id="97586_62" start="1403" text="court"/>
+<citation id="c29" end="2129" entry_type="case_X_vs_Y" line="16" local_id="97586_44" party1="Santa Fe Pacific R.R. Co." party2="Holmes" start="2094" text="Santa Fe Pacific R.R. Co. v. Holmes"/>
+<NAME id="N30" end="2119" local_id="97586_50" party1_of="97586_44" start="2094" text="Santa Fe Pacific R.R. Co."/>
+<ORGANIZATION id="O31" end="2118" local_id="97586_63" start="2094" text="Santa Fe Pacific R.R. Co"/>
+<NAME id="N32" end="2129" local_id="97586_51" party2_of="97586_44" start="2123" text="Holmes"/>
+<citation id="c33" end="2143" entry_type="standard_case" line="16" local_id="97586_40" page_number="438" reporter="U.S." standard_reporter="U.S." start="2131" text="202 U.S. 438" volume="202"/>
+<citation id="c34" end="2186" entry_type="case_X_vs_Y" line="16" local_id="97586_45" party1="McCabe &amp; Steen Construction Co." party2="Wilson" start="2145" text="McCabe &amp; Steen Construction Co. v. Wilson"/>
+<NAME id="N35" end="2176" local_id="97586_52" party1_of="97586_45" start="2145" text="McCabe &amp; Steen Construction Co."/>
+<ORGANIZATION id="O36" end="2175" local_id="97586_64" start="2145" text="McCabe &amp; Steen Construction Co"/>
+<NAME id="N37" end="2186" local_id="97586_53" party2_of="97586_45" start="2180" text="Wilson"/>
+<citation id="c38" end="2200" entry_type="standard_case" line="16" local_id="97586_41" page_number="275" reporter="U.S." standard_reporter="U.S." start="2188" text="209 U.S. 275" volume="209"/>
+<PROFESSION id="P39" end="2318" local_id="97586_65" start="2310" text="engineer"/>
+<citation id="c40" end="2360" entry_type="case_X_vs_Y" line="16" local_id="97586_46" party1="Texas &amp; Pacific Railway Co." party2="Bourman" start="2322" text="Texas &amp; Pacific Railway Co. v. Bourman"/>
+<NAME id="N41" end="2349" local_id="97586_54" party1_of="97586_46" start="2322" text="Texas &amp; Pacific Railway Co."/>
+<ORGANIZATION id="O42" end="2348" local_id="97586_66" start="2322" text="Texas &amp; Pacific Railway Co"/>
+<NAME id="N43" end="2360" local_id="97586_55" party2_of="97586_46" start="2353" text="Bourman"/>
+<citation id="c44" end="2374" entry_type="standard_case" line="16" local_id="97586_42" page_number="536" reporter="U.S." standard_reporter="U.S." start="2362" text="212 U.S. 536" volume="212"/>
+<citation id="c45" end="2411" entry_type="case_X_vs_Y" line="16" local_id="97586_47" party1="Northern Pacific R.R. Co." party2="Hambly" start="2376" text="Northern Pacific R.R. Co. v. Hambly"/>
+<NAME id="N46" end="2401" local_id="97586_56" party1_of="97586_47" start="2376" text="Northern Pacific R.R. Co."/>
+<ORGANIZATION id="O47" end="2400" local_id="97586_67" start="2376" text="Northern Pacific R.R. Co"/>
+<NAME id="N48" end="2411" local_id="97586_57" party2_of="97586_47" start="2405" text="Hambly"/>
+<citation id="c49" end="2425" entry_type="standard_case" line="16" local_id="97586_43" page_number="349" reporter="U.S." standard_reporter="U.S." start="2413" text="154 U.S. 349" volume="154"/>
+<NAME id="N50" end="2429" local_id="97586_68" start="2427" text="It"/>
+<ORGANIZATION id="O51" end="2460" local_id="97586_69" start="2455" text="court"/>
+<citation id="c52" end="2519" entry_type="case_X_vs_Y" line="16" local_id="97586_48" party1="Gathman" party2="Chicago" start="2501" text="Gathman v. Chicago"/>
+<NAME id="N53" end="2508" local_id="97586_58" party1_of="97586_48" start="2501" text="Gathman"/>
+<NAME id="N54" end="2519" local_id="97586_59" party2_of="97586_48" start="2512" text="Chicago"/>
+<NAME id="N55" end="2533" local_id="97586_70" start="2525" text="Illinois"/>
+<citation id="c56" end="2581" entry_type="case_X_vs_Y" line="16" local_id="97586_49" party1="Indiana, Illinois &amp; Iowa R.R. Co." party2="Otstot" start="2538" text="Indiana, Illinois &amp; Iowa R.R. Co. v. Otstot"/>
+<NAME id="N57" end="2571" local_id="97586_60" party1_of="97586_49" start="2538" text="Indiana, Illinois &amp; Iowa R.R. Co."/>
+<ORGANIZATION id="O58" end="2570" local_id="97586_71" start="2547" text="Illinois &amp; Iowa R.R. Co"/>
+<NAME id="N59" end="2581" local_id="97586_61" party2_of="97586_49" start="2575" text="Otstot"/>
+<NAME id="N60" end="2595" local_id="97586_72" start="2587" text="Illinois"/>
+<PROFESSION id="P61" end="2796" local_id="97586_73" start="2785" text="legislature"/>
+<NAME id="N62" end="2860" local_id="97586_74" start="2857" text="Yes"/>
+<RELATION id="R63" fromID="c0" fromText="224 U.S. 85 (1912)" toID="d1" toText="1912" gram_type="infix" local_id="97586_3" relation_type="asymmetric"/>
+<RELATION id="R64" fromID="c2" fromText="BEUTLER  v.  GRAND TRUNK JUNCTION RAILWAY COMPANY" toID="N3" toText="BEUTLER" gram_type="infix" local_id="97586_8" relation_type="asymmetric"/>
+<RELATION id="R65" fromID="c2" fromText="BEUTLER  v.  GRAND TRUNK JUNCTION RAILWAY COMPANY" toID="N4" toText="GRAND TRUNK JUNCTION RAILWAY COMPANY" gram_type="infix" local_id="97586_9" relation_type="asymmetric"/>
+<RELATION id="R66" fromID="c0" fromText="224 U.S. 85 (1912)" toID="c2" toText="BEUTLER  v.  GRAND TRUNK JUNCTION RAILWAY COMPANY" gram_type="multi_line" local_id="97586_10" relation_type="equivalence"/>
+<RELATION id="R67" fromID="c22" fromText="215 U.S. 349" toID="c19" toText="Kuhn v. Fairmont Coal Co" gram_type="apposition" local_id="97586_36" relation_type="equivalence"/>
+<RELATION id="R68" fromID="c19" fromText="Kuhn v. Fairmont Coal Co" toID="N20" toText="Kuhn" gram_type="infix" local_id="97586_34" relation_type="asymmetric"/>
+<RELATION id="R69" fromID="c19" fromText="Kuhn v. Fairmont Coal Co" toID="N21" toText="Fairmont Coal Co" gram_type="infix" local_id="97586_35" relation_type="asymmetric"/>
+<RELATION id="R70" fromID="c27" fromText="154 U.S. 349, 360" toID="c23" toText="Northern Pacific R.R. Co. v. Hambly" gram_type="apposition" local_id="97586_39" relation_type="equivalence"/>
+<RELATION id="R71" fromID="c23" fromText="Northern Pacific R.R. Co. v. Hambly" toID="N24" toText="Northern Pacific R.R. Co." gram_type="infix" local_id="97586_37" relation_type="asymmetric"/>
+<RELATION id="R72" fromID="c23" fromText="Northern Pacific R.R. Co. v. Hambly" toID="N26" toText="Hambly" gram_type="infix" local_id="97586_38" relation_type="asymmetric"/>
+<RELATION id="R73" fromID="c33" fromText="202 U.S. 438" toID="c29" toText="Santa Fe Pacific R.R. Co. v. Holmes" gram_type="apposition" local_id="97586_77" relation_type="equivalence"/>
+<RELATION id="R74" fromID="c29" fromText="Santa Fe Pacific R.R. Co. v. Holmes" toID="N30" toText="Santa Fe Pacific R.R. Co." gram_type="infix" local_id="97586_75" relation_type="asymmetric"/>
+<RELATION id="R75" fromID="c29" fromText="Santa Fe Pacific R.R. Co. v. Holmes" toID="N32" toText="Holmes" gram_type="infix" local_id="97586_76" relation_type="asymmetric"/>
+<RELATION id="R76" fromID="c38" fromText="209 U.S. 275" toID="c34" toText="McCabe & Steen Construction Co. v. Wilson" gram_type="apposition" local_id="97586_80" relation_type="equivalence"/>
+<RELATION id="R77" fromID="c34" fromText="McCabe & Steen Construction Co. v. Wilson" toID="N35" toText="McCabe & Steen Construction Co." gram_type="infix" local_id="97586_78" relation_type="asymmetric"/>
+<RELATION id="R78" fromID="c34" fromText="McCabe & Steen Construction Co. v. Wilson" toID="N37" toText="Wilson" gram_type="infix" local_id="97586_79" relation_type="asymmetric"/>
+<RELATION id="R79" fromID="c44" fromText="212 U.S. 536" toID="c40" toText="Texas & Pacific Railway Co. v. Bourman" gram_type="apposition" local_id="97586_83" relation_type="equivalence"/>
+<RELATION id="R80" fromID="c40" fromText="Texas & Pacific Railway Co. v. Bourman" toID="N41" toText="Texas & Pacific Railway Co." gram_type="infix" local_id="97586_81" relation_type="asymmetric"/>
+<RELATION id="R81" fromID="c40" fromText="Texas & Pacific Railway Co. v. Bourman" toID="N43" toText="Bourman" gram_type="infix" local_id="97586_82" relation_type="asymmetric"/>
+<RELATION id="R82" fromID="c49" fromText="154 U.S. 349" toID="c45" toText="Northern Pacific R.R. Co. v. Hambly" gram_type="apposition" local_id="97586_86" relation_type="equivalence"/>
+<RELATION id="R83" fromID="c45" fromText="Northern Pacific R.R. Co. v. Hambly" toID="N46" toText="Northern Pacific R.R. Co." gram_type="infix" local_id="97586_84" relation_type="asymmetric"/>
+<RELATION id="R84" fromID="c45" fromText="Northern Pacific R.R. Co. v. Hambly" toID="N48" toText="Hambly" gram_type="infix" local_id="97586_85" relation_type="asymmetric"/>
+<RELATION id="R85" fromID="c52" fromText="Gathman v. Chicago" toID="N53" toText="Gathman" gram_type="infix" local_id="97586_87" relation_type="asymmetric"/>
+<RELATION id="R86" fromID="c52" fromText="Gathman v. Chicago" toID="N54" toText="Chicago" gram_type="infix" local_id="97586_88" relation_type="asymmetric"/>
+<RELATION id="R87" fromID="c56" fromText="Indiana, Illinois & Iowa R.R. Co. v. Otstot" toID="N57" toText="Indiana, Illinois & Iowa R.R. Co." gram_type="infix" local_id="97586_89" relation_type="asymmetric"/>
+<RELATION id="R88" fromID="c56" fromText="Indiana, Illinois & Iowa R.R. Co. v. Otstot" toID="N59" toText="Otstot" gram_type="infix" local_id="97586_90" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

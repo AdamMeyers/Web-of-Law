@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[325 U.S. 898     65 S. Ct. 1562     89 L. Ed. 2007     ESTATE OF John S. GARRETT, Jr., deceased, Bankrupt, etc.     No. 467.     Supreme Court of the United States     June 18, 1945            Messrs. Vincent P. McDevitt, of Philadelphia, Pa., for petitioner.
+      Messrs. Ernest Scott and Joseph S. Conwell, Jr., both of Philadelphia, Pa., W. Edward Greenwood, of West Chester, Pa., and David Rosen, of Philadelphia, Pa., for respondent.
+    
+    
+      11
+      The motion for leave to file petition for rehearing is granted. The petition for rehearing is denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="104177_1" page_number="898" reporter="U.S." standard_reporter="U.S." start="0" text="325 U.S. 898" volume="325"/>
+<citation id="c1" end="31" entry_type="standard_case" line="1" local_id="104177_2" page_number="1562" reporter="S. Ct." standard_reporter="S.CT." start="17" text="65 S. Ct. 1562" volume="65"/>
+<NAME id="N2" end="25" local_id="104177_7" start="20" text="S. Ct"/>
+<citation id="c3" end="50" entry_type="standard_case" line="1" local_id="104177_3" page_number="2007" reporter="L. Ed." standard_reporter="L.ED." start="36" text="89 L. Ed. 2007" volume="89"/>
+<date id="d4" end="50" local_id="104177_4" start="46" text="2007"/>
+<citation id="c5" end="85" entry_type="case_citation_other" line="1" local_id="104177_6" name="ESTATE OF John S. GARRETT, Jr." start="55" text="ESTATE OF John S. GARRETT, Jr."/>
+<NAME id="N6" end="105" local_id="104177_8" start="97" text="Bankrupt"/>
+<date id="d7" end="181" local_id="104177_5" start="168" text="June 18, 1945"/>
+<NAME id="N8" end="220" local_id="104177_9" start="193" text="Messrs. Vincent P. McDevitt"/>
+<NAME id="N9" end="241" local_id="104177_10" start="225" text="Philadelphia, Pa"/>
+<LEGAL_ROLE id="L10" end="258" local_id="104177_11" start="248" text="petitioner"/>
+<NAME id="N11" end="312" local_id="104177_16" start="266" text="Messrs. Ernest Scott and Joseph S. Conwell, Jr"/>
+<NAME id="N12" end="339" local_id="104177_17" start="323" text="Philadelphia, Pa"/>
+<NAME id="N13" end="361" local_id="104177_18" start="342" text="W. Edward Greenwood"/>
+<NAME id="N14" end="382" local_id="104177_19" start="371" text="Chester, Pa"/>
+<NAME id="N15" end="400" local_id="104177_20" start="389" text="David Rosen"/>
+<NAME id="N16" end="421" local_id="104177_21" start="405" text="Philadelphia, Pa"/>
+<LEGAL_ROLE id="L17" end="438" local_id="104177_22" start="428" text="respondent"/>
+<RELATION id="R18" fromID="c0" fromText="325 U.S. 898" toID="c5" toText="ESTATE OF John S. GARRETT, Jr." gram_type="pre_nom" local_id="104177_14" relation_type="equivalence"/>
+<RELATION id="R19" fromID="c1" fromText="65 S. Ct. 1562" toID="c5" toText="ESTATE OF John S. GARRETT, Jr." gram_type="pre_nom" local_id="104177_15" relation_type="equivalence"/>
+<RELATION id="R20" fromID="c3" fromText="89 L. Ed. 2007" toID="c5" toText="ESTATE OF John S. GARRETT, Jr." gram_type="pre_nom" local_id="104177_13" relation_type="equivalence"/>
+<RELATION id="R21" fromID="c3" fromText="89 L. Ed. 2007" toID="d4" toText="2007" gram_type="infix" local_id="104177_12" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

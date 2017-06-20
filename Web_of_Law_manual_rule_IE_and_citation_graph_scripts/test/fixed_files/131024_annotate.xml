@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[539 U.S. 976
+    Hall v. Florida, 538 U. S. 1059.
+    No. 02-9683.
+    Supreme Court of United States.
+    August 4, 2003.
+    
+      11
+      Petition for rehearing denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="131024_1" page_number="976" reporter="U.S." standard_reporter="U.S." start="0" text="539 U.S. 976" volume="539"/>
+<citation id="c1" end="32" entry_type="case_X_vs_Y" line="2" local_id="131024_3" party1="Hall" party2="Florida" start="17" text="Hall v. Florida"/>
+<NAME id="N2" end="21" local_id="131024_4" party1_of="131024_3" start="17" text="Hall"/>
+<NAME id="N3" end="32" local_id="131024_5" party2_of="131024_3" start="25" text="Florida"/>
+<citation id="c4" end="48" entry_type="standard_case" line="2" local_id="131024_2" page_number="1059" reporter="U. S." standard_reporter="U.S." start="34" text="538 U. S. 1059" volume="538"/>
+<docket id="d5" end="65" entry_type="docket" line="3" local_id="131024_9" start="58" text="02-9683"/>
+<ORGANIZATION id="O6" end="101" local_id="131024_10" start="71" text="Supreme Court of United States"/>
+<date id="d7" end="121" local_id="131024_11" start="107" text="August 4, 2003"/>
+<NAME id="N8" end="151" local_id="131024_15" start="143" text="Petition"/>
+<RELATION id="R10" fromID="c1" fromText="Hall v. Florida" toID="N2" toText="Hall" gram_type="infix" local_id="131024_6" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c1" fromText="Hall v. Florida" toID="N3" toText="Florida" gram_type="infix" local_id="131024_7" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c0" fromText="539 U.S. 976" toID="c1" toText="Hall v. Florida" gram_type="multi_line" local_id="131024_12" relation_type="equivalence"/>
+<RELATION id="R13" fromID="c1" fromText="Hall v. Florida" toID="d7" toText="August 4, 2003" gram_type="multi_line" local_id="131024_14" relation_type="asymmetric"/>
+<RELATION id="R14" fromID="c1" fromText="Hall v. Florida" toID="d5" toText="02-9683" gram_type="multi_line" local_id="131024_13" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c4" fromText="538 U. S. 1059" toID="c1" toText="Hall v. Florida" gram_type="apposition" local_id="131024_8" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

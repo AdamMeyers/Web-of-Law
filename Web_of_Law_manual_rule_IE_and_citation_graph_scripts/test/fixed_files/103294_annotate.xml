@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+309 U.S. 146 (1940)
+FLY ET AL. 
+v. 
+HEITMEYER.
+No. 316.
+Supreme Court of United States.
+Argued January 11, 1940.
+Decided January 29, 1940.
+CERTIORARI TO THE COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA.
+*147 Solicitor General Jackson, with whom Messrs. Warner W. Gardner, Robert M. Cooper, William J. Dempsey, and William C. Koplovitz were on the brief, for petitioners.
+Mr. Clarence C. Dill, with whom Mr. James W. Gum was on the brief, for respondent.
+MR. JUSTICE FRANKFURTER delivered the opinion of the Court.
+On March 25, 1935, Heitmeyer, respondent here, applied for a permit from the Federal Communications Commission under § 319 of the Communications Act of 1934, c. 652, 48 Stat. 1089, 47 U.S.C. 319, to construct a broadcasting station at Cheyenne, Wyoming. His application and a competing one were heard by an examiner. The Commission, on May 1, 1936, denied respondent's application on the sole ground that he was financially disqualified. He appealed to the United States Court of Appeals for the District of Columbia and the Commission's decision was reversed. Heitmeyer v. Federal Communications Commission, 68 App. D.C. 180; 95 F.2d 91. To proceed in conformity with this opinion, the case was remanded to the Commission.
+After Heitmeyer's appeal two other applications for the same facilities were filed with the Commission. Following intermediate litigation, needless here to recount, the Commission directed that respondent's case be reopened in conjunction with the pending rival applications. *148 Before this hearing could be had, respondent obtained from the Court of Appeals a writ of mandamus directing the Commission to restrict consideration of his application to the record originally before it. McNinch v. Heitmeyer, 70 App. D.C. 162; 105 F.2d 41. Because important questions of administrative law were involved, we granted certiorari. 308 U.S. 540.
+This case is controlled by our decision in Federal Communications Commission v. Pottsville Broadcasting Co., ante, p. 134.
+The only relevant difference between the two cases is that here the Commission proposed on remand not only to reconsider respondent's application on oral argument with subsequently filed rival applications, but to reopen the record and take new evidence on the comparative ability of the various applicants to satisfy "public convenience, interest, or necessity." But the Commission's duty was to apply the statutory standard in deciding which of the applicants was to receive a permit after it fell into legal error as well as before. If, in the Commission's judgment, new evidence was necessary to discharge its duty, the fact of a previously erroneous denial should not, according to the principles enunciated in the Pottsville case, ante, bar it from access to the necessary evidence for correct judgment.
+The judgment is reversed, with directions to dissolve the writ of mandamus and to dismiss respondent's petition.
+Reversed.
+MR. JUSTICE McREYNOLDS concurs in the result.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="103294_1" page_number="146" reporter="U.S." standard_reporter="U.S." start="1" text="309 U.S. 146 (1940)" volume="309" year="1940"/>
+<date id="d1" end="19" local_id="103294_2" start="15" text="1940"/>
+<citation id="c2" end="46" entry_type="case_X_vs_Y" line="5" local_id="103294_5" party1="FLY ET AL." party2="HEITMEYER" start="21" text="FLY ET AL.  v.  HEITMEYER"/>
+<NAME id="N3" end="31" local_id="103294_6" party1_of="103294_5" start="21" text="FLY ET AL."/>
+<NAME id="N4" end="46" local_id="103294_7" party2_of="103294_5" start="37" text="HEITMEYER"/>
+<ORGANIZATION id="O5" end="87" local_id="103294_11" start="57" text="Supreme Court of United States"/>
+<date id="d6" end="112" local_id="103294_12" start="96" text="January 11, 1940"/>
+<NAME id="N7" end="121" local_id="103294_14" start="114" text="Decided"/>
+<date id="d8" end="138" local_id="103294_13" start="122" text="January 29, 1940"/>
+<ORGANIZATION id="O9" end="203" local_id="103294_15" start="140" text="CERTIORARI TO THE COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA"/>
+<PROFESSION id="P10" end="227" local_id="103294_16" start="210" text="Solicitor General"/>
+<NAME id="N11" end="235" local_id="103294_17" start="228" text="Jackson"/>
+<NAME id="N12" end="272" local_id="103294_18" start="247" text="Messrs. Warner W. Gardner"/>
+<NAME id="N13" end="290" local_id="103294_19" start="274" text="Robert M. Cooper"/>
+<NAME id="N14" end="310" local_id="103294_20" start="292" text="William J. Dempsey"/>
+<NAME id="N15" end="336" local_id="103294_21" start="316" text="William C. Koplovitz"/>
+<LEGAL_ROLE id="L16" end="371" local_id="103294_22" plural="True" start="360" text="petitioners"/>
+<NAME id="N17" end="393" local_id="103294_24" start="373" text="Mr. Clarence C. Dill"/>
+<NAME id="N18" end="421" local_id="103294_25" start="405" text="Mr. James W. Gum"/>
+<LEGAL_ROLE id="L19" end="454" local_id="103294_26" start="444" text="respondent"/>
+<NAME id="N20" end="458" local_id="103294_27" start="456" text="MR"/>
+<date id="d21" end="533" local_id="103294_32" start="519" text="March 25, 1935"/>
+<NAME id="N22" end="544" local_id="103294_35" start="535" text="Heitmeyer"/>
+<LEGAL_ROLE id="L23" end="556" local_id="103294_36" start="546" text="respondent"/>
+<ORGANIZATION id="O24" end="664" local_id="103294_37" start="593" text="Federal Communications Commission under § 319 of the Communications Act"/>
+<date id="d25" end="672" local_id="103294_33" start="668" text="1934"/>
+<NAME id="N26" end="689" local_id="103294_38" start="685" text="Stat"/>
+<NAME id="N27" end="705" local_id="103294_39" start="700" text="U.S.C"/>
+<NAME id="N28" end="759" local_id="103294_40" start="751" text="Cheyenne"/>
+<NAME id="N29" end="768" local_id="103294_41" start="761" text="Wyoming"/>
+<ORGANIZATION id="O30" end="847" local_id="103294_42" start="837" text="Commission"/>
+<date id="d31" end="863" local_id="103294_34" start="852" text="May 1, 1936"/>
+<LEGAL_ROLE id="L32" end="882" local_id="103294_43" start="872" text="respondent"/>
+<ORGANIZATION id="O33" end="1032" local_id="103294_44" start="973" text="United States Court of Appeals for the District of Columbia"/>
+<ORGANIZATION id="O34" end="1051" local_id="103294_45" start="1041" text="Commission"/>
+<citation id="c35" end="1123" entry_type="case_X_vs_Y" line="14" local_id="103294_29" party1="Heitmeyer" party2="Federal Communications Commission" start="1077" text="Heitmeyer v. Federal Communications Commission"/>
+<NAME id="N36" end="1086" local_id="103294_30" party1_of="103294_29" start="1077" text="Heitmeyer"/>
+<NAME id="N37" end="1123" local_id="103294_31" party2_of="103294_29" start="1090" text="Federal Communications Commission"/>
+<NAME id="N38" end="1136" local_id="103294_46" start="1128" text="App. D.C"/>
+<citation id="c39" end="1153" entry_type="standard_case" line="14" local_id="103294_28" page_number="91" reporter="F.2d" standard_reporter="F.2D" start="1143" text="95 F.2d 91" volume="95"/>
+<ORGANIZATION id="O40" end="1238" local_id="103294_47" start="1228" text="Commission"/>
+<NAME id="N41" end="1255" local_id="103294_56" start="1246" text="Heitmeyer"/>
+<ORGANIZATION id="O42" end="1342" local_id="103294_57" start="1332" text="Commission"/>
+<NAME id="N43" end="1353" local_id="103294_58" start="1344" text="Following"/>
+<ORGANIZATION id="O44" end="1419" local_id="103294_59" start="1409" text="Commission"/>
+<LEGAL_ROLE id="L45" end="1444" local_id="103294_60" start="1434" text="respondent"/>
+<LEGAL_ROLE id="L46" end="1565" local_id="103294_61" start="1555" text="respondent"/>
+<ORGANIZATION id="O47" end="1600" local_id="103294_62" start="1584" text="Court of Appeals"/>
+<ORGANIZATION id="O48" end="1644" local_id="103294_63" start="1634" text="Commission"/>
+<citation id="c49" end="1746" entry_type="case_X_vs_Y" line="15" local_id="103294_53" party1="McNinch" party2="Heitmeyer" start="1726" text="McNinch v. Heitmeyer"/>
+<NAME id="N50" end="1733" local_id="103294_54" party1_of="103294_53" start="1726" text="McNinch"/>
+<NAME id="N51" end="1746" local_id="103294_55" party2_of="103294_53" start="1737" text="Heitmeyer"/>
+<NAME id="N52" end="1759" local_id="103294_64" start="1751" text="App. D.C"/>
+<citation id="c53" end="1777" entry_type="standard_case" line="15" local_id="103294_51" page_number="41" reporter="F.2d" standard_reporter="F.2D" start="1766" text="105 F.2d 41" volume="105"/>
+<citation id="c54" end="1879" entry_type="standard_case" line="15" local_id="103294_52" page_number="540" reporter="U.S." standard_reporter="U.S." start="1867" text="308 U.S. 540" volume="308"/>
+<citation id="c55" end="1987" entry_type="case_X_vs_Y" line="16" local_id="103294_67" party1="Federal Communications Commission" party2="Pottsville Broadcasting Co" start="1924" text="Federal Communications Commission v. Pottsville Broadcasting Co"/>
+<NAME id="N56" end="1957" local_id="103294_68" party1_of="103294_67" start="1924" text="Federal Communications Commission"/>
+<NAME id="N57" end="1987" local_id="103294_69" party2_of="103294_67" start="1961" text="Pottsville Broadcasting Co"/>
+<ORGANIZATION id="O58" end="2082" local_id="103294_72" start="2072" text="Commission"/>
+<LEGAL_ROLE id="L59" end="2135" local_id="103294_73" start="2125" text="respondent"/>
+<LEGAL_ROLE id="L60" end="2310" local_id="103294_74" plural="True" start="2300" text="applicants"/>
+<quote id="q79" end="2367" local_id="400" start="2322" text="«public convenience, interest, or necessity.«"/>
+<ORGANIZATION id="O61" end="2386" local_id="103294_75" start="2376" text="Commission"/>
+<LEGAL_ROLE id="L62" end="2465" local_id="103294_76" plural="True" start="2455" text="applicants"/>
+<ORGANIZATION id="O63" end="2561" local_id="103294_77" start="2551" text="Commission"/>
+<NAME id="N64" end="2734" local_id="103294_78" start="2724" text="Pottsville"/>
+<LEGAL_ROLE id="L65" end="2914" local_id="103294_79" start="2904" text="respondent"/>
+<NAME id="N66" end="2939" local_id="103294_80" start="2937" text="MR"/>
+<RELATION id="R67" fromID="c0" fromText="309 U.S. 146 (1940)" toID="d1" toText="1940" gram_type="infix" local_id="103294_3" relation_type="asymmetric"/>
+<RELATION id="R68" fromID="c2" fromText="FLY ET AL.  v.  HEITMEYER" toID="N3" toText="FLY ET AL." gram_type="infix" local_id="103294_8" relation_type="asymmetric"/>
+<RELATION id="R69" fromID="c2" fromText="FLY ET AL.  v.  HEITMEYER" toID="N4" toText="HEITMEYER" gram_type="infix" local_id="103294_9" relation_type="asymmetric"/>
+<RELATION id="R70" fromID="c0" fromText="309 U.S. 146 (1940)" toID="c2" toText="FLY ET AL.  v.  HEITMEYER" gram_type="multi_line" local_id="103294_10" relation_type="equivalence"/>
+<RELATION id="R71" fromID="N11" fromText="Jackson" toID="P10" toText="Solicitor General" gram_type="pre_nom" local_id="103294_23" relation_type="asymmetric"/>
+<RELATION id="R72" fromID="N22" fromText="Heitmeyer" toID="L23" toText="respondent" gram_type="apposition" local_id="103294_48" relation_type="asymmetric"/>
+<RELATION id="R73" fromID="c35" fromText="Heitmeyer v. Federal Communications Commission" toID="N36" toText="Heitmeyer" gram_type="infix" local_id="103294_49" relation_type="asymmetric"/>
+<RELATION id="R74" fromID="c35" fromText="Heitmeyer v. Federal Communications Commission" toID="N37" toText="Federal Communications Commission" gram_type="infix" local_id="103294_50" relation_type="asymmetric"/>
+<RELATION id="R75" fromID="c49" fromText="McNinch v. Heitmeyer" toID="N50" toText="McNinch" gram_type="infix" local_id="103294_65" relation_type="asymmetric"/>
+<RELATION id="R76" fromID="c49" fromText="McNinch v. Heitmeyer" toID="N51" toText="Heitmeyer" gram_type="infix" local_id="103294_66" relation_type="asymmetric"/>
+<RELATION id="R77" fromID="c55" fromText="Federal Communications Commission v. Pottsville Broadcasting Co" toID="N56" toText="Federal Communications Commission" gram_type="infix" local_id="103294_70" relation_type="asymmetric"/>
+<RELATION id="R78" fromID="c55" fromText="Federal Communications Commission v. Pottsville Broadcasting Co" toID="N57" toText="Pottsville Broadcasting Co" gram_type="infix" local_id="103294_71" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

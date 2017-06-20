@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[537 U.S. 903     ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES.     No. 02-5239.     Supreme Court of United States.     October 7, 2002.            11       CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT.          
+      22
+      C. A. 5th Cir. Certiorari denied. Reported below: 35 Fed. Appx. 387.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="123575_1" page_number="903" reporter="U.S." standard_reporter="U.S." start="0" text="537 U.S. 903" volume="537"/>
+<citation id="c1" end="68" entry_type="case_X_vs_Y" line="1" local_id="123575_3" party1="ARREOLA-GARCIA, AKA GARCIA ARREOLA" party2="UNITED STATES" start="17" text="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES"/>
+<NAME id="N2" end="51" local_id="123575_4" party1_of="123575_3" start="17" text="ARREOLA-GARCIA, AKA GARCIA ARREOLA"/>
+<NAME id="N3" end="31" local_id="123575_7" start="17" text="ARREOLA-GARCIA"/>
+<NAME id="N4" end="68" local_id="123575_5" party2_of="123575_3" start="55" text="UNITED STATES"/>
+<docket id="d5" end="85" entry_type="docket" line="1" local_id="123575_2" start="78" text="02-5239"/>
+<date id="d6" end="142" local_id="123575_6" start="127" text="October 7, 2002"/>
+<NAME id="N7" end="274" local_id="123575_13" start="271" text="Cir"/>
+<RELATION id="R10" fromID="c1" fromText="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" toID="d5" toText="02-5239" gram_type="apposition" local_id="123575_11" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c1" fromText="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" toID="N4" toText="UNITED STATES" gram_type="infix" local_id="123575_10" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c1" fromText="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" toID="N2" toText="ARREOLA-GARCIA, AKA GARCIA ARREOLA" gram_type="infix" local_id="123575_9" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c0" fromText="537 U.S. 903" toID="d5" toText="02-5239" gram_type="apposition" local_id="123575_12" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c0" fromText="537 U.S. 903" toID="c1" toText="ARREOLA-GARCIA, AKA GARCIA ARREOLA v. UNITED STATES" gram_type="pre_nom" local_id="123575_8" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

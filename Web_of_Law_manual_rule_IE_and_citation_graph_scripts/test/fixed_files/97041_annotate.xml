@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+214 U.S. 153 (1909)
+TEXAS AND PACIFIC RAILWAY COMPANY 
+v. 
+EASTIN & KNOX.
+No. 177.
+Supreme Court of United States.
+Argued April 23, 1909.
+Decided May 17, 1909.
+IN ERROR TO THE SUPREME COURT OF THE STATE OF TEXAS.
+*156 Mr. Rush Taggart and Mr. W.L. Hall, with whom Mr. John F. Dillon was on the brief, for plaintiffs in error.
+Mr. Thomas D. Sporer, with whom Mr. H.C. McClure was on the brief, for defendants in error.
+*158 MR. JUSTICE McKENNA, after stating the facts as above, delivered the opinion of the court.
+The assignments of error present the question of the right of the Texas and Pacific Company to a removal of the case to the Circuit Court of the United States, (1) Because, being a corporation chartered under an act of Congress, the suit was one arising under the laws of the United States, and that this character was not taken from it by joining a local defendant when it was an action to establish a joint liability. (2) Where the facts stated in the petition for removal show a cause properly removable from a state to a Federal court, the state court has no jurisdiction to pass finally upon them; that right is one for the Federal court, it having the exclusive province of passing upon such questions of fact.
+*159 The first proposition is sustained in the Matter of Dunn, 212 U.S. 374; the second proposition is sustained in Chesapeake and Ohio Railway v. Emma R. McCabe, Administratrix, 213 U.S. 207. The latter case also decides that if an application for removal be denied the petitioner loses no right by being compelled to stay in the state court. In other words, that the petitioner may stay in the state court and defend the action against him, and if the judgment go against him bring the case to this court and have the question of removal determined. But plaintiffs in error did not defend only against the cause of action. They instituted a cause of action against the St. Louis and San Francisco Railroad Company, in which the defendant in error had no concern, and recovered a judgment against that company in the sum of $1,800. By doing so they invoked the jurisdiction of the state court on their own account and for their own purpose, and the case is brought within the ruling in Merchants Heat & L. Co. v. Clow & Sons, 204 U.S. 286.
+The single question in this court in that case was the jurisdiction of the Circuit Court, from which the case came. The Merchants Heat & Light Company, an Indiana corporation, contended that no jurisdiction had been obtained over it by the service which was made upon one Schodd, who, it was asserted by the plaintiff in the action, was an agent of the company. A motion to quash the return of service was made and overruled, and thereupon the company, after excepting, appeared as ordered and pleaded the general issue, and also a recoupment or set-off of damages under the same contract sued upon, and overcharges in excess of the amount ultimately found due to the plaintiff. There was a finding for the plaintiff of $9,082.21.
+Whether the company was doing business in the State of Illinois within the meaning of the statutes of that State under which service was made, this court did not decide, but it did decide that the company, "by setting up its counter-claim became a plaintiff in its turn, invoking the jurisdiction of the *160 court in the same action, and, by invoking, submitted to it." And this, notwithstanding the counter-claim arose, as it was said, "out of the same transaction that the plaintiff sued upon, and so to have been in recoupment rather than in set-off proper." It was further said: "There is some difference in the decisions as to when a defendant becomes so far an actor as to submit to the jurisdiction, but we are aware of none as to the proposition that when he does become an actor in a proper sense he submits." And the Texas and Pacific Company was an actor against the St. Louis and San Francisco Company upon a cause of action upon which it was its own choice to bring into the suit. On that cause of action it obtained a judgment against the St. Louis and San Francisco Company, and succeeded in having it affirmed by the Supreme Court of the State.
+It would be carrying too far the right of a party who has petitioned for removal of a case to extend it beyond what is necessary to defend against the cause of action asserted against him. He should not be permitted to invoke the jurisdiction for affirmative relief and deny it afterwards. It must be remembered how amply his right of removal is protected. He may file the record in the Circuit Court of the United States and thereby completely take jurisdiction from the state court.
+Judgment affirmed.
+MR. JUSTICE PECKHAM and MR. JUSTICE DAY dissent.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="97041_1" page_number="153" reporter="U.S." standard_reporter="U.S." start="1" text="214 U.S. 153 (1909)" volume="214" year="1909"/>
+<date id="d1" end="19" local_id="97041_2" start="15" text="1909"/>
+<citation id="c2" end="73" entry_type="case_X_vs_Y" line="5" local_id="97041_5" party1="TEXAS AND PACIFIC RAILWAY COMPANY" party2="EASTIN &amp; KNOX" start="21" text="TEXAS AND PACIFIC RAILWAY COMPANY  v.  EASTIN &amp; KNOX"/>
+<NAME id="N3" end="54" local_id="97041_6" party1_of="97041_5" start="21" text="TEXAS AND PACIFIC RAILWAY COMPANY"/>
+<NAME id="N4" end="73" local_id="97041_7" party2_of="97041_5" start="60" text="EASTIN &amp; KNOX"/>
+<ORGANIZATION id="O5" end="114" local_id="97041_11" start="84" text="Supreme Court of United States"/>
+<date id="d6" end="137" local_id="97041_12" start="123" text="April 23, 1909"/>
+<NAME id="N7" end="146" local_id="97041_14" start="139" text="Decided"/>
+<date id="d8" end="159" local_id="97041_13" start="147" text="May 17, 1909"/>
+<ORGANIZATION id="O9" end="212" local_id="97041_15" start="164" text="ERROR TO THE SUPREME COURT OF THE STATE OF TEXAS"/>
+<NAME id="N10" end="253" local_id="97041_16" start="219" text="Mr. Rush Taggart and Mr. W.L. Hall"/>
+<NAME id="N11" end="283" local_id="97041_17" start="265" text="Mr. John F. Dillon"/>
+<LEGAL_ROLE id="L12" end="316" local_id="97041_18" plural="True" start="306" text="plaintiffs"/>
+<NAME id="N13" end="347" local_id="97041_19" start="327" text="Mr. Thomas D. Sporer"/>
+<NAME id="N14" end="375" local_id="97041_20" start="359" text="Mr. H.C. McClure"/>
+<LEGAL_ROLE id="L15" end="408" local_id="97041_21" plural="True" start="398" text="defendants"/>
+<NAME id="N16" end="426" local_id="97041_22" start="424" text="MR"/>
+<ORGANIZATION id="O17" end="606" local_id="97041_23" start="581" text="Texas and Pacific Company"/>
+<ORGANIZATION id="O18" end="673" local_id="97041_24" start="639" text="Circuit Court of the United States"/>
+<ORGANIZATION id="O19" end="707" local_id="97041_25" start="696" text="corporation"/>
+<NAME id="N20" end="742" local_id="97041_26" start="734" text="Congress"/>
+<NAME id="N21" end="804" local_id="97041_27" start="791" text="United States"/>
+<LEGAL_ROLE id="L22" end="880" local_id="97041_28" start="871" text="defendant"/>
+<ORGANIZATION id="O23" end="1053" local_id="97041_29" start="1040" text="Federal court"/>
+<ORGANIZATION id="O24" end="1070" local_id="97041_30" start="1065" text="court"/>
+<ORGANIZATION id="O25" end="1157" local_id="97041_31" start="1144" text="Federal court"/>
+<ORGANIZATION id="O26" end="1191" local_id="97041_32" start="1183" text="province"/>
+<citation id="c27" end="1293" entry_type="case_citation_other" line="15" local_id="97041_42" name="the Matter of Dunn" start="1275" text="the Matter of Dunn"/>
+<citation id="c28" end="1307" entry_type="standard_case" line="15" local_id="97041_33" page_number="374" reporter="U.S." standard_reporter="U.S." start="1295" text="212 U.S. 374" volume="212"/>
+<citation id="c29" end="1409" entry_type="case_X_vs_Y" line="15" local_id="97041_36" party1="Chesapeake and Ohio Railway" party2="Emma R. McCabe, Administratrix" start="1348" text="Chesapeake and Ohio Railway v. Emma R. McCabe, Administratrix"/>
+<NAME id="N30" end="1375" local_id="97041_38" party1_of="97041_36" start="1348" text="Chesapeake and Ohio Railway"/>
+<NAME id="N31" end="1409" local_id="97041_39" party2_of="97041_36" start="1379" text="Emma R. McCabe, Administratrix"/>
+<citation id="c32" end="1423" entry_type="standard_case" line="15" local_id="97041_34" page_number="207" reporter="U.S." standard_reporter="U.S." start="1411" text="213 U.S. 207" volume="213"/>
+<citation id="c33" end="2257" entry_type="case_X_vs_Y" line="15" local_id="97041_37" party1="Merchants Heat &amp; L. Co." party2="Clow &amp; Sons" start="2219" text="Merchants Heat &amp; L. Co. v. Clow &amp; Sons"/>
+<NAME id="N34" end="2242" local_id="97041_40" party1_of="97041_37" start="2219" text="Merchants Heat &amp; L. Co."/>
+<NAME id="N35" end="2257" local_id="97041_41" party2_of="97041_37" start="2246" text="Clow &amp; Sons"/>
+<citation id="c36" end="2271" entry_type="standard_case" line="15" local_id="97041_35" page_number="286" reporter="U.S." standard_reporter="U.S." start="2259" text="204 U.S. 286" volume="204"/>
+<ORGANIZATION id="O37" end="2306" local_id="97041_50" start="2301" text="court"/>
+<ORGANIZATION id="O38" end="2361" local_id="97041_51" start="2348" text="Circuit Court"/>
+<ORGANIZATION id="O39" end="2423" local_id="97041_52" start="2393" text="Merchants Heat &amp; Light Company"/>
+<ORGANIZATION id="O40" end="2447" local_id="97041_53" start="2428" text="Indiana corporation"/>
+<NAME id="N41" end="2551" local_id="97041_54" start="2545" text="Schodd"/>
+<LEGAL_ROLE id="L42" end="2590" local_id="97041_55" start="2581" text="plaintiff"/>
+<ORGANIZATION id="O43" end="2633" local_id="97041_56" start="2613" text="agent of the company"/>
+<ORGANIZATION id="O44" end="2724" local_id="97041_57" start="2717" text="company"/>
+<PROFESSION id="P45" end="2786" local_id="97041_58" start="2779" text="general"/>
+<LEGAL_ROLE id="L46" end="2950" local_id="97041_59" start="2941" text="plaintiff"/>
+<NAME id="N47" end="2957" local_id="97041_60" start="2952" text="There"/>
+<LEGAL_ROLE id="L48" end="2989" local_id="97041_61" start="2980" text="plaintiff"/>
+<ORGANIZATION id="O49" end="3023" local_id="97041_62" start="3016" text="company"/>
+<NAME id="N50" end="3067" local_id="97041_63" start="3050" text="State of Illinois"/>
+<NAME id="N51" end="3116" local_id="97041_64" start="3111" text="State"/>
+<ORGANIZATION id="O52" end="3157" local_id="97041_65" start="3152" text="court"/>
+<ORGANIZATION id="O53" end="3208" local_id="97041_66" start="3201" text="company"/>
+<quote id="q77" end="3374" local_id="1156" start="3210" text="«by setting up its counter-claim became a plaintiff in its turn, invoking the jurisdiction of the *160 court in the same action, and, by invoking, submitted to it.«"/>
+<LEGAL_ROLE id="L54" end="3261" local_id="97041_67" start="3252" text="plaintiff"/>
+<ORGANIZATION id="O55" end="3318" local_id="97041_68" start="3313" text="court"/>
+<quote id="q78" end="3566" local_id="1157" start="3442" text="«out of the same transaction that the plaintiff sued upon, and so to have been in recoupment rather than in set-off proper.«"/>
+<LEGAL_ROLE id="L56" end="3489" local_id="97041_69" start="3480" text="plaintiff"/>
+<quote id="q79" end="3823" local_id="1158" start="3588" text="«There is some difference in the decisions as to when a defendant becomes so far an actor as to submit to the jurisdiction, but we are aware of none as to the proposition that when he does become an actor in a proper sense he submits.«"/>
+<LEGAL_ROLE id="L57" end="3653" local_id="97041_70" start="3644" text="defendant"/>
+<ORGANIZATION id="O58" end="3857" local_id="97041_71" start="3832" text="Texas and Pacific Company"/>
+<ORGANIZATION id="O59" end="3918" local_id="97041_72" start="3883" text="St. Louis and San Francisco Company"/>
+<ORGANIZATION id="O60" end="4093" local_id="97041_73" start="4058" text="St. Louis and San Francisco Company"/>
+<ORGANIZATION id="O61" end="4164" local_id="97041_74" start="4138" text="Supreme Court of the State"/>
+<ORGANIZATION id="O62" end="4587" local_id="97041_75" start="4553" text="Circuit Court of the United States"/>
+<ORGANIZATION id="O63" end="4649" local_id="97041_76" start="4644" text="court"/>
+<NAME id="N64" end="4659" local_id="97041_77" start="4651" text="Judgment"/>
+<NAME id="N65" end="4672" local_id="97041_78" start="4670" text="MR"/>
+<RELATION id="R66" fromID="c0" fromText="214 U.S. 153 (1909)" toID="d1" toText="1909" gram_type="infix" local_id="97041_3" relation_type="asymmetric"/>
+<RELATION id="R67" fromID="c2" fromText="TEXAS AND PACIFIC RAILWAY COMPANY  v.  EASTIN & KNOX" toID="N3" toText="TEXAS AND PACIFIC RAILWAY COMPANY" gram_type="infix" local_id="97041_8" relation_type="asymmetric"/>
+<RELATION id="R68" fromID="c2" fromText="TEXAS AND PACIFIC RAILWAY COMPANY  v.  EASTIN & KNOX" toID="N4" toText="EASTIN & KNOX" gram_type="infix" local_id="97041_9" relation_type="asymmetric"/>
+<RELATION id="R69" fromID="c0" fromText="214 U.S. 153 (1909)" toID="c2" toText="TEXAS AND PACIFIC RAILWAY COMPANY  v.  EASTIN & KNOX" gram_type="multi_line" local_id="97041_10" relation_type="equivalence"/>
+<RELATION id="R70" fromID="c28" fromText="212 U.S. 374" toID="c27" toText="the Matter of Dunn" gram_type="apposition" local_id="97041_43" relation_type="equivalence"/>
+<RELATION id="R71" fromID="c32" fromText="213 U.S. 207" toID="c29" toText="Chesapeake and Ohio Railway v. Emma R. McCabe, Administratrix" gram_type="apposition" local_id="97041_46" relation_type="equivalence"/>
+<RELATION id="R72" fromID="c29" fromText="Chesapeake and Ohio Railway v. Emma R. McCabe, Administratrix" toID="N30" toText="Chesapeake and Ohio Railway" gram_type="infix" local_id="97041_44" relation_type="asymmetric"/>
+<RELATION id="R73" fromID="c29" fromText="Chesapeake and Ohio Railway v. Emma R. McCabe, Administratrix" toID="N31" toText="Emma R. McCabe, Administratrix" gram_type="infix" local_id="97041_45" relation_type="asymmetric"/>
+<RELATION id="R74" fromID="c36" fromText="204 U.S. 286" toID="c33" toText="Merchants Heat & L. Co. v. Clow & Sons" gram_type="apposition" local_id="97041_49" relation_type="equivalence"/>
+<RELATION id="R75" fromID="c33" fromText="Merchants Heat & L. Co. v. Clow & Sons" toID="N34" toText="Merchants Heat & L. Co." gram_type="infix" local_id="97041_47" relation_type="asymmetric"/>
+<RELATION id="R76" fromID="c33" fromText="Merchants Heat & L. Co. v. Clow & Sons" toID="N35" toText="Clow & Sons" gram_type="infix" local_id="97041_48" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

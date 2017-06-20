@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[538 U.S. 957
+    KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL.,
+    No. 02-7218.
+    Supreme Court of United States.
+    March 31, 2003.
+    
+      11
+      Petitions for rehearing denied. 537 U. S. 1123.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="128643_1" page_number="957" reporter="U.S." standard_reporter="U.S." start="0" text="538 U.S. 957" volume="538"/>
+<citation id="c1" end="57" entry_type="case_X_vs_Y" line="2" local_id="128643_2" party1="KIM" party2="w[PG] MAXEY TRAINING SCHOOL ET AL" start="17" text="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL"/>
+<NAME id="N2" end="20" local_id="128643_3" party1_of="128643_2" start="17" text="KIM"/>
+<NAME id="N3" end="57" local_id="128643_4" party2_of="128643_2" start="24" text="w[PG] MAXEY TRAINING SCHOOL ET AL"/>
+<docket id="d4" end="75" entry_type="docket" line="3" local_id="128643_7" start="68" text="02-7218"/>
+<ORGANIZATION id="O5" end="111" local_id="128643_8" start="81" text="Supreme Court of United States"/>
+<date id="d6" end="131" local_id="128643_9" start="117" text="March 31, 2003"/>
+<NAME id="N7" end="162" local_id="128643_14" start="153" text="Petitions"/>
+<citation id="c8" end="199" entry_type="standard_case" line="8" local_id="128643_13" page_number="1123" reporter="U. S." standard_reporter="U.S." start="185" text="537 U. S. 1123" volume="537"/>
+<RELATION id="R10" fromID="c1" fromText="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" toID="N3" toText="w[PG] MAXEY TRAINING SCHOOL ET AL" gram_type="infix" local_id="128643_6" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c0" fromText="538 U.S. 957" toID="c1" toText="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" gram_type="multi_line" local_id="128643_10" relation_type="equivalence"/>
+<RELATION id="R12" fromID="c1" fromText="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" toID="d6" toText="March 31, 2003" gram_type="multi_line" local_id="128643_12" relation_type="asymmetric"/>
+<RELATION id="R13" fromID="c1" fromText="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" toID="d4" toText="02-7218" gram_type="multi_line" local_id="128643_11" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c1" fromText="KIM v. w[PG] MAXEY TRAINING SCHOOL ET AL" toID="N2" toText="KIM" gram_type="infix" local_id="128643_5" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

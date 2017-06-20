@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+106 U.S. 519 (____)
+PATTERSON 
+v. 
+LYNDE.
+Supreme Court of United States.
+
+*520 Mr. Charles M. Harris for the plaintiff in error.
+Mr. Charles M. Osborn for the defendant in error.
+MR. CHIEF JUSTICE WAITE delivered the opinion of the court.
+The only question we deem it necessary to consider in this case is, whether a creditor of a corporation, formed and organized under the general laws of Oregon "in relation to the formation of private corporations," can maintain an action at law against a stockholder to recover, out of an unpaid balance of subscription to the capital stock, the debt due to him from the corporation.
+Section 3 of article 11 of the Constitution of Oregon provides that "the stockholders of all corporations and joint-stock companies shall be liable for the indebtedness of said corporation to the amount of their stock subscribed and unpaid, and no more."
+Section 14 of the statute "in relation to the formation of private corporations" is as follows: "All sales of stock, whether voluntary or otherwise, transfer to the purchaser all rights of the original holder or person from whom the same is purchased, and subject such purchaser to the payment of any unpaid balance due or to become due on such stock. But if the sale be voluntary, the seller is still liable to existing creditors for the amount of such balance, unless the same be duly paid by such purchaser."
+Since this case was decided below, the Supreme Court of Oregon has passed on the same question, and, in Ladd v. Cartwright, 7 Oreg. 329, determined that the individual liability of stockholders for the indebtedness of the corporation is limited to the amount of their stock subscribed and unpaid, and that the remedy of the creditor to enforce this liability is in equity, where the rights of the corporation, the stockholder, and all the creditors can be adjusted in one suit. Of the correctness of this decision we have no doubt. The liability of the stockholder *521 is upon his subscription, that is to say, upon his obligation to contribute to the capital stock, which is a trust fund for the benefit of those to whom the corporation, as a corporation, becomes liable. Sawyer v. Hoag, 17 Wall. 610. The Constitution of Oregon created no new right in this particular; it simply provided for the preservation of an old one. The liability under this provision is not to the creditors, but for the indebtedness. That is no more than the liability created by the subscription. The subscription is part of the assets of the corporation, at least so far as creditors are concerned. The liability of the stockholder to the creditor is through the corporation, not direct. There is no privity of contract between them, and the creditor has not been given, either by the Constitution or the statute, any new remedy for the enforcement of his rights. The stockholder is liable to the extent that the subscription represented by his stock requires him to contribute to the corporate funds, and when sued for the money he owes, it must be in a way to put what he pays, directly or indirectly, into the treasury of the corporation for distribution according to law. No one creditor can assume that he alone is entitled to what any stockholder owes, and sue at law so as to appropriate it exclusively to himself.
+Judgment affirmed.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="90702_1" page_number="519" reporter="U.S." standard_reporter="U.S." start="1" text="106 U.S. 519 (____)" volume="106"/>
+<citation id="c1" end="41" entry_type="case_X_vs_Y" line="5" local_id="90702_3" party1="PATTERSON" party2="LYNDE" start="21" text="PATTERSON  v.  LYNDE"/>
+<NAME id="N2" end="30" local_id="90702_4" party1_of="90702_3" start="21" text="PATTERSON"/>
+<NAME id="N3" end="41" local_id="90702_5" party2_of="90702_3" start="36" text="LYNDE"/>
+<ORGANIZATION id="O4" end="73" local_id="90702_8" start="43" text="Supreme Court of United States"/>
+<LEGAL_ROLE id="L5" end="120" local_id="90702_10" start="81" text="Mr. Charles M. Harris for the plaintiff"/>
+<LEGAL_ROLE id="L6" end="170" local_id="90702_11" start="131" text="Mr. Charles M. Osborn for the defendant"/>
+<NAME id="N7" end="183" local_id="90702_12" start="181" text="MR"/>
+<ORGANIZATION id="O8" end="344" local_id="90702_13" start="333" text="corporation"/>
+<PROFESSION id="P9" end="384" local_id="90702_14" start="377" text="general"/>
+<NAME id="N10" end="399" local_id="90702_15" start="393" text="Oregon"/>
+<quote id="q49" end="455" local_id="1032" start="400" text="«in relation to the formation of private corporations,«"/>
+<ORGANIZATION id="O11" end="453" local_id="90702_16" plural="True" start="441" text="corporations"/>
+<ORGANIZATION id="O12" end="623" local_id="90702_17" start="612" text="corporation"/>
+<NAME id="N13" end="632" local_id="90702_18" start="625" text="Section"/>
+<NAME id="N14" end="678" local_id="90702_19" start="656" text="Constitution of Oregon"/>
+<quote id="q50" end="879" local_id="1033" start="693" text="«the stockholders of all corporations and joint-stock companies shall be liable for the indebtedness of said corporation to the amount of their stock subscribed and unpaid, and no more.«"/>
+<ORGANIZATION id="O15" end="730" local_id="90702_20" plural="True" start="718" text="corporations"/>
+<ORGANIZATION id="O16" end="756" local_id="90702_21" plural="True" start="747" text="companies"/>
+<ORGANIZATION id="O17" end="813" local_id="90702_22" start="802" text="corporation"/>
+<NAME id="N18" end="887" local_id="90702_23" start="880" text="Section"/>
+<quote id="q51" end="960" local_id="1034" start="906" text="«in relation to the formation of private corporations«"/>
+<ORGANIZATION id="O19" end="959" local_id="90702_24" plural="True" start="947" text="corporations"/>
+<quote id="q52" end="1391" local_id="1035" start="976" text="«All sales of stock, whether voluntary or otherwise, transfer to the purchaser all rights of the original holder or person from whom the same is purchased, and subject such purchaser to the payment of any unpaid balance due or to become due on such stock. But if the sale be voluntary, the seller is still liable to existing creditors for the amount of such balance, unless the same be duly paid by such purchaser.«"/>
+<ORGANIZATION id="O20" end="1454" local_id="90702_32" start="1431" text="Supreme Court of Oregon"/>
+<citation id="c21" end="1514" entry_type="case_X_vs_Y" line="14" local_id="90702_26" party1="Ladd" party2="Cartwright" start="1496" text="Ladd v. Cartwright"/>
+<NAME id="N22" end="1500" local_id="90702_28" party1_of="90702_26" start="1496" text="Ladd"/>
+<NAME id="N23" end="1514" local_id="90702_29" party2_of="90702_26" start="1504" text="Cartwright"/>
+<NAME id="N24" end="1522" local_id="90702_33" start="1518" text="Oreg"/>
+<ORGANIZATION id="O25" end="1625" local_id="90702_34" start="1614" text="corporation"/>
+<ORGANIZATION id="O26" end="1800" local_id="90702_35" start="1789" text="corporation"/>
+<ORGANIZATION id="O27" end="2081" local_id="90702_36" start="2071" text="trust fund"/>
+<ORGANIZATION id="O28" end="2130" local_id="90702_37" start="2119" text="corporation"/>
+<ORGANIZATION id="O29" end="2148" local_id="90702_38" start="2137" text="corporation"/>
+<citation id="c30" end="2180" entry_type="case_X_vs_Y" line="14" local_id="90702_27" party1="Sawyer" party2="Hoag" start="2166" text="Sawyer v. Hoag"/>
+<NAME id="N31" end="2172" local_id="90702_30" party1_of="90702_27" start="2166" text="Sawyer"/>
+<NAME id="N32" end="2180" local_id="90702_31" party2_of="90702_27" start="2176" text="Hoag"/>
+<citation id="c33" end="2194" entry_type="standard_case" line="14" local_id="90702_25" page_number="610" reporter="Wall." standard_reporter="WALL." start="2182" text="17 Wall. 610" volume="17"/>
+<NAME id="N34" end="2222" local_id="90702_39" start="2196" text="The Constitution of Oregon"/>
+<ORGANIZATION id="O35" end="2526" local_id="90702_40" start="2515" text="corporation"/>
+<ORGANIZATION id="O36" end="2647" local_id="90702_41" start="2636" text="corporation"/>
+<NAME id="N37" end="2770" local_id="90702_42" start="2758" text="Constitution"/>
+<ORGANIZATION id="O38" end="2973" local_id="90702_43" plural="True" start="2968" text="funds"/>
+<ORGANIZATION id="O39" end="3113" local_id="90702_44" start="3102" text="corporation"/>
+<NAME id="N40" end="3303" local_id="90702_50" start="3295" text="Judgment"/>
+<RELATION id="R41" fromID="c1" fromText="PATTERSON  v.  LYNDE" toID="N2" toText="PATTERSON" gram_type="infix" local_id="90702_6" relation_type="asymmetric"/>
+<RELATION id="R42" fromID="c1" fromText="PATTERSON  v.  LYNDE" toID="N3" toText="LYNDE" gram_type="infix" local_id="90702_7" relation_type="asymmetric"/>
+<RELATION id="R43" fromID="c0" fromText="106 U.S. 519 (____)" toID="c1" toText="PATTERSON  v.  LYNDE" gram_type="multi_line" local_id="90702_9" relation_type="equivalence"/>
+<RELATION id="R44" fromID="c21" fromText="Ladd v. Cartwright" toID="N22" toText="Ladd" gram_type="infix" local_id="90702_45" relation_type="asymmetric"/>
+<RELATION id="R45" fromID="c21" fromText="Ladd v. Cartwright" toID="N23" toText="Cartwright" gram_type="infix" local_id="90702_46" relation_type="asymmetric"/>
+<RELATION id="R46" fromID="c33" fromText="17 Wall. 610" toID="c30" toText="Sawyer v. Hoag" gram_type="apposition" local_id="90702_49" relation_type="equivalence"/>
+<RELATION id="R47" fromID="c30" fromText="Sawyer v. Hoag" toID="N31" toText="Sawyer" gram_type="infix" local_id="90702_47" relation_type="asymmetric"/>
+<RELATION id="R48" fromID="c30" fromText="Sawyer v. Hoag" toID="N32" toText="Hoag" gram_type="infix" local_id="90702_48" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

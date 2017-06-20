@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[535 U.S. 955
+    IN SUK CHANG v. UNITED STATES.
+    No. 01-1219.
+    Supreme Court of the United States.
+    March 25, 2002.
+    
+      11
+      C. A. 2d Cir. Certiorari denied. Reported below: 25 Fed. Appx. 20.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="119070_1" page_number="955" reporter="U.S." standard_reporter="U.S." start="0" text="535 U.S. 955" volume="535"/>
+<citation id="c1" end="46" entry_type="case_X_vs_Y" line="2" local_id="119070_2" party1="SUK CHANG" party2="UNITED STATES" start="20" text="SUK CHANG v. UNITED STATES"/>
+<NAME id="N2" end="29" local_id="119070_3" party1_of="119070_2" start="20" text="SUK CHANG"/>
+<NAME id="N3" end="46" local_id="119070_4" party2_of="119070_2" start="33" text="UNITED STATES"/>
+<docket id="d4" end="63" entry_type="docket" line="3" local_id="119070_7" start="56" text="01-1219"/>
+<date id="d5" end="123" local_id="119070_8" start="109" text="March 25, 2002"/>
+<NAME id="N6" end="157" local_id="119070_12" start="154" text="Cir"/>
+<RELATION id="R10" fromID="c1" fromText="SUK CHANG v. UNITED STATES" toID="d5" toText="March 25, 2002" gram_type="multi_line" local_id="119070_11" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c1" fromText="SUK CHANG v. UNITED STATES" toID="d4" toText="01-1219" gram_type="multi_line" local_id="119070_10" relation_type="asymmetric"/>
+<RELATION id="R7" fromID="c1" fromText="SUK CHANG v. UNITED STATES" toID="N2" toText="SUK CHANG" gram_type="infix" local_id="119070_5" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c1" fromText="SUK CHANG v. UNITED STATES" toID="N3" toText="UNITED STATES" gram_type="infix" local_id="119070_6" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c0" fromText="535 U.S. 955" toID="c1" toText="SUK CHANG v. UNITED STATES" gram_type="multi_line" local_id="119070_9" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[543 U.S. 822
+    CROSS v. ILLINOIS.
+    No. 03-8407.
+    Supreme Court of United States.
+    October 4, 2004.
+    
+      11
+      App. Ct. Ill., 1st Dist. Certiorari denied.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="3" local_id="138019_2" page_number="822" reporter="U.S." standard_reporter="U.S." start="0" text="543 U.S. 822" volume="543"/>
+<citation id="c1" end="34" entry_type="case_X_vs_Y" line="3" local_id="138019_4" party1="CROSS" party2="ILLINOIS" start="17" text="CROSS v. ILLINOIS"/>
+<NAME id="N2" end="22" local_id="138019_5" party1_of="138019_4" start="17" text="CROSS"/>
+<NAME id="N3" end="34" local_id="138019_6" party2_of="138019_4" start="26" text="ILLINOIS"/>
+<docket id="d4" end="51" entry_type="docket" line="3" local_id="138019_3" start="44" text="03-8407"/>
+<ORGANIZATION id="O5" end="87" local_id="138019_12" start="57" text="Supreme Court of United States"/>
+<date id="d6" end="108" local_id="138019_13" start="93" text="October 4, 2004"/>
+<NAME id="N7" end="133" local_id="138019_15" start="130" text="App"/>
+<RELATION id="R10" fromID="c1" fromText="CROSS v. ILLINOIS" toID="d4" toText="03-8407" gram_type="apposition" local_id="138019_10" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c1" fromText="CROSS v. ILLINOIS" toID="N2" toText="CROSS" gram_type="infix" local_id="138019_8" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c1" fromText="CROSS v. ILLINOIS" toID="N3" toText="ILLINOIS" gram_type="infix" local_id="138019_9" relation_type="asymmetric"/>
+<RELATION id="R13" fromID="c1" fromText="CROSS v. ILLINOIS" toID="d6" toText="October 4, 2004" gram_type="multi_line" local_id="138019_14" relation_type="asymmetric"/>
+<RELATION id="R8" fromID="c0" fromText="543 U.S. 822" toID="d4" toText="03-8407" gram_type="apposition" local_id="138019_11" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c0" fromText="543 U.S. 822" toID="c1" toText="CROSS v. ILLINOIS" gram_type="pre_nom" local_id="138019_7" relation_type="equivalence"/>
+</TAGS>
+</AttributionTask>

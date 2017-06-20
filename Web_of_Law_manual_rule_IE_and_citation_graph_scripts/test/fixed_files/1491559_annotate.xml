@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+548 U.S. 904 (2006)
+MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL. 
+v. 
+UNITED STATES.
+No. 05-1225.
+Supreme Court of United States.
+June 26, 2006.
+Certiorari denied.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="1491559_1" page_number="904" reporter="U.S." standard_reporter="U.S." start="1" text="548 U.S. 904 (2006)" volume="548" year="2006"/>
+<date id="d1" end="19" local_id="1491559_2" start="15" text="2006"/>
+<citation id="c2" end="95" entry_type="case_X_vs_Y" line="5" local_id="1491559_8" party1="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL." party2="UNITED STATES" start="21" text="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES"/>
+<NAME id="N3" end="76" local_id="1491559_9" party1_of="1491559_8" start="21" text="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL."/>
+<ORGANIZATION id="O4" end="67" local_id="1491559_11" start="64" text="INC"/>
+<NAME id="N5" end="95" local_id="1491559_10" party2_of="1491559_8" start="82" text="UNITED STATES"/>
+<docket id="d6" end="108" entry_type="docket" line="6" local_id="1491559_14" start="101" text="05-1225"/>
+<ORGANIZATION id="O7" end="140" local_id="1491559_15" start="110" text="Supreme Court of United States"/>
+<date id="d8" end="155" local_id="1491559_16" start="142" text="June 26, 2006"/>
+<NAME id="N9" end="167" local_id="1491559_17" start="157" text="Certiorari"/>
+<RELATION id="R10" fromID="c0" fromText="548 U.S. 904 (2006)" toID="d1" toText="2006" gram_type="infix" local_id="1491559_3" relation_type="asymmetric"/>
+<RELATION id="R11" fromID="c2" fromText="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" toID="N3" toText="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL." gram_type="infix" local_id="1491559_12" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c2" fromText="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" toID="N5" toText="UNITED STATES" gram_type="infix" local_id="1491559_13" relation_type="asymmetric"/>
+<RELATION id="R13" fromID="c0" fromText="548 U.S. 904 (2006)" toID="c2" toText="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" gram_type="multi_line" local_id="1491559_18" relation_type="equivalence"/>
+<RELATION id="R14" fromID="c2" fromText="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" toID="d8" toText="June 26, 2006" gram_type="multi_line" local_id="1491559_20" relation_type="asymmetric"/>
+<RELATION id="R15" fromID="c2" fromText="MEMBERS OF THE PEANUT QUOTA HOLDERS ASSN., INC., ET AL.  v.  UNITED STATES" toID="d6" toText="05-1225" gram_type="multi_line" local_id="1491559_19" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+386 U.S. 211 (1967)
+SHELL OIL CO. 
+v. 
+STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL.
+No. 863.
+Supreme Court of United States.
+Decided February 27, 1967.
+APPEAL FROM THE SUPREME COURT OF CALIFORNIA.
+Robert D. Mackenzie for appellant.
+Thomas C. Lynch, Attorney General of California, James E. Sabine and Ernest P. Goodman, Assistant Attorneys General, and John J. Klee, Jr., Deputy Attorney General, for appellees.
+PER CURIAM.
+The motion to dismiss is granted and the appeal is dismissed for want of a substantial federal question.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="2620908_1" page_number="211" reporter="U.S." standard_reporter="U.S." start="1" text="386 U.S. 211 (1967)" volume="386" year="1967"/>
+<date id="d1" end="19" local_id="2620908_2" start="15" text="1967"/>
+<citation id="c2" end="87" entry_type="case_X_vs_Y" line="5" local_id="2620908_6" party1="SHELL OIL CO." party2="STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" start="21" text="SHELL OIL CO.  v.  STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL"/>
+<NAME id="N3" end="34" local_id="2620908_7" party1_of="2620908_6" start="21" text="SHELL OIL CO."/>
+<ORGANIZATION id="O4" end="33" local_id="2620908_9" start="21" text="SHELL OIL CO"/>
+<NAME id="N5" end="87" local_id="2620908_8" party2_of="2620908_6" start="40" text="STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL"/>
+<ORGANIZATION id="O6" end="128" local_id="2620908_13" start="98" text="Supreme Court of United States"/>
+<NAME id="N7" end="137" local_id="2620908_15" start="130" text="Decided"/>
+<date id="d8" end="155" local_id="2620908_14" start="138" text="February 27, 1967"/>
+<ORGANIZATION id="O9" end="200" local_id="2620908_16" start="157" text="APPEAL FROM THE SUPREME COURT OF CALIFORNIA"/>
+<LEGAL_ROLE id="L10" end="235" local_id="2620908_17" start="202" text="Robert D. Mackenzie for appellant"/>
+<NAME id="N11" end="252" local_id="2620908_18" start="237" text="Thomas C. Lynch"/>
+<PROFESSION id="P12" end="284" local_id="2620908_19" start="254" text="Attorney General of California"/>
+<NAME id="N13" end="323" local_id="2620908_20" start="286" text="James E. Sabine and Ernest P. Goodman"/>
+<PROFESSION id="P14" end="352" local_id="2620908_21" start="325" text="Assistant Attorneys General"/>
+<NAME id="N15" end="374" local_id="2620908_22" start="358" text="John J. Klee, Jr"/>
+<PROFESSION id="P16" end="400" local_id="2620908_23" start="377" text="Deputy Attorney General"/>
+<LEGAL_ROLE id="L17" end="415" local_id="2620908_24" plural="True" start="406" text="appellees"/>
+<NAME id="N18" end="427" local_id="2620908_28" start="421" text="CURIAM"/>
+<RELATION id="R19" fromID="c0" fromText="386 U.S. 211 (1967)" toID="d1" toText="1967" gram_type="infix" local_id="2620908_3" relation_type="asymmetric"/>
+<RELATION id="R20" fromID="c2" fromText="SHELL OIL CO.  v.  STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" toID="N3" toText="SHELL OIL CO." gram_type="infix" local_id="2620908_10" relation_type="asymmetric"/>
+<RELATION id="R21" fromID="c2" fromText="SHELL OIL CO.  v.  STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" toID="N5" toText="STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" gram_type="infix" local_id="2620908_11" relation_type="asymmetric"/>
+<RELATION id="R22" fromID="c0" fromText="386 U.S. 211 (1967)" toID="c2" toText="SHELL OIL CO.  v.  STATE BOARD OF EQUALIZATION OF CALIFORNIA ET AL" gram_type="multi_line" local_id="2620908_12" relation_type="equivalence"/>
+<RELATION id="R23" fromID="N11" fromText="Thomas C. Lynch" toID="P12" toText="Attorney General of California" gram_type="apposition" local_id="2620908_25" relation_type="asymmetric"/>
+<RELATION id="R24" fromID="N13" fromText="James E. Sabine and Ernest P. Goodman" toID="P14" toText="Assistant Attorneys General" gram_type="apposition" local_id="2620908_26" relation_type="asymmetric"/>
+<RELATION id="R25" fromID="N15" fromText="John J. Klee, Jr" toID="P16" toText="Deputy Attorney General" gram_type="apposition" local_id="2620908_27" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

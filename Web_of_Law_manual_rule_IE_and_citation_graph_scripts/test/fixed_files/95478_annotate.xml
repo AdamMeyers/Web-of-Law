@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+181 U.S. 402 (1901)
+SHUMATE 
+v. 
+HEMAN.
+No. 550.
+Supreme Court of United States.
+Argued February 27, 1901.
+Decided April 29, 1901.
+ERROR TO THE SUPREME COURT OF THE STATE OF MISSOURI.
+Mr. G.B. Webster for Shumate. Mr. Hiram J. Grover and Mr. Hamilton Grover were on his brief.
+*403 Mr. David Goldsmith for Heman. Mr. Robert E. Collins and Mr. H.P. Rodgers were on his brief.
+MR. JUSTICE SHIRAS delivered the opinion of the court.
+This was a suit brought in the Circuit Court of the city of St. Louis by August Heman to enforce payment of a special tax bill issued in his favor by that city for the construction of a sewer in what is called Euclid avenue sewer district. The plaintiff recovered a judgment, and the defendants, who were owners of property assessed for the cost of making said sewer, appealed to the Supreme Court of Missouri, where the judgment of the trial court was affirmed, the case being reported as Heman v. Allen, 156 Mo. 534; and after such affirmance the defendant brought the case to this court by writ of error.
+The only question which is open to our consideration upon this record is the contention of the plaintiff in error, that the provisions of the charter of the city of St. Louis, the ordinances of the municipal assembly, the contract with the defendant in error made thereunder, and the assessment against the property of the plaintiff in error for the cost of the construction of said sewer, were null, void and of no effect, for the reason that they were repugnant to the Fourteenth Amendment of the Constitution of the United States, as construed and applied in the case of Norwood v. Baker, 172 U.S. 269.
+This contention has been considered and determined, under a similar state of facts, by this court, in the recent case of French v. The Barber Asphalt Paving Company, ante, 324, in error to the Supreme Court of the State of Missouri, and upon the authority of that case the judgment of the Supreme Court of Missouri is
+Affirmed.
+MR. JUSTICE HARLAN, (with whom concurred MR. JUSTICE WHITE and MR. JUSTICE McKENNA) dissenting.
+The controlling question in this case is the same as is presented in French v. Barber Asphalt Paving Co., ante, 324, Wight v. Davidson, ante, 371, and Tonawanda v. Lyon, ante, 389, just decided. For the reasons stated in my opinions in those cases, I dissent from the opinion and judgment of the court in this case.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="20" entry_type="standard_case" line="2" local_id="95478_1" page_number="402" reporter="U.S." standard_reporter="U.S." start="1" text="181 U.S. 402 (1901)" volume="181" year="1901"/>
+<date id="d1" end="19" local_id="95478_2" start="15" text="1901"/>
+<citation id="c2" end="39" entry_type="case_X_vs_Y" line="5" local_id="95478_5" party1="SHUMATE" party2="HEMAN" start="21" text="SHUMATE  v.  HEMAN"/>
+<NAME id="N3" end="28" local_id="95478_6" party1_of="95478_5" start="21" text="SHUMATE"/>
+<NAME id="N4" end="39" local_id="95478_7" party2_of="95478_5" start="34" text="HEMAN"/>
+<ORGANIZATION id="O5" end="80" local_id="95478_11" start="50" text="Supreme Court of United States"/>
+<date id="d6" end="106" local_id="95478_12" start="89" text="February 27, 1901"/>
+<NAME id="N7" end="115" local_id="95478_14" start="108" text="Decided"/>
+<date id="d8" end="130" local_id="95478_13" start="116" text="April 29, 1901"/>
+<ORGANIZATION id="O9" end="183" local_id="95478_15" start="132" text="ERROR TO THE SUPREME COURT OF THE STATE OF MISSOURI"/>
+<NAME id="N10" end="258" local_id="95478_16" start="185" text="Mr. G.B. Webster for Shumate. Mr. Hiram J. Grover and Mr. Hamilton Grover"/>
+<NAME id="N11" end="312" local_id="95478_17" start="283" text="Mr. David Goldsmith for Heman"/>
+<NAME id="N12" end="356" local_id="95478_18" start="314" text="Mr. Robert E. Collins and Mr. H.P. Rodgers"/>
+<NAME id="N13" end="378" local_id="95478_19" start="376" text="MR"/>
+<ORGANIZATION id="O14" end="475" local_id="95478_24" start="462" text="Circuit Court"/>
+<NAME id="N15" end="516" local_id="95478_25" start="491" text="St. Louis by August Heman"/>
+<NAME id="N16" end="647" local_id="95478_26" start="641" text="Euclid"/>
+<LEGAL_ROLE id="L17" end="684" local_id="95478_27" start="675" text="plaintiff"/>
+<LEGAL_ROLE id="L18" end="725" local_id="95478_28" plural="True" start="715" text="defendants"/>
+<ORGANIZATION id="O19" end="840" local_id="95478_29" start="815" text="Supreme Court of Missouri"/>
+<ORGANIZATION id="O20" end="879" local_id="95478_30" start="874" text="court"/>
+<citation id="c21" end="935" entry_type="case_X_vs_Y" line="14" local_id="95478_21" party1="Heman" party2="Allen" start="921" text="Heman v. Allen"/>
+<NAME id="N22" end="926" local_id="95478_22" party1_of="95478_21" start="921" text="Heman"/>
+<NAME id="N23" end="935" local_id="95478_23" party2_of="95478_21" start="930" text="Allen"/>
+<citation id="c24" end="948" entry_type="standard_case" line="14" local_id="95478_20" page_number="534" reporter="Mo." standard_reporter="MO." start="937" text="156 Mo. 534" volume="156"/>
+<LEGAL_ROLE id="L25" end="989" local_id="95478_31" start="980" text="defendant"/>
+<ORGANIZATION id="O26" end="1020" local_id="95478_32" start="1015" text="court"/>
+<LEGAL_ROLE id="L27" end="1143" local_id="95478_40" start="1134" text="plaintiff"/>
+<NAME id="N28" end="1213" local_id="95478_41" start="1204" text="St. Louis"/>
+<LEGAL_ROLE id="L29" end="1288" local_id="95478_42" start="1279" text="defendant"/>
+<LEGAL_ROLE id="L30" end="1371" local_id="95478_43" start="1362" text="plaintiff"/>
+<NAME id="N31" end="1571" local_id="95478_44" start="1521" text="Amendment of the Constitution of the United States"/>
+<citation id="c32" end="1629" entry_type="case_X_vs_Y" line="15" local_id="95478_37" party1="Norwood" party2="Baker" start="1613" text="Norwood v. Baker"/>
+<NAME id="N33" end="1620" local_id="95478_38" party1_of="95478_37" start="1613" text="Norwood"/>
+<NAME id="N34" end="1629" local_id="95478_39" party2_of="95478_37" start="1624" text="Baker"/>
+<citation id="c35" end="1643" entry_type="standard_case" line="15" local_id="95478_36" page_number="269" reporter="U.S." standard_reporter="U.S." start="1631" text="172 U.S. 269" volume="172"/>
+<ORGANIZATION id="O36" end="1742" local_id="95478_51" start="1737" text="court"/>
+<citation id="c37" end="1809" entry_type="case_X_vs_Y" line="16" local_id="95478_48" party1="French" party2="The Barber Asphalt Paving Company" start="1766" text="French v. The Barber Asphalt Paving Company"/>
+<NAME id="N38" end="1772" local_id="95478_49" party1_of="95478_48" start="1766" text="French"/>
+<NAME id="N39" end="1809" local_id="95478_50" party2_of="95478_48" start="1776" text="The Barber Asphalt Paving Company"/>
+<ORGANIZATION id="O40" end="1809" local_id="95478_52" start="1780" text="Barber Asphalt Paving Company"/>
+<ORGANIZATION id="O41" end="1876" local_id="95478_53" start="1838" text="Supreme Court of the State of Missouri"/>
+<ORGANIZATION id="O42" end="1959" local_id="95478_54" start="1934" text="Supreme Court of Missouri"/>
+<NAME id="N43" end="1975" local_id="95478_57" start="1973" text="MR"/>
+<citation id="c44" end="2172" entry_type="case_X_vs_Y" line="19" local_id="95478_58" party1="French" party2="Barber Asphalt Paving Co" start="2138" text="French v. Barber Asphalt Paving Co"/>
+<NAME id="N45" end="2144" local_id="95478_61" party1_of="95478_58" start="2138" text="French"/>
+<NAME id="N46" end="2172" local_id="95478_62" party2_of="95478_58" start="2148" text="Barber Asphalt Paving Co"/>
+<citation id="c47" end="2203" entry_type="case_X_vs_Y" line="19" local_id="95478_59" party1="Wight" party2="Davidson" start="2186" text="Wight v. Davidson"/>
+<NAME id="N48" end="2191" local_id="95478_63" party1_of="95478_59" start="2186" text="Wight"/>
+<NAME id="N49" end="2203" local_id="95478_64" party2_of="95478_59" start="2195" text="Davidson"/>
+<citation id="c50" end="2237" entry_type="case_X_vs_Y" line="19" local_id="95478_60" party1="Tonawanda" party2="Lyon" start="2220" text="Tonawanda v. Lyon"/>
+<NAME id="N51" end="2229" local_id="95478_65" party1_of="95478_60" start="2220" text="Tonawanda"/>
+<NAME id="N52" end="2237" local_id="95478_66" party2_of="95478_60" start="2233" text="Lyon"/>
+<ORGANIZATION id="O53" end="2370" local_id="95478_67" start="2365" text="court"/>
+<RELATION id="R54" fromID="c0" fromText="181 U.S. 402 (1901)" toID="d1" toText="1901" gram_type="infix" local_id="95478_3" relation_type="asymmetric"/>
+<RELATION id="R55" fromID="c2" fromText="SHUMATE  v.  HEMAN" toID="N3" toText="SHUMATE" gram_type="infix" local_id="95478_8" relation_type="asymmetric"/>
+<RELATION id="R56" fromID="c2" fromText="SHUMATE  v.  HEMAN" toID="N4" toText="HEMAN" gram_type="infix" local_id="95478_9" relation_type="asymmetric"/>
+<RELATION id="R57" fromID="c0" fromText="181 U.S. 402 (1901)" toID="c2" toText="SHUMATE  v.  HEMAN" gram_type="multi_line" local_id="95478_10" relation_type="equivalence"/>
+<RELATION id="R58" fromID="c24" fromText="156 Mo. 534" toID="c21" toText="Heman v. Allen" gram_type="apposition" local_id="95478_35" relation_type="equivalence"/>
+<RELATION id="R59" fromID="c21" fromText="Heman v. Allen" toID="N22" toText="Heman" gram_type="infix" local_id="95478_33" relation_type="asymmetric"/>
+<RELATION id="R60" fromID="c21" fromText="Heman v. Allen" toID="N23" toText="Allen" gram_type="infix" local_id="95478_34" relation_type="asymmetric"/>
+<RELATION id="R61" fromID="c35" fromText="172 U.S. 269" toID="c32" toText="Norwood v. Baker" gram_type="apposition" local_id="95478_47" relation_type="equivalence"/>
+<RELATION id="R62" fromID="c32" fromText="Norwood v. Baker" toID="N33" toText="Norwood" gram_type="infix" local_id="95478_45" relation_type="asymmetric"/>
+<RELATION id="R63" fromID="c32" fromText="Norwood v. Baker" toID="N34" toText="Baker" gram_type="infix" local_id="95478_46" relation_type="asymmetric"/>
+<RELATION id="R64" fromID="c37" fromText="French v. The Barber Asphalt Paving Company" toID="N38" toText="French" gram_type="infix" local_id="95478_55" relation_type="asymmetric"/>
+<RELATION id="R65" fromID="c37" fromText="French v. The Barber Asphalt Paving Company" toID="N39" toText="The Barber Asphalt Paving Company" gram_type="infix" local_id="95478_56" relation_type="asymmetric"/>
+<RELATION id="R66" fromID="c44" fromText="French v. Barber Asphalt Paving Co" toID="N45" toText="French" gram_type="infix" local_id="95478_68" relation_type="asymmetric"/>
+<RELATION id="R67" fromID="c44" fromText="French v. Barber Asphalt Paving Co" toID="N46" toText="Barber Asphalt Paving Co" gram_type="infix" local_id="95478_69" relation_type="asymmetric"/>
+<RELATION id="R68" fromID="c47" fromText="Wight v. Davidson" toID="N48" toText="Wight" gram_type="infix" local_id="95478_70" relation_type="asymmetric"/>
+<RELATION id="R69" fromID="c47" fromText="Wight v. Davidson" toID="N49" toText="Davidson" gram_type="infix" local_id="95478_71" relation_type="asymmetric"/>
+<RELATION id="R70" fromID="c50" fromText="Tonawanda v. Lyon" toID="N51" toText="Tonawanda" gram_type="infix" local_id="95478_72" relation_type="asymmetric"/>
+<RELATION id="R71" fromID="c50" fromText="Tonawanda v. Lyon" toID="N52" toText="Lyon" gram_type="infix" local_id="95478_73" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

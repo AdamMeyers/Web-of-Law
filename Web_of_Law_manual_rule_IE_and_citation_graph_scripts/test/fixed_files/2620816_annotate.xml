@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+6 U.S. 406 (____)
+2 Cranch 406
+THE UNITED STATES 
+v. 
+SCHOONER SALLY OF NORFOLK.
+Supreme Court of United States.
+
+In the district court the vessel and cargo were acquitted on the merits, which decree was, on appeal, affirmed in the circuit court; whereupon the United States sued out the present writ of error.
+The error assigned was that the cause was of common law, and not of admiralty and maritime jurisdiction.
+But the court, upon the authority of the case of the United States v. La Vengeance, 3 Dallas, 297, without argument, affirmed the decree.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="18" entry_type="standard_case" line="2" local_id="2620816_1" page_number="406" reporter="U.S." standard_reporter="U.S." start="1" text="6 U.S. 406 (____)" volume="6"/>
+<citation id="c1" end="31" entry_type="standard_case" line="3" local_id="2620816_2" page_number="406" reporter="Cranch" standard_reporter="CRANCH" start="19" text="2 Cranch 406" volume="2"/>
+<citation id="c2" end="80" entry_type="case_X_vs_Y" line="6" local_id="2620816_4" party1="THE UNITED STATES" party2="SCHOONER SALLY OF NORFOLK" start="32" text="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK"/>
+<NAME id="N3" end="49" local_id="2620816_5" party1_of="2620816_4" start="32" text="THE UNITED STATES"/>
+<NAME id="N4" end="80" local_id="2620816_6" party2_of="2620816_4" start="55" text="SCHOONER SALLY OF NORFOLK"/>
+<ORGANIZATION id="O5" end="112" local_id="2620816_9" start="82" text="Supreme Court of United States"/>
+<ORGANIZATION id="O6" end="136" local_id="2620816_12" start="131" text="court"/>
+<ORGANIZATION id="O7" end="246" local_id="2620816_13" start="241" text="court"/>
+<NAME id="N8" end="275" local_id="2620816_14" start="262" text="United States"/>
+<ORGANIZATION id="O9" end="430" local_id="2620816_19" start="425" text="court"/>
+<citation id="c10" end="499" entry_type="case_X_vs_Y" line="11" local_id="2620816_16" party1="United States" party2="La Vengeance" start="470" text="United States v. La Vengeance"/>
+<NAME id="N11" end="483" local_id="2620816_17" party1_of="2620816_16" start="470" text="United States"/>
+<NAME id="N12" end="499" local_id="2620816_18" party2_of="2620816_16" start="487" text="La Vengeance"/>
+<citation id="c13" end="514" entry_type="standard_case" line="11" local_id="2620816_15" page_number="297" reporter="Dallas" standard_reporter="DALLAS" start="501" text="3 Dallas, 297" volume="3"/>
+<RELATION id="R14" fromID="c2" fromText="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK" toID="N3" toText="THE UNITED STATES" gram_type="infix" local_id="2620816_7" relation_type="asymmetric"/>
+<RELATION id="R15" fromID="c2" fromText="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK" toID="N4" toText="SCHOONER SALLY OF NORFOLK" gram_type="infix" local_id="2620816_8" relation_type="asymmetric"/>
+<RELATION id="R16" fromID="c0" fromText="6 U.S. 406 (____)" toID="c2" toText="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK" gram_type="multi_line" local_id="2620816_10" relation_type="equivalence"/>
+<RELATION id="R17" fromID="c1" fromText="2 Cranch 406" toID="c2" toText="THE UNITED STATES  v.  SCHOONER SALLY OF NORFOLK" gram_type="multi_line" local_id="2620816_11" relation_type="equivalence"/>
+<RELATION id="R18" fromID="c13" fromText="3 Dallas, 297" toID="c10" toText="United States v. La Vengeance" gram_type="apposition" local_id="2620816_22" relation_type="equivalence"/>
+<RELATION id="R19" fromID="c10" fromText="United States v. La Vengeance" toID="N11" toText="United States" gram_type="infix" local_id="2620816_20" relation_type="asymmetric"/>
+<RELATION id="R20" fromID="c10" fromText="United States v. La Vengeance" toID="N12" toText="La Vengeance" gram_type="infix" local_id="2620816_21" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

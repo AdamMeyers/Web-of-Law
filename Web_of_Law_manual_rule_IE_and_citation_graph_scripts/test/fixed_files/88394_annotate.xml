@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[
+79 U.S. 315 (____)
+12 Wall. 315
+PERRIN 
+v. 
+UNITED STATES.
+Supreme Court of United States.
+
+*316 Mr. W.W. Boice, for the appellants; Mr. Akerman, Attorney-General, and Mr. C.H. Hill, contra.
+Mr. Justice CLIFFORD stated the case and delivered the judgment of this court.
+The petitioners alleged in the court below that they were naturalized citizens of the United States; that just before the 13th of July, 1854, they arrived at San Juan del Norte, or Greytown, possessed of a valuable invoice of merchandise, with the intention of establishing a commercial house in some part of Central America; that on that day the town of San Juan was bombarded and burnt by the United States sloop-of-war Cyane, and all the merchandise, books, and papers of the petitioners, together with their personal effects. Appearance was entered by the Assistant Attorney-General, and he demurred to the petition because it did not set forth facts sufficient to constitute a cause of action, and the court below sustained the demurrer and dismissed the petition. Whereupon the petitioners appealed to this court, and alleged that the decision sustaining the demurrer was erroneous, but the court here, inasmuch as the claim is not one "founded upon any law of Congress, or upon any regulation of an executive department, or upon any contract, express or implied, with the government of the United States," concurs in opinion with the Court of Claims and
+AFFIRMS THE DECREE DISMISSING THE PETITION.
+]]></TEXT>
+<TAGS>
+<citation id="c0" end="19" entry_type="standard_case" line="2" local_id="88394_1" page_number="315" reporter="U.S." standard_reporter="U.S." start="1" text="79 U.S. 315 (____)" volume="79"/>
+<citation id="c1" end="32" entry_type="standard_case" line="3" local_id="88394_2" page_number="315" reporter="Wall." standard_reporter="WALL." start="20" text="12 Wall. 315" volume="12"/>
+<citation id="c2" end="58" entry_type="case_X_vs_Y" line="6" local_id="88394_4" party1="PERRIN" party2="UNITED STATES" start="33" text="PERRIN  v.  UNITED STATES"/>
+<NAME id="N3" end="39" local_id="88394_5" party1_of="88394_4" start="33" text="PERRIN"/>
+<NAME id="N4" end="58" local_id="88394_6" party2_of="88394_4" start="45" text="UNITED STATES"/>
+<ORGANIZATION id="O5" end="90" local_id="88394_9" start="60" text="Supreme Court of United States"/>
+<NAME id="N6" end="112" local_id="88394_12" start="98" text="Mr. W.W. Boice"/>
+<LEGAL_ROLE id="L7" end="132" local_id="88394_13" plural="True" start="122" text="appellants"/>
+<NAME id="N8" end="145" local_id="88394_14" start="134" text="Mr. Akerman"/>
+<NAME id="N9" end="163" local_id="88394_15" start="147" text="Attorney-General"/>
+<NAME id="N10" end="182" local_id="88394_16" start="169" text="Mr. C.H. Hill"/>
+<NAME id="N11" end="212" local_id="88394_17" start="192" text="Mr. Justice CLIFFORD"/>
+<PROFESSION id="P12" end="203" local_id="88394_18" start="196" text="Justice"/>
+<ORGANIZATION id="O13" end="269" local_id="88394_19" start="264" text="court"/>
+<LEGAL_ROLE id="L14" end="286" local_id="88394_21" plural="True" start="275" text="petitioners"/>
+<ORGANIZATION id="O15" end="307" local_id="88394_22" start="302" text="court"/>
+<NAME id="N16" end="370" local_id="88394_23" start="357" text="United States"/>
+<date id="d17" end="411" local_id="88394_20" start="401" text="July, 1854"/>
+<NAME id="N18" end="437" local_id="88394_24" start="429" text="San Juan"/>
+<NAME id="N19" end="447" local_id="88394_25" start="442" text="Norte"/>
+<NAME id="N20" end="460" local_id="88394_26" start="452" text="Greytown"/>
+<NAME id="N21" end="595" local_id="88394_27" start="580" text="Central America"/>
+<NAME id="N22" end="634" local_id="88394_28" start="626" text="San Juan"/>
+<NAME id="N23" end="679" local_id="88394_29" start="666" text="United States"/>
+<NAME id="N24" end="698" local_id="88394_30" start="693" text="Cyane"/>
+<LEGAL_ROLE id="L25" end="761" local_id="88394_31" plural="True" start="750" text="petitioners"/>
+<NAME id="N26" end="811" local_id="88394_32" start="801" text="Appearance"/>
+<PROFESSION id="P27" end="840" local_id="88394_33" start="831" text="Assistant"/>
+<NAME id="N28" end="857" local_id="88394_34" start="841" text="Attorney-General"/>
+<ORGANIZATION id="O29" end="983" local_id="88394_35" start="978" text="court"/>
+<LEGAL_ROLE id="L30" end="1066" local_id="88394_36" plural="True" start="1055" text="petitioners"/>
+<ORGANIZATION id="O31" end="1089" local_id="88394_37" start="1084" text="court"/>
+<ORGANIZATION id="O32" end="1173" local_id="88394_38" start="1168" text="court"/>
+<quote id="q43" end="1383" local_id="1692" start="1213" text="«founded upon any law of Congress, or upon any regulation of an executive department, or upon any contract, express or implied, with the government of the United States,«"/>
+<NAME id="N33" end="1246" local_id="88394_39" start="1238" text="Congress"/>
+<ORGANIZATION id="O34" end="1297" local_id="88394_40" start="1277" text="executive department"/>
+<PROFESSION id="P35" end="1381" local_id="88394_41" start="1350" text="government of the United States"/>
+<ORGANIZATION id="O36" end="1427" local_id="88394_42" start="1412" text="Court of Claims"/>
+<NAME id="N37" end="1474" local_id="88394_44" start="1444" text="DECREE DISMISSING THE PETITION"/>
+<RELATION id="R38" fromID="c2" fromText="PERRIN  v.  UNITED STATES" toID="N3" toText="PERRIN" gram_type="infix" local_id="88394_7" relation_type="asymmetric"/>
+<RELATION id="R39" fromID="c2" fromText="PERRIN  v.  UNITED STATES" toID="N4" toText="UNITED STATES" gram_type="infix" local_id="88394_8" relation_type="asymmetric"/>
+<RELATION id="R40" fromID="c0" fromText="79 U.S. 315 (____)" toID="c2" toText="PERRIN  v.  UNITED STATES" gram_type="multi_line" local_id="88394_10" relation_type="equivalence"/>
+<RELATION id="R41" fromID="c1" fromText="12 Wall. 315" toID="c2" toText="PERRIN  v.  UNITED STATES" gram_type="multi_line" local_id="88394_11" relation_type="equivalence"/>
+<RELATION id="R42" fromID="N28" fromText="Attorney-General" toID="P27" toText="Assistant" gram_type="pre_nom" local_id="88394_43" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>

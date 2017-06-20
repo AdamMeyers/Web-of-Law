@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AttributionTask>
+<TEXT><![CDATA[510 U.S. 924     Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al.     No. 93-5727.     Supreme Court of United States.     October 12, 1993.            11       Appeal from the Ct. App. Wis.          
+      22
+      Certiorari denied. Reported below: 176 Wis. 2d 440, 500 N. W. 2d 400.     
+      ]]></TEXT>
+<TAGS>
+<citation id="c0" end="12" entry_type="standard_case" line="1" local_id="114484_1" page_number="924" reporter="U.S." standard_reporter="U.S." start="0" text="510 U.S. 924" volume="510"/>
+<citation id="c1" end="63" entry_type="case_X_vs_Y" line="1" local_id="114484_3" party1="Casteel, aka Al Ghashiyah (Kahn)" party2="Kolb et al" start="17" text="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al"/>
+<NAME id="N2" end="49" local_id="114484_4" party1_of="114484_3" start="17" text="Casteel, aka Al Ghashiyah (Kahn)"/>
+<NAME id="N3" end="24" local_id="114484_7" start="17" text="Casteel"/>
+<NAME id="N4" end="63" local_id="114484_5" party2_of="114484_3" start="53" text="Kolb et al"/>
+<docket id="d5" end="80" entry_type="docket" line="1" local_id="114484_2" start="73" text="93-5727"/>
+<date id="d6" end="138" local_id="114484_6" start="122" text="October 12, 1993"/>
+<NAME id="N7" end="225" local_id="114484_14" start="215" text="Certiorari"/>
+<citation id="c8" end="283" entry_type="standard_case" line="3" local_id="114484_13" page_number="400" reporter="N. W. 2d" standard_reporter="N.W.2D" start="267" text="500 N. W. 2d 400" volume="500"/>
+<RELATION id="R10" fromID="c0" fromText="510 U.S. 924" toID="c1" toText="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al" gram_type="pre_nom" local_id="114484_8" relation_type="equivalence"/>
+<RELATION id="R11" fromID="c1" fromText="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al" toID="d5" toText="93-5727" gram_type="apposition" local_id="114484_11" relation_type="asymmetric"/>
+<RELATION id="R12" fromID="c1" fromText="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al" toID="N4" toText="Kolb et al" gram_type="infix" local_id="114484_10" relation_type="asymmetric"/>
+<RELATION id="R13" fromID="c1" fromText="Casteel, aka Al Ghashiyah (Kahn) v. Kolb et al" toID="N2" toText="Casteel, aka Al Ghashiyah (Kahn)" gram_type="infix" local_id="114484_9" relation_type="asymmetric"/>
+<RELATION id="R9" fromID="c0" fromText="510 U.S. 924" toID="d5" toText="93-5727" gram_type="apposition" local_id="114484_12" relation_type="asymmetric"/>
+</TAGS>
+</AttributionTask>
