@@ -1,0 +1,84 @@
+<!ENTITY name "AttributionTask">
+
+<!ELEMENT COMMUNICATOR ( #PCDATA ) >
+<!ATTLIST COMMUNICATOR start #IMPLIED > 
+<!ATTLIST COMMUNICATOR type ( person | government_entity | nongov_organization | other ) #IMPLIED "person" >
+<!ATTLIST COMMUNICATOR comment CDATA >
+
+<!ELEMENT citation ( #PCDATA ) >
+<!ATTLIST citation start #IMPLIED > 
+<!ATTLIST citation local_id  CDATA >
+<!ATTLIST citation entry_type ( standard_case | case_X_vs_Y | case_citation_other| legislation | other_written_document | other ) #IMPLIED "standard_case" >
+<!ATTLIST citation party1 CDATA >
+<!ATTLIST citation party2 CDATA >
+<!ATTLIST citation reporter CDATA >
+<!ATTLIST citation standard_reporter CDATA >
+<!ATTLIST citation volume CDATA >
+<!ATTLIST citation page_number CDATA >
+<!ATTLIST citation year CDATA >
+<!ATTLIST citation line CDATA >
+<!ATTLIST citation comment CDATA >
+
+<!ELEMENT NAME ( #PCDATA ) >
+<!ATTLIST NAME start #IMPLIED >
+<!ATTLIST NAME local_id  CDATA >
+<!ATTLIST NAME party1_of ( True | False ) #IMPLIED "False" >
+<!ATTLIST NAME plural CDATA >
+
+<!ELEMENT PROFESSION ( #PCDATA ) >
+<!ATTLIST PROFESSION start #IMPLIED >
+<!ATTLIST PROFESSION local_id  CDATA >
+<!ATTLIST PROFESSION plural CDATA >
+<!ATTLIST PROFESSION party1_of ( True | False ) #IMPLIED "False" >
+
+<!ELEMENT ORGANIZATION ( #PCDATA ) >
+<!ATTLIST ORGANIZATION start #IMPLIED >
+<!ATTLIST ORGANIZATION local_id  CDATA >
+<!ATTLIST ORGANIZATION plural CDATA >
+<!ATTLIST ORGANIZATION party1_of ( True | False ) #IMPLIED "False" >
+
+<!ELEMENT FAMILY ( #PCDATA ) >
+<!ATTLIST FAMILY start #IMPLIED >
+<!ATTLIST FAMILY local_id  CDATA >
+<!ATTLIST FAMILY party1_of ( True | False) #IMPLIED "False" >
+
+
+<!ELEMENT LEGAL_ROLE  ( #PCDATA ) >
+<!ATTLIST LEGAL_ROLE start #IMPLIED >
+<!ATTLIST LEGAL_ROLE local_id  CDATA >
+<!ATTLIST LEGAL_ROLE plural CDATA >
+<!ATTLIST LEGAL_ROLE party1_of ( True | False ) #IMPLIED "False" >
+
+<!ELEMENT quote ( #PCDATA ) >
+<!ATTLIST quote start #IMPLIED >
+<!ATTLIST quote local_id CDATA >
+<!ATTLIST quote string CDATA >
+
+<!ELEMENT MESSAGE ( #PCDATA ) >
+<!ATTLIST MESSAGE start #IMPLIED >
+<!ATTLIST MESSAGE type ( indirect_quote | mixed_quote | insinutated_attribution | other ) #IMPLIED >
+<!ATTLIST MESSAGE comment CDATA >
+
+<!ELEMENT date ( #PCDATA ) >
+<!ATTLIST date local_id CDATA >
+<!ATTLIST date start #IMPLIED >
+
+<!ELEMENT docket ( #PCDATA ) >
+<!ATTLIST docket start #IMPLIED >
+<!ATTLIST docket local_id  CDATA >
+
+<!ELEMENT ATTRIBUTION EMPTY >
+<!ATTLIST ATTRIBUTION function (CLAIM | OPINION | DESIRE | PREDICTION | OTHER ) #IMPLIED "CLAIM" >
+<!ATTLIST ATTRIBUTION TEXT_SIGNAL CDATA >
+<!ATTLIST ATTRIBUTION comment CDATA >
+
+<!ELEMENT RELATION EMPTY >
+<!ATTLIST RELATION local_id  CDATA >
+<!ATTLIST RELATION relation_type (equivalence | partly_asymmetric | asymmetric )
+<!ATTLIST RELATION gram_type (multi_line | pre_nom | apposition | conj | as_predication | possessive | preposition | infix )
+<!ATTLIST RELATION preposition CDATA >
+<!ATTLIST RELATION reference_word CDATA >
+<!ATTLIST RELATION comment CDATA >
+
+
+
