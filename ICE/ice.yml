@@ -1,0 +1,313 @@
+--- !java.util.TreeMap
+Legal-4000-converted: !edu.nyu.jet.ice.models.Corpus
+  entitySetBuilder: !edu.nyu.jet.ice.uicomps.EntitySetBuilder {}
+  termFileName: cache/Legal-4000-converted/terms
+  termFilter: !edu.nyu.jet.ice.uicomps.TermFilter {}
+  numberOfDocs: 4000
+  relationBuilder: !edu.nyu.jet.ice.uicomps.RelationBuilder
+    pathListFileName: ~
+    seed: ?
+    name: ?
+  docListFileName: cache/Legal-4000-converted/docList.local
+  relationInstanceFileName: cache/Legal-4000-converted/Relations
+  directory: cache/Legal-4000-converted/sources
+  filter: converted
+  name: Legal-4000-converted
+  relationTypeFileName: cache/Legal-4000-converted/Relationtypes
+  wordCountFileName: cache/Legal-4000-converted/counts
+  backgroundCorpus: ONAC
+ONAC: !edu.nyu.jet.ice.models.Corpus
+  entitySetBuilder: !edu.nyu.jet.ice.uicomps.EntitySetBuilder {}
+  termFileName: ~
+  termFilter: !edu.nyu.jet.ice.uicomps.TermFilter {}
+  numberOfDocs: 4563
+  relationBuilder: !edu.nyu.jet.ice.uicomps.RelationBuilder
+    pathListFileName: ~
+    seed: ?
+    name: ?
+  docListFileName: cache/ONAC/docList.local
+  relationInstanceFileName: cache/ONAC/Relations
+  directory: cache/ONAC/sources
+  filter: txt
+  name: ONAC
+  relationTypeFileName: cache/ONAC/Relationtypes
+  wordCountFileName: cache/ONAC/counts
+  backgroundCorpus: ~
+--- !java.util.TreeMap
+CITATION: !edu.nyu.jet.ice.models.IceEntitySet
+  names: []
+  nouns: 
+    - LEGALCITATION
+    - LEGALCITATION.
+  type: CITATION
+LEGAL_ROLE: !edu.nyu.jet.ice.models.IceEntitySet
+  names: []
+  nouns: 
+    - petitioner
+    - respondent
+    - defendant
+    - plaintiff
+    - petitioners
+    - appellant
+    - defendants
+    - plaintiffs
+    - respondents
+    - Petitioner
+    - appellants
+    - Respondent
+    - Petitioners
+    - Appellant
+    - Respondents
+    - appellees
+    - complainant
+    - appellee
+    - Appellants
+    - Appellees
+    - claimant
+    - Plaintiff
+    - complainants
+    - Plaintiffs
+    - Defendant
+    - claimants
+    - Defendants
+    - criminal defendant
+    - libellant
+    - libellants
+    - litigant
+    - relator
+    - indigent defendant
+    - demandant
+    - relators
+    - Claimants
+    - capital defendant
+    - other defendants
+    - original plaintiffs
+    - codefendants
+    - Claimant
+    - criminal defendants
+    - indigent criminal defendant
+    - individual defendants
+    - case petitioners
+    - present plaintiff
+    - individual defendant
+    - habeas petitioner
+    - individual respondents
+    - present defendant
+    - party defendant
+    - present plaintiffs
+    - original defendants
+    - time petitioner
+    - individual claimants
+    - litigants
+    - other defendant
+    - defendant company
+    - indigent defendants
+    - absent defendants
+    - defendant.
+    - individual plaintiff
+    - present appellant
+    - Complainant
+    - public defender
+    - other plaintiffs
+    - other litigants
+    - adverse claimants
+    - codefendant
+    - original defendant
+    - resident defendants
+    - particular plaintiff
+  type: LEGAL_ROLE
+--- !java.util.TreeMap
+PERSON_LEGALROLE: !edu.nyu.jet.ice.models.IceRelation
+  arg1type: PERSON
+  negPaths: 
+    - "PERSON -- nsubj-1:ask:iobj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:assign:prep_to -- LEGAL_ROLE"
+    - "PERSON -- dobj-1:encounter:cc:and:conj:see:advmod -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:reject:parataxis:rely:nsubj -- LEGAL_ROLE"
+    - PERSON -- prep_at -- LEGAL_ROLE
+    - "PERSON -- nsubj-1:require:dobj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:deliver:dobj:opinion:prep_of -- LEGAL_ROLE"
+    - PERSON -- dep -- LEGAL_ROLE
+    - "PERSON -- nsubj-1:die:ccomp-1:set:advcl-1:file:parataxis:acquire:nsubj -- LEGAL_ROLE"
+    - "PERSON -- dobj-1:make:dobj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:stand:prep_behind -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:divide:parataxis-1:take:ccomp-1:file:parataxis:acquire:nsubj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:kill:ccomp-1:be:ccomp:be:nsubj -- LEGAL_ROLE"
+    - PERSON -- prep -- LEGAL_ROLE
+    - "PERSON -- poss-1:acceptance:dobj-1:reflect:ccomp:note:ccomp:result:prep_in -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:pay:prep_to -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:return:prep_after -- LEGAL_ROLE"
+    - "PERSON -- poss-1:loss:advmod-1:attribute:prep_to -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:be:cc:and:conj:use:xcomp:pay:prep_to -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:take:advcl:introduce:prep_by -- LEGAL_ROLE"
+    - "PERSON -- nn-1:infant:nsubj-1:1851:dep:descent:prep_to -- LEGAL_ROLE"
+    - "PERSON -- poss-1:injury:dobj-1:cause:nsubj:negligence:prep_of -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:tell:prt -- LEGAL_ROLE"
+    - PERSON -- prep_of -- LEGAL_ROLE
+    - "PERSON -- nsubj-1:inform:iobj -- LEGAL_ROLE"
+    - "PERSON -- prep_to-1:give:prep_to -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:claim:dobj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:hand:purpcl -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:be:cop -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:go:advcl:waive:nsubj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:be:cop:one:prep_of:combine:partmod:include:dobj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:be:cc:and:conj -- LEGAL_ROLE"
+    - "PERSON -- cop-1:be:prep_for -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:hold:ccomp:fail:nsubj -- LEGAL_ROLE"
+    - "PERSON -- prep_from-1:due:prep_to -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:be:nsubj -- LEGAL_ROLE"
+    - PERSON -- rcmod -- LEGAL_ROLE
+    - "PERSON -- nsubj-1:base:advmod -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:communicate:xcomp -- LEGAL_ROLE"
+    - "PERSON -- prep_In-1:be:nsubj -- LEGAL_ROLE"
+    - PERSON -- prep_to -- LEGAL_ROLE
+    - "PERSON -- nsubj-1:convey:prep_to -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:advise:iobj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:draw:advcl:lessor:prep_of -- LEGAL_ROLE"
+    - "PERSON -- advmod-1:hold:ccomp:be:advcl:have:nsubj -- LEGAL_ROLE"
+    - "PERSON -- dobj-1:employ:nsubj -- LEGAL_ROLE"
+    - "PERSON -- cc:and:conj -- LEGAL_ROLE"
+    - "PERSON -- cc:nor:conj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:be:cc:and:conj:be:nsubj -- LEGAL_ROLE"
+    - "PERSON -- dobj-1:see:xcomp-1:testified:nsubj -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:arrive:prep_at:residence:poss -- LEGAL_ROLE"
+    - "PERSON -- appos:brief:prep_for -- LEGAL_ROLE"
+    - "PERSON -- prep_by-1:purchase:dobj-1:set:advcl-1:file:parataxis:acquire:nsubj -- LEGAL_ROLE"
+    - "PERSON -- prep_from-1:transfer:prep_of-1:copy:infmod -- LEGAL_ROLE"
+    - "PERSON -- dep-1:argue:nsubj -- LEGAL_ROLE"
+    - "PERSON -- poss-1:president:conj-1:witness:nsubj-1:identified:dobj -- LEGAL_ROLE"
+    - "PERSON -- cc:and:conj:were:nsubj -- LEGAL_ROLE"
+    - "PERSON -- rcmod:initiate:cc:and:conj:question:dobj -- LEGAL_ROLE"
+    - "PERSON -- prep_of-1:county:prep_in-1:situate:nsubj -- LEGAL_ROLE"
+    - PERSON -- poss-1 -- LEGAL_ROLE
+    - PERSON -- prep_In-1 -- LEGAL_ROLE
+    - "PERSON -- dobj-1:drive:prep_to:home:poss -- LEGAL_ROLE"
+    - "PERSON -- prep_to-1:deed:cc:and:conj:deed:prep_to -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:argue:cc:and:conj:file:prep_for -- LEGAL_ROLE"
+    - "PERSON -- nsubj-1:prevent:dobj -- LEGAL_ROLE"
+  arg2type: LEGAL_ROLE
+  paths: 
+    - "advmod-1:be:prep_for"
+    - "dep:be:prep_for"
+    - "nsubj-1:be:cop:for:pobj"
+    - "nsubj-1:be:prep_for"
+    - "rcmod:be:prep_for"
+    - "tmod-1:be:prep_for"
+    - "nsubj-1:take:dep"
+    - prep_as
+    - "appos-1:october:prep_for"
+    - "cc:and:conj:were:prep_for"
+    - "prep_OF-1:court:prep_for"
+    - prep_with
+    - "cc:and:conj"
+    - conj
+    - "pobj-1:by:agent-1:submit:prep_for"
+    - "prep_by-1:submit:prep_for"
+    - "prep_FOR-1:to:dep:(:dep:be:cop:for:pobj"
+    - "conj-1:and:dep:for:pobj"
+    - "conj-1:and:dep:for:prep_for"
+    - "dep:for:pobj"
+    - "prep:for:pcomp"
+    - "prep:for:prep_for"
+    - prep_for
+    - amod-1
+    - dep
+    - det-1
+    - dobj
+    - dobj-1
+    - nn-1
+    - nsubj-1
+    - partmod
+    - postloc
+    - prep
+    - rcmod
+    - tmod-1
+    - appos
+    - "prep_FOR-1:certiorari:appos-1:february:nsubj-1:argue:dobj:cause:prep_for"
+    - "nsubj-1:move:prep_for"
+    - "advmod-1:be:prep_for"
+    - "dep:be:prep_for"
+    - "nsubj-1:be:cop:for:pobj"
+    - "nsubj-1:be:prep_for"
+    - "rcmod:be:prep_for"
+    - "tmod-1:be:prep_for"
+    - amod-1
+    - dep
+    - det-1
+    - dobj
+    - dobj-1
+    - nn-1
+    - nsubj-1
+    - partmod
+    - postloc
+    - prep
+    - rcmod
+    - tmod-1
+    - "prep_in:support:prep_of"
+    - "advcl-1:were:prep_for"
+    - "advmod-1:were:ccomp:were:prep_for"
+    - "advmod-1:were:prep_for"
+    - "nsubj-1:were:ccomp:were:prep_for"
+    - "nsubj-1:were:parataxis-1:were:prep_for"
+    - "nsubj-1:were:prep:for:pcomp"
+    - "nsubj-1:were:prep_for"
+    - "rcmod:were:ccomp:were:prep_for"
+    - "rcmod:were:prep_for"
+    - "tmod-1:were:prep_for"
+    - "prep_OF-1:court:nsubj-1:for:pobj"
+    - "prep_for:sheckels:appos"
+    - "advmod-1:be:prep_for"
+    - "dep:be:prep_for"
+    - "nsubj-1:be:cop:for:pobj"
+    - "nsubj-1:be:prep_for"
+    - "rcmod:be:prep_for"
+    - "tmod-1:be:prep_for"
+    - "prep_OF-1:district:prep_FOR-1:court:prep_for"
+    - "advmod-1:be:prep_for"
+    - "dep:be:prep_for"
+    - "nsubj-1:be:cop:for:pobj"
+    - "nsubj-1:be:prep_for"
+    - "rcmod:be:prep_for"
+    - "tmod-1:be:prep_for"
+    - "prep_for:al.:nn"
+    - "parataxis-1:and:conj:file:prep_for"
+    - "advcl-1:were:prep_for"
+    - "advmod-1:were:ccomp:were:prep_for"
+    - "advmod-1:were:prep_for"
+    - "nsubj-1:were:ccomp:were:prep_for"
+    - "nsubj-1:were:parataxis-1:were:prep_for"
+    - "nsubj-1:were:prep:for:pcomp"
+    - "nsubj-1:were:prep_for"
+    - "rcmod:were:ccomp:were:prep_for"
+    - "rcmod:were:prep_for"
+    - "tmod-1:were:prep_for"
+    - "advmod-1:be:prep_for"
+    - "dep:be:prep_for"
+    - "nsubj-1:be:cop:for:pobj"
+    - "nsubj-1:be:prep_for"
+    - "rcmod:be:prep_for"
+    - "tmod-1:be:prep_for"
+    - "advmod-1:be:prep_for"
+    - "dep:be:prep_for"
+    - "nsubj-1:be:cop:for:pobj"
+    - "nsubj-1:be:prep_for"
+    - "rcmod:be:prep_for"
+    - "tmod-1:be:prep_for"
+    - "prep_for:martin:nn"
+    - "prep_OF-1:district:prep_FOR-1:court:dobj-1:from:prep_for"
+    - "nsubj-1:appear:prep_as"
+    - "nsubj-1:be:advcl"
+    - "nsubj-1:be:cop"
+    - "rcmod:be:advcl"
+    - "rcmod:be:cop"
+    - "conj-1:and:cc-1:general:prep_for"
+    - "prep_OF-1:district:prep_FOR-1:to:prep_for"
+    - "nsubj-1:be:advcl"
+    - "nsubj-1:be:cop"
+    - "rcmod:be:advcl"
+    - "rcmod:be:cop"
+    - "nsubj-1:be:advcl"
+    - "nsubj-1:be:cop"
+    - "rcmod:be:advcl"
+    - "rcmod:be:cop"
+  name: PERSON_LEGALROLE

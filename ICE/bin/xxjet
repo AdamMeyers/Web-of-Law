@@ -1,0 +1,4 @@
+#!/bin/tcsh
+#  run jet, specifying class and arguments
+#  take class files from local directory in preference to Jet jar
+java -cp .:$JET_HOME/jet-all.jar -Xmx1600m -server -DjetHome=$JET_HOME $1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11 $12 $13 $14 $15 $16
