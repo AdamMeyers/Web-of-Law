@@ -1,0 +1,74 @@
+LEGALCITATION	CITATION
+LEGALCITATION.	CITATION
+petitioner	LEGAL_ROLE
+respondent	LEGAL_ROLE
+defendant	LEGAL_ROLE
+plaintiff	LEGAL_ROLE
+petitioners	LEGAL_ROLE
+appellant	LEGAL_ROLE
+defendants	LEGAL_ROLE
+plaintiffs	LEGAL_ROLE
+respondents	LEGAL_ROLE
+Petitioner	LEGAL_ROLE
+appellants	LEGAL_ROLE
+Respondent	LEGAL_ROLE
+Petitioners	LEGAL_ROLE
+Appellant	LEGAL_ROLE
+Respondents	LEGAL_ROLE
+appellees	LEGAL_ROLE
+complainant	LEGAL_ROLE
+appellee	LEGAL_ROLE
+Appellants	LEGAL_ROLE
+Appellees	LEGAL_ROLE
+claimant	LEGAL_ROLE
+Plaintiff	LEGAL_ROLE
+complainants	LEGAL_ROLE
+Plaintiffs	LEGAL_ROLE
+Defendant	LEGAL_ROLE
+claimants	LEGAL_ROLE
+Defendants	LEGAL_ROLE
+criminal defendant	LEGAL_ROLE
+libellant	LEGAL_ROLE
+libellants	LEGAL_ROLE
+litigant	LEGAL_ROLE
+relator	LEGAL_ROLE
+indigent defendant	LEGAL_ROLE
+demandant	LEGAL_ROLE
+relators	LEGAL_ROLE
+Claimants	LEGAL_ROLE
+capital defendant	LEGAL_ROLE
+other defendants	LEGAL_ROLE
+original plaintiffs	LEGAL_ROLE
+codefendants	LEGAL_ROLE
+Claimant	LEGAL_ROLE
+criminal defendants	LEGAL_ROLE
+indigent criminal defendant	LEGAL_ROLE
+individual defendants	LEGAL_ROLE
+case petitioners	LEGAL_ROLE
+present plaintiff	LEGAL_ROLE
+individual defendant	LEGAL_ROLE
+habeas petitioner	LEGAL_ROLE
+individual respondents	LEGAL_ROLE
+present defendant	LEGAL_ROLE
+party defendant	LEGAL_ROLE
+present plaintiffs	LEGAL_ROLE
+original defendants	LEGAL_ROLE
+time petitioner	LEGAL_ROLE
+individual claimants	LEGAL_ROLE
+litigants	LEGAL_ROLE
+other defendant	LEGAL_ROLE
+defendant company	LEGAL_ROLE
+indigent defendants	LEGAL_ROLE
+absent defendants	LEGAL_ROLE
+defendant.	LEGAL_ROLE
+individual plaintiff	LEGAL_ROLE
+present appellant	LEGAL_ROLE
+Complainant	LEGAL_ROLE
+public defender	LEGAL_ROLE
+other plaintiffs	LEGAL_ROLE
+other litigants	LEGAL_ROLE
+adverse claimants	LEGAL_ROLE
+codefendant	LEGAL_ROLE
+original defendant	LEGAL_ROLE
+resident defendants	LEGAL_ROLE
+particular plaintiff	LEGAL_ROLE

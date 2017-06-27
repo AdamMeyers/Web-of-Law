@@ -1,0 +1,11 @@
+#!/bin/tcsh
+#  run Ace
+#  $1 = properties file
+#  $2 = filelist
+#  $3 = text directory
+#  $4 = output directory
+#  $5 = parse directory (optional)
+#  $6 = glarf directory (optional)
+#  $7 = glarf file extension (optional)
+#  $8 = parse file extension (optional)
+xjet AceJet.Ace $1 $2 $3 $4 $5 $6 $7 $8
