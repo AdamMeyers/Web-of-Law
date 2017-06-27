@@ -10,7 +10,7 @@ The corpus can be found at
 ```
 To run the system, download the contents to a CIMS server. When running it for the first time, direct to ice-bin/ and run the following command copy the cache of the processed corpus from /misc/proteus106/wlu/ice-bin/cache
 ```
-cp /misc/proteus106/wlu/ice-bin/cache cache
+cp -r /misc/proteus106/wlu/ice-bin/cache cache
 ```
 Then, execute the following command to run the system
 ```
