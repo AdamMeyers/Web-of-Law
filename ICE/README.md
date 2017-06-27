@@ -2,9 +2,9 @@ ICE is an Integrated Customization Environment for Information Extraction develo
 
 This folder contains the contents of ICE after I trained it on a corpus of 4000 legal documents. The corpus can be found at /misc/proteus106/wlu/legal_corpus/4000/texts/.
 
-To run the system, download the contents to a CIMS server. When running it for the first time, direct to ice-bin/ and run the following command to create a soft link named cache to /misc/proteus106/wlu/ice-bin/cache
+To run the system, download the contents to a CIMS server. When running it for the first time, direct to ice-bin/ and run the following command copy the cache of the processed corpus from /misc/proteus106/wlu/ice-bin/cache
 ```
-ln -s /misc/proteus106/wlu/ice-bin/cache cache
+cp /misc/proteus106/wlu/ice-bin/cache cache
 ```
 Then, execute the following command to run the system
 ```
