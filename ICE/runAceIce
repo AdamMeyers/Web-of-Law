@@ -1,4 +1,0 @@
-#!/bin/tcsh
-# ace props2 example/sgmlist example/sgm/ example/out/
-ace props2 legal_1000/list legal_1000/converted/ legal_1000/out/
-# ace props2 legal_1000/../jet-test/list_test legal_1000/../jet-test/all_300_converted/ legal_1000/out/

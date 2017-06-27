@@ -1,3 +1,0 @@
-sentence :=  np vp;
-np	 :=  n | art n | art adj n;
-vp	 :=  v | v np;

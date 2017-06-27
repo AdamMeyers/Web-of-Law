@@ -1,4 +1,0 @@
-# JET properties file for POS tagging
-Jet.dataPath     = data
-Tags.fileName    = pos_hmm.txt
-processSentence  = tagPOS
