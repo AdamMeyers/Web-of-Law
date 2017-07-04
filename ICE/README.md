@@ -57,12 +57,25 @@ export JET_HOME="/misc/proteus106/wlu/ice-bin"
 
 ## Use JET
 
-The actions of JET is controled by a properties file. The [props2](./ice-bin/props2) under [ice-bin/](./ice-bin) will ask JET to take the outputs of ICE and perform named entity recognition and relation extraction on target documents.
+The actions of JET is controled by a properties file. The [props2](./ice-bin/props2) file under [ice-bin/](./ice-bin) will ask JET to take the outputs of ICE and perform named entity recognition and relation extraction on target documents.
 
 You can use the `ace` command to run JET. It takes in four arguments:
 1. Path to the properties file
 2. Path to the file that contains the filenames of the documents to be processed
 3. Path to the directory that contains the files to be processed
 4. Path to the the output directory
-[runAceIce](./ice-bin/runAceIce) under [ice-bin/](./ice-bin) contains a simple script that shows the usage.
 
+The file [runAceIce](./ice-bin/runAceIce) under [ice-bin/](./ice-bin) contains a simple script that shows the usage of `ace`.
+
+In order for a document to be processed by JET, it needs to be formatted to contain some special tags, as shown below:
+```
+<DOC>
+<BODY>
+<TEXT>
+...
+(Actual texts of the document)
+...
+</TEXT>
+</BODY>
+</DOC>
+```
