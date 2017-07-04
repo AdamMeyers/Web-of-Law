@@ -14,19 +14,20 @@ If successful, you should see a display of a clock on your local machine. The `-
 
 ## Set up the original version
 
-Download the original software from [here](https://github.com/ivanhe/ice/releases/download/v0.2.0beta/ice-bin.zip "ice-bin.zip") (I copied the link from ICE's website). Then unzip the file and under the directory `ice-bin/`, exsecute the folloowing command to run the software:
+Download the original software from [here](https://github.com/ivanhe/ice/releases/download/v0.2.0beta/ice-bin.zip "ice-bin.zip") (I copied the link from ICE's website). Then unzip the file and under the directory `ice-bin/`, exsecute the following command to run the software:
 ```
 ./runice.sh
 ```
 
 ## Set up the pre-trained version
 
-The *ice-bin* folder here contains the contents of ICE after I trained it on a corpus of 4000 legal documents except the cache for the preprocessed documents.
+The [ice-bin](./ice-bin) folder here contains the contents of ICE after I trained it on a corpus of 4000 legal documents, except the cache for the preprocessed documents.
 
 The folder can also be found on the CIMS server at `/misc/proteus106/wlu/ice-bin`.
+
 The corpus can be found at `/misc/proteus106/wlu/legal_corpus/4000/texts/`.
 
-To run the software, download the *ice-bin* folder to a CIMS server. When running it for the first time, direct to `ice-bin/` and run the following command copy the cache of the processed corpus from `/misc/proteus106/wlu/ice-bin/cache`:
+To run the software, download the [ice-bin](./ice-bin) folder to a CIMS server. When running it for the first time, direct to `ice-bin/` and run the following command to add the cache of the preprocessed corpus:
 ```
 cp -r /misc/proteus106/wlu/ice-bin/cache cache
 ```
