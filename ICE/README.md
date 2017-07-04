@@ -80,6 +80,19 @@ In order for a document to be processed by JET, it needs to be formatted to cont
 </DOC>
 ```
 
+One thing to be noticed is that, because of these special tags, the character offsets in the outputs of JET are going to be larger than the actual offsets in the original files by 3.
+
 # Preprocess Corpus
 
-Previous information extraction tasks have produced some annotations for legal documents, including annotations for named entities, relations, etc. The files containing such annotations have a `.NYU_IE1` suffix, and some sample files can be found [here](../Web_of_Law_manual_rule_IE_and_citation_graph_scripts/test/fixed_files/).
+Previous information extraction tasks have produced some annotations for legal documents, including annotations for named entities, relations, etc. The files containing such annotations have a `.NYU_IE1` suffix, and some sample files can be found [here](../Web_of_Law_manual_rule_IE_and_citation_graph_scripts/test/fixed_files/). It is therefore possible to use those annotations to preprocess the corpus before running ICE.
+
+As an example, the script [converter.py](./converter.py) will take annotations for citations, and replace each occurrence of a citation in the original legal document with a token `LECI`. It also pads spaces behind the token so that character offsets are preserved after the replacement.
+
+Specifically, the script takes in four arguments and an optional argument to run:
+1. Path to the file that contains the filenames (without suffix) of the documents to be processed
+2. Path to the directroy that contains the original legal documents.
+3. Path to the directory that contains the NYU_IE1 files.
+4. Path to the the output directory
+5. (Optional) If provided, the script will also add the speical tags required by JET to the outputs.
+
+The original legal documents and the NYU_IE1 files are assumed to have a `.txt` suffix and a `.NYU_IE1` suffix, respectively. The outputs will have a `.converted` suffix. The script will also record mismatches, that is, when the string of the citation provided in the annotation does not match the one in the original file. In such cases, the citation in the original file is left unchanged. And in the end, all the recorded mismatches will be saved in a file called `mismatches.txt` in the output directory.
