@@ -10,7 +10,7 @@ Since ICE is GUI-based, you will need an X server to run it remotely. Please goo
 ssh -X username@address
 xclock
 ```
-If successful, you should see a display of a clock on your local machine. The `-X` flag can be replaced by `-Y`.
+If successful, you should see figure of a clock displayed on your local machine. The `-X` flag can be replaced by `-Y`.
 
 ### Set up the original version
 
