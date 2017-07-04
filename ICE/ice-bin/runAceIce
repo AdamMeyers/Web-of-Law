@@ -1,4 +1,8 @@
 #!/bin/tcsh
-# ace props2 example/sgmlist example/sgm/ example/out/
+# Usage:
+# ace arg1 arg2 arg3 arg4
+# arg1: path to the properties file
+# arg2: path to the file that contains the filenames of the documents to be processed
+# arg3: path to the directory that contains the files to be processed
+# arg4: path to the the output directory
 ace props2 legal_1000/list legal_1000/converted/ legal_1000/out/
-# ace props2 legal_1000/../jet-test/list_test legal_1000/../jet-test/all_300_converted/ legal_1000/out/
