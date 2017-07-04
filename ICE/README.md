@@ -79,3 +79,7 @@ In order for a document to be processed by JET, it needs to be formatted to cont
 </BODY>
 </DOC>
 ```
+
+# Preprocess Corpus
+
+Previous information extraction tasks have produced some annotations for legal documents, including annotations for named entities, relations, etc. The files containing such annotations have a `.NYU_IE1` suffix, and some sample files can be found [here](../Web_of_Law_manual_rule_IE_and_citation_graph_scripts/test/fixed_files/).

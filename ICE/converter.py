@@ -150,8 +150,8 @@ def main():
 
             for item in mismatch:
                 ann, matched = item
-                output.write('Document id: {}\n'.format(text_id))
-                output.write('Start: {}; End: {}; \nCitation: {}\nMatched: {}'.format(
+                output.write('Document id: ' + text_id + '\n')
+                output.write('Start: %d; End: %d; \nCitation: %s\nMatched: %s' % (
                     ann.start, ann.end, ann.citation, matched))
                 output.write('\n\n')
 
