@@ -38,7 +38,7 @@ Then, execute the following command to run the software:
 
 ## Use ICE
 
-This [video](https://www.youtube.com/watch?v=7r53EpTy1_M) has a fairly clear demo of how to use the software. Also, under [ice-bin/docs/](./ice-bin/docs), you can find the file [iceman.html](./ice-bin/docs/iceman.html), which contains some more details that are not in the video. 
+This [video](https://www.youtube.com/watch?v=7r53EpTy1_M) has a fairly clear demo of how to use the software. Also, under [ice-bin/docs/](./ice-bin/docs), you can find the user manual [iceman](./ice-bin/docs/iceman.md), which contains some more details that are not in the video. 
 
 In the end, the entity set and relation set that you build through ICE will be exported as two files. They can be found under [ice-bin/acedata/](./ice-bin/acedata), where [ice_onoma.dict](./ice-bin/acedata/ice_onoma.dict) is the file for entity set, and [iceRelationModel](./ice-bin/acedata/iceRelationModel) is the file for relation set.
 
