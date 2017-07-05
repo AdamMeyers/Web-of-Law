@@ -69,18 +69,8 @@ The file [runAceIce](./ice-bin/runAceIce) under [ice-bin/](./ice-bin) contains a
 
 In order for a document to be processed by JET, it needs to be formatted to contain some special tags, as shown below:
 ```
-<DOC>
-<BODY>
-<TEXT>
-...
-(Actual texts of the document)
-...
-</TEXT>
-</BODY>
-</DOC>
+<DOC><BODY><TEXT>...(Actual texts of the document)...</TEXT></BODY></DOC>
 ```
-
-One thing to be noticed is that, because of these special tags, the character offsets in the outputs of JET are going to be larger than the actual offsets in the original files by 3.
 
 # Preprocess Corpus
 
@@ -93,6 +83,6 @@ Specifically, the script takes in four arguments and an optional argument to run
 2. Path to the directroy that contains the original legal documents.
 3. Path to the directory that contains the NYU_IE1 files.
 4. Path to the the output directory
-5. (Optional) If provided, the script will also add the speical tags required by JET to the outputs.
+5. (Optional) If not empty, the script will also add the speical tags required by JET to the outputs.
 
 The original legal documents and the NYU_IE1 files are assumed to have a `.txt` suffix and a `.NYU_IE1` suffix, respectively. The outputs will have a `.converted` suffix. The script will also record mismatches, that is, when the string of the citation provided in the annotation does not match the one in the original file. In such cases, the citation in the original file is left unchanged. And in the end, all the recorded mismatches will be saved in a file called `mismatches.txt` in the output directory.

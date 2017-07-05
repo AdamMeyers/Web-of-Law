@@ -82,7 +82,7 @@ def process_text(text_id, paths, add_tags):
     mismatch = []
     with open(paths['output'] + '/' + text_id + '.converted', 'w', encoding='utf8') as output:
         if add_tags:
-            output.write('<DOC>\n<BODY>\n<TEXT>\n')
+            output.write('<DOC><BODY><TEXT>')
         last_end = 0
         for ann in list_annotation:
             output.write(text[last_end: ann.start])
@@ -98,7 +98,7 @@ def process_text(text_id, paths, add_tags):
             last_end = ann.end
         output.write(text[last_end:])
         if add_tags:
-            output.write('</TEXT>\n</BODY>\n</DOC>')
+            output.write('</TEXT></BODY></DOC>')
     return mismatch
 
 
