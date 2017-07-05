@@ -94,7 +94,7 @@ def process_text(text_id, paths, add_tags):
                 output.write(matched.decode('utf-8'))
             else:
                 # Pad spaces after the token to preserve character offsets
-                output.write('LECI' + ' '*(len(matched) - 4))
+                output.write('LECI' + ' '*(len(text[ann.start: ann.end]) - 4))
             last_end = ann.end
         output.write(text[last_end:])
         if add_tags:

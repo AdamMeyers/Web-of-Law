@@ -14,7 +14,7 @@ If successful, you should see figure of a clock displayed on your local machine.
 
 ### Set up the original version
 
-Download the original software from [here](https://github.com/ivanhe/ice/releases/download/v0.2.0beta/ice-bin.zip "ice-bin.zip") (I copied the link from ICE's website). Then unzip the file and under the directory `ice-bin/`, exsecute the following command to run the software:
+Download the original software [here](https://github.com/ivanhe/ice/releases/download/v0.2.0beta/ice-bin.zip "ice-bin.zip") (I copied the link from ICE's website). Then unzip the file and under the directory `ice-bin/`, exsecute the following command to run the software:
 ```
 ./runice.sh
 ```
