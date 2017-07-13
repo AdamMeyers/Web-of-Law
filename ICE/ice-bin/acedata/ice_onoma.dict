@@ -1,74 +1,70 @@
-LEGALCITATION	CITATION
-LEGALCITATION.	CITATION
-petitioner	LEGAL_ROLE
-respondent	LEGAL_ROLE
-defendant	LEGAL_ROLE
-plaintiff	LEGAL_ROLE
-petitioners	LEGAL_ROLE
-appellant	LEGAL_ROLE
-defendants	LEGAL_ROLE
-plaintiffs	LEGAL_ROLE
-respondents	LEGAL_ROLE
-Petitioner	LEGAL_ROLE
-appellants	LEGAL_ROLE
-Respondent	LEGAL_ROLE
-Petitioners	LEGAL_ROLE
-Appellant	LEGAL_ROLE
-Respondents	LEGAL_ROLE
-appellees	LEGAL_ROLE
-complainant	LEGAL_ROLE
-appellee	LEGAL_ROLE
-Appellants	LEGAL_ROLE
-Appellees	LEGAL_ROLE
-claimant	LEGAL_ROLE
-Plaintiff	LEGAL_ROLE
-complainants	LEGAL_ROLE
-Plaintiffs	LEGAL_ROLE
-Defendant	LEGAL_ROLE
-claimants	LEGAL_ROLE
-Defendants	LEGAL_ROLE
-criminal defendant	LEGAL_ROLE
-libellant	LEGAL_ROLE
-libellants	LEGAL_ROLE
-litigant	LEGAL_ROLE
-relator	LEGAL_ROLE
-indigent defendant	LEGAL_ROLE
-demandant	LEGAL_ROLE
-relators	LEGAL_ROLE
-Claimants	LEGAL_ROLE
-capital defendant	LEGAL_ROLE
-other defendants	LEGAL_ROLE
-original plaintiffs	LEGAL_ROLE
-codefendants	LEGAL_ROLE
-Claimant	LEGAL_ROLE
-criminal defendants	LEGAL_ROLE
-indigent criminal defendant	LEGAL_ROLE
-individual defendants	LEGAL_ROLE
-case petitioners	LEGAL_ROLE
-present plaintiff	LEGAL_ROLE
-individual defendant	LEGAL_ROLE
-habeas petitioner	LEGAL_ROLE
-individual respondents	LEGAL_ROLE
-present defendant	LEGAL_ROLE
-party defendant	LEGAL_ROLE
-present plaintiffs	LEGAL_ROLE
-original defendants	LEGAL_ROLE
-time petitioner	LEGAL_ROLE
-individual claimants	LEGAL_ROLE
-litigants	LEGAL_ROLE
-other defendant	LEGAL_ROLE
-defendant company	LEGAL_ROLE
-indigent defendants	LEGAL_ROLE
-absent defendants	LEGAL_ROLE
-defendant.	LEGAL_ROLE
-individual plaintiff	LEGAL_ROLE
-present appellant	LEGAL_ROLE
-Complainant	LEGAL_ROLE
-public defender	LEGAL_ROLE
-other plaintiffs	LEGAL_ROLE
-other litigants	LEGAL_ROLE
-adverse claimants	LEGAL_ROLE
-codefendant	LEGAL_ROLE
-original defendant	LEGAL_ROLE
-resident defendants	LEGAL_ROLE
-particular plaintiff	LEGAL_ROLE
+LECI	CITATION
+petitioner	LEGAL_ROLES
+respondent	LEGAL_ROLES
+defendant	LEGAL_ROLES
+plaintiff	LEGAL_ROLES
+petitioners	LEGAL_ROLES
+appellant	LEGAL_ROLES
+defendants	LEGAL_ROLES
+plaintiffs	LEGAL_ROLES
+respondents	LEGAL_ROLES
+appellants	LEGAL_ROLES
+Petitioner	LEGAL_ROLES
+Respondent	LEGAL_ROLES
+Petitioners	LEGAL_ROLES
+Appellant	LEGAL_ROLES
+Respondents	LEGAL_ROLES
+appellees	LEGAL_ROLES
+complainant	LEGAL_ROLES
+appellee	LEGAL_ROLES
+Appellants	LEGAL_ROLES
+Appellees	LEGAL_ROLES
+Plaintiff	LEGAL_ROLES
+claimant	LEGAL_ROLES
+complainants	LEGAL_ROLES
+Plaintiffs	LEGAL_ROLES
+Defendant	LEGAL_ROLES
+Defendants	LEGAL_ROLES
+claimants	LEGAL_ROLES
+libellant	LEGAL_ROLES
+criminal defendant	LEGAL_ROLES
+libellants	LEGAL_ROLES
+litigant	LEGAL_ROLES
+relator	LEGAL_ROLES
+indigent defendant	LEGAL_ROLES
+demandant	LEGAL_ROLES
+other defendants	LEGAL_ROLES
+Claimants	LEGAL_ROLES
+capital defendant	LEGAL_ROLES
+original plaintiffs	LEGAL_ROLES
+Claimant	LEGAL_ROLES
+codefendants	LEGAL_ROLES
+individual defendants	LEGAL_ROLES
+indigent criminal defendant	LEGAL_ROLES
+case petitioners	LEGAL_ROLES
+habeas petitioner	LEGAL_ROLES
+individual respondents	LEGAL_ROLES
+defendant company	LEGAL_ROLES
+present plaintiff	LEGAL_ROLES
+party defendant	LEGAL_ROLES
+time petitioner	LEGAL_ROLES
+individual defendant	LEGAL_ROLES
+original defendants	LEGAL_ROLES
+individual claimants	LEGAL_ROLES
+present plaintiffs	LEGAL_ROLES
+plaintiff company	LEGAL_ROLES
+defendant corporation	LEGAL_ROLES
+present defendant	LEGAL_ROLES
+defendant companies	LEGAL_ROLES
+criminal defendants	LEGAL_ROLES
+litigants	LEGAL_ROLES
+indigent defendants	LEGAL_ROLES
+other defendant	LEGAL_ROLES
+defendant.	LEGAL_ROLES
+party plaintiff	LEGAL_ROLES
+Complainant	LEGAL_ROLES
+present appellant	LEGAL_ROLES
+absent defendants	LEGAL_ROLES
+individual plaintiff	LEGAL_ROLES
+particular plaintiff	LEGAL_ROLES
+other plaintiffs	LEGAL_ROLES
