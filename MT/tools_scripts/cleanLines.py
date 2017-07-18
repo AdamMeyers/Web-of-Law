@@ -1,4 +1,4 @@
-
+#This file is used to clean a text to have a sentence by line
 files = [] 
 
 archivo = 'train_es_aquis.txt' 

@@ -1,3 +1,7 @@
+
+#This script is to parse the output file of Stanford's NER when the output
+#format is tabbedEntities
+
 import operator
 file_name = '../NER_europal.tsv'
 counter = 0

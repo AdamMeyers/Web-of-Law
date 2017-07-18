@@ -1,1 +1,1 @@
-ne in $(ls train/*.terms); do cat $line | grep -io -P 'String=".*." Frequency' | sed 's/STRING="//g'| sed 's/" FREQUENCY//g' | sort | uniq -c | sort -s -n -r -k 1,1 | more >> term_train_john.out; done;
+for line in $(ls train/*.terms); do cat $line | grep -io -P 'String=".*." Frequency' | sed 's/STRING="//g'| sed 's/" FREQUENCY//g' | sort | uniq -c | sort -s -n -r -k 1,1 | more >> term_train_john.out; done;

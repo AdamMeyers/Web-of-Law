@@ -1,3 +1,7 @@
+
+#This script reads a bunch of XML files and parses thems  and creates a text
+# file of it.
+
 import glob
 import os 
 import xml.etree.ElementTree
