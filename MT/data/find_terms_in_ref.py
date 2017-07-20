@@ -18,8 +18,7 @@ with open(sys.argv[2], "r") as ins:
     for line in ins:
         for term in no_translated_terms:
             the_line = line.strip()
-            match = re.search(r"[^a-zA-Z]("+term+")[^a-zA-Z]", the_line)
-            if match.start(1) > 0:
+            if re.search(r"[^a-zA-Z]("+term+")[^a-zA-Z]", the_line).start() > 0:
                 print "**** >>" + str(line)
                 print "**** --" + str(term)
     
