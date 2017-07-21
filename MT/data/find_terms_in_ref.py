@@ -31,16 +31,24 @@ with open(sys.argv[2], "r") as ins:
                 no_translated_ref.append(txt)   
                 #print '$$$$$$$$$$$$$$$$$$'
         count = count +1
+        #print count
+
+with open('check_point_find_terms.txt','w') as out:
+    for item in no_translated_ref:
+        print item
+        item = item.strip()
+        out.write(item+'\n')
+
 list_en_terms = [] 
 list_es_terms = [] 
 #europarl.combined.en.moses.terms ins
 with open(sys.argv[3], 'r') as ins:
     for line in ins:
-        line_en_terms.append(line)
+        list_en_terms.append(line)
 #europarl.combined.es.moses terms 
 with open(sys.argv[4], 'r') as ins:
     for line in ins:
-         line_es_terms.append(line)
+         list_es_terms.append(line)
 with open('europarl.moses.found.txt','w') as out:
     headline = 'line number\tenglishterm\tspanishterm\tstart\tend'
     for item in no_translated_ref:
