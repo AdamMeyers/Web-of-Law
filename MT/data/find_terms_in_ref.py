@@ -56,6 +56,6 @@ with open('europarl.moses.found.txt','w') as out:
         txt  = item.split('\t')
         line_index = list_en_terms.index(txt[1])
         list_es_terms.index(txt[1])
-        if(list_en_terms == list_es_terms):
+        if(list_en_terms[line_index] == list_es_terms[line_index]):
             outtxt = str(txt[0]) + '\t' + str(txt[1]) + '\t' +  str(list_es_terms[line_index])
         print outtxt
