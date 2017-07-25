@@ -14,7 +14,7 @@ with open(terms_ner) as ner:
 with open(terms_termo) as term:
     for line in term:
         line = line.strip()
-        txt  = line.split('\t')
+        txt = line.split('\t')
         terms2.append(txt[1])
 all_terms = sorted(list(set(terms1) & set(terms2)))
 
