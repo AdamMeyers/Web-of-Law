@@ -1,0 +1,4031 @@
+2	december	december	80	88
+2	december 1999	december 1999	80	93
+2	friday	friday	70	76
+2	friday 17 december 1999	friday 17 december 1999	70	93
+3	materialise	materialise	72	83
+4	part-session	part-session	92	104
+9	sri lanka	sri lanka	113	122
+10	mr kumar ponnambalam	mr kumar ponnambalam	62	82
+10	sri lanka	sri lanka	48	57
+11	sri lanka	sri lanka	166	175
+12	mr evans	mr evans	5	13
+13	mr evans	mr evans	35	43
+15	143	143	36	39
+16	thursday	thursday	54	62
+17	6	6	125	126
+17	multiannual	multiannual	20	31
+17	thursday	thursday	79	87
+20	thursday	thursday	173	181
+21	thursday	thursday	83	91
+22	america	america	159	166
+22	mr hicks	mr hicks	264	272
+22	part-session	part-session	52	64
+22	texas	texas	150	155
+22	thursday	thursday	137	145
+23	mr bush	mr bush	439	446
+23	mr zimeray	mr zimeray	35	45
+23	texas	texas	432	437
+25	mr segni	mr segni	11	19
+28	alexander nikitin	alexander nikitin	18	35
+29	russia	russia	88	94
+31	alexander nikitin	alexander nikitin	205	222
+31	part-session	part-session	116	128
+31	plenary part-session	plenary part-session	108	128
+32	russia	russia	285	291
+33	mrs	mrs	5	8
+33	mrs schroedter	mrs schroedter	5	19
+33	schroedter	schroedter	9	19
+34	part-session	part-session	125	137
+36	portuguese	portuguese	52	62
+38	agenda	agenda	65	71
+38	mrs	mrs	0	3
+38	mrs plooij-van gorsel	mrs plooij-van gorsel	0	21
+38	plooij-van gorsel	plooij-van gorsel	4	21
+38	quaestors	quaestors	80	89
+38	wednesday	wednesday	102	111
+42	1998	1998	64	68
+43	brussels	brussels	48	56
+43	strasbourg	strasbourg	85	95
+48	lynne	lynne	4	9
+48	mrs	mrs	0	3
+48	mrs lynne	mrs lynne	0	9
+49	quaestors	quaestors	48	57
+50	de palacio	de palacio	109	119
+50	díez gonzález	díez gonzález	21	34
+50	mrs	mrs	17	20
+50	mrs de palacio	mrs de palacio	105	119
+50	mrs díez gonzález	mrs díez gonzález	17	34
+50	palacio	palacio	112	119
+51	agenda	agenda	53	59
+51	part-session	part-session	117	129
+53	18	18	164	166
+53	18 november	18 november	164	175
+53	de palacio	de palacio	50	60
+53	mrs	mrs	46	49
+53	mrs de palacio	mrs de palacio	46	60
+53	november	november	167	175
+53	palacio	palacio	53	60
+54	mr berenguer	mr berenguer	0	12
+54	mr berenguer fuster	mr berenguer fuster	0	19
+57	indonesia	indonesia	189	198
+60	eu	eu	23	25
+64	eu	eu	14	16
+65	thursday	thursday	106	114
+66	agenda	agenda	0	6
+67	110	110	165	168
+67	13	13	137	139
+67	13 january	13 january	137	147
+67	agenda	agenda	68	74
+67	january	january	140	147
+68	monday	monday	45	51
+68	tuesday	tuesday	56	63
+69	wednesday	wednesday	12	21
+71	mr barón crespo	mr barón crespo	13	28
+73	prodi	prodi	41	46
+73	september	september	247	256
+75	july	july	198	202
+75	prodi	prodi	115	120
+75	september	september	217	226
+77	15	15	61	63
+77	15 september	15 september	61	73
+77	september	september	64	73
+80	de palacio	de palacio	59	69
+80	palacio	palacio	62	69
+81	february	february	407	415
+81	internet	internet	526	534
+83	prodi	prodi	116	121
+83	wednesday	wednesday	170	179
+85	pse	pse	19	22
+86	agenda	agenda	192	198
+88	mr barón crespo	mr barón crespo	132	147
+88	prodi	prodi	59	64
+89	september	september	67	76
+94	wednesday	wednesday	24	33
+95	agenda	agenda	63	69
+95	ppe	ppe	4	7
+95	ppe-de	ppe-de	4	10
+98	agenda	agenda	101	107
+99	ppe	ppe	59	62
+99	ppe-de	ppe-de	59	65
+101	agenda	agenda	59	65
+102	mr poettering	mr poettering	11	24
+103	mr wurtz	mr wurtz	18	26
+104	mr poettering	mr poettering	51	64
+106	eldr	eldr	82	86
+106	ppe	ppe	74	77
+106	tobin	tobin	218	223
+108	seattle	seattle	363	370
+109	agenda	agenda	127	133
+109	ppe	ppe	32	35
+109	ppe-de	ppe-de	32	38
+110	164	164	39	42
+110	166	166	54	57
+110	7	7	76	77
+111	mr poettering	mr poettering	39	52
+122	mr barón crespo	mr barón crespo	103	118
+125	mr cox	mr cox	35	41
+125	mr hänsch	mr hänsch	21	30
+131	mr cox	mr cox	0	6
+131	mr hänsch	mr hänsch	8	17
+135	1998	1998	395	399
+135	1998/0106	1998/0106	395	404
+135	a5-0105	a5-0105	29	36
+135	c5-0208	c5-0208	380	387
+135	harmonisation	harmonisation	246	259
+135	mr koch	mr koch	46	53
+136	commissioner	commissioner	0	12
+136	harmonising	harmonising	132	143
+137	35	35	102	104
+137	96	96	99	101
+137	ec	ec	105	107
+137	organise	organise	175	183
+138	transhipped	transhipped	119	130
+148	europe	europe	109	115
+149	eu	eu	111	113
+155	europe	europe	182	188
+156	commissioner	commissioner	61	73
+156	europe	europe	266	272
+157	mr koch	mr koch	53	60
+158	harmonising	harmonising	33	44
+160	brittany	brittany	222	230
+160	erika	erika	212	217
+160	eu	eu	161	163
+160	london	london	83	89
+160	norway	norway	118	124
+161	rapporteur	rapporteur	4	14
+166	rapporteur	rapporteur	41	51
+167	harmonisation	harmonisation	31	44
+169	adr	adr	256	259
+171	belgium	belgium	87	94
+171	netherlands	netherlands	100	111
+172	europe	europe	22	28
+173	50	50	112	114
+173	belgium	belgium	61	68
+173	finland	finland	70	77
+173	japan	japan	91	96
+175	1 january	1 january	159	168
+175	january	january	161	168
+178	9002	9002	46	50
+178	certificates	certificates	51	63
+178	iso	iso	42	45
+181	1 july 2001	1 july 2001	181	192
+181	july	july	183	187
+181	july 2001	july 2001	183	192
+183	acquis	acquis	193	199
+183	acquis communautaire	acquis communautaire	193	213
+183	prioritise	prioritise	55	65
+185	europe	europe	52	58
+187	35	35	74	76
+187	95	95	71	73
+187	ec	ec	77	79
+187	organisation	organisation	156	168
+188	certificates	certificates	220	232
+188	examinations	examinations	103	115
+190	rapporteur	rapporteur	37	47
+191	commissioner	commissioner	14	26
+191	mr koch	mr koch	64	71
+193	commissioner	commissioner	34	46
+194	19	19	95	97
+194	1998	1998	104	108
+195	harmonisation	harmonisation	118	131
+198	austria	austria	157	164
+198	germany	germany	139	146
+198	sweden	sweden	74	80
+200	harmonisation	harmonisation	125	138
+201	mr rack	mr rack	66	73
+202	austria	austria	130	137
+204	mr koch	mr koch	67	74
+204	rapporteur	rapporteur	55	65
+206	harmonises	harmonises	94	104
+208	mr simpson	mr simpson	3	13
+210	austria	austria	158	165
+210	messrs	messrs	94	100
+210	messrs rack	messrs rack	94	105
+210	swoboda	swoboda	110	117
+215	erika	erika	91	96
+217	erika	erika	35	40
+218	mr koch	mr koch	93	100
+218	rapporteur	rapporteur	81	91
+220	12	12	37	39
+220	p.m	p.m	40	43
+222	158	158	338	341
+222	1999/0083	1999/0083	359	368
+222	55	55	211	213
+222	94	94	208	210
+222	a5-0104	a5-0104	29	36
+222	approximation	approximation	224	237
+222	c5-0004	c5-0004	344	351
+222	ec	ec	214	216
+222	mr koch	mr koch	46	53
+223	1 january	1 january	203	212
+223	1 january 1997	1 january 1997	203	217
+223	approximation	approximation	71	84
+223	cen	cen	407	410
+223	commissioner	commissioner	14	26
+223	january	january	205	212
+223	standardisation	standardisation	379	394
+224	cen	cen	14	17
+227	55	55	62	64
+227	94	94	59	61
+227	ec	ec	65	67
+228	cen	cen	154	157
+229	agenda	agenda	42	48
+229	harmonisation	harmonisation	88	101
+234	june	june	138	142
+234	june 1999	june 1999	138	147
+235	comitology	comitology	185	195
+236	comitology	comitology	103	113
+239	20	20	199	201
+241	1 january	1 january	88	97
+241	1 january 1997	1 january 1997	88	102
+241	january	january	90	97
+242	realise	realise	5	12
+244	part-session	part-session	49	61
+244	plenary part-session	plenary part-session	41	61
+246	eu	eu	273	275
+248	mr koch	mr koch	47	54
+250	20	20	41	43
+250	lapland	lapland	140	147
+250	mediterranean	mediterranean	95	108
+251	eu	eu	25	27
+251	lapland	lapland	31	38
+252	40	40	58	60
+255	chairmanship	chairmanship	148	160
+257	europe	europe	51	57
+260	cen	cen	238	241
+260	mr koch	mr koch	16	23
+260	rapporteur	rapporteur	4	14
+264	emphasising	emphasising	24	35
+265	eu	eu	68	70
+268	mr koch	mr koch	78	85
+268	rapporteur	rapporteur	66	76
+269	prerequisites	prerequisites	33	46
+271	mr ari vatanen	mr ari vatanen	141	155
+272	prerequisites	prerequisites	18	31
+277	mr koch	mr koch	45	52
+278	cen	cen	73	76
+278	mr koch	mr koch	11	18
+279	eu	eu	210	212
+279	harmonisation	harmonisation	141	154
+279	organisations	organisations	179	192
+282	cen	cen	168	171
+282	commissioner	commissioner	7	19
+283	mr koch	mr koch	54	61
+283	october	october	163	170
+284	cen	cen	63	66
+284	harmonisation	harmonisation	181	194
+284	standardisation	standardisation	46	61
+285	europe	europe	155	161
+286	20	20	67	69
+286	40	40	97	99
+286	mr vatanen	mr vatanen	14	24
+287	characterisations	characterisations	302	319
+288	cen	cen	82	85
+288	mr swoboda	mr swoboda	36	46
+288	swoboda	swoboda	39	46
+289	cen	cen	144	147
+290	mr koch	mr koch	99	106
+290	rapporteur	rapporteur	87	97
+293	12	12	37	39
+293	p.m	p.m	40	43
+295	1999/2127	1999/2127	338	347
+295	2000-2006	2000-2006	297	306
+295	2006	2006	302	306
+295	344	344	317	320
+295	a5-0108	a5-0108	29	36
+295	c5-0122	c5-0122	323	330
+295	mrs	mrs	46	49
+295	mrs schroedter	mrs schroedter	46	60
+295	schroedter	schroedter	50	60
+305	additionality	additionality	61	74
+306	uk	uk	97	99
+308	uk	uk	31	33
+313	rapporteur	rapporteur	68	78
+314	decentralisation	decentralisation	71	87
+315	internet	internet	239	247
+320	flautre	flautre	165	172
+320	mrs	mrs	46	49
+320	mrs flautre	mrs flautre	161	172
+320	mrs schroedter	mrs schroedter	46	60
+320	schroedter	schroedter	50	60
+326	flautre	flautre	19	26
+326	mrs	mrs	15	18
+326	mrs flautre	mrs flautre	15	26
+328	2000-2006	2000-2006	201	210
+328	2006	2006	206	210
+331	commissioner	commissioner	14	26
+338	5	5	26	27
+341	multi-functional	multi-functional	217	233
+342	16	16	326	328
+342	prioritise	prioritise	19	29
+344	commissioner	commissioner	14	26
+344	mrs	mrs	62	65
+344	mrs schroedter	mrs schroedter	62	76
+344	rapporteur	rapporteur	82	92
+344	schroedter	schroedter	66	76
+344	thanking mrs	thanking mrs	53	65
+344	thanking mrs schroedter	thanking mrs schroedter	53	76
+350	businesspeople	businesspeople	220	234
+352	businesspeople	businesspeople	19	33
+355	mr evans	mr evans	62	70
+356	additionality	additionality	130	143
+356	commissioner	commissioner	177	189
+356	commissioner wulf-mathies	commissioner wulf-mathies	177	202
+356	mr hague	mr hague	51	59
+356	wulf-mathies	wulf-mathies	190	202
+357	additionality	additionality	98	111
+357	mr evans	mr evans	123	131
+361	hi-tech sector	hi-tech sector	75	89
+362	europe	europe	71	77
+368	fund-users	fund-users	134	144
+370	eu	eu	75	77
+371	commissioner	commissioner	14	26
+371	mrs	mrs	50	53
+371	mrs schroedter	mrs schroedter	50	64
+371	schroedter	schroedter	54	64
+372	rapporteur	rapporteur	4	14
+378	emphasises	emphasises	10	20
+379	smes	smes	34	38
+388	2000-2006	2000-2006	311	320
+388	2006	2006	316	320
+388	commissioner	commissioner	14	26
+388	elisabeth schroedter	elisabeth schroedter	188	208
+388	schroedter	schroedter	198	208
+389	europe	europe	545	551
+391	drafting directives	drafting directives	33	52
+392	europe	europe	80	86
+397	25	25	116	118
+397	europe	europe	106	112
+398	commissioner	commissioner	50	62
+405	commissioner	commissioner	37	49
+407	2000-2006	2000-2006	148	157
+407	2006	2006	153	157
+407	eu	eu	293	295
+412	europe	europe	26	32
+414	berlin	berlin	117	123
+414	eu	eu	97	99
+414	part-session	part-session	201	213
+414	plenary part-session	plenary part-session	193	213
+415	1994	1994	38	42
+415	eu	eu	4	6
+415	europe	europe	169	175
+417	euro	euro	168	172
+417	europe	europe	103	109
+419	certificate programmes	certificate programmes	95	117
+420	rapporteur	rapporteur	74	84
+422	annex	annex	142	147
+422	mccarthy	mccarthy	163	171
+422	mrs	mrs	159	162
+422	mrs mccarthy	mrs mccarthy	159	171
+422	rapporteurs	rapporteurs	176	187
+428	dissatisfaction	dissatisfaction	52	67
+430	158	158	63	66
+430	amsterdam	amsterdam	98	107
+430	commissioner	commissioner	0	12
+434	rapporteur	rapporteur	51	61
+435	europe	europe	92	98
+435	globalisation	globalisation	52	65
+435	revitalise	revitalise	185	195
+436	europe	europe	13	19
+438	utilising	utilising	55	64
+443	mr evans	mr evans	32	40
+444	tonight	tonight	32	39
+445	operability	operability	134	145
+449	disbursement	disbursement	165	177
+459	commissioner	commissioner	14	26
+459	rapporteur	rapporteur	60	70
+461	organisation	organisation	84	96
+465	mrs	mrs	14	17
+465	mrs schroedter	mrs schroedter	14	28
+465	observations	observations	78	90
+465	schroedter	schroedter	18	28
+471	depopulation	depopulation	236	248
+471	infrastrucutres	infrastrucutres	143	158
+480	azores	azores	140	146
+480	madeira	madeira	151	158
+482	rapporteur	rapporteur	53	63
+483	commissioner	commissioner	14	26
+486	rapporteur	rapporteur	17	27
+487	10	10	84	86
+488	mrs	mrs	27	30
+488	mrs schroedter	mrs schroedter	27	41
+488	schroedter	schroedter	31	41
+489	commissioner	commissioner	14	26
+490	europe	europe	337	343
+490	schroedter	schroedter	29	39
+491	gdp	gdp	39	42
+493	commissioner	commissioner	0	12
+495	2000-2006	2000-2006	171	180
+495	2006	2006	176	180
+496	158	158	326	329
+497	europe	europe	59	65
+499	12	12	37	39
+499	p.m	p.m	40	43
+501	0066	0066	268	272
+501	1999/2123	1999/2123	288	297
+501	99	99	265	267
+501	a5-0107	a5-0107	43	50
+501	c5-0120	c5-0120	275	282
+501	mr berend	mr berend	60	69
+501	sec	sec	261	264
+502	commissioner	commissioner	14	26
+503	europe	europe	104	110
+504	relativises	relativises	32	43
+505	299	299	375	378
+505	amsterdam	amsterdam	399	408
+506	europe	europe	160	166
+507	sec	sec	280	283
+508	mr berend	mr berend	107	116
+509	america	america	143	150
+509	globalisation	globalisation	339	352
+511	rapporteur	rapporteur	50	60
+511	summarise	summarise	8	17
+513	gdp	gdp	115	118
+513	harmonising	harmonising	81	92
+515	commissioner	commissioner	6	18
+516	2000-2006	2000-2006	239	248
+516	2006	2006	244	248
+517	commissioner	commissioner	14	26
+517	rapporteur	rapporteur	60	70
+520	europe	europe	43	49
+531	smes	smes	78	82
+534	commissioner	commissioner	14	26
+535	25	25	304	306
+535	4	4	408	409
+535	7	7	212	213
+536	2007	2007	488	492
+536	modernisation	modernisation	303	316
+537	marginalisation	marginalisation	493	508
+538	rapporteur	rapporteur	36	46
+540	gdp	gdp	94	97
+542	gdp	gdp	42	45
+543	rapporteur	rapporteur	20	30
+554	eu	eu	62	64
+554	gdp	gdp	99	102
+557	commissioner	commissioner	14	26
+562	europe	europe	59	65
+566	commissioner	commissioner	14	26
+566	europe	europe	201	207
+566	rapporteur	rapporteur	48	58
+567	eu	eu	82	84
+568	eu	eu	31	33
+569	greece	greece	29	35
+569	portugal	portugal	16	24
+570	eu	eu	114	116
+571	eu	eu	4	6
+578	eu	eu	31	33
+585	america	america	71	78
+585	envy	envy	178	182
+585	europe	europe	207	213
+586	mr berend	mr berend	85	94
+587	2000-2006	2000-2006	350	359
+587	2006	2006	355	359
+587	appropriations	appropriations	331	345
+587	commissioner	commissioner	214	226
+588	mr berend	mr berend	52	61
+590	mrs	mrs	69	72
+590	mrs wulf-mathies	mrs wulf-mathies	69	85
+590	wulf-mathies	wulf-mathies	73	85
+591	mr berend	mr berend	53	62
+592	mr markov	mr markov	315	324
+592	mrs	mrs	340	343
+592	mrs raschhofer	mrs raschhofer	340	354
+592	raschhofer	raschhofer	344	354
+595	mr berend	mr berend	39	48
+596	itemise	itemise	12	19
+600	mr fruteau	mr fruteau	0	10
+601	mr fruteau	mr fruteau	0	10
+601	recognise	recognise	32	41
+605	hedkvist petersen	hedkvist petersen	28	45
+605	mrs	mrs	24	27
+605	mrs hedkvist petersen	mrs hedkvist petersen	24	45
+606	mr vatanen	mr vatanen	71	81
+608	organise	organise	78	86
+610	mr berend	mr berend	0	9
+614	mr cocilovo	mr cocilovo	187	198
+615	eurostat	eurostat	155	163
+615	gdp	gdp	70	73
+616	mr aparicio sánchez	mr aparicio sánchez	38	57
+616	mr berend	mr berend	0	9
+618	commissioner	commissioner	126	138
+618	commissioner fischler	commissioner fischler	126	147
+618	directorate general	directorate general	85	104
+620	rapporteur	rapporteur	98	108
+621	europe	europe	505	511
+621	mr berend	mr berend	246	255
+622	europe	europe	231	237
+622	mr fruteau	mr fruteau	347	357
+622	mrs	mrs	333	336
+622	mrs sudre	mrs sudre	333	342
+622	sudre	sudre	337	342
+625	mr pohjamo	mr pohjamo	155	165
+629	mr fruteau	mr fruteau	93	103
+629	mr nogueira román	mr nogueira román	109	126
+629	mrs	mrs	82	85
+629	mrs sudre	mrs sudre	82	91
+629	sudre	sudre	86	91
+631	berlin	berlin	54	60
+634	mr berend	mr berend	72	81
+635	2000-2006	2000-2006	236	245
+635	2006	2006	241	245
+636	commissioner	commissioner	21	33
+638	12	12	37	39
+638	p.m	p.m	40	43
+639	25	25	29	31
+639	8	8	27	28
+639	p.m	p.m	32	35
+648	recognise	recognise	36	45
+652	fracture	fracture	131	139
+653	friday	friday	45	51
+653	self-restraint	self-restraint	123	137
+655	misapprehension	misapprehension	112	127
+657	mr cox	mr cox	21	27
+659	agenda	agenda	135	141
+661	agenda	agenda	48	54
+662	mr wynn	mr wynn	0	7
+663	agenda	agenda	40	46
+664	lynne	lynne	28	33
+664	mrs	mrs	24	27
+664	mrs lynne	mrs lynne	24	33
+667	ahern	ahern	4	9
+667	mrs	mrs	0	3
+667	mrs ahern	mrs ahern	0	9
+668	quaestors	quaestors	129	138
+674	101	101	211	214
+674	1999/2108	1999/2108	232	241
+674	86	86	180	182
+674	a5-0069	a5-0069	0	7
+674	c5-0105	c5-0105	217	224
+674	ec	ec	190	192
+674	modernisation	modernisation	124	137
+674	mr von wogau	mr von wogau	16	28
+675	1998	1998	156	160
+675	1999/2124	1999/2124	193	202
+675	743	743	172	175
+675	a5-0078	a5-0078	0	7
+675	c5-0121	c5-0121	178	185
+675	mr rapkay	mr rapkay	16	25
+676	148	148	207	210
+676	1995-1997	1995-1997	252	261
+676	1999/2110	1999/2110	228	237
+676	a5-0087	a5-0087	0	7
+676	c5-0107	c5-0107	213	220
+676	mr jonckheer	mr jonckheer	16	28
+677	18	18	186	188
+677	18 december 1996	18 december 1996	186	202
+677	1998	1998	138	142
+677	1999/2107	1999/2107	317	326
+677	94	94	297	299
+677	96	96	175	177
+677	a5-0073	a5-0073	0	7
+677	c5-0104	c5-0104	302	309
+677	december	december	189	197
+677	ecsc	ecsc	178	182
+677	mr langen	mr langen	16	25
+678	commissioner	commissioner	14	26
+679	modernisation	modernisation	39	52
+679	mr von wogau	mr von wogau	99	111
+680	modernisation	modernisation	210	223
+681	1998	1998	92	96
+683	modernisation	modernisation	29	42
+684	1998	1998	54	58
+684	modernisation	modernisation	85	98
+688	commissioner	commissioner	5	17
+688	globalisation	globalisation	215	228
+689	modernisation	modernisation	29	42
+690	modernisation	modernisation	79	92
+691	1998	1998	23	27
+692	commissioner	commissioner	59	71
+697	codecision	codecision	90	100
+699	codecision	codecision	79	89
+709	1998	1998	75	79
+709	mr jonckheer	mr jonckheer	114	126
+715	87	87	272	274
+715	88	88	276	278
+715	89	89	283	285
+715	commissioner	commissioner	14	26
+716	typologies	typologies	173	183
+717	13	13	279	281
+717	1993-1995	1993-1995	310	319
+717	95	95	222	224
+717	eur	eur	218	221
+717	germany	germany	407	414
+718	gdp	gdp	170	173
+726	internet	internet	158	166
+728	competitivity	competitivity	163	176
+729	priori	priori	203	209
+731	rapporteur	rapporteur	47	57
+731	reimbursement	reimbursement	158	171
+732	retabled	retabled	27	35
+733	appropriateness	appropriateness	90	105
+734	rapporteur	rapporteur	111	121
+735	commissioner	commissioner	45	57
+736	europe	europe	88	94
+739	codecision	codecision	54	64
+739	commissioner	commissioner	13	25
+740	commissioner	commissioner	14	26
+740	europe	europe	117	123
+741	1998	1998	34	38
+742	ecsc	ecsc	4	8
+743	88	88	293	295
+743	ecsc	ecsc	303	307
+745	87	87	71	73
+745	ec	ec	85	87
+748	88	88	14	16
+749	1998	1998	3	7
+749	eur	eur	76	79
+749	germany	germany	111	118
+749	preussag	preussag	99	107
+749	totalling eur	totalling eur	66	79
+751	18	18	60	62
+751	18 december 1996	18 december 1996	60	76
+751	december	december	63	71
+753	50	50	55	57
+753	eur	eur	51	54
+753	greece	greece	70	76
+757	europe	europe	49	55
+761	inconvenience	inconvenience	156	169
+762	94	94	123	125
+770	mr jonckheer	mr jonckheer	89	101
+770	mr langen	mr langen	64	73
+770	mr rapkay	mr rapkay	75	84
+770	mr von wogau	mr von wogau	50	62
+770	rapporteurs	rapporteurs	38	49
+770	rapporteurs mr von wogau	rapporteurs mr von wogau	38	62
+774	retrodisplacement	retrodisplacement	122	139
+778	europe	europe	58	64
+779	retrodisplacement	retrodisplacement	32	49
+780	europe	europe	40	46
+781	eu	eu	51	53
+790	gütesiegel	gütesiegel	106	116
+800	europe	europe	293	299
+801	mr radwan	mr radwan	21	30
+802	parliamentary-speak	parliamentary-speak	66	85
+803	commissioner	commissioner	14	26
+803	robert goebbels	robert goebbels	73	88
+806	ultraliberal idea	ultraliberal idea	58	75
+821	internet	internet	4	12
+822	cern	cern	108	112
+822	geneva	geneva	116	122
+823	holzmann	holzmann	50	58
+824	euro	euro	101	105
+825	ltcm	ltcm	119	123
+825	mr duisenberg	mr duisenberg	15	28
+826	60	60	16	18
+826	60 000	60 000	16	22
+827	asia	asia	117	121
+827	brazil	brazil	126	132
+827	mexico	mexico	109	115
+828	simple factor	simple factor	55	68
+830	europe	europe	41	47
+832	commissioner	commissioner	14	26
+832	mr rapkay	mr rapkay	56	65
+832	thanking mr rapkay	thanking mr rapkay	47	65
+833	commissioner	commissioner	21	33
+833	commissioner monti	commissioner monti	21	39
+833	monti	monti	34	39
+835	germany	germany	153	160
+835	holzmann	holzmann	49	57
+837	eu	eu	102	104
+837	euro	euro	235	239
+837	mr duisenberg	mr duisenberg	53	66
+837	mr poos	mr poos	17	24
+838	80	80	72	74
+841	emphasise	emphasise	68	77
+844	harmonising	harmonising	109	120
+846	meps	meps	83	87
+847	monti	monti	30	35
+847	mr monti	mr monti	27	35
+849	commissioner	commissioner	27	39
+849	commissioner monti	commissioner monti	27	45
+849	monti	monti	40	45
+853	mr jonckheer	mr jonckheer	113	125
+855	commissioner	commissioner	14	26
+861	recognise	recognise	96	105
+877	commissioner	commissioner	14	26
+877	euro	euro	180	184
+879	europe	europe	231	237
+883	86	86	77	79
+883	modernising	modernising	27	38
+884	jurisdictions	jurisdictions	156	169
+886	europe	europe	230	236
+887	authorisation	authorisation	183	196
+887	commissioner	commissioner	14	26
+888	decentralisation	decentralisation	39	55
+889	von eieck	von eieck	45	54
+891	15	15	176	178
+891	holzmann	holzmann	401	409
+891	mannesmann	mannesmann	371	381
+891	vodafone	vodafone	351	359
+892	commissioner	commissioner	9	21
+893	commissioner	commissioner	0	12
+896	emu	emu	11	14
+900	6	6	33	34
+900	7	7	39	40
+900	rapporteur	rapporteur	4	14
+901	5	5	21	22
+905	modernising	modernising	33	44
+906	decentralisation	decentralisation	22	38
+906	directorate-general	directorate-general	79	98
+909	commissioner	commissioner	50	62
+913	commissioner	commissioner	24	36
+914	de-europeanise	de-europeanise	63	77
+914	re-nationalise	re-nationalise	81	95
+920	echternach procession	echternach procession	71	92
+927	smes	smes	49	53
+928	infringements	infringements	131	144
+935	commissioner	commissioner	0	12
+936	mr von wogau	mr von wogau	110	122
+936	rapporteur	rapporteur	98	108
+938	commissioner	commissioner	49	61
+941	modernisation	modernisation	17	30
+942	modernisation	modernisation	5	18
+943	authorisation	authorisation	13	26
+951	1762	1762	79	83
+954	1994	1994	140	144
+962	privatisation	privatisation	53	66
+963	1762	1762	21	25
+965	ppe	ppe	85	88
+965	ppe-de	ppe-de	85	91
+966	modernisation	modernisation	162	175
+966	mr berenguer	mr berenguer	128	140
+967	modernisation	modernisation	29	42
+968	commissioner	commissioner	24	36
+968	commissioner monti	commissioner monti	24	42
+968	monti	monti	37	42
+971	mr berenguer	mr berenguer	0	12
+975	mr rapkay	mr rapkay	71	80
+975	rapporteur	rapporteur	59	69
+979	businesspeople	businesspeople	148	162
+984	emphasise	emphasise	8	17
+984	europe	europe	83	89
+989	europe	europe	53	59
+992	commissioner	commissioner	87	99
+992	commissioner monti	commissioner monti	87	105
+992	monti	monti	100	105
+994	recognise	recognise	13	22
+995	mr von wogau	mr von wogau	107	119
+995	rapporteur	rapporteur	44	54
+999	renationalisation	renationalisation	31	48
+1003	commissioner	commissioner	8	20
+1003	commissioner monti	commissioner monti	8	26
+1003	monti	monti	21	26
+1003	renationalisation	renationalisation	105	122
+1004	mr von wogau	mr von wogau	0	12
+1005	britain	britain	12	19
+1006	france	france	119	125
+1010	mrs	mrs	60	63
+1010	mrs thyssen	mrs thyssen	60	71
+1010	thyssen	thyssen	64	71
+1012	commissioner	commissioner	26	38
+1012	commissioner monti	commissioner monti	26	44
+1012	monti	monti	39	44
+1021	commissioner	commissioner	26	38
+1021	commissioner monti	commissioner monti	26	44
+1021	monti	monti	39	44
+1023	integral	integral	9	17
+1028	vivienne forestier	vivienne forestier	70	88
+1031	1998	1998	81	85
+1031	400	400	92	95
+1031	japan	japan	272	277
+1031	take-overs	take-overs	136	146
+1031	usa	usa	265	268
+1031	usd	usd	86	89
+1033	codecision	codecision	64	74
+1036	commissioner	commissioner	24	36
+1036	commissioner monti	commissioner monti	24	42
+1036	monti	monti	37	42
+1036	organisations	organisations	174	187
+1038	brussels	brussels	145	153
+1038	pilloried	pilloried	168	177
+1039	eu	eu	97	99
+1040	organise	organise	177	185
+1043	renationalisation	renationalisation	315	332
+1047	mrs	mrs	34	37
+1047	mrs randzio-plath	mrs randzio-plath	34	51
+1047	randzio-plath	randzio-plath	38	51
+1048	euro	euro	18	22
+1049	4	4	111	112
+1049	eur	eur	105	108
+1051	commissioner	commissioner	0	12
+1051	commissioner monti	commissioner monti	0	18
+1051	eldr	eldr	103	107
+1051	monti	monti	13	18
+1052	commissioner	commissioner	264	276
+1052	emphasise	emphasise	65	74
+1052	mr von wogau	mr von wogau	80	92
+1053	mr jonckheer	mr jonckheer	210	222
+1053	rapporteurs	rapporteurs	113	124
+1056	monti	monti	119	124
+1056	mr monti	mr monti	116	124
+1057	co-responsibility	co-responsibility	127	144
+1057	tax-payers	tax-payers	334	344
+1058	commissioner	commissioner	14	26
+1061	germany	germany	74	81
+1064	5	5	123	124
+1064	5 000	5 000	123	128
+1064	700	700	139	142
+1064	brandenburg	brandenburg	94	105
+1064	grönitz steelworks	grönitz steelworks	72	90
+1065	germany	germany	125	132
+1066	jeopardise	jeopardise	17	27
+1068	pre-requisites	pre-requisites	125	139
+1071	1994	1994	61	65
+1072	germany	germany	91	98
+1072	ireland	ireland	103	110
+1073	ireland	ireland	0	7
+1074	rapporteur	rapporteur	19	29
+1077	europe	europe	93	99
+1079	15	15	57	59
+1079	40	40	37	39
+1079	europe	europe	160	166
+1079	smes	smes	65	69
+1080	ireland	ireland	67	74
+1080	mr jonckheer	mr jonckheer	9	21
+1082	europe	europe	89	95
+1087	meps	meps	17	21
+1088	transposition	transposition	33	46
+1089	executable	executable	40	50
+1092	brussels	brussels	41	49
+1095	patchwork quilt	patchwork quilt	92	107
+1095	renationalisation	renationalisation	41	58
+1100	sixties	sixties	122	129
+1102	france	france	6	12
+1103	europe	europe	161	167
+1105	mr langen	mr langen	111	120
+1108	4	4	181	182
+1108	ecsc	ecsc	190	194
+1109	infringement	infringement	103	115
+1114	rapporteur	rapporteur	9	19
+1117	2002	2002	182	186
+1117	ecsc	ecsc	65	69
+1117	expiry	expiry	51	57
+1119	mr langen	mr langen	56	65
+1120	rapporteur	rapporteur	17	27
+1122	rapporteur	rapporteur	18	28
+1123	30	30	85	87
+1124	korea	korea	62	67
+1124	taiwan	taiwan	72	78
+1126	asturias	asturias	83	91
+1128	europe	europe	245	251
+1129	commissioner	commissioner	14	26
+1129	director-general	director-general	28	44
+1129	emphasise	emphasise	75	84
+1130	clarification	clarification	111	124
+1130	karl von wogau	karl von wogau	30	44
+1130	rapporteur	rapporteur	19	29
+1130	rapporteur karl von wogau	rapporteur karl von wogau	19	44
+1131	smes	smes	274	278
+1132	europe	europe	152	158
+1132	jeopardise	jeopardise	117	127
+1135	94	94	41	43
+1135	eu	eu	391	393
+1135	expiry	expiry	222	228
+1135	globalisation	globalisation	373	386
+1135	non-legally	non-legally	151	162
+1136	one-stop	one-stop	270	278
+1136	one-stop-shop	one-stop-shop	270	283
+1138	germany	germany	59	66
+1150	europe	europe	96	102
+1151	utilising	utilising	131	140
+1153	94	94	96	98
+1154	commissioner	commissioner	73	85
+1154	commissioner monti	commissioner monti	73	91
+1154	monti	monti	86	91
+1162	seattle	seattle	33	40
+1165	commissioner	commissioner	14	26
+1165	commissioner monti	commissioner monti	14	32
+1165	monti	monti	27	32
+1165	mr jonckheer	mr jonckheer	64	76
+1169	europe	europe	177	183
+1176	emphasising	emphasising	172	183
+1178	emphasises	emphasises	25	35
+1178	mr rapkay	mr rapkay	0	9
+1181	monti	monti	17	22
+1181	mr monti	mr monti	14	22
+1182	mr von wogau	mr von wogau	38	50
+1182	rapporteur	rapporteur	26	36
+1183	monti	monti	180	185
+1183	mr monti	mr monti	177	185
+1183	observations	observations	64	76
+1184	liberalisation	liberalisation	52	66
+1187	characterise	characterise	94	106
+1187	europe	europe	254	260
+1190	mediterranean	mediterranean	135	148
+1190	russia	russia	120	126
+1191	monti	monti	24	29
+1191	mr monti	mr monti	21	29
+1194	karl von wogau	karl von wogau	15	29
+1195	europe	europe	4	10
+1196	25	25	47	49
+1196	30	30	50	52
+1200	decentralisation	decentralisation	59	75
+1201	ankara	ankara	176	182
+1201	budapest	budapest	163	171
+1201	helsinki	helsinki	143	151
+1201	london	london	126	132
+1201	palermo	palermo	134	141
+1203	40	40	69	71
+1204	netherlands	netherlands	7	18
+1206	germany	germany	20	27
+1210	luxembourg	luxembourg	22	32
+1212	commissioner	commissioner	12	24
+1214	horizontal exemptions	horizontal exemptions	219	240
+1214	vertical exemptions	vertical exemptions	198	217
+1218	commissioner	commissioner	62	74
+1222	mrs	mrs	70	73
+1222	mrs randzio-plath	mrs randzio-plath	70	87
+1222	randzio-plath	randzio-plath	74	87
+1225	commissioner	commissioner	12	24
+1227	auctoritas	auctoritas	224	234
+1227	legitimising	legitimising	239	251
+1228	mr karas	mr karas	56	64
+1231	ex ante	ex ante	103	110
+1234	mrs	mrs	41	44
+1234	mrs thyssen	mrs thyssen	41	52
+1234	thyssen	thyssen	45	52
+1237	germany	germany	27	34
+1239	commissioner	commissioner	19	31
+1239	du combatant	du combatant	548	560
+1239	le parcours	le parcours	536	547
+1239	le parcours du combatant	le parcours du combatant	536	560
+1239	luxembourg	luxembourg	630	640
+1240	commissioner	commissioner	0	12
+1242	commissioner	commissioner	11	23
+1245	observations	observations	33	45
+1248	mr von wogau	mr von wogau	45	57
+1250	renationalisation	renationalisation	57	74
+1252	35	35	240	242
+1253	infringements	infringements	273	286
+1254	renationalisation	renationalisation	16	33
+1259	mrs	mrs	119	122
+1259	mrs randzio-plath	mrs randzio-plath	119	136
+1259	randzio-plath	randzio-plath	123	136
+1261	protagonists	protagonists	135	147
+1262	communitisation	communitisation	35	50
+1262	emphasise	emphasise	12	21
+1262	renationalisation	renationalisation	56	73
+1268	mr huhne	mr huhne	110	118
+1268	mrs	mrs	87	90
+1268	mrs riis-jørgensen	mrs riis-jørgensen	87	105
+1268	riis-jørgensen	riis-jørgensen	91	105
+1271	ec	ec	142	144
+1273	mrs	mrs	63	66
+1273	mrs peijs	mrs peijs	63	72
+1273	peijs	peijs	67	72
+1274	mr evans	mr evans	11	19
+1276	observations	observations	32	44
+1279	mrs	mrs	19	22
+1279	mrs palacio	mrs palacio	46	57
+1279	mrs palacio vallelersundi	mrs palacio vallelersundi	46	71
+1279	mrs peijs	mrs peijs	32	41
+1279	mrs thyssen	mrs thyssen	19	30
+1279	palacio	palacio	50	57
+1279	palacio vallelersundi	palacio vallelersundi	50	71
+1279	peijs	peijs	36	41
+1279	smes	smes	86	90
+1279	thyssen	thyssen	23	30
+1281	smes	smes	69	73
+1282	smes	smes	74	78
+1286	smes	smes	81	85
+1287	30	30	33	35
+1287	smes	smes	5	9
+1288	smes	smes	68	72
+1289	modernisation	modernisation	148	161
+1289	smes	smes	119	123
+1291	europe	europe	224	230
+1291	mr evans	mr evans	0	8
+1292	mrs	mrs	157	160
+1292	mrs palacio	mrs palacio	157	168
+1292	mrs palacio vallelersundi	mrs palacio vallelersundi	157	182
+1292	palacio	palacio	161	168
+1292	palacio vallelersundi	palacio vallelersundi	161	182
+1293	authorisation	authorisation	162	175
+1294	fr	fr	1	3
+1294	mrs	mrs	5	8
+1294	mrs thyssen	mrs thyssen	5	16
+1294	thyssen	thyssen	9	16
+1295	1982	1982	82	86
+1295	reconsideration	reconsideration	177	192
+1298	mr rapkay	mr rapkay	48	57
+1302	1 september	1 september	151	162
+1302	september	september	153	162
+1303	mr rapkay	mr rapkay	74	83
+1303	mrs	mrs	178	181
+1303	mrs randzio-plath	mrs randzio-plath	178	195
+1303	organisation	organisation	465	477
+1303	randzio-plath	randzio-plath	182	195
+1304	mr jonckheer	mr jonckheer	0	12
+1305	codecision	codecision	22	32
+1307	mr jonckheer	mr jonckheer	33	45
+1308	january	january	159	166
+1308	timeframe	timeframe	102	111
+1309	mr gemelli	mr gemelli	30	40
+1309	mr jonckheer	mr jonckheer	0	12
+1309	mrs	mrs	14	17
+1309	mrs thyssen	mrs thyssen	14	25
+1309	thyssen	thyssen	18	25
+1311	organisation	organisation	161	173
+1312	mrs	mrs	100	103
+1312	mrs riis-jørgensen	mrs riis-jørgensen	100	118
+1312	riis-jørgensen	riis-jørgensen	104	118
+1313	april	april	3	8
+1313	april 1999	april 1999	3	13
+1315	mr langen	mr langen	45	54
+1316	95	95	189	191
+1316	ecsc	ecsc	199	203
+1317	2002	2002	96	100
+1317	july	july	91	95
+1317	july 2002	july 2002	91	100
+1321	mrs	mrs	35	38
+1321	mrs palacio	mrs palacio	35	46
+1321	mrs palacio vallelersundi	mrs palacio vallelersundi	35	60
+1321	palacio	palacio	39	46
+1321	palacio vallelersundi	palacio vallelersundi	39	60
+1322	mr rapkay	mr rapkay	40	49
+1323	mr von wogau	mr von wogau	3	15
+1325	commissioner	commissioner	11	23
+1325	commissioner monti	commissioner monti	11	29
+1325	monti	monti	24	29
+1327	12	12	37	39
+1327	p.m	p.m	40	43
+1329	a5-0002	a5-0002	29	36
+1329	mrs	mrs	46	49
+1329	mrs theato	mrs theato	46	56
+1329	theato	theato	50	56
+1333	olaf	olaf	79	83
+1333	uclaf	uclaf	9	14
+1340	15	15	55	57
+1346	olaf	olaf	76	80
+1348	30	30	57	59
+1348	30 september	30 september	57	69
+1348	september	september	60	69
+1350	olaf	olaf	264	268
+1352	olaf	olaf	193	197
+1355	corpus juris	corpus juris	321	333
+1357	mr barnier	mr barnier	16	26
+1357	mr vitorino	mr vitorino	28	39
+1360	mrs	mrs	91	94
+1360	mrs theato	mrs theato	91	101
+1360	theato	theato	95	101
+1362	280	280	94	97
+1362	4	4	98	99
+1365	mrs	mrs	134	137
+1365	mrs theato	mrs theato	134	144
+1365	theato	theato	138	144
+1367	eau du bain	eau du bain	50	61
+1367	le bébé avec l	le bébé avec l	35	49
+1367	mrs	mrs	229	232
+1367	mrs theato	mrs theato	229	239
+1367	ne jettons	ne jettons	20	30
+1367	theato	theato	233	239
+1368	theato	theato	23	29
+1369	mep	mep	120	123
+1370	mrs	mrs	23	26
+1370	mrs theato	mrs theato	23	33
+1370	theato	theato	27	33
+1375	80	80	192	194
+1375	eu	eu	203	205
+1385	igc	igc	70	73
+1389	mrs	mrs	93	96
+1389	mrs palacio	mrs palacio	93	104
+1389	palacio	palacio	97	104
+1393	corpus juris	corpus juris	57	69
+1395	congratulating mrs	congratulating mrs	39	57
+1395	congratulating mrs theato	congratulating mrs theato	39	64
+1395	mrs	mrs	54	57
+1395	mrs theato	mrs theato	54	64
+1395	theato	theato	58	64
+1402	280	280	44	47
+1411	europe	europe	45	51
+1412	rapporteur	rapporteur	44	54
+1413	mrs	mrs	0	3
+1413	mrs theato	mrs theato	0	10
+1413	theato	theato	4	10
+1418	mrs	mrs	15	18
+1418	mrs theato	mrs theato	15	25
+1418	theato	theato	19	25
+1419	olaf	olaf	86	90
+1419	uclaf	uclaf	96	101
+1424	mrs	mrs	37	40
+1424	mrs theato	mrs theato	37	47
+1424	theato	theato	41	47
+1427	communitisation	communitisation	100	115
+1429	realise	realise	82	89
+1429	theato	theato	58	64
+1430	realise	realise	127	134
+1432	agenda	agenda	180	186
+1432	igc	igc	176	179
+1432	igc agenda	igc agenda	176	186
+1432	theato	theato	74	80
+1433	centralising	centralising	107	119
+1433	mrs	mrs	14	17
+1433	mrs theato	mrs theato	14	24
+1433	theato	theato	18	24
+1437	olaf	olaf	156	160
+1437	theato	theato	17	23
+1442	europe	europe	142	148
+1442	superstate	superstate	228	238
+1443	europe	europe	16	22
+1443	polycentric europe	polycentric europe	76	94
+1444	specialising	specialising	176	188
+1448	mrs	mrs	14	17
+1448	mrs theato	mrs theato	14	24
+1448	theato	theato	18	24
+1449	20	20	40	42
+1449	prosecutor-general	prosecutor-general	307	325
+1450	fbi	fbi	77	80
+1450	mrs	mrs	0	3
+1450	mrs theato	mrs theato	0	10
+1450	olaf	olaf	118	122
+1450	theato	theato	4	10
+1451	280	280	168	171
+1454	chiquita	chiquita	194	202
+1454	eur	eur	41	44
+1454	euros	euros	99	104
+1454	gdp	gdp	249	252
+1455	calvinists	calvinists	95	105
+1455	europe	europe	45	51
+1455	lutherans	lutherans	84	93
+1455	quakers	quakers	110	117
+1455	teutonic europe	teutonic europe	36	51
+1458	europe	europe	105	111
+1464	agenda	agenda	70	76
+1464	delimitation	delimitation	115	127
+1465	eu	eu	208	210
+1466	europe	europe	131	137
+1467	olaf	olaf	178	182
+1468	eu	eu	92	94
+1471	eurojust	eurojust	58	66
+1472	eurojust	eurojust	29	37
+1472	europol	europol	59	66
+1474	europol	europol	6	13
+1474	olaf	olaf	0	4
+1475	rapporteur	rapporteur	29	39
+1479	ninety	ninety	0	6
+1482	52	52	23	25
+1487	tampere	tampere	4	11
+1492	mrs	mrs	16	19
+1492	mrs theato	mrs theato	16	26
+1492	theato	theato	20	26
+1495	europol	europol	227	234
+1495	olaf	olaf	239	243
+1496	scaremongering	scaremongering	94	108
+1497	europol	europol	51	58
+1498	europol	europol	0	7
+1503	corpus juris	corpus juris	52	64
+1504	morgan	morgan	43	49
+1504	mrs	mrs	39	42
+1504	mrs morgan	mrs morgan	39	49
+1505	corpus juris	corpus juris	0	12
+1506	eu	eu	120	122
+1506	ireland	ireland	196	203
+1506	uk	uk	212	214
+1508	eu	eu	107	109
+1509	140	140	100	103
+1509	1977	1977	47	51
+1509	corpus juris	corpus juris	9	21
+1509	eu	eu	292	294
+1509	mr gil-robles gil-delgado	mr gil-robles gil-delgado	191	216
+1509	san sebastian	san sebastian	55	68
+1512	ireland	ireland	59	66
+1512	uk	uk	75	77
+1514	eu	eu	89	91
+1517	mrs	mrs	128	131
+1517	mrs theato	mrs theato	128	138
+1517	theato	theato	132	138
+1519	280	280	8	11
+1522	plenary sittings	plenary sittings	96	112
+1524	fora	fora	179	183
+1524	misappropriation	misappropriation	262	278
+1533	mrs	mrs	36	39
+1533	mrs theato	mrs theato	36	46
+1533	theato	theato	40	46
+1534	litigable	litigable	204	213
+1536	mrs	mrs	170	173
+1536	mrs theato	mrs theato	170	180
+1536	theato	theato	174	180
+1540	organisation	organisation	237	249
+1545	olaf	olaf	53	57
+1546	criminalise	criminalise	195	206
+1546	mrs	mrs	17	20
+1546	mrs theato	mrs theato	17	27
+1546	theato	theato	21	27
+1547	olaf	olaf	132	136
+1548	agenda	agenda	246	252
+1548	commissioner	commissioner	172	184
+1548	commissioner vitorino	commissioner vitorino	172	193
+1548	igc	igc	224	227
+1548	tampere	tampere	46	53
+1551	community-wide	community-wide	107	121
+1552	agenda	agenda	134	140
+1552	igc	igc	130	133
+1552	igc agenda	igc agenda	130	140
+1554	eu	eu	18	20
+1557	olaf	olaf	45	49
+1558	eu	eu	82	84
+1561	centralisation	centralisation	129	143
+1563	eurojust	eurojust	27	35
+1567	mr van hulten	mr van hulten	48	61
+1569	decentralisation	decentralisation	64	80
+1572	scrutinise	scrutinise	14	24
+1573	rapporteur	rapporteur	14	24
+1576	rapporteur	rapporteur	58	68
+1577	amsterdam	amsterdam	17	26
+1579	rapporteur	rapporteur	46	56
+1581	olaf	olaf	0	4
+1582	ecb	ecb	90	93
+1582	eib	eib	102	105
+1582	olaf	olaf	130	134
+1584	olaf	olaf	121	125
+1585	olaf	olaf	47	51
+1586	rapporteur	rapporteur	62	72
+1588	misconception	misconception	134	147
+1588	olaf	olaf	109	113
+1589	olaf	olaf	36	40
+1589	rapporteur	rapporteur	91	101
+1590	olaf	olaf	33	37
+1593	heaton-harris	heaton-harris	0	13
+1593	ppe	ppe	15	18
+1593	ppe-de	ppe-de	15	21
+1594	133	133	117	120
+1594	138	138	128	131
+1594	4	4	132	133
+1594	clarification	clarification	63	76
+1596	utilise	utilise	164	171
+1597	heaton-harris	heaton-harris	24	37
+1597	mr heaton-harris	mr heaton-harris	21	37
+1604	heaton-harris	heaton-harris	26	39
+1604	mr heaton-harris	mr heaton-harris	23	39
+1606	0113	0113	210	214
+1606	1999/0090	1999/0090	232	241
+1606	approximation	approximation	64	77
+1606	c4-0212	c4-0212	217	224
+1608	0652	0652	166	170
+1608	1997/0352	1997/0352	186	195
+1608	94	94	72	74
+1608	97	97	163	165
+1608	c4-0018	c4-0018	173	180
+1608	ec	ec	37	39
+1608	euratom	euratom	41	48
+1611	0550	0550	468	472
+1611	1 june 1999	1 june 1999	196	207
+1611	1999/0228	1999/0228	490	499
+1611	2002	2002	218	222
+1611	a5-0106	a5-0106	8	15
+1611	c5-0305	c5-0305	475	482
+1611	june	june	198	202
+1611	june 1999	june 1999	198	207
+1611	mr varela suanzes-carpegna	mr varela suanzes-carpegna	25	51
+1611	são tomé e principe	são tomé e principe	390	409
+1613	1998	1998	390	394
+1613	1998/0106	1998/0106	390	399
+1613	a5-0105	a5-0105	35	42
+1613	c5-0208	c5-0208	375	382
+1613	harmonisation	harmonisation	241	254
+1613	mr koch	mr koch	419	426
+1613	rapporteur	rapporteur	407	417
+1617	0158	0158	316	320
+1617	1999/0083	1999/0083	338	347
+1617	55	55	190	192
+1617	94	94	187	189
+1617	a5-0104	a5-0104	8	15
+1617	approximation	approximation	203	216
+1617	c5-0004	c5-0004	323	330
+1617	ec	ec	193	195
+1617	mr koch	mr koch	25	32
+1619	0344	0344	296	300
+1619	1999/2127	1999/2127	318	327
+1619	2000-2006	2000-2006	276	285
+1619	2006	2006	281	285
+1619	a5-0108	a5-0108	8	15
+1619	c5-0122	c5-0122	303	310
+1619	mrs	mrs	25	28
+1619	mrs schroedter	mrs schroedter	25	39
+1619	schroedter	schroedter	29	39
+1621	0066	0066	235	239
+1621	1999/2123	1999/2123	257	266
+1621	a5-0107	a5-0107	8	15
+1621	c5-0120	c5-0120	242	249
+1621	mr berend	mr berend	25	34
+1621	sec	sec	226	229
+1623	0101	0101	219	223
+1623	1999/2108	1999/2108	241	250
+1623	86	86	189	191
+1623	a5-0069	a5-0069	8	15
+1623	c5-0105	c5-0105	226	233
+1623	ec	ec	199	201
+1623	modernisation	modernisation	133	146
+1623	mr von wogau	mr von wogau	25	37
+1625	0743	0743	182	186
+1625	1998	1998	166	170
+1625	1999/2124	1999/2124	204	213
+1625	a5-0078	a5-0078	8	15
+1625	c5-0121	c5-0121	189	196
+1625	mr rapkay	mr rapkay	25	34
+1625	sec	sec	173	176
+1627	148	148	214	217
+1627	1999/2110	1999/2110	235	244
+1627	a5-0087	a5-0087	8	15
+1627	c5-0107	c5-0107	220	227
+1627	mr jonckheer	mr jonckheer	25	37
+1629	18	18	194	196
+1629	18 december 1996	18 december 1996	194	210
+1629	1998	1998	147	151
+1629	1999/2107	1999/2107	323	332
+1629	94	94	303	305
+1629	96	96	183	185
+1629	a5-0073	a5-0073	8	15
+1629	c5-0104	c5-0104	308	315
+1629	december	december	197	205
+1629	ecsc	ecsc	186	190
+1629	mr langen	mr langen	25	34
+1633	fr	fr	1	3
+1634	gdp	gdp	72	75
+1634	multiplication	multiplication	156	170
+1634	sourced	sourced	35	42
+1635	gdp	gdp	70	73
+1636	europe	europe	28	34
+1636	organisation	organisation	136	148
+1640	olaf	olaf	140	144
+1642	2025	2025	144	148
+1642	25	25	28	30
+1642	co2	co2	114	117
+1642	europe	europe	16	22
+1643	a5-0105	a5-0105	13	20
+1644	fr	fr	3	5
+1644	harmonisation	harmonisation	76	89
+1648	35	35	13	15
+1648	96	96	10	12
+1648	ec	ec	16	18
+1650	35	35	62	64
+1650	96	96	59	61
+1650	ec	ec	65	67
+1652	harmonisation	harmonisation	98	111
+1655	examinations	examinations	35	47
+1657	authorisation	authorisation	190	203
+1657	specification	specification	244	257
+1659	emphasising	emphasising	20	31
+1659	harmonising	harmonising	37	48
+1659	minimising	minimising	178	188
+1660	a5-0104	a5-0104	13	20
+1661	october	october	5	12
+1664	1 january	1 january	147	156
+1664	1 january 1997	1 january 1997	147	161
+1664	approximation	approximation	42	55
+1664	january	january	149	156
+1665	1 january	1 january	57	66
+1665	1 january 1999	1 january 1999	57	71
+1665	january	january	59	66
+1667	adr	adr	300	303
+1667	cen	cen	84	87
+1667	eu	eu	420	422
+1667	europe	europe	328	334
+1667	geneva	geneva	265	271
+1667	standardisation	standardisation	67	82
+1668	cen	cen	4	7
+1671	cen	cen	59	62
+1676	dissatisfaction	dissatisfaction	80	95
+1677	a5-0108	a5-0108	19	26
+1677	schroedter	schroedter	0	10
+1678	schroedter	schroedter	107	117
+1679	europe	europe	179	185
+1681	europe	europe	183	189
+1683	additionality	additionality	129	142
+1683	mr barnier	mr barnier	99	109
+1683	schroedter	schroedter	33	43
+1683	scotland	scotland	339	347
+1683	transitive	transitive	234	244
+1688	fr	fr	1	3
+1691	jacques delors	jacques delors	0	14
+1696	mrs	mrs	0	3
+1696	mrs schroedter	mrs schroedter	0	14
+1696	schroedter	schroedter	4	14
+1701	schroedter	schroedter	29	39
+1702	2006	2006	79	83
+1708	europeans	europeans	139	148
+1712	backhanders	backhanders	53	64
+1712	eu	eu	78	80
+1712	france	france	37	43
+1714	europe	europe	43	49
+1716	europe	europe	85	91
+1717	europe	europe	116	122
+1719	pt	pt	1	3
+1720	2000-2006	2000-2006	132	141
+1720	2006	2006	137	141
+1721	azores	azores	235	241
+1721	madeira	madeira	246	253
+1721	portuguese	portuguese	209	219
+1725	158	158	19	22
+1725	ec	ec	30	32
+1728	micro-enterprises	micro-enterprises	6	23
+1728	smes	smes	0	4
+1730	97	97	56	58
+1730	99	99	59	61
+1730	july	july	299	303
+1730	july 1999	july 1999	299	308
+1731	1260	1260	77	81
+1731	99	99	82	84
+1733	clarifications	clarifications	360	374
+1733	consonant	consonant	166	175
+1735	appropriations	appropriations	297	311
+1736	centralising	centralising	277	289
+1738	ring-fencing	ring-fencing	141	153
+1738	urbanisation	urbanisation	170	182
+1741	smes	smes	392	396
+1742	2000-2006	2000-2006	223	232
+1742	2006	2006	228	232
+1742	esf	esf	107	110
+1742	orchestration	orchestration	65	78
+1745	a5-0107	a5-0107	15	22
+1746	pt	pt	3	5
+1746	rapporteur	rapporteur	82	92
+1748	gdp	gdp	151	154
+1748	länder	länder	228	234
+1751	rapporteur	rapporteur	63	73
+1754	fr	fr	1	3
+1755	europe	europe	51	57
+1757	pecuniary gluttony	pecuniary gluttony	263	281
+1758	appropriations	appropriations	178	192
+1758	emu	emu	58	61
+1759	appropriations	appropriations	204	218
+1761	mr berend	mr berend	92	101
+1762	1986	1986	95	99
+1762	antwerp	antwerp	205	212
+1762	bremen	bremen	267	273
+1762	brussels	brussels	195	203
+1762	darmstadt	darmstadt	244	253
+1762	emilia-romagna	emilia-romagna	297	311
+1762	hamburg	hamburg	186	193
+1762	karlsruhe	karlsruhe	283	292
+1762	luxembourg	luxembourg	214	224
+1762	oberbayern	oberbayern	255	265
+1762	paris	paris	230	235
+1762	vienna	vienna	275	281
+1763	germany	germany	291	298
+1763	rapporteur	rapporteur	31	41
+1765	10	10	28	30
+1765	1986	1986	3	7
+1765	gnp	gnp	88	91
+1766	50	50	15	17
+1767	ireland	ireland	48	55
+1767	portugal	portugal	35	43
+1768	gnp	gnp	213	216
+1769	105	105	142	145
+1769	89	89	264	266
+1769	94	94	150	152
+1769	95	95	222	224
+1769	auvergne	auvergne	250	258
+1769	champagne-ardennes	champagne-ardennes	65	83
+1769	france	france	42	48
+1769	gnp	gnp	54	57
+1770	alsace	alsace	69	75
+1770	rhône-alpes	rhône-alpes	52	63
+1771	finland	finland	36	43
+1771	sweden	sweden	25	31
+1772	1994	1994	376	380
+1772	1994-1999	1994-1999	376	385
+1772	1999-2006	1999-2006	241	250
+1772	2006	2006	246	250
+1772	22	22	307	309
+1772	5	5	310	311
+1772	ecu	ecu	303	306
+1773	alsace	alsace	327	333
+1773	france	france	108	114
+1773	normandy	normandy	343	351
+1775	a5-0069	a5-0069	18	25
+1777	fr	fr	1	3
+1778	europe	europe	131	137
+1778	strasbourg	strasbourg	150	160
+1779	june	june	71	75
+1779	june 1999	june 1999	71	80
+1785	pt	pt	1	3
+1787	renationalisation	renationalisation	13	30
+1788	portugal	portugal	234	242
+1788	privatisation	privatisation	155	168
+1788	rapporteur	rapporteur	26	36
+1789	86	86	100	102
+1789	ec	ec	110	112
+1789	fr	fr	3	5
+1789	modernisation	modernisation	44	57
+1789	renationalisation	renationalisation	168	185
+1792	realising	realising	153	162
+1797	europe	europe	24	30
+1799	standardising superstate	standardising superstate	184	208
+1799	superstate	superstate	198	208
+1800	one-stop	one-stop	76	84
+1802	decentralisation	decentralisation	83	99
+1803	a5-0078	a5-0078	15	22
+1806	europe	europe	61	67
+1807	50	50	32	34
+1813	europe	europe	125	131
+1813	fr	fr	3	5
+1813	seattle	seattle	102	109
+1816	biosphere	biosphere	45	54
+1817	18	18	24	26
+1817	europe	europe	56	62
+1820	seattle	seattle	15	22
+1820	wto	wto	88	91
+1822	a5-0087	a5-0087	18	25
+1823	directorate-general	directorate-general	156	175
+1823	eu	eu	78	80
+1823	website	website	275	282
+1824	rapporteur	rapporteur	20	30
+1827	158	158	319	322
+1827	16	16	273	275
+1827	6	6	208	209
+1827	rapporteur	rapporteur	16	26
+1829	1995-1997	1995-1997	136	145
+1829	40	40	157	159
+1829	95	95	111	113
+1829	eur	eur	107	110
+1830	13	13	69	71
+1830	1993-1995	1993-1995	56	65
+1830	6	6	124	125
+1830	8	8	116	117
+1831	länder	länder	86	92
+1832	rapporteur	rapporteur	9	19
+1834	ninth	ninth	132	137
+1838	eu	eu	277	279
+1840	a5-0073	a5-0073	15	22
+1841	1998	1998	122	126
+1841	mr langen	mr langen	77	86
+1843	4	4	144	145
+1843	ecsc	ecsc	157	161
+1847	7	7	178	179
+1849	rapporteur	rapporteur	9	19
+1851	authorise	authorise	139	148
+1852	ecsc	ecsc	70	74
+1852	expiry	expiry	56	62
+1853	2002	2002	52	56
+1856	p.m	p.m	35	38
+1859	de palacio	de palacio	4	14
+1859	mrs	mrs	0	3
+1859	mrs de palacio	mrs de palacio	0	14
+1859	palacio	palacio	7	14
+1860	brittany	brittany	107	115
+1860	ppe	ppe	51	54
+1860	ppe-de	ppe-de	51	57
+1861	grossetête	grossetête	18	28
+1861	mrs	mrs	14	17
+1861	mrs grossetête	mrs grossetête	14	28
+1861	ppe	ppe	37	40
+1861	ppe-de	ppe-de	37	43
+1863	erika	erika	4	9
+1863	erika shipwreck	erika shipwreck	4	19
+1863	europe	europe	133	139
+1863	shipwreck	shipwreck	10	19
+1865	americans	americans	12	21
+1865	charterer	charterer	232	241
+1867	1992	1992	88	92
+1867	charterer	charterer	165	174
+1868	charterer	charterer	13	22
+1869	commissioner	commissioner	61	73
+1871	rina	rina	17	21
+1877	paris	paris	11	16
+1877	paris memorandum	paris memorandum	11	27
+1878	france	france	43	49
+1881	charterer	charterer	70	79
+1882	charterer	charterer	7	16
+1887	10	10	79	81
+1888	organisation	organisation	129	141
+1889	erikas	erikas	14	20
+1891	erika	erika	180	185
+1892	recognise	recognise	8	17
+1895	erika	erika	4	9
+1896	braer	braer	37	42
+1898	brittany	brittany	46	54
+1899	flag-of-convenience tanker	flag-of-convenience tanker	259	285
+1905	brittany	brittany	62	70
+1905	erika	erika	5	10
+1905	europe	europe	145	151
+1906	europe	europe	92	98
+1907	400	400	71	74
+1911	commissioner	commissioner	28	40
+1914	commissioner	commissioner	14	26
+1914	erika	erika	257	262
+1914	noirmoutier	noirmoutier	130	141
+1917	erika	erika	35	40
+1917	turkey	turkey	77	83
+1918	amoco cadiz	amoco cadiz	81	92
+1921	1992	1992	127	131
+1921	commissioner	commissioner	23	35
+1922	erika	erika	45	50
+1924	erika	erika	85	90
+1925	charterer	charterer	58	67
+1926	degassing	degassing	112	121
+1926	enforcing observance	enforcing observance	67	87
+1928	imo	imo	84	87
+1930	organising	organising	177	187
+1932	200 000	200 000	42	49
+1934	commissioner	commissioner	22	34
+1938	javette-le besque	javette-le besque	81	98
+1938	marée noire	marée noire	145	156
+1938	morbihan	morbihan	215	223
+1938	mrs	mrs	77	80
+1938	mrs javette-le besque	mrs javette-le besque	77	98
+1939	france	france	21	27
+1942	15	15	81	83
+1942	20	20	98	100
+1942	30	30	125	127
+1942	contravention	contravention	41	54
+1945	1998	1998	86	90
+1945	40	40	58	60
+1951	certificates	certificates	72	84
+1953	total-fina	total-fina	30	40
+1954	organisation	organisation	114	126
+1956	atlantic	atlantic	55	63
+1956	commissioner	commissioner	14	26
+1956	erika	erika	167	172
+1956	vendée	vendée	75	81
+1960	traceability	traceability	209	221
+1961	charterers	charterers	94	104
+1961	floodtide	floodtide	49	58
+1961	untraceable shipowners	untraceable shipowners	106	128
+1963	imo	imo	107	110
+1964	iopcf	iopcf	72	77
+1965	imo	imo	65	68
+1967	erika	erika	27	32
+1972	july	july	147	151
+1977	charterers	charterers	91	101
+1980	15	15	30	32
+1981	20	20	411	413
+1982	erika	erika	10	15
+1984	commissioner	commissioner	29	41
+1985	amoco cadiz	amoco cadiz	53	64
+1985	gino	gino	66	70
+1985	tanio	tanio	72	77
+1985	torrey canyon	torrey canyon	14	27
+1986	erika	erika	12	17
+1988	amoco cadiz	amoco cadiz	23	34
+1989	atlantic	atlantic	4	12
+1989	capitulation	capitulation	98	110
+1990	americans	americans	84	93
+1990	europe	europe	120	126
+1990	europeans	europeans	48	57
+1992	400	400	150	153
+1992	amoco cadiz	amoco cadiz	230	241
+1992	erika	erika	4	9
+1992	km	km	154	156
+1999	erika	erika	4	9
+2000	shipwreck	shipwreck	46	55
+2003	erika	erika	47	52
+2005	france	france	100	106
+2008	charterers	charterers	111	121
+2008	degassing	degassing	250	259
+2009	edd	edd	65	68
+2012	15	15	69	71
+2017	cost-effectiveness	cost-effectiveness	29	47
+2018	commissioner	commissioner	63	75
+2018	commissioner palacio	commissioner palacio	63	83
+2018	palacio	palacio	76	83
+2020	10	10	106	108
+2020	10 january	10 january	106	116
+2020	january	january	109	116
+2021	erika	erika	4	9
+2024	christmas	christmas	11	20
+2024	erika	erika	76	81
+2024	europe	europe	292	298
+2024	internet	internet	135	143
+2026	commissioner	commissioner	72	84
+2027	25	25	57	59
+2027	port-state control	port-state control	18	36
+2028	25	25	18	20
+2029	25	25	8	10
+2033	marpol	marpol	81	87
+2034	malta	malta	93	98
+2034	ngos	ngos	171	175
+2037	commissioner	commissioner	130	142
+2047	germany	germany	153	160
+2047	organisation	organisation	85	97
+2047	tüv	tüv	77	80
+2050	certificates	certificates	67	79
+2051	certificates	certificates	29	41
+2052	cuxhaven	cuxhaven	123	131
+2052	marseilles	marseilles	71	81
+2052	rotterdam	rotterdam	94	103
+2052	wilhelmshaven	wilhelmshaven	108	121
+2053	12	12	94	96
+2053	400	400	139	142
+2053	derisory usd	derisory usd	81	93
+2053	usd	usd	90	93
+2059	agenda	agenda	92	98
+2069	mrs	mrs	14	17
+2069	mrs roth-behrendt	mrs roth-behrendt	14	31
+2069	roth-behrendt	roth-behrendt	18	31
+2074	europe	europe	186	192
+2074	mrs	mrs	71	74
+2074	mrs roth-behrendt	mrs roth-behrendt	71	88
+2074	roth-behrendt	roth-behrendt	75	88
+2081	gue/ngl	gue/ngl	45	52
+2081	total-fina	total-fina	91	101
+2084	erika	erika	86	91
+2085	total-fina	total-fina	143	153
+2090	erika	erika	9	14
+2094	25	25	63	65
+2098	commissioner	commissioner	27	39
+2098	observations	observations	43	55
+2101	mrs	mrs	0	3
+2101	mrs roth-behrendt	mrs roth-behrendt	0	17
+2101	organisation	organisation	42	54
+2101	roth-behrendt	roth-behrendt	4	17
+2101	tüv	tüv	37	40
+2103	meps	meps	70	74
+2104	malta	malta	42	47
+2104	registration	registration	169	181
+2105	000 tonnes	000 tonnes	84	94
+2105	20	20	81	83
+2105	20 000	20 000	81	87
+2105	commissioner	commissioner	14	26
+2105	erika	erika	32	37
+2107	apologise	apologise	71	80
+2107	brittany	brittany	31	39
+2107	shipwrecks	shipwrecks	194	204
+2112	20	20	56	58
+2112	amoco cadiz	amoco cadiz	78	89
+2114	commissioner	commissioner	0	12
+2115	15	15	47	49
+2118	erika	erika	62	67
+2122	zero-risk	zero-risk	41	50
+2123	commissioner	commissioner	47	59
+2125	erika	erika	138	143
+2127	1969	1969	137	141
+2127	1992	1992	161	165
+2127	90	90	185	187
+2127	usd	usd	237	240
+2136	commissioner	commissioner	19	31
+2137	commissioner	commissioner	26	38
+2138	galicia	galicia	22	29
+2139	brittany	brittany	0	8
+2139	galicia	galicia	13	20
+2142	malta	malta	55	60
+2144	portugal	portugal	0	8
+2145	portuguese	portuguese	16	26
+2148	commissioner	commissioner	150	162
+2148	commissioner loyola de palacio	commissioner loyola de palacio	150	180
+2148	de palacio	de palacio	170	180
+2148	europe	europe	254	260
+2148	loyola de palacio	loyola de palacio	163	180
+2148	palacio	palacio	173	180
+2151	rina	rina	85	89
+2153	charterers	charterers	118	128
+2158	commissioner	commissioner	14	26
+2158	erika	erika	82	87
+2160	commissioner	commissioner	0	12
+2162	commissioner	commissioner	87	99
+2164	commissioner	commissioner	0	12
+2164	seawater	seawater	188	196
+2165	commissioner	commissioner	0	12
+2169	commissioner	commissioner	14	26
+2172	erika	erika	94	99
+2174	commissioner	commissioner	4	16
+2175	europe	europe	149	155
+2180	erika	erika	191	196
+2182	breton coastline	breton coastline	216	232
+2182	erika	erika	29	34
+2182	greece	greece	131	137
+2182	malta	malta	99	104
+2182	total-fina	total-fina	161	171
+2183	fauna	fauna	59	64
+2183	flora	flora	49	54
+2186	organisation	organisation	27	39
+2188	25	25	67	69
+2188	europe	europe	3	9
+2188	port-state control	port-state control	112	130
+2191	commissioner	commissioner	19	31
+2196	rotterdam	rotterdam	61	70
+2198	erika	erika	4	9
+2203	commissioner	commissioner	43	55
+2204	rina	rina	0	4
+2205	malta	malta	0	5
+2206	malta	malta	50	55
+2208	brittany	brittany	196	204
+2208	e-mail	e-mail	70	76
+2209	evenings	evenings	174	182
+2209	nights	nights	187	193
+2215	grossetête	grossetête	26	36
+2215	mrs	mrs	22	25
+2215	mrs grossetête	mrs grossetête	22	36
+2216	000 tonnes	000 tonnes	91	101
+2216	10	10	88	90
+2216	10 000	10 000	88	94
+2216	brittany	brittany	59	67
+2216	erika	erika	49	54
+2217	britain	britain	9	16
+2217	france	france	21	27
+2218	torrey canyon	torrey canyon	191	204
+2218	tv	tv	0	2
+2220	eu	eu	34	36
+2220	eu coastlines	eu coastlines	34	47
+2221	10	10	211	213
+2221	lloyds	lloyds	120	126
+2221	london	london	130	136
+2224	25	25	184	186
+2224	eu	eu	208	210
+2226	eu	eu	138	140
+2235	mrs	mrs	22	25
+2235	mrs palacio	mrs palacio	22	33
+2235	palacio	palacio	26	33
+2238	cuxhaven	cuxhaven	88	96
+2238	neuwerk	neuwerk	40	47
+2244	meps	meps	84	88
+2245	grossetête	grossetête	131	141
+2245	mr wurtz	mr wurtz	270	278
+2245	mrs	mrs	127	130
+2245	mrs grossetête	mrs grossetête	127	141
+2249	mrs	mrs	0	3
+2249	mrs roth-behrendt	mrs roth-behrendt	0	17
+2249	roth-behrendt	roth-behrendt	4	17
+2251	americans	americans	29	38
+2251	europe	europe	236	242
+2252	1976	1976	75	79
+2252	1994	1994	197	201
+2252	amoco cadiz	amoco cadiz	21	32
+2252	europe	europe	3	9
+2252	torrey canyon	torrey canyon	88	101
+2252	urquiola	urquiola	41	49
+2255	emphasise	emphasise	140	149
+2257	portuguese	portuguese	194	204
+2260	cyprus	cyprus	10	16
+2260	malta	malta	0	5
+2264	mr hatzidakis	mr hatzidakis	132	145
+2267	25	25	29	31
+2268	25	25	19	21
+2270	marpol	marpol	95	101
+2270	organisation	organisation	223	235
+2270	solas	solas	24	29
+2274	usd	usd	24	27
+2282	commissioner	commissioner	21	33
+2284	8	8	16	17
+2286	00	00	43	45
+2286	12	12	40	42
+2286	p.m	p.m	46	49
+2286	thursday	thursday	28	36
+2287	europe	europe	10	16
+2288	europe	europe	59	65
+2289	mr barnier	mr barnier	0	10
+2290	commissioner	commissioner	0	12
+2291	france	france	215	221
+2293	perimeter	perimeter	62	71
+2297	20	20	90	92
+2297	lorraine	lorraine	23	31
+2298	20	20	55	57
+2299	150	150	44	47
+2300	40	40	57	59
+2305	forestation	forestation	152	163
+2309	commissioner	commissioner	22	34
+2311	europe	europe	218	224
+2311	france	france	137	143
+2313	organise	organise	141	149
+2314	fellow-citizens	fellow-citizens	41	56
+2317	guatemala	guatemala	36	45
+2317	turkey	turkey	49	55
+2320	commissioner	commissioner	13	25
+2320	fifg	fifg	138	142
+2321	magps	magps	39	44
+2323	90	90	124	126
+2323	december	december	84	92
+2323	eur	eur	179	182
+2323	ff	ff	159	161
+2323	france	france	42	48
+2324	100	100	148	151
+2324	500	500	110	113
+2324	500 000	500 000	110	117
+2324	cubic metres	cubic metres	160	172
+2324	versailles	versailles	302	312
+2326	appropriations	appropriations	324	338
+2326	commissioner	commissioner	53	65
+2326	france	france	188	194
+2326	mr martinez	mr martinez	100	111
+2326	november	november	159	167
+2327	commissioner	commissioner	43	55
+2328	january	january	69	76
+2328	january 2000	january 2000	69	81
+2328	mr martinez	mr martinez	51	62
+2331	appropriations	appropriations	98	112
+2333	appropriations	appropriations	34	48
+2333	berlin	berlin	16	22
+2334	commissioner	commissioner	14	26
+2334	europe	europe	28	34
+2335	december	december	157	165
+2335	europe	europe	147	153
+2337	lorraine	lorraine	81	89
+2339	europe	europe	6	12
+2340	mr barnier	mr barnier	10	20
+2342	1 january	1 january	118	127
+2342	1 january 2000	1 january 2000	118	132
+2342	december	december	92	100
+2342	january	january	120	127
+2342	january 2000	january 2000	120	132
+2344	commissioner	commissioner	91	103
+2344	commissioner barnier	commissioner barnier	91	111
+2353	europe	europe	35	41
+2355	europe	europe	59	65
+2356	lothar	lothar	11	17
+2358	kyoto	kyoto	109	114
+2363	commissioner	commissioner	0	12
+2363	lothar	lothar	28	34
+2364	europe	europe	44	50
+2364	france	france	88	94
+2364	germany	germany	99	106
+2364	switzerland	switzerland	120	131
+2366	cubic metres	cubic metres	93	105
+2367	commissioner	commissioner	40	52
+2367	france	france	179	185
+2367	germany	germany	193	200
+2368	europe	europe	133	139
+2368	mrs	mrs	3	6
+2368	mrs schreyer	mrs schreyer	3	15
+2368	schreyer	schreyer	7	15
+2370	dam-building	dam-building	135	147
+2371	germany	germany	41	48
+2374	commissioner	commissioner	14	26
+2375	flattened kosovo	flattened kosovo	109	125
+2375	kosovo	kosovo	119	125
+2375	nato	nato	35	39
+2377	eu	eu	108	110
+2378	brussels	brussels	18	26
+2386	ins	ins	13	16
+2386	organisation	organisation	65	77
+2386	outs	outs	21	25
+2387	brussels	brussels	112	120
+2390	machinations	machinations	158	170
+2393	1994	1994	9	13
+2393	rapporteur	rapporteur	110	120
+2395	february	february	87	95
+2396	commissioner	commissioner	14	26
+2396	galvanise	galvanise	92	101
+2400	eu	eu	65	67
+2402	monocultures	monocultures	144	156
+2405	monocultures	monocultures	115	127
+2407	europe	europe	19	25
+2408	america	america	0	7
+2408	asia	asia	23	27
+2408	south-east	south-east	12	22
+2408	south-east asia	south-east asia	12	27
+2411	kyoto	kyoto	60	65
+2412	co2	co2	15	18
+2412	europe	europe	132	138
+2415	france	france	124	130
+2417	commissioner	commissioner	62	74
+2420	europe	europe	10	16
+2420	kyoto	kyoto	50	55
+2421	commissioner	commissioner	90	102
+2421	europe	europe	51	57
+2421	rapporteur	rapporteur	16	26
+2422	utilise	utilise	23	30
+2426	commissioner	commissioner	20	32
+2426	organise	organise	120	128
+2431	brussels	brussels	58	66
+2431	euros	euros	117	122
+2434	greece	greece	30	36
+2434	greeks	greeks	150	156
+2435	france	france	33	39
+2439	atlantic	atlantic	100	108
+2439	ireland	ireland	29	36
+2440	ireland	ireland	17	24
+2443	30	30	167	169
+2443	33	33	259	261
+2443	87	87	351	353
+2443	commissioner	commissioner	62	74
+2443	commissioner barnier	commissioner barnier	62	82
+2445	paul	paul	84	88
+2446	bordeaux	bordeaux	161	169
+2446	mr barnier	mr barnier	55	65
+2447	europe	europe	181	187
+2447	fontaine	fontaine	114	122
+2447	mrs	mrs	110	113
+2447	mrs fontaine	mrs fontaine	110	122
+2448	commissioner	commissioner	324	336
+2448	commissioner barnier	commissioner barnier	324	344
+2448	venezuela	venezuela	234	243
+2449	commissioner	commissioner	14	26
+2449	europe	europe	146	152
+2450	december	december	61	69
+2451	alsace	alsace	114	120
+2451	strasbourg	strasbourg	21	31
+2453	europe	europe	56	62
+2466	ireland	ireland	31	38
+2467	ireland	ireland	53	60
+2468	15	15	164	166
+2472	ireland	ireland	14	21
+2473	commissioner	commissioner	12	24
+2474	commissioner	commissioner	14	26
+2475	europe	europe	83	89
+2476	europe	europe	86	92
+2477	organisation	organisation	32	44
+2481	mep	mep	125	128
+2481	tom spencer	tom spencer	138	149
+2482	bp	bp	72	74
+2486	commissioner	commissioner	26	38
+2489	tonight	tonight	61	68
+2502	bse	bse	55	58
+2504	commissioner	commissioner	11	23
+2507	animal feedingstuffs	animal feedingstuffs	108	128
+2507	feedingstuffs	feedingstuffs	115	128
+2508	20	20	272	274
+2508	amending directives	amending directives	279	298
+2508	europe	europe	158	164
+2509	brussels	brussels	69	77
+2509	under-implementation	under-implementation	82	102
+2511	2003	2003	245	249
+2511	acquis	acquis	221	227
+2511	acquis communautaire	acquis communautaire	221	241
+2512	ahern	ahern	50	55
+2512	jackson	jackson	83	90
+2512	mrs	mrs	46	49
+2512	mrs ahern	mrs ahern	46	55
+2512	mrs jackson	mrs jackson	79	90
+2512	mrs roth-behrendt	mrs roth-behrendt	57	74
+2512	roth-behrendt	roth-behrendt	61	74
+2514	ahern	ahern	4	9
+2514	mrs	mrs	0	3
+2514	mrs ahern	mrs ahern	0	9
+2515	traceability	traceability	201	213
+2519	mrs	mrs	0	3
+2519	mrs roth-behrendt	mrs roth-behrendt	0	17
+2519	roth-behrendt	roth-behrendt	4	17
+2520	annex	annex	49	54
+2522	2002	2002	109	113
+2522	annex	annex	75	80
+2526	bse	bse	24	27
+2526	infectivity	infectivity	107	118
+2526	mrs	mrs	160	163
+2526	mrs roth-behrendt	mrs roth-behrendt	160	177
+2526	roth-behrendt	roth-behrendt	164	177
+2528	20	20	62	64
+2528	jackson	jackson	4	11
+2528	mrs	mrs	0	3
+2528	mrs jackson	mrs jackson	0	11
+2532	mr verheugen	mr verheugen	181	193
+2532	verheugen	verheugen	184	193
+2533	commissioner	commissioner	0	12
+2533	europe	europe	98	104
+2535	amsterdam	amsterdam	164	173
+2535	maastricht	maastricht	149	159
+2536	europe	europe	78	84
+2538	france	france	131	137
+2539	france	france	119	125
+2541	eu	eu	101	103
+2542	dublin	dublin	48	54
+2542	eu	eu	29	31
+2543	popularise	popularise	222	232
+2551	september	september	97	106
+2552	september	september	49	58
+2556	florenz	florenz	3	10
+2556	mr florenz	mr florenz	0	10
+2560	meps	meps	102	106
+2562	florenz	florenz	3	10
+2562	mr florenz	mr florenz	0	10
+2567	ceo	ceo	4	7
+2572	lynne	lynne	4	9
+2572	mrs	mrs	0	3
+2572	mrs lynne	mrs lynne	0	9
+2585	realise	realise	2	9
+2591	lynne	lynne	19	24
+2591	mrs	mrs	15	18
+2591	mrs lynne	mrs lynne	15	24
+2592	mrs	mrs	0	3
+2592	mrs myller	mrs myller	0	10
+2592	myller	myller	4	10
+2594	dublin	dublin	39	45
+2594	europe	europe	149	155
+2594	feo	feo	21	24
+2594	recognise	recognise	2	11
+2595	fvo	fvo	8	11
+2596	dublin	dublin	158	164
+2596	fvo	fvo	4	7
+2605	agenda	agenda	74	80
+2608	commissioner	commissioner	128	140
+2609	half-an-hour	half-an-hour	16	28
+2613	b5-0003	b5-0003	32	39
+2616	interpreters	interpreters	47	59
+2617	mr purvis	mr purvis	0	9
+2618	agenda	agenda	235	241
+2619	agenda	agenda	12	18
+2620	30	30	58	60
+2620	5	5	56	57
+2620	agenda	agenda	21	27
+2620	p.m	p.m	61	64
+2623	99	99	26	28
+2623	h-0781	h-0781	19	25
+2624	7	7	125	126
+2624	akkuyu	akkuyu	251	257
+2624	eu	eu	350	352
+2624	turkey	turkey	59	65
+2625	india	india	398	403
+2625	pakistan	pakistan	408	416
+2625	turkey	turkey	0	6
+2626	eu	eu	143	145
+2627	mr verheugen	mr verheugen	0	12
+2627	verheugen	verheugen	3	12
+2628	akkuyu	akkuyu	95	101
+2628	recognises	recognises	114	124
+2628	turkey	turkey	103	109
+2630	decommissioning	decommissioning	237	252
+2630	recognises	recognises	110	120
+2630	turkey	turkey	42	48
+2632	commissioner	commissioner	3	15
+2632	commissioner wallström	commissioner wallström	3	25
+2632	september	september	86	95
+2632	september 1999	september 1999	86	100
+2632	wallström	wallström	16	25
+2634	1998	1998	268	272
+2634	adana	adana	276	281
+2634	june	june	263	267
+2634	june 1998	june 1998	263	272
+2637	turkey	turkey	30	36
+2639	turkey	turkey	44	50
+2641	canada	canada	69	75
+2641	india	india	154	159
+2641	pakistan	pakistan	141	149
+2642	caucasus	caucasus	127	135
+2648	priori	priori	62	68
+2649	turkey	turkey	93	99
+2652	acquis	acquis	45	51
+2652	acquis communautaire	acquis communautaire	45	65
+2653	decommissioning	decommissioning	97	112
+2653	upgradable	upgradable	167	177
+2654	turkey	turkey	15	21
+2656	npt	npt	47	50
+2656	turkey	turkey	25	31
+2657	turkey	turkey	118	124
+2658	bulgaria	bulgaria	206	214
+2658	lithuania	lithuania	182	191
+2658	slovakia	slovakia	193	201
+2658	turkey	turkey	26	32
+2659	commissioner	commissioner	18	30
+2659	mr souladakis	mr souladakis	335	348
+2659	turkey	turkey	41	47
+2662	europe	europe	208	214
+2662	recognises	recognises	33	43
+2662	turkey	turkey	15	21
+2663	99	99	26	28
+2663	h-0786	h-0786	19	25
+2664	eu	eu	105	107
+2664	kosovan	kosovan	198	205
+2666	mrs	mrs	0	3
+2666	mrs wallström	mrs wallström	0	13
+2666	wallström	wallström	4	13
+2667	mr bowe	mr bowe	11	18
+2668	nato	nato	106	110
+2669	june	june	17	21
+2670	europe	europe	78	84
+2673	kosovo	kosovo	95	101
+2676	btf	btf	64	67
+2676	kosovo	kosovo	46	52
+2677	kosovo	kosovo	61	67
+2679	europe	europe	75	81
+2679	south-eastern europe	south-eastern europe	61	81
+2681	commissioner	commissioner	44	56
+2684	air-borne	air-borne	21	30
+2684	kosovo	kosovo	112	118
+2686	kosovo	kosovo	346	352
+2688	mr bowe	mr bowe	11	18
+2689	confirmation	confirmation	46	58
+2689	kosovo	kosovo	167	173
+2692	yugoslavia	yugoslavia	132	142
+2698	adriatic	adriatic	114	122
+2698	commissioner	commissioner	14	26
+2698	holidaymakers	holidaymakers	76	89
+2700	adriatic	adriatic	78	86
+2700	holidaymakers	holidaymakers	29	42
+2707	commissioner	commissioner	20	32
+2707	nato	nato	73	77
+2712	30	30	12	14
+2712	99	99	26	28
+2712	h-0793	h-0793	19	25
+2713	1998	1998	60	64
+2713	4000	4000	111	115
+2713	tibet	tibet	51	56
+2713	tibetan	tibetan	69	76
+2713	tibetans	tibetans	116	124
+2715	tibet	tibet	4	9
+2715	tibetans	tibetans	212	220
+2716	dalai lama	dalai lama	120	130
+2716	tibet	tibet	4	9
+2716	tibetan	tibetan	347	354
+2717	tibet	tibet	53	58
+2718	mr patten	mr patten	0	9
+2718	patten	patten	3	9
+2719	tibet	tibet	56	61
+2720	tibet	tibet	88	93
+2721	china	china	50	55
+2721	peking	peking	66	72
+2721	tibet	tibet	159	164
+2722	dalai lama	dalai lama	56	66
+2724	tibet	tibet	26	31
+2725	china	china	66	71
+2725	tibet	tibet	186	191
+2725	tibetans	tibetans	298	306
+2726	eu	eu	22	24
+2726	tibet	tibet	43	48
+2728	tibetan	tibetan	133	140
+2729	envoys	envoys	79	85
+2730	china	china	111	116
+2730	mr patten	mr patten	14	23
+2730	patten	patten	17	23
+2730	tibetans	tibetans	157	165
+2731	cfsp	cfsp	63	67
+2731	mr cfsp	mr cfsp	60	67
+2731	mr solana	mr solana	83	92
+2733	ad infinitum	ad infinitum	121	133
+2737	envoys	envoys	75	81
+2741	china	china	232	237
+2741	disjunction	disjunction	172	183
+2742	recognise	recognise	40	49
+2743	tibet	tibet	64	69
+2744	commissioner	commissioner	41	53
+2744	peking	peking	174	180
+2744	york	york	99	103
+2745	christmas	christmas	161	170
+2745	isabel hilton	isabel hilton	182	195
+2745	recognise	recognise	70	79
+2745	tibet	tibet	246	251
+2746	tibetan	tibetan	68	75
+2746	tibetan greeting	tibetan greeting	68	84
+2747	dalai lama	dalai lama	230	240
+2747	europeans	europeans	259	268
+2747	tibet	tibet	69	74
+2748	dalai lama	dalai lama	113	123
+2748	tibet	tibet	168	173
+2749	tibetan	tibetan	58	65
+2751	dalai lama	dalai lama	64	74
+2752	tibet	tibet	83	88
+2754	dalai lama	dalai lama	4	14
+2755	dalai lama	dalai lama	104	114
+2756	agenda	agenda	154	160
+2756	china	china	54	59
+2756	clinton	clinton	35	42
+2757	asia	asia	104	108
+2757	china	china	199	204
+2757	tibet	tibet	42	47
+2758	99	99	26	28
+2758	h-0795	h-0795	19	25
+2759	eu	eu	79	81
+2759	eu ombudsman jacob söderman	eu ombudsman jacob söderman	158	185
+2759	jacob söderman	jacob söderman	171	185
+2762	eu	eu	160	162
+2763	september	september	144	153
+2764	mr patten	mr patten	0	9
+2764	patten	patten	3	9
+2766	november	november	3	11
+2766	november 1999	november 1999	3	16
+2769	july	july	112	116
+2769	july 1999	july 1999	112	121
+2776	agenda	agenda	174	180
+2776	commissioner	commissioner	40	52
+2781	recognise	recognise	32	41
+2783	confirmation	confirmation	42	54
+2783	jacob söderman	jacob söderman	168	182
+2786	july	july	141	145
+2786	july 1999	july 1999	141	150
+2790	mr patten	mr patten	32	41
+2790	patten	patten	35	41
+2791	32	32	42	44
+2792	apologise	apologise	2	11
+2792	mr vitorino	mr vitorino	15	26
+2796	mr nielson	mr nielson	13	23
+2796	mr patten	mr patten	44	53
+2796	nielson	nielson	16	23
+2796	patten	patten	47	53
+2797	33	33	10	12
+2797	mr nielson	mr nielson	69	79
+2797	nielson	nielson	72	79
+2798	africa	africa	56	62
+2798	mr nielson	mr nielson	0	10
+2798	nielson	nielson	3	10
+2799	de palacio	de palacio	70	80
+2799	loyola de palacio	loyola de palacio	63	80
+2799	mr patten	mr patten	166	175
+2799	mrs	mrs	59	62
+2799	mrs loyola de palacio	mrs loyola de palacio	59	80
+2799	palacio	palacio	73	80
+2799	patten	patten	169	175
+2800	33	33	12	14
+2800	99	99	26	28
+2800	h-0829	h-0829	19	25
+2801	eu	eu	28	30
+2801	mainstreaming	mainstreaming	10	23
+2802	50	50	157	159
+2802	directorate-general	directorate-general	253	272
+2802	mainstreaming	mainstreaming	110	123
+2803	integral	integral	77	85
+2803	mainstreaming	mainstreaming	1	14
+2805	directorate-general	directorate-general	145	164
+2807	africa	africa	261	267
+2807	emphasise	emphasise	19	28
+2807	mr nielson	mr nielson	53	63
+2807	nielson	nielson	56	63
+2814	directorate-general	directorate-general	55	74
+2816	reformulation	reformulation	30	43
+2821	mainstreaming	mainstreaming	100	113
+2822	directorate-general	directorate-general	29	48
+2829	directorate-general	directorate-general	125	144
+2829	mainstreaming	mainstreaming	104	117
+2830	commissioner	commissioner	78	90
+2830	commissioner nielson	commissioner nielson	78	98
+2830	mainstreaming	mainstreaming	29	42
+2830	nielson	nielson	91	98
+2831	david landis barnhill	david landis barnhill	71	92
+2836	cross-cutting	cross-cutting	93	106
+2837	sympathise	sympathise	5	15
+2839	asia	asia	134	138
+2840	tacis	tacis	65	70
+2840	tacis programme	tacis programme	65	80
+2841	1998	1998	3	7
+2841	eur	eur	102	105
+2841	kazakhstan	kazakhstan	29	39
+2841	kyrgyzstan	kyrgyzstan	17	27
+2841	turkmenistan	turkmenistan	56	68
+2841	uzbekistan	uzbekistan	41	51
+2843	1998	1998	154	158
+2843	7	7	121	122
+2843	eur	eur	117	120
+2843	tacis	tacis	77	82
+2843	tajikistan	tajikistan	39	49
+2845	asia	asia	36	40
+2846	kyrgyzstan	kyrgyzstan	32	42
+2846	tajikistan	tajikistan	73	83
+2847	1998	1998	73	77
+2847	7	7	57	58
+2847	eur	eur	53	56
+2847	ngo programmes	ngo programmes	12	26
+2847	tajikistan	tajikistan	30	40
+2848	eur	eur	42	45
+2848	kyrgyzstan	kyrgyzstan	22	32
+2849	kyrgyzstan	kyrgyzstan	161	171
+2849	tajikistan	tajikistan	146	156
+2850	1998	1998	3	7
+2850	35	35	92	94
+2850	8	8	23	24
+2850	eur	eur	17	20
+2850	kyrgyzstan	kyrgyzstan	48	58
+2850	tajikistan	tajikistan	63	73
+2852	asia	asia	55	59
+2852	balkans	balkans	93	100
+2852	commissioner	commissioner	14	26
+2853	stabilise	stabilise	32	41
+2853	turkmenistan	turkmenistan	66	78
+2853	uzbekistan	uzbekistan	83	93
+2855	aridity	aridity	263	270
+2855	monocultures	monocultures	220	232
+2855	mr nielson	mr nielson	71	81
+2855	nielson	nielson	74	81
+2860	asia	asia	92	96
+2861	caucasus	caucasus	62	70
+2862	balkans	balkans	250	257
+2868	commissioner	commissioner	96	108
+2870	commissioner	commissioner	20	32
+2871	mr patten	mr patten	21	30
+2871	patten	patten	24	30
+2872	35	35	12	14
+2872	99	99	26	28
+2872	h-0778	h-0778	19	25
+2873	greece	greece	118	124
+2874	greece	greece	26	32
+2875	greece	greece	33	39
+2878	greece	greece	142	148
+2878	mr papayannakis	mr papayannakis	10	25
+2882	greece	greece	209	215
+2883	2006	2006	59	63
+2885	commissioner	commissioner	11	23
+2886	4	4	331	332
+2886	alia	alia	420	424
+2886	belgium	belgium	303	310
+2886	europe	europe	99	105
+2886	france	france	295	301
+2886	gdp	gdp	259	262
+2886	germany	germany	315	322
+2895	greece	greece	93	99
+2896	mr papayannakis	mr papayannakis	0	15
+2897	greece	greece	0	6
+2899	22	22	23	25
+2901	2006	2006	193	197
+2902	36	36	12	14
+2902	99	99	26	28
+2902	h-0782	h-0782	19	25
+2903	denmark	denmark	203	210
+2904	denmark	denmark	72	79
+2904	efterløn	efterløn	31	39
+2908	efterløn	efterløn	48	56
+2910	denmark	denmark	192	199
+2910	infringement	infringement	140	152
+2910	november	november	44	52
+2910	november 1999	november 1999	44	57
+2911	commissioner	commissioner	19	31
+2912	commissioner	commissioner	25	37
+2913	commissioner	commissioner	4	16
+2913	luxembourg	luxembourg	200	210
+2914	clarification	clarification	147	160
+2914	commissioner	commissioner	25	37
+2914	socio-political debate	socio-political debate	190	212
+2915	commissioner	commissioner	31	43
+2916	denmark	denmark	58	65
+2918	eu	eu	382	384
+2921	denmark	denmark	54	61
+2922	denmark	denmark	73	80
+2923	99	99	26	28
+2923	h-0791	h-0791	19	25
+2924	98/0318	98/0318	345	352
+2926	48-hour	48-hour	49	56
+2928	13	13	66	68
+2928	4	4	24	25
+2928	7	7	48	49
+2929	codecision	codecision	89	99
+2930	europe	europe	293	299
+2931	38	38	12	14
+2931	99	99	26	28
+2931	h-0805	h-0805	19	25
+2932	mainstreaming	mainstreaming	199	212
+2932	prodi	prodi	111	116
+2938	kinnock	kinnock	66	73
+2938	mr reding	mr reding	75	84
+2938	prodi	prodi	44	49
+2938	reding	reding	78	84
+2939	january	january	80	87
+2939	january 2000	january 2000	80	92
+2940	busquin	busquin	183	190
+2940	kinnock	kinnock	295	302
+2940	mr busquin	mr busquin	180	190
+2940	mr kinnock	mr kinnock	292	302
+2941	commissioner	commissioner	21	33
+2943	avilés-perea	avilés-perea	4	16
+2943	mrs	mrs	0	3
+2943	mrs avilés-perea	mrs avilés-perea	0	16
+2944	commissioner	commissioner	11	23
+2946	39	39	12	14
+2946	99	99	26	28
+2946	h-0807	h-0807	19	25
+2947	13	13	39	41
+2947	13 october 1999	13 october 1999	39	54
+2947	asylum-seekers	asylum-seekers	273	287
+2947	october	october	42	49
+2947	october 1999	october 1999	42	54
+2951	2000-2006	2000-2006	53	62
+2951	2006	2006	58	62
+2951	euro	euro	88	92
+2951	greece	greece	179	185
+2954	berlin	berlin	45	51
+2960	directorate-general	directorate-general	36	55
+2962	15	15	219	221
+2962	80	80	71	73
+2962	ecu	ecu	24	27
+2962	greece	greece	0	6
+2964	33	33	158	160
+2968	15	15	95	97
+2968	8	8	81	82
+2968	eur	eur	75	78
+2971	greece	greece	190	196
+2975	organisations	organisations	139	152
+2976	40	40	12	14
+2976	99	99	26	28
+2976	h-0808	h-0808	19	25
+2977	13	13	17	19
+2977	4	4	201	202
+2977	organisations	organisations	181	194
+2977	teu	teu	20	23
+2978	13	13	92	94
+2978	teu	teu	96	99
+2979	13	13	142	144
+2986	general exemption	general exemption	22	39
+2988	roman catholic	roman catholic	62	76
+2989	reinforcement	reinforcement	35	48
+2990	commissioner	commissioner	59	71
+2996	99	99	26	28
+2996	h-0813	h-0813	19	25
+2997	80	80	390	392
+3002	2000-2006	2000-2006	54	63
+3002	2006	2006	59	63
+3002	70	70	24	26
+3002	eur	eur	70	73
+3002	europe	europe	127	133
+3005	commissioner	commissioner	0	12
+3008	microcredits	microcredits	97	109
+3013	commissioner	commissioner	4	16
+3013	izquierdo rojo	izquierdo rojo	52	66
+3013	mrs	mrs	48	51
+3013	mrs izquierdo rojo	mrs izquierdo rojo	48	66
+3014	99	99	26	28
+3014	h-0817	h-0817	19	25
+3018	organisations	organisations	164	177
+3019	lisbon	lisbon	91	97
+3020	lisbon	lisbon	4	10
+3022	2000-2006	2000-2006	221	230
+3022	2006	2006	226	230
+3022	april	april	81	86
+3022	lisbon	lisbon	136	142
+3024	confirmation	confirmation	25	37
+3031	99	99	26	28
+3031	h-0819	h-0819	19	25
+3032	13	13	108	110
+3032	amsterdam	amsterdam	118	127
+3032	eu	eu	91	93
+3035	november	november	6	14
+3035	november 1999	november 1999	6	19
+3040	1998	1998	45	49
+3040	4	4	38	39
+3040	4 june 1998	4 june 1998	38	49
+3040	europe	europe	337	343
+3040	june	june	40	44
+3040	june 1998	june 1998	40	49
+3041	commissioner	commissioner	18	30
+3042	europe	europe	120	126
+3043	carer	carer	203	208
+3043	europe	europe	92	98
+3043	gothenburg	gothenburg	60	70
+3050	specialise	specialise	48	58
+3052	00	00	26	28
+3052	45	45	12	14
+3052	h-0006	h-0006	19	25
+3053	96	96	35	37
+3053	denmark	denmark	145	152
+3053	ec	ec	41	43
+3054	folketing	folketing	33	42
+3055	8	8	22	23
+3055	organisations	organisations	204	217
+3057	denmark	denmark	84	91
+3058	cf	cf	178	180
+3058	denmark	denmark	99	106
+3062	denmark	denmark	8	15
+3062	organisations	organisations	342	355
+3063	denmark	denmark	34	41
+3064	denmark	denmark	63	70
+3064	transposition	transposition	128	141
+3065	6	6	78	79
+3065	6 december 1999	6 december 1999	78	93
+3065	december	december	80	88
+3065	december 1999	december 1999	80	93
+3068	organisations	organisations	88	101
+3069	commissioner	commissioner	60	72
+3069	infringement	infringement	231	243
+3070	denmark	denmark	58	65
+3072	denmark	denmark	74	81
+3073	denmark	denmark	15	22
+3075	denmark	denmark	357	364
+3077	commissioner	commissioner	21	33
+3080	46	46	79	81
+3080	68	68	85	87
+3082	00	00	57	59
+3082	50	50	32	34
+3082	7	7	30	31
+3082	p.m	p.m	35	38
+3084	1998	1998	373	377
+3084	519	519	439	442
+3084	520	520	379	382
+3084	522	522	409	412
+3084	a5-0004	a5-0004	29	36
+3084	c4-0350	c4-0350	385	392
+3084	c4-0351	c4-0351	415	422
+3084	c4-0352	c4-0352	445	452
+3084	mrs	mrs	46	49
+3084	mrs van der laan	mrs van der laan	46	62
+3084	sec	sec	369	372
+3084	van der laan	van der laan	50	62
+3085	commissioner	commissioner	4	16
+3085	mrs	mrs	18	21
+3085	mrs schreyer	mrs schreyer	18	30
+3085	schreyer	schreyer	22	30
+3086	commissioner	commissioner	62	74
+3086	rapporteur	rapporteur	131	141
+3087	mrs	mrs	29	32
+3087	mrs schreyer	mrs schreyer	29	41
+3087	schreyer	schreyer	33	41
+3091	kinnock	kinnock	68	75
+3091	mr kinnock	mr kinnock	65	75
+3094	whistle-blower	whistle-blower	15	29
+3101	sem	sem	90	93
+3112	brussels	brussels	103	111
+3112	organisations	organisations	66	79
+3118	europe	europe	47	53
+3119	gaza	gaza	14	18
+3129	europe	europe	87	93
+3130	europe	europe	35	41
+3131	europe	europe	94	100
+3133	europe	europe	170	176
+3136	resourcing	resourcing	197	207
+3140	europe	europe	12	18
+3141	europe	europe	142	148
+3141	kinnock	kinnock	168	175
+3141	mr kinnock	mr kinnock	165	175
+3141	mr prodi	mr prodi	152	160
+3141	prodi	prodi	155	160
+3143	kinnock	kinnock	17	24
+3143	mr kinnock	mr kinnock	14	24
+3144	europe	europe	58	64
+3146	mrs	mrs	81	84
+3146	mrs van der laan	mrs van der laan	81	97
+3146	mrs van der laan's	mrs van der laan's	81	99
+3146	van der laan	van der laan	85	97
+3151	europe	europe	33	39
+3155	scrutinise	scrutinise	59	69
+3160	96	96	129	131
+3160	97	97	73	75
+3180	gaza	gaza	87	91
+3180	gaza hospital	gaza hospital	87	100
+3180	van der laan	van der laan	38	50
+3183	lousewies	lousewies	29	38
+3183	lousewies van der laan	lousewies van der laan	29	51
+3183	van der laan	van der laan	39	51
+3185	commissioner	commissioner	14	26
+3191	commissioner	commissioner	67	79
+3194	kinnock	kinnock	3	10
+3194	mr kinnock	mr kinnock	0	10
+3196	rapporteur	rapporteur	39	49
+3200	kinnock	kinnock	42	49
+3200	mr kinnock	mr kinnock	39	49
+3205	whistle-blowers	whistle-blowers	21	36
+3206	kinnock	kinnock	3	10
+3206	mr kinnock	mr kinnock	0	10
+3206	whistle-blowers	whistle-blowers	198	213
+3210	commissioner	commissioner	154	166
+3210	kinnock	kinnock	37	44
+3210	mr kinnock	mr kinnock	34	44
+3224	mrs	mrs	69	72
+3224	mrs van der laan	mrs van der laan	69	85
+3224	van der laan	van der laan	73	85
+3225	europe	europe	16	22
+3238	mrs	mrs	0	3
+3238	mrs van der laan	mrs van der laan	0	16
+3238	van der laan	van der laan	4	16
+3239	mr camre	mr camre	126	134
+3245	mrs	mrs	31	34
+3245	mrs van der laan	mrs van der laan	31	47
+3245	van der laan	van der laan	35	47
+3246	integral	integral	60	68
+3247	1998	1998	73	77
+3249	1998	1998	51	55
+3252	mr prodi	mr prodi	42	50
+3252	prodi	prodi	45	50
+3253	eu	eu	210	212
+3254	eu	eu	9	11
+3255	eu	eu	34	36
+3262	bygones	bygones	65	72
+3266	rapporteur	rapporteur	9	19
+3273	commissioner	commissioner	11	23
+3273	commissioner schreyer	commissioner schreyer	11	32
+3273	schreyer	schreyer	24	32
+3275	12	12	37	39
+3275	p.m	p.m	40	43
+3277	a5-0001	a5-0001	29	36
+3277	mr van hulten	mr van hulten	46	59
+3278	mr middelhoek	mr middelhoek	111	124
+3279	15	15	3	5
+3282	brussels	brussels	15	23
+3283	21	21	26	28
+3283	21 july	21 july	26	33
+3283	90	90	189	191
+3283	july	july	29	33
+3283	prodi	prodi	54	59
+3286	alcohol	alcohol	125	132
+3286	petrol	petrol	143	149
+3290	recognises	recognises	326	336
+3294	dgs	dgs	17	20
+3296	dgs	dgs	0	3
+3304	olaf	olaf	0	4
+3305	280	280	75	78
+3311	whistle-blowers	whistle-blowers	0	15
+3312	kinnock	kinnock	27	34
+3312	mr kinnock	mr kinnock	24	34
+3312	whistle-blowers	whistle-blowers	80	95
+3318	organisation	organisation	78	90
+3326	europe	europe	231	237
+3326	expatriation allowance	expatriation allowance	190	212
+3327	commissioner	commissioner	0	12
+3327	commissioner kinnock	commissioner kinnock	0	20
+3327	kinnock	kinnock	13	20
+3331	europe	europe	20	26
+3332	europe	europe	21	27
+3332	june	june	3	7
+3338	en masse	en masse	124	132
+3339	representativeness	representativeness	203	221
+3344	recognise	recognise	107	116
+3350	15	15	178	180
+3351	september	september	145	154
+3352	epp	epp	28	31
+3353	europe	europe	32	38
+3355	announcements	announcements	59	72
+3355	commissioner	commissioner	92	104
+3355	commissioner kinnock	commissioner kinnock	92	112
+3355	kinnock	kinnock	105	112
+3359	learnt	learnt	26	32
+3360	rapporteur	rapporteur	166	176
+3362	mr van hulten	mr van hulten	18	31
+3364	epp	epp	16	19
+3365	commissioner	commissioner	206	218
+3365	resubmitted	resubmitted	8	19
+3365	september	september	261	270
+3368	commissioner	commissioner	0	12
+3373	prodi	prodi	186	191
+3373	romano prodi	romano prodi	179	191
+3375	apologising	apologising	30	41
+3375	mr elles	mr elles	81	89
+3376	mr van hulten	mr van hulten	18	31
+3378	willy	willy	55	60
+3379	mr van hulten	mr van hulten	58	71
+3380	mr elles	mr elles	13	21
+3382	commissioner	commissioner	23	35
+3382	commissioner kinnock	commissioner kinnock	23	43
+3382	kinnock	kinnock	36	43
+3385	recognise	recognise	74	83
+3390	under-performance	under-performance	38	55
+3394	10	10	135	137
+3394	1998	1998	7	11
+3394	8	8	130	131
+3394	europe	europe	119	125
+3394	europe gbp	europe gbp	119	129
+3394	miscalculation	miscalculation	54	68
+3396	miscalculation	miscalculation	57	71
+3398	recognise	recognise	3	12
+3399	recognise	recognise	12	21
+3400	commissioner	commissioner	186	198
+3400	mr elles	mr elles	158	166
+3401	recognise	recognise	16	25
+3406	coattails	coattails	61	70
+3407	recognise	recognise	3	12
+3408	recognise	recognise	3	12
+3413	mr van hulten	mr van hulten	83	96
+3413	rapporteur	rapporteur	71	81
+3415	morgan	morgan	147	153
+3415	mrs	mrs	143	146
+3415	mrs morgan	mrs morgan	143	153
+3417	mr van hulten	mr van hulten	29	42
+3421	directorates-general	directorates-general	120	140
+3426	europe	europe	73	79
+3430	mr van hulten	mr van hulten	44	57
+3436	september	september	45	54
+3438	100	100	71	74
+3438	mr van hulten	mr van hulten	11	24
+3439	100	100	121	124
+3441	kinnock	kinnock	251	258
+3441	mr kinnock	mr kinnock	248	258
+3442	mr van hulten	mr van hulten	0	13
+3442	regionalists	regionalists	42	54
+3447	february	february	66	74
+3448	commissioner	commissioner	22	34
+3448	mr van hulten	mr van hulten	85	98
+3448	prodi	prodi	211	216
+3451	2002	2002	154	158
+3457	brussels	brussels	52	60
+3464	overheads	overheads	58	67
+3469	disciplinary board	disciplinary board	39	57
+3470	olaf	olaf	163	167
+3472	22	22	101	103
+3477	mr van hulten	mr van hulten	108	121
+3482	directorate-general	directorate-general	70	89
+3483	organisation	organisation	55	67
+3484	100	100	130	133
+3487	olaf	olaf	348	352
+3488	mr van hulten	mr van hulten	26	39
+3490	announcements	announcements	137	150
+3491	emphasise	emphasise	11	20
+3492	congratulations	congratulations	58	73
+3492	mr van hulten	mr van hulten	91	104
+3497	80	80	123	125
+3499	ex ante	ex ante	35	42
+3505	congratulations	congratulations	28	43
+3505	michiel van hulten	michiel van hulten	47	65
+3506	netherlands	netherlands	53	64
+3507	mr van hulten	mr van hulten	0	13
+3508	eldr	eldr	88	92
+3510	igc	igc	34	37
+3512	eldr	eldr	63	67
+3512	mr mulder	mr mulder	48	57
+3515	europe	europe	96	102
+3516	mr van hulten	mr van hulten	42	55
+3521	14	14	178	180
+3521	14 september	14 september	178	190
+3521	february	february	254	262
+3521	mr prodi	mr prodi	144	152
+3521	prodi	prodi	147	152
+3521	september	september	181	190
+3524	mr prodi	mr prodi	0	8
+3524	prodi	prodi	3	8
+3530	kinnock	kinnock	50	57
+3530	mr kinnock	mr kinnock	47	57
+3531	euro	euro	39	43
+3532	commissioner	commissioner	11	23
+3532	mr prodi	mr prodi	32	40
+3532	prodi	prodi	35	40
+3542	kinnock	kinnock	40	47
+3542	mr kinnock	mr kinnock	37	47
+3547	directorates-general	directorates-general	121	141
+3549	decentralisation	decentralisation	104	120
+3550	directorates-general	directorates-general	114	134
+3551	directorate-general	directorate-general	125	144
+3551	learnt	learnt	15	21
+3551	leonardo	leonardo	64	72
+3556	mrs	mrs	0	3
+3556	mrs theato	mrs theato	0	10
+3556	theato	theato	4	10
+3560	mr van hulten	mr van hulten	12	25
+3564	commissioner	commissioner	34	46
+3565	prodi	prodi	7	12
+3565	romano prodi	romano prodi	0	12
+3574	mr van hulten	mr van hulten	30	43
+3586	gdp	gdp	28	31
+3587	80	80	172	174
+3597	20	20	21	23
+3602	dutch-british-scandinavian debate	dutch-british-scandinavian debate	113	146
+3606	mr blak	mr blak	3	10
+3611	eu	eu	65	67
+3613	eu	eu	110	112
+3619	olaf	olaf	39	43
+3621	internet	internet	175	183
+3622	rapporteur	rapporteur	61	71
+3623	mr van den berg	mr van den berg	59	74
+3626	100	100	92	95
+3626	rapporteurs	rapporteurs	35	46
+3627	100	100	127	130
+3628	mr pomés	mr pomés	82	90
+3628	mr pomés ruiz	mr pomés ruiz	82	95
+3628	ruiz	ruiz	91	95
+3629	rapporteur	rapporteur	83	93
+3631	morgan	morgan	111	117
+3631	mrs	mrs	107	110
+3631	mrs morgan	mrs morgan	107	117
+3633	morgan	morgan	103	109
+3633	mrs	mrs	99	102
+3633	mrs morgan	mrs morgan	99	109
+3633	rapporteur	rapporteur	65	75
+3634	kinnock	kinnock	44	51
+3634	mr kinnock	mr kinnock	41	51
+3638	mr haarder	mr haarder	34	44
+3642	taos	taos	43	47
+3644	mr van hulten	mr van hulten	14	27
+3646	accuracy	accuracy	78	86
+3648	ad infinitum	ad infinitum	285	297
+3648	mr casaca	mr casaca	106	115
+3654	16	16	161	163
+3658	accuracy	accuracy	151	159
+3659	commissioner	commissioner	69	81
+3659	commissioner kinnock	commissioner kinnock	69	89
+3659	kinnock	kinnock	82	89
+3662	kinnock	kinnock	107	114
+3662	prodi	prodi	97	102
+3667	eu	eu	32	34
+3668	eu	eu	75	77
+3672	kinnock	kinnock	12	19
+3672	mr kinnock	mr kinnock	9	19
+3672	tuesday	tuesday	89	96
+3673	kinnock	kinnock	14	21
+3673	mr kinnock	mr kinnock	11	21
+3674	langenhagen	langenhagen	71	82
+3674	mrs	mrs	67	70
+3677	mr van hulten	mr van hulten	114	127
+3680	mr van hulten	mr van hulten	32	45
+3682	september	september	78	87
+3684	mr pomes	mr pomes	15	23
+3684	mr pomes ruiz	mr pomes ruiz	15	28
+3684	ruiz	ruiz	24	28
+3685	mr staes	mr staes	137	145
+3685	mr van hulten	mr van hulten	77	90
+3688	mr elles	mr elles	15	23
+3692	observations	observations	67	79
+3693	demystify	demystify	172	181
+3696	25	25	77	79
+3696	30	30	83	85
+3696	commissioner	commissioner	56	68
+3702	april	april	160	165
+3704	mrs	mrs	30	33
+3704	mrs theato	mrs theato	30	40
+3704	theato	theato	34	40
+3707	directors-general	directors-general	283	300
+3708	herr bösch	herr bösch	216	226
+3711	mrs	mrs	113	116
+3711	mrs schreyer	mrs schreyer	113	125
+3711	schreyer	schreyer	117	125
+3712	commissioner	commissioner	11	23
+3714	emphasise	emphasise	10	19
+3717	ex ante	ex ante	21	28
+3718	10	10	39	41
+3719	ex ante	ex ante	72	79
+3721	10	10	45	47
+3724	priori	priori	60	66
+3725	directorates-general	directorates-general	196	216
+3725	inspectorate general	inspectorate general	147	167
+3726	ex ante	ex ante	16	23
+3728	10	10	25	27
+3731	rapporteur	rapporteur	60	70
+3733	september	september	37	46
+3734	june	june	6	10
+3734	olaf	olaf	29	33
+3744	disciplinary board	disciplinary board	63	81
+3744	interinstitutional disciplinary board	interinstitutional disciplinary board	44	81
+3745	june	june	19	23
+3748	june	june	53	57
+3751	50	50	144	146
+3751	mr van hulten	mr van hulten	150	163
+3753	de palacio	de palacio	35	45
+3753	palacio	palacio	38	45
+3753	prodi	prodi	10	15
+3755	mr elles	mr elles	38	46
+3755	mrs	mrs	66	69
+3755	mrs thors	mrs thors	66	75
+3755	thors	thors	70	75
+3756	december	december	37	45
+3756	mid-december	mid-december	33	45
+3759	emphasises	emphasises	19	29
+3760	mr haarder	mr haarder	38	48
+3760	mr van hulten	mr van hulten	20	33
+3770	15	15	37	39
+3772	modernisation	modernisation	69	82
+3779	priority-setting	priority-setting	99	115
+3780	emphasise	emphasise	10	19
+3780	priority-setting	priority-setting	65	81
+3781	15	15	44	46
+3781	mr van hulten	mr van hulten	50	63
+3782	rapporteur	rapporteur	146	156
+3783	finalisation	finalisation	58	70
+3785	12	12	37	39
+3785	p.m	p.m	40	43
+3786	15	15	30	32
+3786	p.m	p.m	33	36
+3790	maroon	maroon	261	267
+3790	monday	monday	87	93
+3790	munich	munich	274	280
+3790	thessaloniki	thessaloniki	317	329
+3793	balkans	balkans	96	103
+3796	relaunched	relaunched	72	82
+3798	israel	israel	178	184
+3800	palestinians	palestinians	21	33
+3802	el	el	83	85
+3802	israelis	israelis	0	8
+3802	palestinians	palestinians	13	25
+3802	sharm el-sheikh	sharm el-sheikh	77	92
+3802	sharm el-sheikh memorandum	sharm el-sheikh memorandum	77	103
+3803	materialise	materialise	99	110
+3804	february	february	157	165
+3804	september	september	222	231
+3805	arafat	arafat	82	88
+3805	barak	barak	62	67
+3805	monday	monday	107	113
+3807	co-sponsors	co-sponsors	124	135
+3809	moscow	moscow	106	112
+3809	syria	syria	32	37
+3811	israelis	israelis	100	108
+3811	palestinians	palestinians	86	98
+3818	palestinians	palestinians	40	52
+3819	egypt	egypt	76	81
+3819	jordan	jordan	49	55
+3819	lebanon	lebanon	57	64
+3819	syria	syria	66	71
+3820	israelis	israelis	9	17
+3821	1994	1994	79	83
+3821	1998	1998	88	92
+3821	eur	eur	35	38
+3821	gaza	gaza	265	269
+3822	eur	eur	58	61
+3824	arafat	arafat	10	16
+3827	arabs	arabs	110	115
+3827	israelis	israelis	97	105
+3828	20	20	27	29
+3828	eur	eur	23	26
+3829	arabs	arabs	121	126
+3829	israelis	israelis	108	116
+3831	demining	demining	256	264
+3831	golan	golan	169	174
+3831	golan heights	golan heights	306	319
+3833	lebanon	lebanon	46	53
+3834	lebanon	lebanon	83	90
+3835	5	5	129	130
+3843	mr gama	mr gama	53	60
+3844	disappointments	disappointments	71	86
+3846	balkans	balkans	305	312
+3848	commissioner	commissioner	14	26
+3848	commissioner patten	commissioner patten	14	33
+3848	patten	patten	27	33
+3849	madrid	madrid	50	56
+3853	commissioner	commissioner	23	35
+3853	commissioner patten	commissioner patten	23	42
+3853	patten	patten	36	42
+3855	39	39	85	87
+3855	el	el	63	65
+3855	gaza	gaza	215	219
+3855	gaza strip	gaza strip	215	225
+3855	sharm el-sheikh	sharm el-sheikh	57	72
+3856	barak	barak	97	102
+3857	3 january	3 january	207	216
+3857	january	january	209	216
+3857	shepherdstown	shepherdstown	81	94
+3864	commissioner	commissioner	30	42
+3864	commissioner patten	commissioner patten	30	49
+3864	patten	patten	43	49
+3865	galeote quecedo	galeote quecedo	54	69
+3869	emphasise	emphasise	10	19
+3870	el	el	24	26
+3870	hebron	hebron	197	203
+3870	israel	israel	120	126
+3870	sharm el-sheikh	sharm el-sheikh	18	33
+3872	jeopardise	jeopardise	63	73
+3873	gaza	gaza	103	107
+3874	syria	syria	28	33
+3879	golan	golan	30	35
+3879	golan heights	golan heights	30	43
+3879	israel	israel	87	93
+3880	lebanon	lebanon	126	133
+3880	syria	syria	46	51
+3881	israel	israel	55	61
+3881	unifil	unifil	13	19
+3884	israel	israel	67	73
+3885	barak	barak	4	9
+3886	september	september	42	51
+3887	commissioner	commissioner	122	134
+3887	commissioner patten	commissioner patten	122	141
+3887	patten	patten	135	141
+3890	israel	israel	106	112
+3890	syria	syria	117	122
+3894	syria	syria	139	144
+3896	israel	israel	62	68
+3896	lebanon	lebanon	108	115
+3896	syria	syria	43	48
+3899	mr solana	mr solana	14	23
+3902	recognises	recognises	69	79
+3903	palestinians	palestinians	104	116
+3905	israel	israel	121	127
+3905	palestine	palestine	132	141
+3905	syria	syria	165	170
+3907	israel	israel	3	9
+3907	un	un	38	40
+3908	israel	israel	5	11
+3909	israel	israel	5	11
+3909	jerusalem	jerusalem	18	27
+3909	jordan	jordan	55	61
+3910	palestine	palestine	12	21
+3911	israel	israel	24	30
+3911	syria	syria	5	10
+3912	israel	israel	93	99
+3914	eu	eu	30	32
+3915	hitler	hitler	135	141
+3915	jews	jews	166	170
+3915	sweden	sweden	73	79
+3916	47	47	3	5
+3916	eu	eu	111	113
+3917	anti-semitism	anti-semitism	141	154
+3917	europeans	europeans	100	109
+3917	israel	israel	71	77
+3918	algeria	algeria	111	118
+3918	france	france	148	154
+3918	israel	israel	31	37
+3919	egypt	egypt	11	16
+3919	israel	israel	64	70
+3919	jordan	jordan	18	24
+3919	palestine	palestine	29	38
+3920	commissioner	commissioner	27	39
+3920	commissioner patten	commissioner patten	27	46
+3920	patten	patten	40	46
+3920	stockholm	stockholm	187	196
+3921	commissioner	commissioner	36	48
+3921	commissioner patten	commissioner patten	36	55
+3921	patten	patten	49	55
+3923	1917	1917	70	74
+3923	1948	1948	103	107
+3923	israel	israel	291	297
+3923	palestine	palestine	280	289
+3923	syria	syria	273	278
+3924	recognise	recognise	214	223
+3925	1982	1982	178	182
+3925	golan	golan	131	136
+3925	israel	israel	37	43
+3925	lebanon	lebanon	164	171
+3925	palestine	palestine	27	36
+3926	israel	israel	0	6
+3927	israel	israel	9	15
+3928	174 000	174 000	313	320
+3928	8	8	354	355
+3928	8 462	8 462	354	359
+3928	barak	barak	394	399
+3928	dunams	dunams	321	327
+3928	mr barak	mr barak	391	399
+3928	october	october	299	306
+3928	october 1999	october 1999	299	311
+3928	oslo	oslo	196	200
+3928	palestinians	palestinians	58	70
+3929	jerusalem	jerusalem	140	149
+3930	palestinians	palestinians	220	232
+3931	194	194	85	88
+3931	245	245	77	80
+3931	248	248	72	75
+3931	332	332	67	70
+3932	barak	barak	89	94
+3932	el	el	168	170
+3932	mr barak	mr barak	86	94
+3932	syria	syria	68	73
+3934	protagonists	protagonists	63	75
+3935	commissioner	commissioner	52	64
+3935	commissioner patten	commissioner patten	52	71
+3935	patten	patten	65	71
+3936	israel	israel	77	83
+3936	syria	syria	88	93
+3939	america	america	120	127
+3941	israel	israel	58	64
+3941	syria	syria	48	53
+3942	golan	golan	20	25
+3942	golan heights	golan heights	20	33
+3943	israel	israel	125	131
+3943	syria	syria	3	8
+3944	palestine	palestine	16	25
+3944	recognise	recognise	29	38
+3947	palestinians	palestinians	85	97
+3949	egypt	egypt	200	205
+3950	protagonists	protagonists	137	149
+3952	israel	israel	60	66
+3952	syria	syria	71	76
+3954	arafat	arafat	289	295
+3954	israel	israel	22	28
+3954	palestine	palestine	170	179
+3954	recognising	recognising	124	135
+3954	yasser arafat	yasser arafat	282	295
+3956	israel	israel	29	35
+3956	syria	syria	19	24
+3957	16	16	233	235
+3957	israel	israel	110	116
+3957	syria	syria	100	105
+3958	1923	1923	448	452
+3958	4	4	314	315
+3958	4 june 1967	4 june 1967	314	325
+3958	golan	golan	250	255
+3958	golan heights	golan heights	250	263
+3958	israelis	israelis	337	345
+3958	june	june	316	320
+3958	syrians	syrians	189	196
+3959	israel	israel	46	52
+3959	syria	syria	36	41
+3960	israel	israel	83	89
+3961	13	13	205	207
+3961	13 february	13 february	205	216
+3961	february	february	208	216
+3961	gaza	gaza	323	327
+3961	gaza strip	gaza strip	323	333
+3965	100	100	205	208
+3965	60	60	259	261
+3966	moscow	moscow	56	62
+3967	portuguese	portuguese	30	40
+3969	commissioner	commissioner	53	65
+3969	commissioner patten	commissioner patten	53	72
+3969	mr president-in-office	mr president-in-office	14	36
+3969	patten	patten	66	72
+3969	president-in-office	president-in-office	17	36
+3970	commissioner	commissioner	48	60
+3970	commissioner patten	commissioner patten	48	67
+3970	patten	patten	61	67
+3971	israel	israel	59	65
+3972	el	el	63	65
+3972	oslo	oslo	35	39
+3972	sharm el-sheikh	sharm el-sheikh	57	72
+3972	wye plantation	wye plantation	41	55
+3974	el	el	147	149
+3974	israel	israel	107	113
+3974	sharm el-sheikh	sharm el-sheikh	141	156
+3974	sharm el-sheikh memorandum	sharm el-sheikh memorandum	141	167
+3974	timeframe	timeframe	205	214
+3975	israel	israel	74	80
+3975	syria	syria	64	69
+3977	barak	barak	43	48
+3977	mr barak	mr barak	40	48
+3977	washington	washington	75	85
+3978	golan	golan	45	50
+3978	golan heights	golan heights	45	58
+3978	syria	syria	75	80
+3980	germany	germany	3	10
+3983	commissioner	commissioner	157	169
+3983	commissioner patten	commissioner patten	157	176
+3983	mr moratinos	mr moratinos	56	68
+3983	patten	patten	170	176
+3985	eu	eu	157	159
+3985	mr moratinos	mr moratinos	43	55
+3985	protagonists	protagonists	295	307
+3985	russians	russians	267	275
+3987	commissioner	commissioner	14	26
+3987	commissioner patten	commissioner patten	14	33
+3987	israel	israel	83	89
+3987	patten	patten	27	33
+3987	syria	syria	94	99
+3987	usa	usa	71	74
+3988	mr patten	mr patten	69	78
+3988	patten	patten	72	78
+3988	shepherdstown	shepherdstown	34	47
+3990	520	520	120	123
+3990	lebanon	lebanon	82	89
+3991	barak	barak	98	103
+3991	ehud barak	ehud barak	93	103
+3991	july	july	61	65
+3991	july 2000	july 2000	61	70
+3991	lebanon	lebanon	50	57
+3992	israel	israel	48	54
+3995	europe	europe	96	102
+3996	hadera	hadera	24	30
+3996	monday	monday	34	40
+3997	europe	europe	91	97
+3998	europe	europe	80	86
+3998	midday	midday	3	9
+3998	mr gama	mr gama	11	18
+3999	recognise	recognise	43	52
+3999	washington	washington	124	134
+4000	americans	americans	61	70
+4000	syrians	syrians	43	50
+4001	europe	europe	46	52
+4001	israel	israel	33	39
+4002	europe	europe	134	140
+4002	mr moratinos	mr moratinos	69	81
+4002	mr patten	mr patten	44	53
+4002	mr solana	mr solana	55	64
+4002	patten	patten	47	53
+4003	europe	europe	29	35
+4004	39	39	255	257
+4004	99	99	51	53
+4004	b5-0040	b5-0040	43	50
+4004	b5-0041	b5-0041	75	82
+4004	teu	teu	265	268
+4005	amsterdam	amsterdam	73	82
+4005	communitisation	communitisation	91	106
+4005	schengen	schengen	114	122
+4005	tampere	tampere	158	165
+4007	13	13	127	129
+4010	commissioner	commissioner	46	58
+4010	mr antonio vitorino	mr antonio vitorino	60	79
+4012	amsterdam	amsterdam	131	140
+4017	portuguese	portuguese	95	105
+4020	schengen	schengen	149	157
+4021	acquis	acquis	61	67
+4021	schengen	schengen	0	8
+4022	greece	greece	194	200
+4022	iceland	iceland	242	249
+4022	norway	norway	231	237
+4032	tampere	tampere	292	299
+4033	commissioner	commissioner	17	29
+4034	1986	1986	64	68
+4034	europe	europe	433	439
+4034	mr president-in-office	mr president-in-office	171	193
+4034	portugal	portugal	118	126
+4034	portuguese	portuguese	23	33
+4034	president-in-office	president-in-office	174	193
+4036	portuguese	portuguese	37	47
+4037	brussels	brussels	202	210
+4037	portuguese	portuguese	54	64
+4037	vice-presidents	vice-presidents	107	122
+4038	lisbon	lisbon	111	117
+4038	mr watson	mr watson	55	64
+4038	portuguese	portuguese	171	181
+4041	brussels	brussels	134	142
+4043	mrs	mrs	212	215
+4043	mrs terrón i	mrs terrón i	212	224
+4043	terrón i	terrón i	216	224
+4045	amsterdam	amsterdam	118	127
+4045	schengen	schengen	176	184
+4046	amsterdam	amsterdam	122	131
+4046	maastricht	maastricht	97	107
+4047	1 july 1999	1 july 1999	91	102
+4047	europol	europol	32	39
+4047	july	july	93	97
+4047	july 1999	july 1999	93	102
+4048	tampere	tampere	42	49
+4049	agenda	agenda	146	152
+4049	tampere	tampere	4	11
+4050	agenda	agenda	198	204
+4050	portuguese	portuguese	19	29
+4051	mrs	mrs	26	29
+4051	mrs terrón i	mrs terrón i	26	38
+4051	terrón i	terrón i	30	38
+4052	acquis	acquis	26	32
+4052	denmark	denmark	182	189
+4052	finland	finland	191	198
+4052	iceland	iceland	223	230
+4052	norway	norway	235	241
+4052	schengen	schengen	17	25
+4052	schengen acquis	schengen acquis	17	32
+4052	sweden	sweden	203	209
+4053	acquis	acquis	106	112
+4053	schengen	schengen	97	105
+4053	schengen acquis	schengen acquis	97	112
+4053	secretary-general	secretary-general	4	21
+4053	translations	translations	171	183
+4054	translations	translations	77	89
+4055	ceecs	ceecs	115	120
+4056	1998	1998	9	13
+4056	odysseus programme	odysseus programme	39	57
+4058	12	12	102	104
+4058	1998	1998	33	37
+4058	2002	2002	41	45
+4058	eur	eur	98	101
+4060	eur	eur	45	48
+4061	5	5	95	96
+4061	7	7	93	94
+4061	80	80	50	52
+4061	eur	eur	89	92
+4061	totalling eur	totalling eur	79	92
+4062	12	12	58	60
+4062	35	35	36	38
+4062	50	50	74	76
+4062	50 000	50 000	74	80
+4062	eur	eur	70	73
+4063	oisin programme	oisin programme	19	34
+4064	62	62	3	5
+4065	schengen	schengen	20	28
+4065	sis	sis	11	14
+4068	mrs	mrs	0	3
+4068	mrs terrón i	mrs terrón i	0	12
+4068	terrón i	terrón i	4	12
+4071	commissioner	commissioner	266	278
+4071	commissioner vitorino	commissioner vitorino	266	287
+4071	portuguese	portuguese	335	345
+4073	commissioner	commissioner	14	26
+4074	amsterdam	amsterdam	190	199
+4074	mrs	mrs	3	6
+4074	mrs terrón i	mrs terrón i	3	15
+4074	tampere	tampere	253	260
+4074	terrón i	terrón i	7	15
+4075	4	4	346	347
+4075	commissioner	commissioner	125	137
+4075	commissioner vitorino	commissioner vitorino	125	146
+4075	lisbon	lisbon	330	336
+4075	portuguese	portuguese	207	217
+4076	europol	europol	248	255
+4076	mrs	mrs	39	42
+4076	mrs terrón i	mrs terrón i	39	51
+4076	terrón i	terrón i	43	51
+4077	vienna	vienna	123	129
+4078	ecofin	ecofin	540	546
+4078	emphasise	emphasise	391	400
+4078	eu	eu	109	111
+4078	organising	organising	517	527
+4079	portuguese	portuguese	130	140
+4081	moscow	moscow	370	376
+4081	organise	organise	304	312
+4082	eu	eu	16	18
+4082	europe	europe	202	208
+4086	euro	euro	98	102
+4087	euro	euro	43	47
+4087	france	france	302	308
+4089	europol	europol	13	20
+4089	tampere	tampere	386	393
+4090	europol	europol	188	195
+4091	eurojust	eurojust	79	87
+4091	europol	europol	166	173
+4091	portuguese	portuguese	4	14
+4092	eurojust	eurojust	90	98
+4092	europol	europol	78	85
+4093	eurojust	eurojust	151	159
+4093	europol	europol	139	146
+4095	europol	europol	153	160
+4096	40	40	50	52
+4097	commissioner	commissioner	0	12
+4097	commissioner vitorino	commissioner vitorino	0	21
+4098	mr schulz	mr schulz	14	23
+4099	portuguese	portuguese	136	146
+4100	ppe	ppe	68	71
+4102	eurodac	eurodac	53	60
+4103	tampere	tampere	85	92
+4103	vienna	vienna	74	80
+4106	agenda	agenda	64	70
+4107	eurojust	eurojust	100	108
+4107	europe	europe	32	38
+4107	europol	europol	88	95
+4108	eurojust	eurojust	28	36
+4108	tampere	tampere	78	85
+4109	europol	europol	25	32
+4110	europol	europol	148	155
+4110	tampere	tampere	180	187
+4111	europol	europol	64	71
+4112	15	15	135	137
+4112	europol	europol	13	20
+4113	europol	europol	120	127
+4114	tampere	tampere	92	99
+4116	europe	europe	196	202
+4117	codecision	codecision	54	64
+4118	europe	europe	69	75
+4125	berlin	berlin	271	277
+4125	brussels	brussels	291	299
+4125	communitising	communitising	177	190
+4125	lisbon	lisbon	263	269
+4125	paris	paris	281	286
+4126	recognise	recognise	122	131
+4127	communitisation	communitisation	81	96
+4127	organisational communitisation	organisational communitisation	66	96
+4128	realise	realise	87	94
+4128	recognise	recognise	61	70
+4135	commissioner	commissioner	75	87
+4135	commissioner vitorino	commissioner vitorino	75	96
+4135	mr costa	mr costa	65	73
+4135	mr gomes	mr gomes	55	63
+4141	vitorino plan	vitorino plan	5	18
+4142	mr vitorino	mr vitorino	0	11
+4144	portuguese	portuguese	35	45
+4145	commissioner	commissioner	25	37
+4145	commissioner patten	commissioner patten	25	44
+4145	patten	patten	38	44
+4146	kosovo	kosovo	71	77
+4149	geneva	geneva	103	109
+4153	eurosceptics	eurosceptics	86	98
+4154	france	france	100	106
+4154	isabel peake	isabel peake	135	147
+4154	lisbon	lisbon	291	297
+4154	madrid	madrid	240	246
+4155	eurosceptics	eurosceptics	13	25
+4156	codecision	codecision	104	114
+4156	igc	igc	72	75
+4157	portuguese	portuguese	74	84
+4159	europe	europe	68	74
+4159	tampere	tampere	4	11
+4161	tampere	tampere	6	13
+4166	europol	europol	4	11
+4167	tampere	tampere	3	10
+4169	eurodac	eurodac	53	60
+4171	modus operandi	modus operandi	74	88
+4173	europe	europe	0	6
+4174	europe	europe	39	45
+4176	commissioner	commissioner	14	26
+4176	europe	europe	255	261
+4176	mrs	mrs	56	59
+4176	mrs terrón i	mrs terrón i	56	68
+4176	terrón i	terrón i	60	68
+4177	portuguese	portuguese	19	29
+4181	europe	europe	4	10
+4184	asylum-seekers	asylum-seekers	76	90
+4184	criminalisation	criminalisation	57	72
+4185	asylum-seekers	asylum-seekers	4	18
+4186	conakry	conakry	172	179
+4189	portuguese	portuguese	4	14
+4193	realise	realise	35	42
+4193	tampere	tampere	81	88
+4194	europe	europe	69	75
+4195	13	13	48	50
+4195	ec	ec	58	60
+4196	homophobia	homophobia	108	118
+4198	europe	europe	261	267
+4199	regularisation	regularisation	4	18
+4201	synonym	synonym	27	34
+4202	asylum-seekers	asylum-seekers	329	343
+4206	celtic	celtic	113	119
+4206	ireland	ireland	0	7
+4207	ireland	ireland	10	17
+4210	ireland	ireland	127	134
+4212	mr schulz	mr schulz	43	52
+4212	mr von boetticher	mr von boetticher	21	38
+4213	codecision	codecision	283	293
+4215	afsj	afsj	29	33
+4215	eu	eu	16	18
+4218	eu	eu	51	53
+4220	eu	eu	43	45
+4222	agenda	agenda	4	10
+4224	agenda	agenda	4	10
+4224	eu	eu	128	130
+4226	eurodac	eurodac	80	87
+4226	schengen	schengen	70	78
+4228	eu	eu	29	31
+4232	eu	eu	15	17
+4234	ireland	ireland	43	50
+4235	commissioner	commissioner	7	19
+4235	commissioner patten	commissioner patten	7	26
+4235	ireland	ireland	286	293
+4235	patten	patten	20	26
+4238	1998	1998	3	7
+4238	55	55	16	18
+4239	300	300	92	95
+4239	7	7	16	17
+4240	123	123	52	55
+4240	1998	1998	8	12
+4241	193	193	51	54
+4241	97	97	97	99
+4242	january	january	6	13
+4242	january 2000	january 2000	6	18
+4244	amsterdam	amsterdam	28	37
+4245	meps	meps	25	29
+4246	tampere	tampere	4	11
+4247	commissioner	commissioner	261	273
+4249	belgium	belgium	63	70
+4249	communitisation	communitisation	124	139
+4249	spain	spain	49	54
+4252	mediterranean	mediterranean	109	122
+4253	europe	europe	75	81
+4254	euro	euro	4	8
+4256	mr vitorino	mr vitorino	115	126
+4256	portuguese	portuguese	90	100
+4257	mr ceyhun	mr ceyhun	49	58
+4260	europe	europe	60	66
+4262	amsterdam	amsterdam	4	13
+4262	tampere	tampere	29	36
+4264	europe	europe	273	279
+4264	portuguese	portuguese	59	69
+4264	portuguese programme	portuguese programme	59	79
+4269	eurodac	eurodac	114	121
+4271	mr schulz	mr schulz	0	9
+4274	commissioner	commissioner	15	27
+4274	commissioner vitorino	commissioner vitorino	15	36
+4276	lisbon	lisbon	177	183
+4276	mr costa	mr costa	107	115
+4276	president-in-office	president-in-office	42	61
+4277	amsterdam	amsterdam	0	9
+4277	mrs	mrs	99	102
+4277	tampere	tampere	14	21
+4280	amsterdam	amsterdam	30	39
+4280	organisations	organisations	66	79
+4286	70	70	63	65
+4286	directorate-general	directorate-general	26	45
+4290	agenda	agenda	146	152
+4293	commissioner	commissioner	116	128
+4293	commissioner vitorino	commissioner vitorino	116	137
+4295	communitisation	communitisation	58	73
+4296	belgium	belgium	27	34
+4301	non-refoulement	non-refoulement	58	73
+4305	commissioner	commissioner	112	124
+4308	portuguese	portuguese	14	24
+4309	normalisation	normalisation	564	577
+4310	belgium	belgium	161	168
+4311	schengen	schengen	68	76
+4312	commissioner	commissioner	52	64
+4312	commissioner vitorino	commissioner vitorino	52	73
+4312	december	december	80	88
+4313	226	226	241	244
+4313	penalise	penalise	145	153
+4313	schengen	schengen	176	184
+4314	portugal	portugal	38	46
+4316	eurodac	eurodac	11	18
+4317	december	december	93	101
+4317	eurodac	eurodac	107	114
+4319	eurodac	eurodac	28	35
+4320	december	december	153	161
+4320	eurodac	eurodac	45	52
+4320	gibraltar	gibraltar	403	412
+4320	tampere	tampere	8	15
+4322	eurodac	eurodac	82	89
+4324	commissioner	commissioner	25	37
+4326	amsterdam	amsterdam	131	140
+4326	schengen	schengen	174	182
+4326	tampere	tampere	360	367
+4329	internet	internet	241	249
+4331	europe	europe	198	204
+4331	recognising	recognising	112	123
+4332	un	un	81	83
+4333	portuguese	portuguese	34	44
+4336	luxembourg	luxembourg	278	288
+4337	dublin	dublin	52	58
+4337	edinburgh	edinburgh	63	72
+4337	karlsruhe	karlsruhe	25	34
+4337	lisbon	lisbon	44	50
+4337	london	london	36	42
+4339	jurisdictions	jurisdictions	49	62
+4342	centralisation	centralisation	116	130
+4342	over-centralisation	over-centralisation	111	130
+4343	portuguese	portuguese	127	137
+4352	europol	europol	119	126
+4352	schengen	schengen	102	110
+4357	b5-0003	b5-0003	32	39
+4359	99	99	25	27
+4359	h-0780	h-0780	18	24
+4360	7	7	125	126
+4360	akkuyu	akkuyu	251	257
+4360	eu	eu	350	352
+4360	turkey	turkey	59	65
+4361	india	india	398	403
+4361	pakistan	pakistan	408	416
+4361	turkey	turkey	0	6
+4362	eu	eu	140	142
+4363	mr souladakis	mr souladakis	170	183
+4363	turkey	turkey	51	57
+4364	october	october	56	63
+4366	acquis	acquis	305	311
+4366	acquis communautaire	acquis communautaire	305	325
+4366	turkey	turkey	95	101
+4368	turkey	turkey	49	55
+4369	india	india	101	106
+4369	pakistan	pakistan	88	96
+4370	caucasus	caucasus	95	103
+4374	priori	priori	64	70
+4375	turkey	turkey	29	35
+4377	mr souladakis	mr souladakis	48	61
+4377	recognise	recognise	2	11
+4379	eu	eu	220	222
+4379	turkey	turkey	80	86
+4380	agenda	agenda	193	199
+4380	turkey	turkey	133	139
+4382	president-in-office	president-in-office	38	57
+4383	president-in-office	president-in-office	14	33
+4386	february	february	64	72
+4388	mr newton dunn	mr newton dunn	0	14
+4390	mr newton dunn	mr newton dunn	30	44
+4391	mr newton dunn	mr newton dunn	20	34
+4392	general secretariat	general secretariat	31	50
+4394	255	255	171	174
+4394	amsterdam	amsterdam	192	201
+4397	255	255	56	59
+4397	eu	eu	177	179
+4398	mr sjöstedt	mr sjöstedt	0	11
+4399	255	255	69	72
+4401	255	255	22	25
+4402	amsterdam	amsterdam	110	119
+4405	frahm	frahm	4	9
+4405	mrs	mrs	0	3
+4405	mrs frahm	mrs frahm	0	9
+4411	europe	europe	93	99
+4414	jonas sjöstedt	jonas sjöstedt	45	59
+4415	sweden	sweden	39	45
+4416	amsterdam	amsterdam	117	126
+4416	eu	eu	36	38
+4417	lööw	lööw	57	61
+4417	mrs	mrs	53	56
+4417	mrs lööw	mrs lööw	53	61
+4421	da	da	44	46
+4421	mr seixas da costa	mr seixas da costa	34	52
+4422	agenda	agenda	234	240
+4422	da	da	46	48
+4422	igc	igc	131	134
+4422	mr seixas da costa	mr seixas da costa	36	54
+4422	portuguese	portuguese	148	158
+4423	lobby	lobby	154	159
+4424	agenda	agenda	38	44
+4425	mr dimitrakopoulos	mr dimitrakopoulos	0	18
+4428	agenda	agenda	76	82
+4428	fixture	fixture	52	59
+4429	portuguese	portuguese	49	59
+4431	amsterdam	amsterdam	74	83
+4432	agenda	agenda	85	91
+4435	5	5	12	13
+4435	99	99	25	27
+4435	h-0785	h-0785	18	24
+4437	5000	5000	173	177
+4437	france	france	165	171
+4437	metric tonnes	metric tonnes	178	191
+4437	portuguese	portuguese	99	109
+4438	33	33	131	133
+4438	33 000	33 000	131	137
+4438	metric tonnes	metric tonnes	138	151
+4438	tac	tac	124	127
+4440	portugal	portugal	167	175
+4440	portuguese	portuguese	18	28
+4441	biscay	biscay	75	81
+4441	mr ortuondo larrea	mr ortuondo larrea	91	109
+4442	000 tonnes	000 tonnes	253	263
+4442	16	16	61	63
+4442	5	5	251	252
+4442	5 000	5 000	251	256
+4442	december	december	71	79
+4442	france	france	140	146
+4442	portugal	portugal	158	166
+4442	spain	spain	148	153
+4442	tac	tac	234	237
+4443	000 tonnes	000 tonnes	292	302
+4443	16	16	289	291
+4443	16 000	16 000	289	295
+4443	33	33	318	320
+4443	33 000	33 000	318	324
+4443	tac	tac	257	260
+4445	000 tonnes	000 tonnes	79	89
+4445	10	10	76	78
+4445	10 000	10 000	76	82
+4445	13	13	126	128
+4445	13 000	13 000	126	132
+4445	tac	tac	59	62
+4446	000 tonnes	000 tonnes	111	121
+4446	3 000	3 000	109	114
+4446	5	5	85	86
+4446	5 008	5 008	85	90
+4446	france	france	45	51
+4446	portugal	portugal	32	40
+4448	10	10	134	136
+4448	90	90	56	58
+4448	biscay	biscay	95	101
+4448	france	france	141	147
+4448	spain	spain	119	124
+4449	biscay	biscay	70	76
+4449	biscay tac	biscay tac	70	80
+4449	france	france	154	160
+4449	portuguese	portuguese	27	37
+4449	tac	tac	77	80
+4450	portugal	portugal	53	61
+4451	mr ortuondo larrea	mr ortuondo larrea	105	123
+4452	mr president-in-office	mr president-in-office	0	22
+4452	president-in-office	president-in-office	3	22
+4453	portugal	portugal	18	26
+4454	80	80	65	67
+4454	biscay	biscay	266	272
+4454	france	france	223	229
+4454	portugal	portugal	208	216
+4454	portuguese	portuguese	131	141
+4455	biscay	biscay	250	256
+4455	france	france	106	112
+4455	portugal	portugal	93	101
+4455	portuguese	portuguese	201	211
+4456	biscay	biscay	73	79
+4457	iberian peninsular	iberian peninsular	227	245
+4458	5	5	66	67
+4458	5 october 1999	5 october 1999	66	80
+4458	60	60	231	233
+4458	mr ortuondo larrea	mr ortuondo larrea	21	39
+4458	october	october	68	75
+4458	october 1999	october 1999	68	80
+4459	10	10	185	187
+4459	90	90	164	166
+4459	france	france	172	178
+4459	spain	spain	122	127
+4460	france	france	113	119
+4460	mr ortuondo larrea	mr ortuondo larrea	17	35
+4460	portugal	portugal	100	108
+4460	spain	spain	388	393
+4461	biscay	biscay	188	194
+4461	france	france	130	136
+4461	mr ortuondo larrea	mr ortuondo larrea	13	31
+4463	000 tonnes	000 tonnes	21	31
+4463	3 000	3 000	19	24
+4463	5	5	45	46
+4463	5 008	5 008	101	106
+4463	73	73	117	119
+4463	portugal	portugal	51	59
+4464	80	80	151	153
+4464	95	95	191	193
+4465	6	6	12	13
+4465	99	99	25	27
+4465	h-0788	h-0788	18	24
+4466	2 december 1999	2 december 1999	95	110
+4466	december	december	97	105
+4466	december 1999	december 1999	97	110
+4466	kosovo	kosovo	85	91
+4466	nato	nato	112	116
+4466	romanies	romanies	73	81
+4466	serbs	serbs	63	68
+4467	1244	1244	257	261
+4467	albanians	albanians	216	225
+4467	kosovo	kosovo	209	215
+4467	kosovo albanians	kosovo albanians	209	225
+4467	romanies	romanies	79	87
+4467	serb	serb	161	165
+4467	serbs	serbs	69	74
+4467	un	un	243	245
+4468	albanians	albanians	62	71
+4469	kosovo	kosovo	93	99
+4471	mr alavanos	mr alavanos	0	11
+4472	kosovo	kosovo	81	87
+4472	romany	romany	133	139
+4472	serb	serb	124	128
+4474	12	12	120	122
+4474	99	99	123	125
+4474	bernard kouchner	bernard kouchner	157	173
+4474	december	december	51	59
+4475	albanians	albanians	65	74
+4475	kosovo	kosovo	58	64
+4475	kosovo albanians	kosovo albanians	58	74
+4475	portuguese	portuguese	103	113
+4475	romany	romany	199	205
+4475	serb	serb	178	182
+4479	kosovo	kosovo	107	113
+4480	kfor	kfor	0	4
+4480	maltreatment	maltreatment	92	104
+4481	december	december	57	65
+4482	kosovo	kosovo	153	159
+4482	mr alavanos	mr alavanos	14	25
+4482	organisations	organisations	136	149
+4483	albanians	albanians	163	172
+4483	organisations	organisations	136	149
+4484	mr president-in-office	mr president-in-office	22	44
+4484	president-in-office	president-in-office	25	44
+4485	balkans	balkans	182	189
+4485	mr soares	mr soares	72	81
+4485	portugal	portugal	40	48
+4488	kosovo	kosovo	111	117
+4488	romany	romany	67	73
+4488	serb	serb	61	65
+4489	kosovo	kosovo	53	59
+4489	mr kouchner	mr kouchner	26	37
+4491	kosovo	kosovo	198	204
+4491	mr kouchner	mr kouchner	133	144
+4492	kosovo	kosovo	202	208
+4492	mr alavanos	mr alavanos	0	11
+4492	mr kouchner	mr kouchner	77	88
+4494	kosovo	kosovo	100	106
+4494	mr kouchner	mr kouchner	67	78
+4495	mr kouchner	mr kouchner	120	131
+4496	kosovo	kosovo	278	284
+4498	12	12	133	135
+4498	99	99	136	138
+4500	mr president-in-office	mr president-in-office	14	36
+4500	president-in-office	president-in-office	17	36
+4506	mr rübig	mr rübig	0	8
+4507	mr kouchner	mr kouchner	161	172
+4508	europe	europe	44	50
+4508	mr kouchner	mr kouchner	8	19
+4510	appropriations	appropriations	226	240
+4510	kosovo	kosovo	342	348
+4511	12	12	151	153
+4511	99	99	154	156
+4514	mr kouchner	mr kouchner	87	98
+4514	mr rübig	mr rübig	147	155
+4515	portuguese	portuguese	82	92
+4516	da	da	10	12
+4516	mr seixas da costa	mr seixas da costa	0	18
+4517	1244	1244	93	97
+4517	mr kouchner	mr kouchner	19	30
+4518	1244	1244	137	141
+4518	eu	eu	22	24
+4519	mr alavanos	mr alavanos	130	141
+4520	kosovo	kosovo	74	80
+4521	albania	albania	226	233
+4521	general redefinition	general redefinition	40	60
+4521	kosovo	kosovo	215	221
+4521	micro-states	micro-states	126	138
+4521	multiplication	multiplication	108	122
+4522	7	7	45	46
+4523	8	8	12	13
+4523	99	99	25	27
+4523	h-0796	h-0796	18	24
+4524	annex	annex	47	52
+4524	interreg	interreg	13	21
+4525	interreg	interreg	353	361
+4526	mr gallagher	mr gallagher	135	147
+4526	portuguese	portuguese	44	54
+4527	agenda	agenda	244	250
+4528	eaggf	eaggf	67	72
+4529	erdf	erdf	63	67
+4530	erdf	erdf	48	52
+4532	eaggf	eaggf	178	183
+4532	multifunctionality	multifunctionality	79	97
+4533	99	99	25	27
+4533	h-0798	h-0798	18	24
+4534	portuguese	portuguese	25	35
+4536	organisations	organisations	118	131
+4536	portuguese	portuguese	11	21
+4537	multifunctional	multifunctional	361	376
+4537	portuguese	portuguese	23	33
+4537	wto	wto	80	83
+4538	portuguese	portuguese	4	14
+4538	president-in-office	president-in-office	138	157
+4540	da	da	181	183
+4540	june	june	218	222
+4540	portuguese	portuguese	228	238
+4540	santa maria da feira	santa maria da feira	169	189
+4541	stabilise	stabilise	134	143
+4542	portuguese	portuguese	54	64
+4543	president-in-office	president-in-office	12	31
+4545	usa	usa	192	195
+4545	zealand	zealand	204	211
+4550	president-in-office	president-in-office	46	65
+4551	organisations	organisations	189	202
+4551	portuguese	portuguese	121	131
+4553	president-in-office	president-in-office	163	182
+4554	europe	europe	30	36
+4555	mr crowley	mr crowley	0	10
+4555	organisations	organisations	94	107
+4556	ngos	ngos	39	43
+4556	portuguese	portuguese	28	38
+4556	portuguese ngos	portuguese ngos	28	43
+4557	ngos	ngos	146	150
+4559	lisbon	lisbon	149	155
+4559	mr president-in-office	mr president-in-office	0	22
+4559	president-in-office	president-in-office	3	22
+4560	lisbon	lisbon	17	23
+4563	portuguese	portuguese	89	99
+4564	portuguese	portuguese	48	58
+4567	portugal	portugal	59	67
+4569	portuguese	portuguese	4	14
+4570	organisations	organisations	244	257
+4571	mr papayannakis	mr papayannakis	39	54
+4574	12	12	12	14
+4574	99	99	26	28
+4574	h-0801	h-0801	19	25
+4575	portuguese	portuguese	9	19
+4575	president-in-office	president-in-office	63	82
+4576	brussels	brussels	161	169
+4579	africa	africa	25	31
+4581	africa	africa	117	123
+4582	ethiopia	ethiopia	103	111
+4583	eritrea	eritrea	50	57
+4583	ethiopia	ethiopia	62	70
+4583	europe	europe	101	107
+4584	mr andrews	mr andrews	14	24
+4588	realise	realise	35	42
+4590	ethiopia	ethiopia	19	27
+4591	europe	europe	57	63
+4593	eu	eu	80	82
+4595	13	13	45	47
+4596	portuguese	portuguese	113	123
+4596	president-in-office	president-in-office	26	45
+4599	recognises	recognises	18	28
+4601	appropriations	appropriations	102	116
+4604	mr marinos	mr marinos	0	10
+4604	portuguese	portuguese	75	85
+4608	organisation	organisation	85	97
+4609	wto	wto	211	214
+4610	allaying europe	allaying europe	300	315
+4610	europe	europe	309	315
+4610	media-plus programme	media-plus programme	247	267
+4610	portuguese	portuguese	120	130
+4611	europe	europe	80	86
+4612	europe	europe	98	104
+4612	february	february	249	257
+4612	february 2000	february 2000	249	262
+4612	organising	organising	165	175
+4612	portuguese	portuguese	187	197
+4613	eu	eu	24	26
+4613	igc	igc	102	105
+4613	mr marinos	mr marinos	5	15
+4618	portugal	portugal	39	47
+4618	wishing portugal	wishing portugal	31	47
+4619	agenda	agenda	71	77
+4619	igc	igc	91	94
+4620	35	35	23	25
+4620	meps	meps	47	51
+4622	eu	eu	98	100
+4623	reconnect	reconnect	89	98
+4627	authorise	authorise	144	153
+4627	igc	igc	77	80
+4627	portuguese	portuguese	158	168
+4628	christmas	christmas	92	101
+4630	agenda	agenda	276	282
+4631	mr dimitrakopoulos	mr dimitrakopoulos	0	18
+4634	christmas	christmas	50	59
+4634	da	da	23	25
+4634	mr seixas da costa	mr seixas da costa	13	31
+4635	spain	spain	3	8
+4639	da	da	19	21
+4639	mr seixas da costa	mr seixas da costa	9	27
+4640	mr dimitrakopoulos	mr dimitrakopoulos	48	66
+4641	christmas	christmas	40	49
+4642	portuguese	portuguese	14	24
+4647	b5-0004	b5-0004	19	26
+4647	mr désir	mr désir	36	44
+4648	b5-0005	b5-0005	19	26
+4648	mr désir	mr désir	36	44
+4649	commissioner	commissioner	56	68
+4649	ems	ems	149	152
+4649	mexico	mexico	127	133
+4649	mr president-in-office	mr president-in-office	17	39
+4649	president-in-office	president-in-office	20	39
+4650	1 500	1 500	12	17
+4650	500	500	14	17
+4650	6	6	203	204
+4650	eur	eur	8	11
+4650	gdp	gdp	177	180
+4653	james tobin	james tobin	82	93
+4653	multiplication	multiplication	355	369
+4653	tobin	tobin	88	93
+4655	attac	attac	85	90
+4655	ngos	ngos	72	76
+4655	solidar	solidar	92	99
+4657	fernando cardoso	fernando cardoso	105	121
+4657	lionel jospin	lionel jospin	191	204
+4658	eu	eu	70	72
+4660	eldr	eldr	111	115
+4660	greens/efa	greens/efa	99	109
+4660	gue/ngl	gue/ngl	90	97
+4660	pse	pse	120	123
+4663	imf	imf	145	148
+4665	japan	japan	145	150
+4665	usa	usa	137	140
+4666	agenda	agenda	160	166
+4666	europe	europe	0	6
+4668	tobin	tobin	108	113
+4671	tobin	tobin	42	47
+4673	mr désir	mr désir	38	46
+4674	mr désir	mr désir	44	52
+4674	tobin	tobin	81	86
+4675	tobin	tobin	96	101
+4676	mid-nineties	mid-nineties	124	136
+4676	non-economic	non-economic	141	153
+4676	tobin	tobin	64	69
+4677	globalisation	globalisation	135	148
+4677	tobin	tobin	79	84
+4678	mr désir	mr désir	0	8
+4679	tobin	tobin	11	16
+4680	tobin	tobin	88	93
+4682	tobin	tobin	7	12
+4683	tobin	tobin	21	26
+4684	tobin	tobin	85	90
+4686	rome	rome	150	154
+4688	commissioner	commissioner	17	29
+4688	modus operandi	modus operandi	82	96
+4691	commissioner	commissioner	95	107
+4692	1992	1992	75	79
+4692	eea	eea	68	71
+4692	south-east	south-east	110	120
+4692	tobin	tobin	4	9
+4693	initiators	initiators	4	14
+4696	tobin	tobin	21	26
+4697	commissioner	commissioner	15	27
+4708	commissioner	commissioner	23	35
+4708	tobin	tobin	129	134
+4712	tobin	tobin	28	33
+4714	1 500	1 500	78	83
+4714	500	500	80	83
+4714	usd	usd	74	77
+4721	europe	europe	74	80
+4722	japan	japan	232	237
+4722	usa	usa	224	227
+4723	plenary debate	plenary debate	121	135
+4724	mr cox	mr cox	530	536
+4724	mr tobin	mr tobin	367	375
+4724	tobin	tobin	370	375
+4726	mr tobin	mr tobin	131	139
+4726	tobin	tobin	134	139
+4735	globalisation	globalisation	11	24
+4740	liberalisation	liberalisation	159	173
+4741	commissioner	commissioner	17	29
+4742	mrs	mrs	3	6
+4742	mrs randzio-plath	mrs randzio-plath	3	20
+4742	randzio-plath	randzio-plath	7	20
+4743	stabilising	stabilising	109	120
+4744	bolkestein	bolkestein	20	30
+4744	mr bolkestein	mr bolkestein	17	30
+4744	tobin	tobin	102	107
+4747	stabilise	stabilise	218	227
+4750	appropriateness	appropriateness	322	337
+4750	stabilise	stabilise	391	400
+4754	10	10	82	84
