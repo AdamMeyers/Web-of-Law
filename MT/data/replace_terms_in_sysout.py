@@ -7,7 +7,7 @@ import sys
 import re
 import codecs
 
-new_file = europarl.es.10000.moses.replaced.txt
+new_file = europarl.es.10000.moses.lc.replaced.txt
 
 base_moses_sentences = []
 # gather all lines in a list

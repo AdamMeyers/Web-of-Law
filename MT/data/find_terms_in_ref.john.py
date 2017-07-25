@@ -7,7 +7,7 @@ import sys
 import re
 import codecs
 
-new_file='europarl.moses.found.john.txt'
+new_file='europarl.moses.found.lc.txt'
 
 # europarl.combined.notranslated.moses.terms
 no_translated_terms = []
