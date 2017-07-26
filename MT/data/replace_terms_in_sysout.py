@@ -7,7 +7,7 @@ import sys
 import re
 import codecs
 
-new_file = europarl.es.10000.moses.lc.replaced.txt
+new_file = 'test.europarl.es.10000.moses.lc.replaced.txt'
 
 base_moses_sentences = []
 # gather all lines in a list
@@ -36,7 +36,6 @@ with codecs.open(sys.argv[2],'r',encoding='utf8') as f:
         if eng_term == sp_term:
             lines_with_terms_and_positions[line_number] = (eng_term,pos_start,pos_end)
 
-
 ## create new utf-8 file with replaced translations
 ## now we go through the human translated terms and replace in file
 ## europarl.es.humantranslated.tsv
@@ -44,7 +43,8 @@ human_translated_terms = {}
 with codecs.open(sys.argv[3],'r',encoding='utf8') as f:
     for line in f:
         new_line = line.strip()
-        tab_line = new_line.split('\t')
+        tab_line = new_line.split('###')
+        print tab_line
         eng_term    = tab_line[0]
         sp_term     = tab_line[1]
         human_translated_terms[eng_term] = sp_term
@@ -56,7 +56,7 @@ with codecs.open(new_file,'w',encoding='utf8') as final:
     counter = 1
     for sent in base_moses_sentences:
         newsent = sent
-        if lines_with_terms_and_positions[counter]:
+        if counter in lines_with_terms_and_positions:
             tpl = lines_with_terms_and_positions[counter]
             eng_term  = tpl[0]
             pos_start = tpl[1]
@@ -64,15 +64,10 @@ with codecs.open(new_file,'w',encoding='utf8') as final:
             if human_translated_terms[eng_term]:
                 # replace with new spanish term
                 newsent = newsent[0:pos_start] + human_translated_terms[eng_term] + newsent[pos_end+1:] 
-        final.write(newsent) 
+        final.write(newsent)
+        print newsent 
         counter = counter + 1
 final.close()
-
-
-
-
-
-
 
 
 
