@@ -121,7 +121,7 @@ def find_legislations(txt,case8,file_id):
     with open(txt) as instream:
 
         offset = 0
-        line_num = 0
+        line_num = 1
 
         for line in instream:
 
