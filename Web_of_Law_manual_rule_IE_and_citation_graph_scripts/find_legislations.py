@@ -41,16 +41,30 @@ for o in amends:
     amend_rexp += o + '|'
 amend_rexp = amend_rexp[:-1] # remove superfluous '|' symbol
 
+# add the two rexps for a natural language mention (eg. "the First Amendment")
+natural_amend_rexp = '(({0}) (?:{1}))'.format(ordinal_rexp, amend_rexp)
+
+# TODO: rexp for a formal citation of the amendments
+formal_amend_rexp = ''
+
 def capture_single_amendment(inString):
     # cap any simple ordinal
-    full_amend_pattern = re.compile('({0}) (?:{1})'.format(ordinal_rexp, amend_rexp))
+    # full_amend_pattern = re.compile(natural_amend_rexp + '|' + formal_amend_rexp)
+    full_amend_pattern = re.compile(natural_amend_rexp)
     amend_match = full_amend_pattern.search(inString)
     if amend_match:
         return amend_match
 
-def get_single_amendment_number(amend_match):
+def find_amendments_in_line(inString):
+    # full_amend_pattern = re.compile(natural_amend_rexp + '|' + formal_amend_rexp)
+    full_amend_pattern = re.compile(natural_amend_rexp)
+    amend_match = full_amend_pattern.findall(inString)
+    if amend_match:
+        return amend_match
+
+def get_single_amendment_number(amend_string):
     # get the amendment number
-    return ordinal_variants[amend_match.group(1)]
+    return ordinal_variants[capture_single_amendment(amend_string.group(0)).group(2)]
 
 def generate_single_amendment_citation(
         start_index,
@@ -87,23 +101,39 @@ def find_legislations(txt,case8,file_id):
 
         offset = 0
         line_num = 0
+
         for line in instream:
+
             line_offset = len(line)
-            amendment_match = capture_single_amendment(line)
-            if(amendment_match):
-                line_offset = line_offset - len(amendment_match.group(0))
-                offset += len(amendment_match.group(0))
-                amendment_num = get_single_amendment_number(amendment_match)
-                amendment_cit = generate_single_amendment_citation(
-                        offset,
-                        0,
-                        line_num,
-                        file_id,
-                        amendment_num,
-                        amendment_match.group(0))
-                print(amendment_cit)
-                legs.append(amendment_cit)
+            amendment_matches = find_amendments_in_line(line) # get list of matches
+
+            if amendment_matches:
+                # get the matches in order
+                for match_group in amendment_matches:
+
+                    match = re.compile(match_group[0]).search(line)
+                    line_offset -= len(match.group(0))
+                    offset += match.start()
+                    # create a citation
+                    amendment_num = get_single_amendment_number(match)
+                    amendment_cit = generate_single_amendment_citation(
+                            offset,
+                            offset+len(match.group(0)),
+                            line_num,
+                            file_id,
+                            amendment_num,
+                            match.group(0)
+                    )
+                    # offset += start point
+                    offset += len(match.group(0))
+                    print(amendment_cit)
+                    legs.append(amendment_cit)
+
+                    # substr the line from start point of match to end of line
+                    # this is so we don't capture only the first ref to repeated amendments
+                    line = line[match.start():]
+
             line_num = line_num + 1
-            offset = offset + line_offset
+            offset += line_offset
 
     return legs
