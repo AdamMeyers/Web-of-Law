@@ -1,6 +1,10 @@
 import re
 
-### Capturing amendments to the US constitution
+### Captures amendments to the US constitution
+# TODO: capture listed amendments in informal verbal sense like "The First, Second and Third Amendments
+# TODO: capture formal citation style
+# TODO: capture references to Amendments as antecedents from later, proximal references like
+#   "from the Amendment [mentioned earlier]"
 
 body = (
     'US',
