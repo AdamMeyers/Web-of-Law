@@ -16,7 +16,24 @@ ordinals = {
     'Seventh': '7',
     'Eighth': '8',
     'Ninth': '9',
-    'Tenth': '10'
+    'Tenth': '10',
+    'Eleventh': '11',
+    'Twelfth': '12',
+    'Thirteenth': '13',
+    'Fourteenth': '14',
+    'Fifteenth': '15',
+    'Sixteenth': '16',
+    'Seventeenth': '17',
+    'Eighteenth': '18',
+    'Nineteenth': '19',
+    'Twentieth': '20',
+    'Twenty-first': '21',
+    'Twenty-second': '22',
+    'Twenty-third': '23',
+    'Twenty-fourth': '24',
+    'Twenty-fifth': '22',
+    'Twenty-sixth': '23',
+    'Twenty-seventh': '24'
 }
 
 amends = (
@@ -34,15 +51,15 @@ for o in ordinals:
 ordinal_rexp = ''
 for o in ordinal_variants:
     ordinal_rexp += o + '|'
-ordinal_rexp = ordinal_rexp[:-1] # remove superfluous '|' symbol
+ordinal_rexp = ordinal_rexp[:-1]  # remove superfluous '|' symbol
 
 amend_rexp = ''
 for o in amends:
     amend_rexp += o + '|'
-amend_rexp = amend_rexp[:-1] # remove superfluous '|' symbol
+amend_rexp = amend_rexp[:-1]  # remove superfluous '|' symbol
 
 # add the two rexps for a natural language mention (eg. "the First Amendment")
-natural_amend_rexp = '(({0}) (?:{1}))'.format(ordinal_rexp, amend_rexp)
+natural_single_amend_rexp = '(({0}) (?:{1}))'.format(ordinal_rexp, amend_rexp)
 
 # TODO: rexp for a formal citation of the amendments
 formal_amend_rexp = ''
@@ -50,14 +67,14 @@ formal_amend_rexp = ''
 def capture_single_amendment(inString):
     # cap any simple ordinal
     # full_amend_pattern = re.compile(natural_amend_rexp + '|' + formal_amend_rexp)
-    full_amend_pattern = re.compile(natural_amend_rexp)
+    full_amend_pattern = re.compile(natural_single_amend_rexp)
     amend_match = full_amend_pattern.search(inString)
     if amend_match:
         return amend_match
 
 def find_amendments_in_line(inString):
     # full_amend_pattern = re.compile(natural_amend_rexp + '|' + formal_amend_rexp)
-    full_amend_pattern = re.compile(natural_amend_rexp)
+    full_amend_pattern = re.compile(natural_single_amend_rexp)
     amend_match = full_amend_pattern.findall(inString)
     if amend_match:
         return amend_match
@@ -120,7 +137,7 @@ def find_legislations(txt,case8,file_id):
                             offset,
                             offset+len(match.group(0)),
                             line_num,
-                            file_id,
+                            file_id[1:]+'_'+str(len(legs)+1),
                             amendment_num,
                             match.group(0)
                     )
