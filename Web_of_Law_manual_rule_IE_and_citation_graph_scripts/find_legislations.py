@@ -1,8 +1,13 @@
 import re
+from wol_utilities import capture_roman
 
 # Captures amendments to the US constitution
 # TODO: capture references to Amendments as antecedents from later, proximal references like
 #   "from the Amendment [mentioned earlier]"
+
+############################
+# NATURAL AMENDMENT REGEX: #
+############################
 
 ordinals = {
     'First': '1',
@@ -65,17 +70,60 @@ amend_rexp = amend_rexp[:-1]  # remove extra '|' symbol
 # Group 2: The list of comma-separated (accepting Oxford comma as well) middle ordinals
 
 informal_amend_rexp = '({0})' \
-                              '(?:((?:, (?:{0}))*)(?:,? and ({0})))* ' \
-                              '(?:{1})'\
+                      '(?:((?:, (?:{0}))*)(?:,? and ({0})))* ' \
+                      '(?:{1})' \
     .format(ordinal_rexp, amend_rexp)
 
-# TODO: rexp for a formal citation of the amendments
-formal_amend_rexp = ''
+##################################
+# CONSTITUTIONAL CITATION REGEX: #
+##################################
 
 
-def capture_informal_amendments(in_string):
-    """Returns list of strings matching the informal amendments regex in given string
+def get_states_dict():
+    """Returns a dict of abbreviation of state names to full state name
 
+    :return:
+    """
+    states_dict = {}
+    with open('STATES.dict') as instream:
+        for line in instream:
+            states_dict[line.split('\t')[0]] = line.split('\t')[1].strip()
+    states_dict['U.S.'] = 'Federal'
+    return states_dict
+
+
+states_rexp = ''
+for o in get_states_dict():
+    states_rexp += '(?:{0})|'.format(o.replace('.', '\.'))
+states_rexp = states_rexp[:len(states_rexp)-1]
+body_rexp = states_rexp + '|(?:U\.S\.)'
+
+roman_num_rexp = '(?:[MCLDXVI]+)'
+numeral_rexp = roman_num_rexp + '|(?:\d+)'
+
+const_cit_rexp = '({0}) ' \
+                 '(?:(?:Const\.)|(?:CONST\.)) ' \
+                 '((?:art\.)|(?:amend\.)|(?:ART\.)|(?:AMEND\.)|(?:Art\.)|(?:Amend\.)) ' \
+                 '({1})' \
+                 '(?:, § ?({1})' \
+                 '(?:, cl. ?({1}))?)?'\
+    .format(body_rexp, numeral_rexp)
+
+###########################
+# STATUTE CITATION REGEX: #
+###########################
+
+federal_statute_cit_rexp = '(\d+) U\.S\.C\. § ?(\d+)((?:\(.\))+)'
+state_statute_cit_rexp = '({0}) (?:.+ )*?Code § ?(\d+).?(?:\d+)'\
+    .format(states_rexp)
+
+
+def capture_informal_amendment_ordinals(in_string):
+    """Returns list of strings matching the informal amendments rexp in given string
+
+    Returns a list of strings, the 0th of which is the whole string
+    The 1st and last elements are the first and last listed ordinals per the informal_amend_rexp
+    The middle elements are the 2nd group from the informal_amend_rexp split and spread into a list
     :param in_string: (str) the string to search in
     :return: a list of strings
     """
@@ -97,17 +145,86 @@ def capture_informal_amendments(in_string):
     return matches
 
 
-def find_amendments_in_line(in_string):
-    """Returns list of strings matching the natural amendment rexp
+def capture_const_cits(in_string):
+    """Returns a list of strings, each corresponding to the match groups in the constitutional amendment/article
+    citation rexp
 
-    Each member is the full matched string
-    :param in_string: line to search within
-    :return: list of Strings
+    :param in_string:
+    :return:
     """
-    full_amend_pattern = re.compile(informal_amend_rexp)
-    amend_matches = list(full_amend_pattern.finditer(in_string))
-    if amend_matches:
-        return list(map(lambda x: x.group(0), amend_matches))  # return only the full string of each match
+
+    const_pattern = re.compile(const_cit_rexp)
+    match = const_pattern.search(in_string)
+    if match:
+        return [
+            match.group(0),  # matched string
+            match.group(1),  # jurisdiction
+            match.group(2),  # article | amendment?
+            match.group(3),  # article/amend num
+            match.group(4),  # section
+            match.group(5),  # clause
+        ]
+    else:
+        return []
+
+
+def capture_federal_statute_cits(in_string):
+    """Returns a list of strings, each corresponding to match groups in the federal statute citation rexp
+
+    :param in_string:
+    :return:
+    """
+    const_pattern = re.compile(federal_statute_cit_rexp)
+    match = const_pattern.search(in_string)
+    if match:
+        return [
+            match.group(0),  # matched string
+            match.group(1),  # article
+            match.group(2),  # section
+            match.group(3),  # subsection
+        ]
+    else:
+        return []
+
+
+def capture_state_statute_cits(in_string):
+    """Returns a list of strings, each corresponding to match groups in the state statute citation rexp
+
+    :param in_string:
+    :return:
+    """
+    const_pattern = re.compile(state_statute_cit_rexp)
+    match = const_pattern.search(in_string)
+    if match:
+        return [
+            match.group(0),  # matched string
+            match.group(1),  # state
+            match.group(2),  # section
+        ]
+    else:
+        return []
+
+
+def find_legislations_in_line(in_string):
+    """Return a list of strings matching all current leglislation rexps from a given line
+
+    :param in_string:
+    :return: (list<str>) A list of strings
+    """
+    rexps = [
+        informal_amend_rexp,
+        const_cit_rexp,
+        federal_statute_cit_rexp,
+        state_statute_cit_rexp
+    ]
+    legs = []
+    for exp in rexps:
+        pattern = re.compile(exp)
+        matches = list(pattern.finditer(in_string))
+        if matches:
+            legs.extend(list(map(lambda x: x.group(0), matches)))
+
+    return legs
 
 
 def ordinal_to_number(ordinal_string):
@@ -116,10 +233,42 @@ def ordinal_to_number(ordinal_string):
     :param ordinal_string:
     :return: the numerical value of the ordinal
     """
-    return ordinal_variants[ordinal_string]
+    if ordinal_string in ordinal_variants:
+        return ordinal_variants[ordinal_string]
+    else:
+        return 0
 
 
-def generate_amendment_citations_from_string(in_string, offset, line_num, leg_count, file_id, ):
+def numeral_to_int(num_string):
+    """Returns an int corresponding to the given numeral string
+
+    :param num_string:
+    :return:
+    """
+
+    if not num_string:
+        return 0
+    num = 0
+    roman_match = capture_roman(num_string)
+    if roman_match:
+        num = roman_match
+    elif re.search('\d+', num_string):
+        num = int(re.search('(\d+)', num_string).group(1))
+
+    return num
+
+
+def body_abbrev_to_full(abbrev):
+    """Returns a full state name given an abbreviation, or "U.S." if "U.S." is given
+
+    :param abbrev:
+    :return:
+    """
+    bodies = get_states_dict()
+    return bodies[abbrev]
+
+
+def generate_legislation_citations_from_string(in_string, offset, line_num, leg_count, file_id):
     """Returns an array of citation strings from a given string of natural references to amendments
 
     :param in_string: string that matches natural amendment format
@@ -129,15 +278,66 @@ def generate_amendment_citations_from_string(in_string, offset, line_num, leg_co
     :param file_id: id of the file being read
     :return: list of citation strings
     """
-    matches = capture_informal_amendments(in_string)
-    return list(map(lambda x: generate_amendment_citation(
-        offset,
-        offset + len(matches[0]),
-        line_num,
-        file_id + str(leg_count + matches.index(x)),
-        ordinal_to_number(x),
-        str.strip(matches[0])
-    ), matches[1:]))
+
+    matches = {
+        'amendment': capture_informal_amendment_ordinals(in_string) or [],
+        'constitution': capture_const_cits(in_string) or [],
+        'federal_statute': capture_federal_statute_cits(in_string),
+        'state_statute': capture_state_statute_cits(in_string)
+    }
+
+    cits = []
+    if len(matches['amendment']):
+        cits.extend(list(map(lambda x: generate_amendment_citation(
+            offset,
+            offset + len(matches['amendment'][0]),
+            line_num,
+            file_id + str(leg_count + matches['amendment'].index(x)),
+            ordinal_to_number(x),
+            str.strip(matches['amendment'][0])
+        ), matches['amendment'][1:])))
+
+    if len(matches['constitution']):
+        cits.extend([generate_const_citation(
+            offset,
+            offset + len(matches['constitution'][0]),
+            line_num,
+            file_id + str(leg_count + 1),
+            body_abbrev_to_full(matches['constitution'][1]),
+            matches['constitution'][2],
+            numeral_to_int(matches['constitution'][3]),
+            numeral_to_int(matches['constitution'][4]),
+            numeral_to_int(matches['constitution'][5]),
+            str.strip(matches['constitution'][0])
+        )])
+
+    if len(matches['federal_statute']):
+        cits.extend([generate_statute_citation(
+            offset,
+            offset + len(matches['federal_statute'][0]),
+            line_num,
+            file_id + str(leg_count + 1),
+            'federal',
+            numeral_to_int(matches['federal_statute'][1]),
+            numeral_to_int(matches['federal_statute'][2]),
+            matches['federal_statute'][3],
+            str.strip(matches['federal_statute'][0])
+        )])
+
+    if len(matches['state_statute']):
+        cits.extend([generate_statute_citation(
+            offset,
+            offset + len(matches['state_statute'][0]),
+            line_num,
+            file_id + str(leg_count + 1),
+            body_abbrev_to_full(matches['state_statute'][1]),
+            '',
+            numeral_to_int(matches['state_statute'][2]),
+            '',
+            str.strip(matches['state_statute'][0])
+        )])
+
+    return cits
 
 
 def generate_amendment_citation(
@@ -147,7 +347,7 @@ def generate_amendment_citation(
         cit_id,
         amend_num,
         text):
-    """Return a citation string based on given data
+    """Return a citation string for an informal reference to an amendment
 
     :param start_index: (int) Byte offset of text from beginning of file
     :param end_index: (int) end of text
@@ -158,7 +358,7 @@ def generate_amendment_citation(
     :return: (str) the citation string in XML style
     """
 
-    citation = '<citation ' \
+    citation = '<reference ' \
                'id="{0}" ' \
                'entry_type="amendment" ' \
                'start="{1}" ' \
@@ -166,7 +366,7 @@ def generate_amendment_citation(
                'line="{3}" ' \
                'amendment="{4}>' \
                '{5}' \
-               '</citation>' \
+               '</reference>' \
         .format(
             cit_id,
             start_index,
@@ -179,9 +379,108 @@ def generate_amendment_citation(
     return citation
 
 
-def find_legislations(txt, case8, file_id):
+def generate_const_citation(start_index, end_index, line_num, cit_id, jurisdiction, art_type, article_num, section_num,
+                            clause_num, text):
+    """Return a citation string for a constitutional amendment or article citation
+
+    :param start_index:
+    :param end_index:
+    :param line_num:
+    :param cit_id:
+    :param jurisdiction:
+    :param art_type:
+    :param article_num:
+    :param section_num:
+    :param clause_num:
+    :param text:
+    :return:
+    """
+
+    art = re.search('((?:art\.)|(?:ART\.)|(?:Art\.))', art_type)
+    if art:
+        art_type = 'article'
+    else:
+        art_type = 'amendment'
+    citation = '<citation ' \
+               'id="{0}" ' \
+               'entry_type="constitutional_{1}" ' \
+               'start="{2}" ' \
+               'end="{3}" ' \
+               'line="{4}" ' \
+               'jurisdiction="{5}" ' \
+               'article="{6}" ' \
+               'section="{7}" ' \
+               'clause="{8}">' \
+               '{9}' \
+               '</citation>' \
+        .format(
+            cit_id,
+            art_type,
+            start_index,
+            end_index,
+            line_num,
+            jurisdiction,
+            article_num,
+            section_num or '',
+            clause_num or '',
+            text
+        )
+
+    return citation
+
+
+def generate_statute_citation(start_index, end_index, line_num, cit_id, body, article, section, subsection, text):
+    """Returns a citation string for a statute citation
+
+    :param start_index:
+    :param end_index:
+    :param line_num:
+    :param cit_id:
+    :param body:
+    :param article:
+    :param section:
+    :param subsection:
+    :param text:
+    :return:
+    """
+
+    citation = '<citation ' \
+               'id="{0}" ' \
+               'entry_type="statute" ' \
+               'start="{1}" ' \
+               'end="{2}" ' \
+               'line="{3}" ' \
+               'body="{4}" ' \
+               'article="{5}" ' \
+               'section="{6}" ' \
+               'subsection="{7}">' \
+               '{8}' \
+               '</citation>' \
+        .format(
+            cit_id,
+            start_index,
+            end_index,
+            line_num,
+            body,
+            article,
+            section,
+            subsection or '',
+            text
+        )
+
+    return citation
+
+
+def find_legislations(txt, file_id):
+    """Returns a list of citation strings created from citations and informal amendment references in the given file
+
+    :param txt:
+    :param file_id:
+    :return: (str) A list of citation strings
+    """
+
     legs = []
-    with open(txt) as instream:
+    with open(txt, 'r',-1,'utf-8') as instream:
 
         offset = 0
         line_num = 1
@@ -189,17 +488,17 @@ def find_legislations(txt, case8, file_id):
         for line in instream:
 
             line_offset = len(line)
-            amendment_matches = find_amendments_in_line(line)  # get list of matches
+            legis_matches = find_legislations_in_line(line)  # get list of matches
 
-            if amendment_matches:
+            if legis_matches:
                 # get the matches in order
-                for matched_string in amendment_matches:
+                for matched_string in legis_matches:
                     match_index = line.find(matched_string)
                     offset += match_index
                     line_offset -= len(matched_string)
                     line_offset -= match_index
                     # create a citation
-                    amendment_cits = generate_amendment_citations_from_string(
+                    cits = generate_legislation_citations_from_string(
                             matched_string,
                             offset,
                             line_num,
@@ -207,8 +506,8 @@ def find_legislations(txt, case8, file_id):
                             file_id[0:] + "_"
                     )
                     offset += len(matched_string)
-                    for x in amendment_cits: print(x)
-                    legs.extend(amendment_cits)
+                    for x in cits: print(x)
+                    legs.extend(cits)
 
                     # substr the line from start point of match to end of line
                     # this is so we don't capture only the first ref to repeated amendments

@@ -1,5 +1,6 @@
 import os
 import re
+import roman
 from xml.sax.saxutils import escape
 from xml.sax.saxutils import unescape
 DICT_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + os.sep
@@ -56,7 +57,7 @@ def wol_escape(instring):
 
 def wol_unescape(instring):
     return(unescape(instring.replace('&quot;','"')))
-    
+
 def alpha_check(instring):
     pattern = re.compile('[a-zA-Z]')
     if isinstance(instring,str):
@@ -83,7 +84,7 @@ def find_duplicate_in_record_list(records):
             print('duplicates',start_end)
             print(record)
         so_far.append(start_end)
-        
+
 def detect_garbage_line(line):
     import string
     number_of_letters = 0
@@ -152,7 +153,7 @@ def member_if_attribute(list_of_dictionaries,key,value):
     for dictionary in list_of_dictionaries:
         if (key in dictionary) and (dictionary[key]==value):
             return(True)
-    
+
 def get_valid_dict_value(key,dictionary):
     if (key in dictionary) and (not dictionary[key] in ['None','Unknown']):
         return(dictionary[key])
@@ -219,7 +220,6 @@ def concat(xss):
         new.extend(xs)
     return new
 
-
 def standardize(name):
     standard = ''
     name = name.upper()
@@ -229,3 +229,20 @@ def standardize(name):
     standard = standard.split()
     standard = filter(lambda i: i not in ['ET','AL','APPELLANT','APPELLANTS','APPELLEE','APPELLEES'], standard)
     return ' '.join(standard)
+
+def capture_roman(num_string):
+    """Return numerical value of line if it's a roman num, 0 otherwise
+
+    :param num_string: string to match
+    :return: int
+    """
+    # roman_rexp = "(M{1, 4}(CM | CD | D?C{0, 3})(XC | XL | L?X{0, 3})(IX | IV | V?I{0, 3}) | M{0, 4}(CM | C?D | D?C{1, 3})(XC | XL | L?X{0, 3})(IX | IV | V?I{0, 3}) | M{0, 4}(CM | CD | D?C{0, 3})(XC | X?L | L?X{1, 3})(IX | IV | V?I{0, 3}) | M{0, 4}(CM | CD | D?C{0, 3})(XC | XL | L?X{0, 3})(IX | I?V | V?I{1, 3}))"
+    roman_rexp = '[MCLDXVI]+'
+    rom = re.compile(roman_rexp)
+    match = rom.match(num_string)
+
+    if match:
+        return roman.fromRoman(match.group(0))
+    else:
+        return 0
+
