@@ -113,8 +113,8 @@ const_cit_rexp = '({0}) ' \
 # STATUTE CITATION REGEX: #
 ###########################
 
-federal_statute_cit_rexp = '(\d+) U\.S\.C\. § ?(\d+)((?:\(.\))+)'
-state_statute_cit_rexp = '({0}) (?:.+ )*?Code § ?(\d+).?(?:\d+)'\
+federal_statute_cit_rexp = '(\d+) U\. ?S\. ?C\. § ?(\d+)((?:\(.\))+)?'
+state_statute_cit_rexp = '({0}) (?:\w+\W )?Code (\w+\W )+§§? (\d+\W? ?)+ '\
     .format(states_rexp)
 
 
@@ -211,6 +211,9 @@ def find_legislations_in_line(in_string):
     :param in_string:
     :return: (list<str>) A list of strings
     """
+    if not in_string or in_string == '\n':
+        return
+
     rexps = [
         informal_amend_rexp,
         const_cit_rexp,
