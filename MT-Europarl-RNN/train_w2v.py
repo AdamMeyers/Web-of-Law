@@ -2,42 +2,42 @@ import cPickle
 import numpy as np
 
 
-# def train_w2v(path_data, file_name):
-#     import gzip
-#     from word2vec import word2vec
-#
-#     embedder, dictionary = word2vec(
-#         # List of files comprising the corpus
-#         files=[path_data + file_name],
-#         # directory in which to save embedding parameters (deepest dir created if doesn't exist)
-#         save_dir=path_data,
-#         num_processes=4,
-#         # Number of passes through training corpus
-#         num_epochs=10,
-#         # Size of minibatches during training
-#         batch_size=1000,
-#         # Number of "noise" examples included for every "signal" example
-#         noise_ratio=15,
-#         # Dimensionality of the embedding vector space
-#         num_embedding_dimensions=300,
-#         # Print messages during training
-#         verbose=True
-#     )
-#
-#     # Save word embeddings
-#     npfile = np.load(path_data + '/embeddings.npz')
-#     W = npfile['W'].astype('float32')
-#     padding = np.zeros(shape=(2, W.shape[1])).astype('float32')
-#     embedding = np.concatenate([padding, W])
-#     cPickle.dump(embedding, open(path_data + '/embedding.pkl', 'w'))
-#
-#     # Save word-to-index map
-#     word2idx = {'#####': 0, '#NOT_ALPHA#': 1}
-#     fin = gzip.open(path_data + '/dictionary/token-map.gz')
-#     for index, line in enumerate(fin):
-#         w = line.rstrip('\r\n')
-#         word2idx[w] = index + 1
-#     cPickle.dump(word2idx, open(path_data + '/word2idx.pkl', 'w'))
+def train_w2v(path_data, file_name):
+    import gzip
+    from word2vec import word2vec
+
+    embedder, dictionary = word2vec(
+        # List of files comprising the corpus
+        files=[path_data + file_name],
+        # directory in which to save embedding parameters (deepest dir created if doesn't exist)
+        save_dir=path_data,
+        num_processes=4,
+        # Number of passes through training corpus
+        num_epochs=10,
+        # Size of minibatches during training
+        batch_size=1000,
+        # Number of "noise" examples included for every "signal" example
+        noise_ratio=15,
+        # Dimensionality of the embedding vector space
+        num_embedding_dimensions=300,
+        # Print messages during training
+        verbose=True
+    )
+
+    # Save word embeddings
+    npfile = np.load(path_data + '/embeddings.npz')
+    W = npfile['W'].astype('float32')
+    padding = np.zeros(shape=(2, W.shape[1])).astype('float32')
+    embedding = np.concatenate([padding, W])
+    cPickle.dump(embedding, open(path_data + '/embedding.pkl', 'w'))
+
+    # Save word-to-index map
+    word2idx = {'#####': 0, '#NOT_ALPHA#': 1}
+    fin = gzip.open(path_data + '/dictionary/token-map.gz')
+    for index, line in enumerate(fin):
+        w = line.rstrip('\r\n')
+        word2idx[w] = index + 1
+    cPickle.dump(word2idx, open(path_data + '/word2idx.pkl', 'w'))
 
 
 def get_nearest(word2idx, idx2word, embedding, w, n):
@@ -66,7 +66,7 @@ def get_nearest(word2idx, idx2word, embedding, w, n):
 
 
 def main(path_data='../data/', file_name='europarl-v7.es-en.en.tok.lower'):
-    # train_w2v(path_data, file_name)
+    train_w2v(path_data, file_name)
 
     print 'Loading data ...'
     word2idx = cPickle.load(open(path_data + 'word2idx.pkl', 'r'))
