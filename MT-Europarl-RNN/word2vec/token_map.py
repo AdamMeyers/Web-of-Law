@@ -120,7 +120,7 @@ class TokenMap(object):
 			if self.on_unk == SILENT:
 				return self.map['UNK']  # i.e. return 0
 			elif self.on_unk == WARN:
-				print 'Warning, unrecognized token: %s' % token
+				# print 'Warning, unrecognized token: %s' % token
 				return self.map['UNK']  # i.e. return 0
 			elif self.on_unk == ERROR:
 				raise

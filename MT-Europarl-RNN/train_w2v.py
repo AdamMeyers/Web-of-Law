@@ -2,7 +2,7 @@ import cPickle
 import numpy as np
 
 
-def train_w2v(path_data, file_name):
+def train_w2v(path_data, file_name, dim_emb):
     import gzip
     from word2vec import word2vec
 
@@ -19,16 +19,18 @@ def train_w2v(path_data, file_name):
         # Number of "noise" examples included for every "signal" example
         noise_ratio=15,
         # Dimensionality of the embedding vector space
-        num_embedding_dimensions=300,
+        num_embedding_dimensions=dim_emb,
         # Print messages during training
         verbose=True
     )
 
+    print 'Dumping ...'
     # Save word embeddings
     npfile = np.load(path_data + '/embeddings.npz')
     W = npfile['W'].astype('float32')
-    padding = np.zeros(shape=(2, W.shape[1])).astype('float32')
-    embedding = np.concatenate([padding, W])
+    emb_padding = np.zeros(shape=(1, dim_emb)).astype('float32')
+    emb_not_aplha = np.random.uniform(-1. / dim_emb, 1. / dim_emb, size=(1, dim_emb)).astype('float32')
+    embedding = np.concatenate([emb_padding, emb_not_aplha, W])
     cPickle.dump(embedding, open(path_data + '/embedding.pkl', 'w'))
 
     # Save word-to-index map
@@ -36,8 +38,9 @@ def train_w2v(path_data, file_name):
     fin = gzip.open(path_data + '/dictionary/token-map.gz')
     for index, line in enumerate(fin):
         w = line.rstrip('\r\n')
-        word2idx[w] = index + 1
+        word2idx[w] = index + 2
     cPickle.dump(word2idx, open(path_data + '/word2idx.pkl', 'w'))
+    print 'Done\n'
 
 
 def get_nearest(word2idx, idx2word, embedding, w, n):
@@ -65,20 +68,41 @@ def get_nearest(word2idx, idx2word, embedding, w, n):
     print ', '.join(top_w), '\n'
 
 
-def main(path_data='../data/', file_name='europarl-v7.es-en.en.tok.lower'):
-    train_w2v(path_data, file_name)
+def main(path_data='/scratch/wl1191/MTEuroparl/data/europarl/',
+         file_name='enwiki-20140707-corpus.articles.tok.lower',
+         dim_emb=300):
+    # train_w2v(path_data, file_name, dim_emb)
+    import gzip
 
-    print 'Loading data ...'
-    word2idx = cPickle.load(open(path_data + 'word2idx.pkl', 'r'))
-    embedding = cPickle.load(open(path_data + 'embedding.pkl', 'r'))
-    idx2word = dict([(v, k) for k, v in word2idx.iteritems()])
-    print 'Done', '\n'
+    print 'Dumping ...'
+    # Save word embeddings
+    npfile = np.load(path_data + '/embeddings.npz')
+    W = npfile['W'].astype('float32')
+    emb_padding = np.zeros(shape=(1, dim_emb)).astype('float32')
+    emb_not_aplha = np.random.uniform(-1. / dim_emb, 1. / dim_emb, size=(1, dim_emb)).astype('float32')
+    embedding = np.concatenate([emb_padding, emb_not_aplha, W])
+    cPickle.dump(embedding, open(path_data + '/embedding.pkl', 'w'))
 
-    while True:
-        w = raw_input('Enter a word (enter \'q\' to quit): ')
-        if w == 'q':
-            break
-        get_nearest(word2idx, idx2word, embedding, w, 10)
+    # Save word-to-index map
+    word2idx = {'#####': 0, '#NOT_ALPHA#': 1}
+    fin = gzip.open(path_data + '/dictionary/token-map.gz')
+    for index, line in enumerate(fin):
+        w = line.rstrip('\r\n')
+        word2idx[w] = index + 2
+    cPickle.dump(word2idx, open(path_data + '/word2idx.pkl', 'w'))
+    print 'Done\n'
+
+    # print 'Loading data ...'
+    # word2idx = cPickle.load(open(path_data + 'word2idx.pkl', 'r'))
+    # embedding = cPickle.load(open(path_data + 'embedding.pkl', 'r'))
+    # idx2word = dict([(v, k) for k, v in word2idx.iteritems()])
+    # print 'Done', '\n'
+    #
+    # while True:
+    #     w = raw_input('Enter a word (enter \'q\' to quit): ')
+    #     if w == 'q':
+    #         break
+    #     get_nearest(word2idx, idx2word, embedding, w, 10)
 
 
 if __name__ == '__main__':

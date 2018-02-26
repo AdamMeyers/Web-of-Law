@@ -1,3 +1,4 @@
+import sys
 import theano
 import cPickle
 import numpy as np
@@ -10,28 +11,47 @@ def print_proc_bar(curr_index, total, proc_bar_width=40):
     print '\r[%s] %.2f%%' % ('=' * proc_count + ' ' * (proc_bar_width - proc_count), proc * 100),
 
 
-def prepare_data(path_fin, batch_size, split_ratio):
-    X, target = cPickle.load(open(path_fin, 'r'))
+def add_extra(X_train, Y_train, X_test, Y_test, batch_size):
+    if X_train.shape[0] % batch_size > 0:
+        idx_to_add = np.random.choice(X_train.shape[0], batch_size - X_train.shape[0] % batch_size, replace=False)
+        X_train = np.concatenate([X_train[idx_to_add], X_train])
+        Y_train = np.concatenate([Y_train[idx_to_add], Y_train])
 
-    if X.shape[0] % batch_size > 0:
-        idx_to_add = np.random.choice(X.shape[0], batch_size - X.shape[0] % batch_size, replace=False)
-        X = np.concatenate([X[idx_to_add], X])
-        target = np.concatenate([target[idx_to_add], target])
+    num_added = 0
+    if X_test.shape[0] % batch_size > 0:
+        num_added = batch_size - X_test.shape[0] % batch_size
+        X_test = np.concatenate([X_test[:num_added], X_test])
 
-    num_batch_train = int(X.shape[0] * split_ratio / batch_size)
-    X_train = X[:num_batch_train * batch_size]
-    target_train = target[:num_batch_train * batch_size]
-    X_valid = X[num_batch_train * batch_size:]
-    target_valid = target[num_batch_train * batch_size:]
+    return X_train, Y_train, X_test, Y_test, num_added
 
-    return X_train, target_train, X_valid, target_valid
+
+def prepare_data1(path_fin, batch_size, split_ratio):
+    X, Y = cPickle.load(open(path_fin, 'r'))
+
+    num_train = int(X.shape[0] * split_ratio)
+    X_train = X[:num_train]
+    Y_train = Y[:num_train]
+    X_test = X[num_train:]
+    Y_test = Y[num_train:]
+
+    # print 'Dumping test data ...'
+    # cPickle.dump([X_test, Y_test], open(path_fin + '.test', 'w'))
+    # print 'Done\n'
+
+    return add_extra(X_train, Y_train, X_test, Y_test, batch_size)
+
+
+def prepare_data2(data_train_name, data_test_name, batch_size):
+    X_train, Y_train = cPickle.load(open(data_train_name, 'r'))
+    X_test, Y_test = cPickle.load(open(data_test_name, 'r'))
+    return add_extra(X_train, Y_train, X_test, Y_test, batch_size)
 
 
 def evaluate(pred, target):
-    pred_true = target[pred == 1]
+    pred_true = target[np.nonzero(pred == 1)]
     precision = np.sum(pred_true == 1) / float(len(pred_true))
 
-    real_true = pred[target == 1]
+    real_true = pred[np.nonzero(target == 1)]
     recall = np.sum(real_true == 1) / float(len(real_true))
 
     f1_score = 2 * precision * recall / (precision + recall)
@@ -41,8 +61,10 @@ def evaluate(pred, target):
     print 'F1 Score:  %6.2f' % (f1_score * 100)
 
 
-def main(path_data='../data/',
+def main(path_data='/scratch/wl1191/MTEuroparl/data/wikipedia/',
          data_name='europarl-v7.es-en.en.tok.lower.dat',
+         data_train_name=None,  # '/scratch/wl1191/MTEuroparl/data/wikipedia/enwiki-20140707-corpus.articles.tok.lower.dat',
+         data_test_name=None,   # '/scratch/wl1191/MTEuroparl/data/europarl/europarl-v7.es-en.en.tok.lower.dat.test',
          path_params=None,
          split_ratio=0.8,
          batch_size=50,
@@ -77,7 +99,10 @@ def main(path_data='../data/',
         print 'Done\n'
 
     print 'Preparing data ...'
-    X_train, target_train, X_valid, target_valid = prepare_data(path_data + data_name, batch_size, split_ratio)
+    if data_name is not None:
+        X_train, Y_train, X_test, Y_test, num_added = prepare_data1(path_data + data_name, batch_size, split_ratio)
+    else:
+        X_train, Y_train, X_test, Y_test, num_added = prepare_data2(data_train_name, data_test_name, batch_size)
     print 'Done\n'
 
     num_batch = X_train.shape[0] / batch_size
@@ -87,33 +112,39 @@ def main(path_data='../data/',
         indices = np.arange(num_batch)
         np.random.shuffle(indices)
         for curr_idx, batch_idx in enumerate(indices):
-            X_batch = X_train[batch_size * batch_idx: batch_size * (batch_idx + 1)]
-            target_batch = target_train[batch_size * batch_idx: batch_size * (batch_idx + 1)]
-            cost = M.train(X_batch, target_batch)
+            X_train_batch = X_train[batch_size * batch_idx: batch_size * (batch_idx + 1)]
+            Y_train_batch = Y_train[batch_size * batch_idx: batch_size * (batch_idx + 1)]
+            cost = M.train(X_train_batch, Y_train_batch)
             total_cost += cost
-            # if verbose:
-            #     print 'Batch %d: %.5f' % (batch_idx, cost)
-            print_proc_bar(curr_idx + 1, num_batch)
+            if verbose and curr_idx % 100 == 0:
+                print 'Batch %d: %.5f' % (curr_idx, cost)
+                sys.stdout.flush()
+            # print_proc_bar(curr_idx + 1, num_batch)
         print '\nEpoch %d: total cost = %.5f\n' % (e, total_cost)
 
         print 'Predicting ...'
         prob = list()
-        num_batch = X_valid.shape[0] / batch_size
+        num_batch = X_test.shape[0] / batch_size
         for batch_idx in range(num_batch):
-            X_batch = X_valid[batch_size * batch_idx: batch_size * (batch_idx + 1)]
-            prob += [M.predict(X_batch)]
-            print_proc_bar(batch_idx + 1, num_batch)
+            X_test_batch = X_test[batch_size * batch_idx: batch_size * (batch_idx + 1)]
+            prob += [M.predict(X_test_batch)]
+            if verbose and batch_idx % 100 == 0:
+                print 'Batch %d' % (batch_idx)
+                sys.stdout.flush()
+            # print_proc_bar(batch_idx + 1, num_batch)
         print '\nDone\n'
 
-        prob = np.concatenate(prob)
+        prob = np.concatenate(prob)[num_added:]
         print 'Evaluating in epoch %d ...' % e
-        evaluate(prob > 0.5, target_valid)
+        evaluate(prob > 0.5, Y_test)
         print 'Done\n'
 
         if save_model:
             print 'Saving model ...'
-            M.save(path_data + 'params' + str(e) + '.pkl')
+            M.save(path_data + 'params/epoch' + str(e) + '.pkl')
             print 'Done\n'
+
+        sys.stdout.flush()
 
 
 def toy():
@@ -127,7 +158,8 @@ def toy():
         'lr': 0.01
     }
     embedding = np.arange(params['vocab_size'] * params['dim_emb']).reshape(
-        (params['vocab_size'], params['dim_emb'])).astype(theano.config.floatX)
+        (params['vocab_size'], params['dim_emb'])
+    ).astype(theano.config.floatX)
 
     print 'Building model ...'
     M = BiRNN(params, embedding)
@@ -137,13 +169,13 @@ def toy():
                   [1, 1, 3, 2],
                   [0, 3, 2, 0]]).astype('int32')
 
-    target = np.array([[0, 0, 1, 0],
-                       [1, 0, 0, 0],
-                       [0, 1, 1, 0]]).astype('int32')
+    Y = np.array([[0, 0, 1, 0],
+                  [1, 0, 0, 0],
+                  [0, 1, 1, 0]]).astype('int32')
 
     print 'Training ...'
     for i in range(500):
-        cost = M.train(X, target)
+        cost = M.train(X, Y)
         print 'Epoch %d: %.5f' % (i, cost)
     print 'Done\n'
 
@@ -151,7 +183,7 @@ def toy():
     prob = M.predict(X)
     print 'Done\n'
 
-    evaluate(prob > 0.5, target)
+    evaluate(prob > 0.5, Y)
 
 
 if __name__ == '__main__':
