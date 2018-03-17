@@ -16,9 +16,9 @@ def print_proc_bar(curr_index, total, proc_bar_width=40):
     print '\r[%s] %.2f%%' % ('=' * proc_count + ' ' * (proc_bar_width - proc_count), proc * 100),
 
 
-def format_prob(path_data='../data/wikipedia/',
-                path_prob='params/prob_euro2.pkl',
-                data_text='europarl-v7.es-en.en.tok.lower.numbered.dev'):
+def format_prob(path_data='../data/europarl/',
+                path_prob='params/prob_euro0.pkl',
+                data_text='europarl-v7.es-en.en.tok.lower.numbered.10000'):
     """
     Take the probability outputted by the model, and the text file for which the predictions are made,
     go through the text file and replace each token by its probability of not being translated.
@@ -37,7 +37,7 @@ def format_prob(path_data='../data/wikipedia/',
             total_line = sum(1 for _ in fin)
             fin.seek(0)
             for curr_idx, line in enumerate(fin):
-                line_num, sent = line.rstrip('\r\n').split('\t')
+                line_num, sent, _ = line.rstrip('\r\n').split('\t')
                 sent = sent.split(' ')
                 line_prob = ['{:.4f}'.format(p) for p in prob[curr_idx]]
 
@@ -62,9 +62,9 @@ def format_prob(path_data='../data/wikipedia/',
     print '\nDone\n'
 
 
-def get_confusion_matrix(path_data='../data/wikipedia/',
-                         path_prob='params/prob_euro2.pkl',
-                         data_text='europarl-v7.es-en.en.tok.lower.numbered.dev'):
+def get_confusion_matrix(path_data='../data/europarl/',
+                         path_prob='params/termProb_euro0.pkl',
+                         data_text='europarl-v7.es-en.en.tok.lower.numbered.10000'):
     """
     Take the probability outputted by the model, and the text file for which the predictions are made,
     for each token in the text file , compute the count of True Positives (TP), False Positives (FP),
@@ -115,10 +115,23 @@ def get_confusion_matrix(path_data='../data/wikipedia/',
     conf_mat['F1'] = 2 * conf_mat['Precision'] * conf_mat['Recall'] / denom
 
     conf_mat[::-1].sort(order=['F1', 'Total', 'Term'])
+
+    all_tp, all_fp, all_tn, all_fn = sum(tp.values()), sum(fp.values()), sum(tn.values()), sum(fn.values())
+    all_total = all_tp + all_fp + all_tn + all_fn
+    all_prec = float(all_tp) / (all_tp + all_fp)
+    all_rec = float(all_tp) / (all_tp + all_fn)
+    all_f1 = 2 * all_prec * all_rec / (all_prec + all_rec)
+    all_row = np.array([(u'Overall', all_tp, all_fp, all_tn, all_fn, all_total,
+                         all_prec, all_rec, all_f1)], dtype=dtypes)
+
+    conf_mat = np.concatenate([all_row, conf_mat])
     print 'Done\n'
 
     print 'Writing out ...'
-    workbook = xlsxwriter.Workbook(path_data + data_text + '.cm.xlsx')
+    suffix = '.cm.xlsx'
+    if 'termProb' in path_prob:
+        suffix = '.term' + suffix
+    workbook = xlsxwriter.Workbook(path_data + data_text + suffix)
     worksheet = workbook.add_worksheet()
 
     header = [dt[0] for dt in dtypes]
@@ -165,9 +178,9 @@ def lt_crawl(inp):
 
 
 def label_term(path_data='../data/',
-               data_text='wikipedia/enwiki-20140707-corpus.articles.tok.lower.numbered.dev',
+               data_text='europarl/europarl-v7.es-en.en.tok.lower.numbered.10000',
                data_term='termolator_terms.uniq.tok.lower.pkl',
-               n_proc=16):
+               n_proc=1):
     """
     Take the text file which contains the tokens and the list of terms identified by Termolator,
     go through the file and replace each token by 1 or 0 based on whether it belongs to a term
@@ -201,18 +214,25 @@ def label_term(path_data='../data/',
 
 
 def add_term_prob(path_data='../data/',
-                  data_text='wikipedia/europarl-v7.es-en.en.tok.lower.numbered.dev',
-                  extra_prob=.2):
+                  data_text='europarl/europarl-v7.es-en.en.tok.lower.numbered.10000',
+                  extra_prob=.2,
+                  max_len=50,
+                  path_new_prob='europarl/params/termProb_euro2.pkl'):
     """
     Suppose <data_text> + ".prob" and <data_text> + ".term" have been produced.
     Add some extra probabilities to those in <data_text> + ".prob" where
     the corresponding location in <data_text> + ".term" has an 1.
-    Output filename is <data_text> followed by a ".termProb" suffix.
+    Output filename is <data_text> followed by a ".term.prob" suffix.
+    Also create a matrix of the new probabilities in the same format as outputted by the model,
+    which could then be used in get_confusion_matrix()
     :param path_data: Path to the directory where the relevant files are located
     :param data_text: Name of the text file for which ".prob" and ".term" files have been produced
     :param extra_prob: Extra probabilities to be added
+    :param max_len: The length of each row in the new matrix of probabilities
+    :param path_new_prob: Path where the new matrix will be saved
     """
-    with open(path_data + data_text + '.termProb', 'w') as fout:
+    termProb = list()
+    with open(path_data + data_text + '.term.prob', 'w') as fout:
         with open(path_data + data_text + '.prob', 'r') as f_prob:
             total_line = sum(1 for _ in f_prob)
             f_prob.seek(0)
@@ -225,8 +245,22 @@ def add_term_prob(path_data='../data/',
                     probs = np.minimum(probs, 1.)
                     out_probs = ' '.join(['{:.4f}'.format(p) for p in probs])
                     fout.write(line_num + '\t' + out_probs + '\n')
+
+                    while len(probs) > max_len:
+                        termProb += [probs[:max_len]]
+                        probs = probs[max_len:]
+                    if len(probs) < max_len:
+                        probs = np.concatenate([probs, np.zeros((max_len - len(probs)), dtype=np.float32)])
+                    termProb += [probs]
+
                     print_proc_bar(idx + 1, total_line)
+    termProb = np.stack(termProb)
+    print '\ntermProb shape', termProb.shape
+    cPickle.dump(termProb, open(path_data + path_new_prob, 'w'))
 
 
 if __name__ == '__main__':
-    pass
+    format_prob()
+    get_confusion_matrix()
+    label_term()
+    add_term_prob()

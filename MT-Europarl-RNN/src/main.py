@@ -36,11 +36,10 @@ def evaluate(pred, target):
     print 'F1 Score:  %6.2f' % (f1_score * 100)
 
 
-def main(path_data='../data/wikipedia/',
-         data_train_name='enwiki-20140707-corpus.articles.tok.lower.numbered.train.50.dat',
+def main(path_data='../data/europarl/',
+         data_train_name='europarl-v7.es-en.en.tok.lower.numbered.10000.dgt.50.dat',
          data_dev_name={
-             'euro': 'europarl-v7.es-en.en.tok.lower.numbered.dev.50.dat',
-             'wiki': 'enwiki-20140707-corpus.articles.tok.lower.numbered.dev.50.dat'
+             'euro': 'europarl-v7.es-en.en.tok.lower.numbered.10000.50.dat'
          },
          path_params=None,
          batch_size=50,
@@ -48,7 +47,7 @@ def main(path_data='../data/wikipedia/',
          dim_hidden=300,
          grad_clip=100,
          lr=0.025,
-         nepoch=3,
+         nepoch=1,
          verbose=True,
          save=True):
     print 'Loading word embeddings ...'
@@ -84,11 +83,35 @@ def main(path_data='../data/wikipedia/',
         data_dev[dat] = {'X': X_dev, 'Y': Y_dev, 'num_added': num_added}
     print 'Done\n'
 
-    num_batch = X_train.shape[0] / batch_size
+    # for dat in data_dev:
+    #     print 'Predicting on %s ...' % dat
+    #     prob = list()
+    #     num_batch = data_dev[dat]['X'].shape[0] / batch_size
+    #     for batch_idx in range(num_batch):
+    #         X_dev_batch = data_dev[dat]['X'][batch_size * batch_idx: batch_size * (batch_idx + 1)]
+    #         prob += [M.predict(X_dev_batch)]
+    #         if verbose and batch_idx % 100 == 0:
+    #             print 'Batch %d' % (batch_idx)
+    #             sys.stdout.flush()
+    #         # print_proc_bar(batch_idx + 1, num_batch)
+    #     print '\nDone\n'
+
+    #     prob = np.concatenate(prob)[data_dev[dat]['num_added']:]
+    #     print 'Evaluating ...'
+    #     evaluate(prob > 0.5, data_dev[dat]['Y'])
+    #     print 'Done\n'
+
+    #     if save:
+    #         print 'Saving predictions ...'
+    #         cPickle.dump(prob, open(path_data + 'params/prob_' + dat + '2' + '.pkl', 'w'))
+    #         print 'Done\n'
+
     for e in range(nepoch):
         print 'Training in epoch %d ...' % e
         total_cost = 0
+        num_batch = X_train.shape[0] / batch_size
         indices = np.arange(num_batch)
+        print len(indices)
         np.random.shuffle(indices)
         for curr_idx, batch_idx in enumerate(indices):
             X_train_batch = X_train[batch_size * batch_idx: batch_size * (batch_idx + 1)]
@@ -100,7 +123,7 @@ def main(path_data='../data/wikipedia/',
                 sys.stdout.flush()
             # print_proc_bar(curr_idx + 1, num_batch)
         print '\nEpoch %d: total cost = %.5f\n' % (e, total_cost)
-
+    
         for dat in data_dev:
             print 'Predicting on %s ...' % dat
             prob = list()
@@ -113,22 +136,22 @@ def main(path_data='../data/wikipedia/',
                     sys.stdout.flush()
                 # print_proc_bar(batch_idx + 1, num_batch)
             print '\nDone\n'
-
+    
             prob = np.concatenate(prob)[data_dev[dat]['num_added']:]
             print 'Evaluating in epoch %d ...' % e
             evaluate(prob > 0.5, data_dev[dat]['Y'])
             print 'Done\n'
-
+    
             if save:
                 print 'Saving predictions ...'
                 cPickle.dump(prob, open(path_data + 'params/prob_' + dat + str(e) + '.pkl', 'w'))
                 print 'Done\n'
-
+    
         if save:
             print 'Saving model ...'
             M.save(path_data + 'params/epoch' + str(e) + '.pkl')
             print 'Done\n'
-
+    
         sys.stdout.flush()
 
 
