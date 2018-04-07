@@ -9,9 +9,9 @@ POS_dict = {}
 
 POS_dict_file = DICT_DIRECTORY+'POS.dict'
 
-ending_words = ['corp','inc','sa','cia','ltd','gmbh','co','llp','s.a.', '&c','sr','jr','jr.','sr.','md','m.d.','esq','esq.','rn','et','etc','al']
+ending_words = ['corp','inc','sa','cia','ltd','gmbh','co','llp','s.a.', '&c','sr','jr','jr.','sr.','md','m.d.','esq','esq.','rn','et','etc','al','ed','assn']
 
-org_ending_words = ['corp','inc','sa','cia','ltd','gmbh','co','llp','limited','s.a.', '&c']
+org_ending_words = ['corp','inc','sa','cia','ltd','gmbh','co','llp','limited','s.a.', '&c','ed','assn']
 
 person_ending_words = ['sr','jr','jr.','sr.','md','m.d.','esq','esq.','rn','deceased']
 
@@ -35,7 +35,29 @@ citation_closed_class = org_ending_words + person_ending_words + not_uppercase_p
 
 after_last_name_words = ending_words+alias_words+citation_filler_words+optional_abbrev_words
 
-legislation_part_words = ['chapter','section','division','paragraph','code','chapters','sections','divisions','paragraphs','codes']
+female_title_words = ['ms','ms.','miss','mrs.','mrs','senora','snr','madam','mme','lady','queen','princess',\
+                      'dutchess','tsarina','czarina','tsarista','baroness','Marquess','countess','countesa','dona',\
+                      'viscountess','archduchess','mistress']
+                      ## removed 'dame' due to "Notre Dame"
+male_title_words = ['mr','mr.','sr','mstr','sir','lord','sri','king','prince','duke','tsar','czar','baron',\
+                    'marquis','count','don','viscount','archduke','mister']
+
+org_nouns = ["government",  "academy", "administration", "agency", "airline","comm'n",\
+             "army", "association", "board", "business", "college", "church", "company", "corporation", "establishment", \
+             "institute", "institution", "firm", "group", "military", "office", "panel", "partnership", "party", \
+             "police", "school", "synagogue", "syndicate", "team", "trust", "union", "university", "organization", \
+             "cathedral", "coalition", "temple", "bank", "commission", "committee", "council", "court", "department", \
+             "division", "federation", "force", "guild", "industry", "mosque", "league", "parliament", "seminary", "society","house",'assn','assn.']
+
+gpe_nouns = ["union", "republic", "island", "land", "islands", "archipelago", "strait", "isles", "valley", "city", \
+             "atoll", "town", "straits", "union", "states", "isle", "rocks", "port","state","kingdom","principality",\
+             "nation", "village","city","town","empire", "metropolis", "country","capital","province","county"]
+
+legislation_part_words = ['chapter','section','division','paragraph','code','chapters','sections',\
+                          'divisions','paragraphs','codes','art','art.','arts','arts.']
+
+leglislative_words = ['section','chapter','clause','clauses','rule','rules','amendment','amendments','code','codes','constitution','const.',\
+                      'statute','statutes','amend','amend.','art','art.','act','arts','arts.','brief','proceedings','law','laws']
 
 def load_tab_deliniated_dict(dict_file,dictionary):
     with open(dict_file) as instream:
@@ -51,6 +73,25 @@ def load_tab_deliniated_dict(dict_file,dictionary):
             dictionary[line_list[0].lower()] = entry
 
 load_tab_deliniated_dict(POS_dict_file,POS_dict)
+
+def add_to_POS_dict_from_list(word,category):
+    if (word in POS_dict) and (not category in POS_dict[word]):
+        POS_dict[word].append(category)
+    elif not word in POS_dict:
+        POS_dict[word]=[category]
+
+## adding titles, org words and gpe words
+for word in female_title_words+male_title_words:
+    add_to_POS_dict_from_list(word,'TITLE')
+    
+for word in org_nouns:
+    add_to_POS_dict_from_list(word,'ORG_word')
+
+for word in gpe_nouns:
+    add_to_POS_dict_from_list(word,'GPE_word')
+
+for word in leglislative_words:
+    add_to_POS_dict_from_list(word,'LEGISLATIVE_word')
 
 def wol_escape(instring):
     return(escape(instring).replace('"','&quot;'))
@@ -246,3 +287,12 @@ def capture_roman(num_string):
     else:
         return 0
 
+
+def is_initial(word):
+    if (len(word) == 1) and word.isupper() and (word in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'):
+        return(True)
+    elif (len(word) == 2) and (word[1] == '.') and (word[0].isupper()) \
+      and (word[0] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'):
+        return(True)
+    else:
+        return(False)
