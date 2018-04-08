@@ -1,0 +1,45 @@
+This is a test file.
+test\fixed_files\108713
+
+    AMENDMENTS:
+
+Natural Reference:
+
+In the second amendment we find something.
+In the Second Amendment we find others.
+From the First and Second Amendment we deduce something.
+First, Second and Third Amendments reveal this.
+In the First Amendment we find this. Then in the Second Amendment we found that. Then From the First and Second Amendment we deduce something also in the First, Second and Third Amendments.
+
+Formal Citation:
+
+Per U.S. CONST. AMEND. 12, §3, cl.1, we find precedent of this.
+Per U.S. Const. amend. XIII, §2, we find that.
+
+    CONSTITUTION CITATIONS:
+
+Per U.S. Const. art. III, § 2, cl. 22, something.
+Per U.S. Const. art. III, we find something.
+Per N.Y. Const. art. III, § 2 there is a thing.
+Per N.Y. Const. amend. 2, § 2 there is a thing.
+
+    STATUTE CITATIONS
+
+Federal:
+
+In 42 U.S.C. § 405(c)(2)(C)(ii), something.
+In 42 U.S.C. § 405(c)(2)(II)(2), something.
+In 42 U.S.C. § 405(XVI)(2)(II)(2), something.
+In 42 U.S.C. § 405(2)(II)(2), something.
+In 42 U.S.C. § 405(II)(2), something.
+In 42 U.S.C. § 405(2), something.
+Fla. Stat. Ann. §§ 782.09, 782.10, 797.01, 797.02, 782.16
+
+State:
+
+Iowa Code § 602.1614.
+Cal. Prob. Code § 141.
+
+    ALL
+
+In the First Amendment we find this. Then in the Second Amendment we found that. Then From the First and Second Amendment we deduce something also in the First, Second and Third Amendments. From Iowa Code § 602.1614. and Cal. Prob. Code § 141 we find this and from 42 U.S.C. § 405(XVI)(2)(II)(2) as well.

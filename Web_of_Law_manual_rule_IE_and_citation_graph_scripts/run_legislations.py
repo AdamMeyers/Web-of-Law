@@ -14,6 +14,6 @@ def main (args):
             file_id = base_file[sep_index:]
         else:
             file_id = base_file
-        find_legislations(base_file+'.txt',base_file+'.case8',file_id)
+        find_legislations(base_file+'.txt',file_id)
 
 if __name__ == '__main__': sys.exit(main(sys.argv))
