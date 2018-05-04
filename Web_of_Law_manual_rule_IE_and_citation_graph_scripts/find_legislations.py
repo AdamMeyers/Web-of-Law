@@ -586,7 +586,7 @@ def find_legislations(txt, file_id):
                         offset,
                         line_num,
                         len(legs),
-                        file_id[0:] + "_"
+                        file_id.strip('\\') + "_"
                     )
                     offset += len(matched_string)
                     for x in cits: print(x)
