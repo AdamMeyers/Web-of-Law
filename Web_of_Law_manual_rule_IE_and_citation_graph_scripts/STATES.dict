@@ -10,6 +10,7 @@ Ark.	Arkansas
 AR	Arkansas
 Arkansas	Arkansas
 Cal.	California
+Calif.	California
 CA	California
 California	California
 Colo.	Colorado
@@ -21,6 +22,8 @@ Connecticut	Connecticut
 Del.	Delaware
 DE	Delaware
 Delaware	Delaware
+D.C.	District of Columbia
+DC	District of Columbia
 Fla.	Florida
 FL	Florida
 Florida	Florida
@@ -85,7 +88,7 @@ NJ	New Jersey
 N.J.	New Jersey
 New	Jersey	New Jersey
 NM	New Mexico
-N.W.	New Mexico
+N.M.	New Mexico
 New Mexico	New Mexico
 NY	New York
 N.Y.	New York
@@ -104,6 +107,7 @@ Okla.	Oklahoma
 Oklahoma	Oklahoma
 OR	Oregon
 Or.	Oregon
+Ore.	Oregon
 Oregon	Oregon
 PA	Pennsylvania
 Pa.	Pennsylvania
