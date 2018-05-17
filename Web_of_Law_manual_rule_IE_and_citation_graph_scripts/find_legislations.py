@@ -1,9 +1,51 @@
 import re
-from wol_utilities import capture_roman
+import roman
 
 # Captures amendments to the US constitution
 # TODO: capture references to Amendments as antecedents from later, proximal references like
 #   "from the Amendment [mentioned earlier]"
+
+##################
+# GENERAL REGEX: #
+##################
+
+roman_num_rexp = '(?:[MCLDXVI]+)'
+numeral_rexp = roman_num_rexp + '|(?:\d+)'
+section_numeral_rexp = '((?:{0}-?\.?:?)+)'.format(numeral_rexp)
+section_numeral_rexp_noncap = '(?:(?:{0}-?\.?:?)+)'.format(numeral_rexp)
+
+
+def get_states_dict():
+    """Returns a dict of abbreviation of state names to full state name
+
+    :return:
+    """
+    states_dict = {}
+    with open('STATES.dict') as instream:
+        for line in instream:
+            states_dict[line.split('\t')[0].replace('. ', '.')] = line.split('\t')[1].strip()
+    # states_dict['U.S.'] = 'Federal'
+    return states_dict
+
+
+states_rexp = ''
+for o in get_states_dict():
+    # states_rexp += '(?:{0})|'.format(o.replace('.', '\.'))
+    states_rexp += '(?:{0})|'.format(re.sub(r'(\w)\.(\w)\.', r'\1. ?\2.', o).replace('.', '\.'))
+
+states_rexp = states_rexp[:len(states_rexp) - 1]
+body_rexp = states_rexp + '|(?:U\.S\.)'
+
+title_rexp = 'Tit\. ?({0})'.format(section_numeral_rexp)
+part_rexp = 'pt\. ?({0})'.format(section_numeral_rexp)
+division_rexp = 'div\. ?({0})'.format(section_numeral_rexp)
+paragraph_rexp = 'par\. ?({0})'.format(section_numeral_rexp)
+article_rexp = 'Arts?\. ?({0})'.format(section_numeral_rexp)
+chapter_rexp = 'ch?\. ?({0})'.format(section_numeral_rexp)
+clause_rexp = 'cl\. ?({0})'.format(section_numeral_rexp)
+section_rexp = r'(?:(?:§§? ?(?:(?:(?:(?:pp?\. ?)|(?:c\. ?)|(?:subc\. ?))?\d+[A-Za-z]{0,2}(?: ?\(\d{1,3}\))?(?:\. ?|, |-| to | at |,? and |:|; ?| ))+))+)'
+
+document_location_rexp = r'(?:(?:(?:(?:(?:Tit\.)|(?:ch?\.)|(?:subc\.)|(?:pt\.)|(?:par\.)|(?:Arts?\.)|(?:cl\.)|(?:div\.)) ?(?:[MCLDXVI]+|\d+-?\.?:?)*),? ?(?:,? ?and )?)+)'
 
 ############################
 # NATURAL AMENDMENT REGEX: #
@@ -74,33 +116,9 @@ informal_amend_rexp = '({0})' \
                       '(?:{1})' \
     .format(ordinal_rexp, amend_rexp)
 
-
 ##################################
 # CONSTITUTIONAL CITATION REGEX: #
 ##################################
-
-
-def get_states_dict():
-    """Returns a dict of abbreviation of state names to full state name
-
-    :return:
-    """
-    states_dict = {}
-    with open('STATES.dict') as instream:
-        for line in instream:
-            states_dict[line.split('\t')[0]] = line.split('\t')[1].strip()
-    states_dict['U.S.'] = 'Federal'
-    return states_dict
-
-
-states_rexp = ''
-for o in get_states_dict():
-    states_rexp += '(?:{0})|'.format(o.replace('.', '\.'))
-states_rexp = states_rexp[:len(states_rexp) - 1]
-body_rexp = states_rexp + '|(?:U\.S\.)'
-
-roman_num_rexp = '(?:[MCLDXVI]+)'
-numeral_rexp = roman_num_rexp + '|(?:\d+)'
 
 const_cit_rexp = '({0}) ' \
                  '(?:(?:Const\.)|(?:CONST\.)) ' \
@@ -116,14 +134,80 @@ const_cit_rexp = '({0}) ' \
 
 federal_statute_cit_rexp = '(\d+) U\. ?S\. ?C\. § ?(\d+)((?:\(.\))+)?'
 # state_statute_cit_rexp = '({0}) (?:\w+\W+ )?(?:Code)? (\w+\W )+§§? (\d+\W? ?)+ ' \
-state_statute_cit_rexp = '({0}) ((?:\w{{2,}}?\W? ){{0,5}})(?:c\. ((?:\w+?)|(?:\d+?)), ?)?§§? (\d+(?:\W?\d+)*)*' \
-    .format(states_rexp)
+state_statute_cit_rexp = (r'({0}) '  # state
+                          r'((?: ?\w{{0,}}\W*? ){{1,7}}?)'  # doc title
+                          r'(?:'  # start alternating so we can get either doc loc, doc section or both
+                          r'({2})'  # doc location
+                          r'|'  # OR
+                          r'({1})'  # section
+                          r'){{1,2}} ?'  # capt either doc location, section or both
+                          r'(?:\((?: ?\w{{0,}}\W*? ){{0,3}}?(\d{{4}})\))?'  # date
+                          ) \
+    .format(
+    states_rexp,
+    section_rexp,
+    document_location_rexp,
+)
 
 ###########################################
 # NATURAL CONSTITUTIONAL REFERENCE REGEX: #
 ###########################################
 
-informal_const_rexp = '(?:United States)?(?: the)? Constitution (?:of the United States)?'
+informal_const_rexp = '((?:[tT]he)|(?:[oO]ur))?(?: (?:Federal)|(?:United States))? Constitution(?: of the United States)?'
+
+
+###################
+# UTIL FUNCTIONS: #
+###################
+
+
+def ordinal_to_number(ordinal_string):
+    """Returns numerical value of given ordinal string
+
+    :param ordinal_string:
+    :return: the numerical value of the ordinal
+    """
+    if ordinal_string in ordinal_variants:
+        return ordinal_variants[ordinal_string]
+    else:
+        return 0
+
+
+def replace_roman_nums_with_ints(num_string):
+    """Returns the given string with Roman numerals converted to Hindu-Arabic Numerals
+
+    :param num_string:
+    :return:
+    """
+
+    if not num_string:
+        return ''
+
+    roman_num_rexp_cap = '({0})'.format(roman_num_rexp)
+    arabized_num_string = re.sub(
+        roman_num_rexp_cap,
+        lambda matchobj: '{}'.format(roman.fromRoman(matchobj.group(1))),
+        num_string,
+    )
+
+    return arabized_num_string
+
+
+def body_abbrev_to_full(abbrev):
+    """Returns a full state name given an abbreviation, or "U.S." if "U.S." is given
+
+    :param abbrev:
+    :return:
+    """
+    bodies = get_states_dict()
+    bodies['U.S.'] = 'Federal'
+    bodies['U. S.'] = 'Federal'
+    return bodies[abbrev.replace(' ', '')]
+
+
+##################
+# CAPTURE LOGIC: #
+##################
 
 
 def capture_informal_amendment_ordinals(in_string):
@@ -224,14 +308,26 @@ def capture_state_statute_cits(in_string):
     """
     const_pattern = re.compile(state_statute_cit_rexp)
     match = const_pattern.search(in_string)
+
     if match:
+        state = match.group(1)
+        document = '{} {}'.format(state, match.group(2))
+        section = (match.group(4) or '').strip()
+        date = match.group(5)
+        doc_loc = match.group(3)
+        article_match = re.compile(article_rexp).search(doc_loc) if doc_loc else ''
+        chapter_match = re.compile(chapter_rexp).search(doc_loc) if doc_loc else ''
+        title_match = re.compile(title_rexp).search(doc_loc) if doc_loc else ''
         return [
             match.group(0),  # matched string
-            match.group(1),  # state
-            match.group(2),  # article
-            match.group(3),  # chapter
-            match.group(4),  # section
-            # match.group(5),  # subsection
+            state,  # state
+            document,
+            article_match.group(1) if article_match else '',  # article
+            chapter_match.group(1) if chapter_match else '',  # chapter
+            title_match.group(1) if title_match else '',  # title
+            section,  # section
+            doc_loc,
+            date if date else '',
         ]
     else:
         return []
@@ -261,47 +357,6 @@ def find_legislations_in_line(in_string):
             legs.extend(list(map(lambda x: x.group(0), matches)))
 
     return legs
-
-
-def ordinal_to_number(ordinal_string):
-    """Returns numerical value of given ordinal string
-
-    :param ordinal_string:
-    :return: the numerical value of the ordinal
-    """
-    if ordinal_string in ordinal_variants:
-        return ordinal_variants[ordinal_string]
-    else:
-        return 0
-
-
-def numeral_to_int(num_string):
-    """Returns an int corresponding to the given numeral string
-
-    :param num_string:
-    :return:
-    """
-
-    if not num_string:
-        return 0
-    num = 0
-    roman_match = capture_roman(num_string)
-    if roman_match:
-        num = roman_match
-    elif re.search('\d+', num_string):
-        num = int(re.search('(\d+)', num_string).group(1))
-
-    return num
-
-
-def body_abbrev_to_full(abbrev):
-    """Returns a full state name given an abbreviation, or "U.S." if "U.S." is given
-
-    :param abbrev:
-    :return:
-    """
-    bodies = get_states_dict()
-    return bodies[abbrev]
 
 
 def generate_legislation_citations_from_string(in_string, offset, line_num, leg_count, file_id):
@@ -342,9 +397,9 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
             file_id + str(leg_count + 1),
             body_abbrev_to_full(matches['const_cit'][1]),
             matches['const_cit'][2],
-            numeral_to_int(matches['const_cit'][3]),
-            numeral_to_int(matches['const_cit'][4]),
-            numeral_to_int(matches['const_cit'][5]),
+            replace_roman_nums_with_ints(matches['const_cit'][3]),
+            replace_roman_nums_with_ints(matches['const_cit'][4]),
+            replace_roman_nums_with_ints(matches['const_cit'][5]),
             str.strip(matches['const_cit'][0])
         )])
 
@@ -358,18 +413,12 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
         )])
 
     if len(matches['federal_statute']):
-        cits.extend([generate_statute_citation(
-            offset,
-            offset + len(matches['federal_statute'][0]),
-            line_num,
-            file_id + str(leg_count + 1),
-            'federal',
-            numeral_to_int(matches['federal_statute'][1]),
-            '',
-            numeral_to_int(matches['federal_statute'][2]),
-            matches['federal_statute'][3],
-            str.strip(matches['federal_statute'][0])
-        )])
+        cits.extend([generate_statute_citation(offset, offset + len(matches['federal_statute'][0]), line_num,
+                                               file_id + str(leg_count + 1), 'federal',
+                                               replace_roman_nums_with_ints(matches['federal_statute'][1]), '',
+                                               replace_roman_nums_with_ints(matches['federal_statute'][2]),
+                                               matches['federal_statute'][3], str.strip(matches['federal_statute'][0]),
+                                               'United States Code')])
 
     if len(matches['state_statute']):
         cits.extend([generate_statute_citation(
@@ -378,12 +427,13 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
             line_num,
             file_id + str(leg_count + 1),
             body_abbrev_to_full(matches['state_statute'][1]),
-            matches['state_statute'][2],  # article
-            numeral_to_int(matches['state_statute'][3]),  # chapter
-            numeral_to_int(matches['state_statute'][4]),  # section
-            # matches['state_statute'][5],  # subsection
-            "",  # subsection
-            str.strip(matches['state_statute'][0])  # full match text
+            matches['state_statute'][3],  # article
+            replace_roman_nums_with_ints(matches['state_statute'][4]),  # chapter
+            replace_roman_nums_with_ints(matches['state_statute'][6]),  # section
+            matches['state_statute'][7],  # subsection
+            str.strip(matches['state_statute'][0]),  # full match text
+            matches['state_statute'][2],
+            matches['state_statute'][8],
         )])
 
     return cits
@@ -496,7 +546,7 @@ def generate_const_reference(start_index, end_index, line_num, cit_id, text):
                'end="{2}" ' \
                'line="{3}">' \
                '{4}' \
-               '</citation>' \
+               '</reference>' \
         .format(
         cit_id,
         start_index,
@@ -509,9 +559,10 @@ def generate_const_reference(start_index, end_index, line_num, cit_id, text):
 
 
 def generate_statute_citation(start_index, end_index, line_num, cit_id, body, article, chapter, section, subsection,
-                              text):
+                              text, document, date=''):
     """Returns a citation string for a statute citation
 
+    :param date:
     :param start_index:
     :param end_index:
     :param line_num:
@@ -532,10 +583,12 @@ def generate_statute_citation(start_index, end_index, line_num, cit_id, body, ar
                'end="{2}" ' \
                'line="{3}" ' \
                'body="{4}" ' \
+               'document="{10}" ' \
                'article="{5}" ' \
                'chapter="{6}" ' \
                'section="{7}" ' \
-               'subsection="{8}">' \
+               'date="{11}" ' \
+               'location="{8}">' \
                '{9}' \
                '</citation>' \
         .format(
@@ -543,12 +596,14 @@ def generate_statute_citation(start_index, end_index, line_num, cit_id, body, ar
         start_index,
         end_index,
         line_num,
-        body,
-        article,
-        chapter,
-        section,
-        subsection or '',
-        text
+        body.strip(),
+        article.strip(),
+        chapter.strip(),
+        section.strip(),
+        subsection.strip() if subsection else '',
+        text.strip(),
+        document.strip(),
+        date.strip(),
     )
 
     return citation

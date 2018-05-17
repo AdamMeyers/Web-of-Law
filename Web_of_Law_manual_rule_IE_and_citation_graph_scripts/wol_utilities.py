@@ -1,6 +1,5 @@
 import os
 import re
-import roman
 from xml.sax.saxutils import escape
 from xml.sax.saxutils import unescape
 DICT_DIRECTORY = os.path.dirname(os.path.realpath(__file__)) + os.sep
@@ -270,22 +269,6 @@ def standardize(name):
     standard = standard.split()
     standard = filter(lambda i: i not in ['ET','AL','APPELLANT','APPELLANTS','APPELLEE','APPELLEES'], standard)
     return ' '.join(standard)
-
-def capture_roman(num_string):
-    """Return numerical value of line if it's a roman num, 0 otherwise
-
-    :param num_string: string to match
-    :return: int
-    """
-    # roman_rexp = "(M{1, 4}(CM | CD | D?C{0, 3})(XC | XL | L?X{0, 3})(IX | IV | V?I{0, 3}) | M{0, 4}(CM | C?D | D?C{1, 3})(XC | XL | L?X{0, 3})(IX | IV | V?I{0, 3}) | M{0, 4}(CM | CD | D?C{0, 3})(XC | X?L | L?X{1, 3})(IX | IV | V?I{0, 3}) | M{0, 4}(CM | CD | D?C{0, 3})(XC | XL | L?X{0, 3})(IX | I?V | V?I{1, 3}))"
-    roman_rexp = '[MCLDXVI]+'
-    rom = re.compile(roman_rexp)
-    match = rom.match(num_string)
-
-    if match:
-        return roman.fromRoman(match.group(0))
-    else:
-        return 0
 
 
 def is_initial(word):
