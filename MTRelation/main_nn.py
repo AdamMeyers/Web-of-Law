@@ -128,8 +128,8 @@ def evaluate(pred, label, idx2sys):
 def main(
     path_data='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/data/',
     path_doc='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/doc/',
-    mode='top3',
-    model_id='3',
+    mode='top3',    # 'prev', 'all', 'top3', or 'each3'
+    model_id='3',   # 'BiRNN', '0', '1', '2', '3', or '4'
     batch_size=50,
     lr=0.025,
     nepoch=1,

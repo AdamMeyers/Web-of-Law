@@ -72,8 +72,8 @@ def predict(M, X, num_added, batch_size):
 
 
 def clf(path_data='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/data/',
-        mode='each3',
-        data_type='en_Tfidf5',
+        mode='each3',    # 'prev', 'all', 'top3', or 'each3'
+        data_type='en_Tfidf5',    # 'en_Tfidf', 'en_Tfidf5', or 'en-es_Tfidf5'
         clf_name='LogisticRegression',
         balance=False,
         verbose=True,
