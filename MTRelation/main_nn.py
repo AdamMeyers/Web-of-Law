@@ -126,8 +126,8 @@ def evaluate(pred, label, idx2sys):
 
 
 def main(
-    path_data='/scratch/wl1191/MTRelation/data/',
-    path_doc='/scratch/wl1191/MTRelation/doc/',
+    path_data='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/data/',
+    path_doc='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/doc/',
     mode='top3',
     model_id='3',
     batch_size=50,

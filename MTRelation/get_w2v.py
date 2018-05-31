@@ -13,8 +13,8 @@ class DocIterator:
                 yield line.split(' ')
 
 
-def train(path_doc='/scratch/wl1191/MTScore/data/es.2016.omega.tm',
-          path_out='../data/',
+def train(path_doc='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/doc/es.2016.omega.tm',
+          path_out='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/data/',
           suffix='es',
           dim_emb=300):
     print 'Generating word vectors ...\n'

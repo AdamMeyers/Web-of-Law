@@ -71,7 +71,7 @@ def predict(M, X, num_added, batch_size):
     return np.concatenate(prob)[num_added:]
 
 
-def clf(path_data='/scratch/wl1191/MTRelation/data/',
+def clf(path_data='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/data/',
         mode='each3',
         data_type='en_Tfidf5',
         clf_name='LogisticRegression',
