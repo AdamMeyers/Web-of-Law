@@ -142,7 +142,7 @@ def clf(path_data='/misc/proteus1/data/jortega/Web-of-Law/MT/MTRelation/data/',
 
     if save:
         folder_out = data_type + '_b%d' % balance
-        path_out = path_data + mode + '/params/' + clf_name + '_' + folder_out + '/'
+        path_out = path_data + 'params/' + mode + '/' + clf_name + '_' + folder_out + '/'
         if not os.path.exists(path_out):
             os.makedirs(path_out)
 
