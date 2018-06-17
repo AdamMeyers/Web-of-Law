@@ -1,10 +1,5 @@
 import re
 import roman
-
-# Captures amendments to the US constitution
-# TODO: capture references to Amendments as antecedents from later, proximal references like
-#   "from the Amendment [mentioned earlier]"
-
 ##################
 # GENERAL REGEX: #
 ##################
@@ -625,33 +620,38 @@ def find_legislations(txt, file_id):
 
         for line in instream:
 
-            line_offset = len(line)
+            line_remainder = len(line)
             legis_matches = find_legislations_in_line(line)  # get list of matches
 
-            if legis_matches:
-                # get the matches in order
-                for matched_string in legis_matches:
-                    match_index = line.find(matched_string)
-                    offset += match_index
-                    line_offset -= len(matched_string)
-                    line_offset -= match_index
-                    # create a citation
-                    cits = generate_legislation_citations_from_string(
-                        matched_string,
-                        offset,
-                        line_num,
-                        len(legs),
-                        file_id.strip('\\') + "_"
-                    )
-                    offset += len(matched_string)
-                    for x in cits: print(x)
-                    legs.extend(cits)
+            # get the matches in order
+            for matched_string in (legis_matches if legis_matches else ()):
 
-                    # substr the line from start point of match to end of line
-                    # this is so we don't capture only the first ref to repeated amendments
-                    line = line[match_index + len(matched_string):]
+                # get the start offest of the match
+                start_index = line.find(matched_string)
+
+                # increment the global offset by the start offset
+                offset += start_index
+
+                # decrement the line remainder by (the match length + start offset) to cut out "the line so far"
+                line_remainder -= len(matched_string) + start_index
+
+                # create a citation
+                cits = generate_legislation_citations_from_string(
+                    matched_string,
+                    offset,
+                    line_num,
+                    len(legs),
+                    file_id.strip('\\') + "_"
+                )
+                offset += len(matched_string)
+                for x in cits: print(x)
+                legs.extend(cits)
+
+                # substr the line from start point of match to end of line
+                # this is so we don't capture only the first ref to repeated amendments
+                line = line[start_index + len(matched_string):]
 
             line_num = line_num + 1
-            offset += line_offset
+            offset += line_remainder
     # print(legs)
     return legs
