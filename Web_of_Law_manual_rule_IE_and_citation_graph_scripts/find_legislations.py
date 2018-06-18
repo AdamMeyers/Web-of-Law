@@ -221,20 +221,19 @@ def capture_informal_amendment_ordinals(in_string):
     full_amend_pattern = re.compile(informal_amend_rexp)
     amend_matches = full_amend_pattern.finditer(in_string)
     for amend_match in amend_matches:
-        # result.append({ 'match': amend_match.group(0), 'start': amend_match.start() })
         result.append({'ordinal': amend_match[1], 'match': amend_match.group(0),
-                       'start': amend_match.group(0).find(amend_match.group(1))})
+                       'start': amend_match.start()})
         # The middle group is a string of the comma separated amendment
         # mentions between the first and last mentions
         # It will be split such that empty strings are possible
         # Thus they are filtered out
         if amend_match.group(2):
             result.extend(
-                list(map(lambda x: {'ordinal': x, 'match': amend_match.group(0), 'start': amend_match.group(2).find(x)},
+                list(map(lambda x: {'ordinal': x, 'match': amend_match.group(0), 'start': amend_match.start()},
                          filter(lambda x: x, amend_match.group(2).split(", ")))))
         if amend_match.group(3):
             result.append({'ordinal': amend_match[3], 'match': amend_match.group(0),
-                           'start': amend_match.group(0).find(amend_match.group(3))})
+                           'start': amend_match.start()})
     return result
 
 
@@ -387,7 +386,7 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
     cits.extend(list(map(lambda x: {
         'type': 'amend_ref',
         'start_index': offset + x['start'],
-        'end_index': offset + len(x['match']),
+        'end_index': offset + x['start'] + len(x['match']),
         'line_num': line_num,
         'cit_id': -1,
         'amend_num': ordinal_to_number(x['ordinal']),
@@ -397,7 +396,7 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
     cits.extend(list(map(lambda x: {
         'type': 'const_cit',
         'start_index': offset + x.start(),
-        'end_index': offset + len(x[0]),
+        'end_index': offset + x.start() + len(x[0]),
         'line_num': line_num,
         'cit_id': -1,
         'jurisdiction': body_abbrev_to_full(x[1]),
@@ -411,7 +410,7 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
     cits.extend(list(map(lambda x: {
         'type': 'const_ref',
         'start_index': offset + x.start(),
-        'end_index': offset + len(x[0]),
+        'end_index': offset + x.start() + len(x[0]),
         'line_num': line_num,
         'cit_id': -1,
         'text': str.strip(x[0])
@@ -419,8 +418,8 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
 
     cits.extend(list(map(lambda x: {
         'type': 'federal_statute',
-        'start_index': offset,
-        'end_index': offset + len(x[0]),
+        'start_index': offset + x.start(),
+        'end_index': offset + x.start() + len(x[0]),
         'line_num': line_num,
         'cit_id': -1,
         'body': 'federal',
@@ -435,7 +434,7 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
     cits.extend(list(map(lambda x: {  # this one still processes a list not a match objet
         'type': 'state_statute',
         'start_index': offset + int(x[9]),  # temp: get offset from last list element of capture func
-        'end_index': offset + len(x[0]),
+        'end_index': offset + int(x[9]) + len(x[0]),
         'line_num': line_num,
         'cit_id': -1,
         'body': body_abbrev_to_full(x[1]),
@@ -470,7 +469,7 @@ def generate_citation_strings_from_pseudo_cits(file_id, id_index, cits):
 
     new_cits = []
 
-    for index, cit in enumerate(cits):
+    for index, cit in enumerate(cits, start=1):
         cit['cit_id'] = file_id + str(id_index + index)
         new_cits.append(cit_convert(cit))
 
