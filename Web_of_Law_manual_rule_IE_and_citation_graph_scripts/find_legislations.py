@@ -1,5 +1,7 @@
 import re
+
 import roman
+
 ##################
 # GENERAL REGEX: #
 ##################
@@ -215,21 +217,25 @@ def capture_informal_amendment_ordinals(in_string):
     :return: a list of strings
     """
 
-    matches = []
+    result = []
     full_amend_pattern = re.compile(informal_amend_rexp)
-    amend_match = full_amend_pattern.search(in_string)
-    if amend_match:
-        matches.append(amend_match.group(0))
-        matches.append(amend_match.group(1))
+    amend_matches = full_amend_pattern.finditer(in_string)
+    for amend_match in amend_matches:
+        # result.append({ 'match': amend_match.group(0), 'start': amend_match.start() })
+        result.append({'ordinal': amend_match[1], 'match': amend_match.group(0),
+                       'start': amend_match.group(0).find(amend_match.group(1))})
         # The middle group is a string of the comma separated amendment
         # mentions between the first and last mentions
         # It will be split such that empty strings are possible
         # Thus they are filtered out
         if amend_match.group(2):
-            matches.extend(list(filter(lambda x: x, amend_match.group(2).split(", "))))
+            result.extend(
+                list(map(lambda x: {'ordinal': x, 'match': amend_match.group(0), 'start': amend_match.group(2).find(x)},
+                         filter(lambda x: x, amend_match.group(2).split(", ")))))
         if amend_match.group(3):
-            matches.append(amend_match.group(3))
-    return matches
+            result.append({'ordinal': amend_match[3], 'match': amend_match.group(0),
+                           'start': amend_match.group(0).find(amend_match.group(3))})
+    return result
 
 
 def capture_const_cits(in_string):
@@ -241,16 +247,17 @@ def capture_const_cits(in_string):
     """
 
     const_pattern = re.compile(const_cit_rexp)
-    match = const_pattern.search(in_string)
-    if match:
-        return [
-            match.group(0),  # matched string
-            match.group(1),  # jurisdiction
-            match.group(2),  # article | amendment?
-            match.group(3),  # article/amend num
-            match.group(4),  # section
-            # match.group(5),  # clause
-        ]
+    matches = const_pattern.finditer(in_string)
+    if matches:
+        # return [
+        #     match.group(0),  # matched string
+        #     match.group(1),  # jurisdiction
+        #     match.group(2),  # article | amendment?
+        #     match.group(3),  # article/amend num
+        #     match.group(4),  # section
+        #     # match.group(5),  # clause
+        # ]
+        return matches
     else:
         return []
 
@@ -266,11 +273,11 @@ def capture_informal_constitutional_refs(in_string):
     """
 
     const_ref_pattern = re.compile(informal_const_rexp)
-    match = const_ref_pattern.search(in_string)
-    if match:
-        return [
-            match.group(0),  # matched string
-        ]
+    matches = const_ref_pattern.finditer(in_string)
+    if matches:
+        return matches
+        # match.group(0),  # matched string
+        # ]
     else:
         return []
 
@@ -282,15 +289,9 @@ def capture_federal_statute_cits(in_string):
     :return:
     """
     const_pattern = re.compile(federal_statute_cit_rexp)
-    match = const_pattern.search(in_string)
-    if match:
-        return [
-            match.group(0),  # matched string
-            match.group(1),  # article
-            # match.group(2),  # chapter
-            match.group(2),  # section
-            match.group(3),  # subsection
-        ]
+    matches = const_pattern.finditer(in_string)
+    if matches:
+        return matches
     else:
         return []
 
@@ -302,9 +303,11 @@ def capture_state_statute_cits(in_string):
     :return:
     """
     const_pattern = re.compile(state_statute_cit_rexp)
-    match = const_pattern.search(in_string)
+    matches = const_pattern.finditer(in_string)
 
-    if match:
+    res = []
+
+    for match in matches:
         state = match.group(1)
         document = '{} {}'.format(state, match.group(2))
         section = (match.group(4) or '').strip()
@@ -313,7 +316,8 @@ def capture_state_statute_cits(in_string):
         article_match = re.compile(article_rexp).search(doc_loc) if doc_loc else ''
         chapter_match = re.compile(chapter_rexp).search(doc_loc) if doc_loc else ''
         title_match = re.compile(title_rexp).search(doc_loc) if doc_loc else ''
-        return [
+
+        res.append([
             match.group(0),  # matched string
             state,  # state
             document,
@@ -323,39 +327,39 @@ def capture_state_statute_cits(in_string):
             section,  # section
             doc_loc,
             date if date else '',
-        ]
-    else:
-        return []
+            match.start()
+        ])
+    return res
 
 
-def find_legislations_in_line(in_string):
-    """Return a list of strings matching all current leglislation rexps from a given line
-
-    :param in_string:
-    :return: (list<str>) A list of strings
-    """
-    if not in_string or in_string == '\n':
-        return
-
-    rexps = [
-        informal_amend_rexp,
-        const_cit_rexp,
-        federal_statute_cit_rexp,
-        state_statute_cit_rexp,
-        informal_const_rexp
-    ]
-    legs = []
-    for exp in rexps:
-        pattern = re.compile(exp)
-        matches = list(pattern.finditer(in_string))
-        if matches:
-            legs.extend(list(map(lambda x: x.group(0), matches)))
-
-    return legs
+# def find_legislations_in_line(in_string):
+#     """Return a list of strings matching all current leglislation rexps from a given line
+#
+#     :param in_string:
+#     :return: (list<str>) A list of strings
+#     """
+#     if not in_string or in_string == '\n':
+#         return
+#
+#     rexps = [
+#         informal_amend_rexp,
+#         const_cit_rexp,
+#         federal_statute_cit_rexp,
+#         state_statute_cit_rexp,
+#         informal_const_rexp
+#     ]
+#     legs = []
+#     for exp in rexps:
+#         pattern = re.compile(exp)
+#         matches = list(pattern.finditer(in_string))
+#         if matches:
+#             legs.extend(list(map(lambda x: x.group(0), matches)))
+#
+#     return legs
 
 
 def generate_legislation_citations_from_string(in_string, offset, line_num, leg_count, file_id):
-    """Returns an array of citation strings from a given string of natural references to amendments
+    """Returns an array of citation strings from a given string
 
     :param in_string: string that matches natural amendment format
     :param offset: byte offset in file in_string starts from
@@ -366,72 +370,111 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
     """
 
     matches = {
-        'amendment': capture_informal_amendment_ordinals(in_string) or [],
-        'const_cit': capture_const_cits(in_string) or [],
-        'const_ref': capture_informal_constitutional_refs(in_string),
-        'federal_statute': capture_federal_statute_cits(in_string),
-        'state_statute': capture_state_statute_cits(in_string)
+        'amend_ref': list(capture_informal_amendment_ordinals(in_string)) or [],
+        'const_cit': list(capture_const_cits(in_string)) or [],
+        'const_ref': list(capture_informal_constitutional_refs(in_string)) or [],
+        'federal_statute': list(capture_federal_statute_cits(in_string)) or [],
+        'state_statute': list(capture_state_statute_cits(in_string)) or []
     }
 
     cits = []
-    if len(matches['amendment']):
-        cits.extend(list(map(lambda x: generate_amendment_reference(
-            offset,
-            offset + len(matches['amendment'][0]),
-            line_num,
-            file_id + str(leg_count + matches['amendment'].index(x)),
-            ordinal_to_number(x),
-            str.strip(matches['amendment'][0])
-        ), matches['amendment'][1:])))
 
-    if len(matches['const_cit']):
-        cits.extend([generate_const_citation(
-            offset,
-            offset + len(matches['const_cit'][0]),
-            line_num,
-            file_id + str(leg_count + 1),
-            body_abbrev_to_full(matches['const_cit'][1]),
-            matches['const_cit'][2],
-            replace_roman_nums_with_ints(matches['const_cit'][3]),
-            replace_roman_nums_with_ints(matches['const_cit'][4]),
-            replace_roman_nums_with_ints(matches['const_cit'][5]),
-            str.strip(matches['const_cit'][0])
-        )])
+    # 1. create pseudo citation object
+    # 2. turn all into that
+    # 3. sort list of pseudo cits
+    # 4. THEN CONVERT TO CITATIONS!
 
-    if len(matches['const_ref']):
-        cits.extend([generate_const_reference(
-            offset,
-            offset + len(matches['const_ref'][0]),
-            line_num,
-            file_id + str(leg_count + 1),
-            str.strip(matches['const_ref'][0])
-        )])
+    cits.extend(list(map(lambda x: {
+        'type': 'amend_ref',
+        'start_index': offset + x['start'],
+        'end_index': offset + len(x['match']),
+        'line_num': line_num,
+        'cit_id': -1,
+        'amend_num': ordinal_to_number(x['ordinal']),
+        'text': str.strip(x['match'])
+    }, matches['amend_ref'])))
 
-    if len(matches['federal_statute']):
-        cits.extend([generate_statute_citation(offset, offset + len(matches['federal_statute'][0]), line_num,
-                                               file_id + str(leg_count + 1), 'federal',
-                                               replace_roman_nums_with_ints(matches['federal_statute'][1]), '',
-                                               replace_roman_nums_with_ints(matches['federal_statute'][2]),
-                                               matches['federal_statute'][3], str.strip(matches['federal_statute'][0]),
-                                               'United States Code')])
+    cits.extend(list(map(lambda x: {
+        'type': 'const_cit',
+        'start_index': offset + x.start(),
+        'end_index': offset + len(x[0]),
+        'line_num': line_num,
+        'cit_id': -1,
+        'jurisdiction': body_abbrev_to_full(x[1]),
+        'art_type': x[2],
+        'article_num': replace_roman_nums_with_ints(x[3]),
+        'section_num': replace_roman_nums_with_ints(x[4]),
+        'clause_num': replace_roman_nums_with_ints(x[5]),
+        'text': str.strip(x[0])
+    }, matches['const_cit'])))
 
-    if len(matches['state_statute']):
-        cits.extend([generate_statute_citation(
-            offset,
-            offset + len(matches['state_statute'][0]),
-            line_num,
-            file_id + str(leg_count + 1),
-            body_abbrev_to_full(matches['state_statute'][1]),
-            matches['state_statute'][3],  # article
-            replace_roman_nums_with_ints(matches['state_statute'][4]),  # chapter
-            replace_roman_nums_with_ints(matches['state_statute'][6]),  # section
-            matches['state_statute'][7],  # subsection
-            str.strip(matches['state_statute'][0]),  # full match text
-            matches['state_statute'][2],
-            matches['state_statute'][8],
-        )])
+    cits.extend(list(map(lambda x: {
+        'type': 'const_ref',
+        'start_index': offset + x.start(),
+        'end_index': offset + len(x[0]),
+        'line_num': line_num,
+        'cit_id': -1,
+        'text': str.strip(x[0])
+    }, matches['const_ref'])))
 
-    return cits
+    cits.extend(list(map(lambda x: {
+        'type': 'federal_statute',
+        'start_index': offset,
+        'end_index': offset + len(x[0]),
+        'line_num': line_num,
+        'cit_id': -1,
+        'body': 'federal',
+        'article': replace_roman_nums_with_ints(x[1]),
+        'chapter': '',
+        'section': replace_roman_nums_with_ints(x[2]),
+        'subsection': x[3],
+        'text': str.strip(x[0]),
+        'document': 'United States Code'
+    }, matches['federal_statute'])))
+
+    cits.extend(list(map(lambda x: {  # this one still processes a list not a match objet
+        'type': 'state_statute',
+        'start_index': offset + int(x[9]),  # temp: get offset from last list element of capture func
+        'end_index': offset + len(x[0]),
+        'line_num': line_num,
+        'cit_id': -1,
+        'body': body_abbrev_to_full(x[1]),
+        'article': x[3],  # article
+        'chapter': replace_roman_nums_with_ints(x[4]),  # chapter
+        'section': replace_roman_nums_with_ints(x[6]),  # section
+        'subsection': x[7],  # subsection
+        'text': str.strip(x[0]),  # full match text
+        'document': x[2],
+        'date': x[8],
+    }, matches['state_statute'])))
+
+    cits.sort(key=lambda cit: cit['start_index'])
+
+    return generate_citation_strings_from_pseudo_cits(file_id, leg_count, cits)
+
+
+def generate_citation_strings_from_pseudo_cits(file_id, id_index, cits):
+    def cit_convert(cit):
+        if cit['type'] == 'amend_ref':
+            del cit['type']
+            return generate_amendment_reference(**cit)
+        elif cit['type'] == 'const_cit':
+            del cit['type']
+            return generate_const_citation(**cit)
+        elif cit['type'] == 'const_ref':
+            del cit['type']
+            return generate_const_reference(**cit)
+        elif cit['type'] == 'state_statute' or cit['type'] == 'federal_statute':
+            del cit['type']
+            return generate_statute_citation(**cit)
+
+    new_cits = []
+
+    for index, cit in enumerate(cits):
+        cit['cit_id'] = file_id + str(id_index + index)
+        new_cits.append(cit_convert(cit))
+
+    return new_cits
 
 
 def generate_amendment_reference(
@@ -557,6 +600,7 @@ def generate_statute_citation(start_index, end_index, line_num, cit_id, body, ar
                               text, document, date=''):
     """Returns a citation string for a statute citation
 
+    :param document:
     :param date:
     :param start_index:
     :param end_index:
@@ -620,38 +664,34 @@ def find_legislations(txt, file_id):
 
         for line in instream:
 
-            line_remainder = len(line)
-            legis_matches = find_legislations_in_line(line)  # get list of matches
+            # line_remainder = len(line)
+            # legis_matches = find_legislations_in_line(line)  # get list of matches
 
             # get the matches in order
-            for matched_string in (legis_matches if legis_matches else ()):
+            # for matched_string in (legis_matches if legis_matches else ()):
 
-                # get the start offest of the match
-                start_index = line.find(matched_string)
+            # get the start offest of the match
+            # start_index = line.find(matched_string)
 
-                # increment the global offset by the start offset
-                offset += start_index
+            # increment the global offset by the start offset
+            # offset += start_index
 
-                # decrement the line remainder by (the match length + start offset) to cut out "the line so far"
-                line_remainder -= len(matched_string) + start_index
+            # create a citation
+            cits = generate_legislation_citations_from_string(
+                line,
+                offset,
+                line_num,
+                len(legs),
+                file_id.strip('\\') + "_"
+            )
 
-                # create a citation
-                cits = generate_legislation_citations_from_string(
-                    matched_string,
-                    offset,
-                    line_num,
-                    len(legs),
-                    file_id.strip('\\') + "_"
-                )
-                offset += len(matched_string)
-                for x in cits: print(x)
-                legs.extend(cits)
-
-                # substr the line from start point of match to end of line
-                # this is so we don't capture only the first ref to repeated amendments
-                line = line[start_index + len(matched_string):]
+            # decrement the line remainder by (the match length + start offset) to cut out "the line so far"
+            # line_remainder -= last_cit_offset
+            # offset += last_cit_offset
+            for x in cits: print(x)
+            legs.extend(cits)
 
             line_num = line_num + 1
-            offset += line_remainder
+            offset += len(line)
     # print(legs)
     return legs
