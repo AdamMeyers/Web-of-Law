@@ -13,7 +13,7 @@
 ## setting), due to some encoding bugs at Court listener, but
 ## eventually expect to switch.
 
-from find_case_citations4 import *
+from find_case_citations5 import *
 import sys
 import os
 
@@ -24,9 +24,9 @@ def main (args):
         base_file = args[1]
         if os.sep in base_file:
             sep_index = base_file.rindex(os.sep)
-            file_id = base_file[sep_index:]
+            file_id = base_file[sep_index+1:]
         else:
             file_id = base_file
-        find_case_citations(base_file+'.txt',base_file+'.case8',file_id,base_file+'.html-list')
+        find_case_citations(base_file+'.txt',base_file+'.case9',file_id,base_file+'.html-list')
 
 if __name__ == '__main__': sys.exit(main(sys.argv))

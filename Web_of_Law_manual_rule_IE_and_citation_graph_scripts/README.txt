@@ -18,7 +18,7 @@ I. Files
 
 2.1.1 wol_utilities.py
 
-2.2 Reference Files (files containing informaiton for lookup)
+2.2 Reference Files (files containing information for lookup)
 
 2.2.1 citation_tables.py
 2.2.2 discourse_words.txt
@@ -34,7 +34,8 @@ I. Files
 2.3.3 pre_process_annotation.py (pre-processing for annotation with Mae)
 
 2.4 Rule-based Entity and Relation Tagging (See 2.6.2 for corresponding run files)
-2.4.1 find_case_citations4.py
+2.4.1 find_case_citations5.py --> run_citations_and_simple_relations_directory.py and 
+      run_citations_and_simple_relations_file.py
 2.4.2 find_quotes.py
 
 2.5 Constructing Citation Graph (See 2.6.3 for corresponding run files)
@@ -89,13 +90,13 @@ modification, apposition, substrings, ...).
 
 2.6.2.1 run_citations_and_simple_relations_directory.py
 	1 argument: Directory containing files output from programs in 2.6.1.2
-	Ouput: .case8 files are added to that same directory
+	Output: .case9 files are added to that same directory
 	Example run from command line:
 		run_citations_and_simple_relations_directory.py test/fixed_files
 
 2.6.2.2 run_citations_and_simple_relations_file.py
 	1 argument: filename from 2.6.1.3, but no file extension
-	Output: corresponding .case8 file
+	Output: corresponding .case9 file
 	Example run from command line:
 		run_citations_and_simple_relations_file.py test/fixed_files/108713
 
@@ -233,3 +234,23 @@ substitutes the inside quotation mark (") with the following character
 («). Post-processing should be prepared to handle this character
 correctly (e.g., subsituting a "; or substituting a &quot; as
 appropriate).
+
+V. Notes about New files for legislation. We are planning to
+incorporate the code described here into the code base described
+above. It is separate now because we are still testing it.
+
+run_legislations.py
+find_legislations.py
+STATES.dict
+roman.py
+
+Currently, just for testing purposes. To run,
+
+	   run_legislations FILE_NAME
+
+FILE_NAME has no file type.
+
+For example:
+    run_legislations.py 108713
+    (where 108713 includes full path, e.g., /home/meyers/test/108713)
+    result is 108713.legislation8b
