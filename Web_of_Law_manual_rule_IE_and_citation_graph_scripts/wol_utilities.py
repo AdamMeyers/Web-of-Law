@@ -26,7 +26,11 @@ optional_abbrev_words = ['and']
 
 other_non_citation_legal_words = ['certiorari','syllabus','writ','petition']
 
-months = month = ['january','february','march','april','may','june','july','august','september','october','november','december','jan','feb','mar','apr','jun','jul','aug','sept?','oct','nov','dec']
+months = ['january','february','march','april','may','june','july','august','september','october','november','december','jan','feb','mar','apr','jun','jul','aug','sept?','oct','nov','dec']
+
+month = '(January|February|March|April|May|June|July|August|September|October|November|December)|((Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sept?|Oct|Nov|Dec)\.?)' ## regexp version used as part of date patterns in find_case_citations and find_legislations  # case sensitive version
+
+full_date= '(('+month+')'+'(( ([1-9]|[0-2][0-9]|3[01]),)|,)?'+' ((17|18|19|20)[0-9][0-9]))|((17|18|19|20)[0-9][0-9])'
 
 standard_words_with_periods_in_citations = ['corp','inc','ltd','co','s.a.','a.k.a','et','al','etc','no']
 

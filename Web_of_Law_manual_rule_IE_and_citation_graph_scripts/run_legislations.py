@@ -15,7 +15,7 @@ def main (args):
         else:
             file_id = base_file
         output = find_legislations(base_file+'.txt3',file_id)
-        with open(base_file+'.legislation8b','w') as outstream:
+        with open(base_file+'.legislation9','w') as outstream:
             for line in output:
                 outstream.write(line+'\n')
 

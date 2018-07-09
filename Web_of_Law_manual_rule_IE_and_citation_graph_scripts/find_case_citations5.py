@@ -12,11 +12,11 @@ initial_role_words = ['plaintiff','prosecutor', 'prosecution','defendant','appel
 
 in_error_pattern = re.compile('(in err(\.|or)?)([^a-z]|$)',re.I)
 
-month = '(january|february|march|april|may|june|july|august|september|october|november|december)|((jan|feb|mar|apr|jun|jul|aug|sept?|oct|nov|dec)\.?)'
+## month = '(january|february|march|april|may|june|july|august|september|october|november|december)|((jan|feb|mar|apr|jun|jul|aug|sept?|oct|nov|dec)\.?)' ## moved to wol_utitlities.py
 
 is_month = re.compile('^'+month+'$')
 
-date_pattern = re.compile('(('+month+')'+'(( ([1-9]|[0-2][0-9]|3[01]),)|,)?'+' ((17|18|19|20)[0-9][0-9]))|((17|18|19|20)[0-9][0-9])',re.I)
+date_pattern = re.compile(full_date,re.I) ## case insensitive version
 ## requires month and year, with date optional
 
 all_role_words = initial_role_words[:] 
