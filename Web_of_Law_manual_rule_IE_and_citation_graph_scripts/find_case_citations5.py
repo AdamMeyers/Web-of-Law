@@ -107,7 +107,7 @@ def OK_roman_trigram(triple):
     else:
         return(True)
 
-def roman (string):
+def is_roman (string):
     lower = string.lower()
     if (type(lower) == str) and re.search('^[ivxlcdm]+$',lower):
         ## lower consists completely of correct characters (unigram)
@@ -2361,7 +2361,7 @@ def get_role_phrases(line,spans,offset,file_id,citation_dictionary,individual_sp
             words.append(word)
             add_on = True
             start = match.end()+1
-        elif (len(sequence) == 0) and ((len(word)<2) or (roman(word.lower()))) and \
+        elif (len(sequence) == 0) and ((len(word)<2) or (is_roman(word.lower()))) and \
           (re.search('^[\.]?[ \t]{2,}',line[match.end():]) or (not re.search('[a-zA-Z]',line[match.end():]))):
             not_added_to_sequence = True
         elif len(sequence)==0 and (word.lower() in pre_citation_words):
