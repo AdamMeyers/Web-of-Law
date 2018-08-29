@@ -12,8 +12,8 @@ def main (args):
         if base_dir.endswith(os.sep):
             base_dir = base_dir[:-1]
         for infile in list(os.listdir(base_dir)):
-            if infile.endswith('.txt3'):
-                file_id = infile[:-5]
+            if infile.endswith('.txt'):
+                file_id = infile[:-4]
                 print(file_id)
                 output = find_legislations(base_dir+os.sep+infile,file_id)
                 outfile = base_dir+os.sep+file_id+'.legislation9'

@@ -8,10 +8,25 @@
 ## but regularize to one entry (with/without space ?)
 
 import re
+from reporters_db import REPORTERS ## this only seems to work (so far) for Python 3.5 and higher
+
+## REPORTERS is a dictionary
+## The keys are reporters
+## The values are lists of dictionaries, usually just one list, but occasionally 2
+## We will assume for now that if there are 2 entries, the first is correct
+## -- this only effects 9 instances
+## -- in fact there is some other detail (under variations) which can help disambiguate
+##
+## the keys in the dictionaries include the following:
+## 'mlz_jurisdiction', 'cite_type', 'publisher', 'editions', 'variations', 'href', 'name', 'notes'
+## -- jurisdiction and name?
+## cit_type includes the following possibilities:
+## see bottom of file for details
 
 court_reporter_abbreviation_table = {}
 court_reporter_standard_table = {}
 
+court_reporter_rexp_list = []
 court_reporter_rexp = ''
 
 def regexp_friendly_variant(instring):
@@ -90,9 +105,11 @@ for triple in [
         standard = variants[0]
         for variant in variants:
                 if variant:
-                        court_reporter_rexp=court_reporter_rexp+'|'
-                        ## court_reporter_rexp = court_reporter_rexp+ '('+regexp_friendly_variant(variant)+')'
-                        court_reporter_rexp = court_reporter_rexp+regexp_friendly_variant(variant)
+                    v = regexp_friendly_variant(variant)
+                    if not v in court_reporter_rexp_list:
+                        court_reporter_rexp_list.append(v)
+                        ## court_reporter_rexp=court_reporter_rexp+'|'
+                        ## court_reporter_rexp = court_reporter_rexp+regexp_friendly_variant(variant)
 	## get rid of intial | so the disjunction doesn't match the empty string
         result=[standard]
         result.extend(triple[1:])
@@ -111,14 +128,20 @@ for abbrev,variant,full,year_in,year_out in [['Dall','Dallas','Dallas','1790','1
 					     ['Black','','Black','1861','1862'],
 					     ['Wall','Wall.','Wallace','1863','1874']]:
 	if variant != '':
-		court_reporter_abbreviation_table[variant.upper()]=abbrev.upper()
-		court_reporter_rexp=court_reporter_rexp+'|'+regexp_friendly_variant(variant)
+		v = regexp_friendly_variant(variant)
+		if not v in court_reporter_rexp_list:
+		    court_reporter_rexp_list.append(v)
+		## court_reporter_abbreviation_table[variant.upper()]=abbrev.upper()
+		## court_reporter_rexp=court_reporter_rexp+'|'+regexp_friendly_variant(variant)
 	court_reporter_abbreviation_table[abbrev.upper()]=abbrev.upper()
-	court_reporter_rexp=court_reporter_rexp+'|'+regexp_friendly_variant(abbrev)
+	v = regexp_friendly_variant(abbrev)
+	if not v in court_reporter_rexp_list:
+	    court_reporter_rexp_list.append(v)
+	### court_reporter_rexp=court_reporter_rexp+'|'+regexp_friendly_variant(abbrev)
 	### These are the early United States Reports court reporters (for the Supreme Court) along with
 	### their terms (year_in, year_out)
 
-court_reporter_rexp=court_reporter_rexp[1:]
+## court_reporter_rexp=court_reporter_rexp[1:]
 ## trim off initial vertical bar
 
 ## more tables?
@@ -227,9 +250,12 @@ for triple in State_court_abbreviations:
         variants =get_abbrev_variation(triple[0])
         standard = variants[0]
         for variant in variants:
-                if variant:
-                        court_reporter_rexp=court_reporter_rexp+'|'
-                        court_reporter_rexp = court_reporter_rexp+regexp_friendly_variant(variant)
+            if variant:
+                v = regexp_friendly_variant(variant)
+                if not v in court_reporter_rexp_list:
+                    court_reporter_rexp_list.append(v)
+		    ## court_reporter_rexp=court_reporter_rexp+'|'
+                    ## court_reporter_rexp = court_reporter_rexp+regexp_friendly_variant(variant)
         result=[standard]
         for variant in variants:
                 if variant:
@@ -647,9 +673,254 @@ for cit_abbrev, cl_abbrev, full_form in [['scotus', 'scotus','supreme court of t
 ]:
     variants = get_abbrev_variation(cit_abbrev)
     variants.append(cl_abbrev) ## this seems to be used also
-    standard = variants[0]
+    standard = variants[0].upper()
     for variant in variants:
 	    if variant:
+		    variant = variant.upper()
 		    court_abbrev_table[variant] = standard
 		    ## ignoring cl_abbrev and full_form
 
+## REPORTERS --use variants only
+## each variations key maps some set of variants to the original
+## In the 2 entry cases, we should allow the variants to be the same as each other
+## unless they conflict with the first entry.
+## 1) We should use these "variants" fields to update our tables at the bottom of this file
+## 2) For one entry cases, this is simple
+## 3) For 2 entry cases, we should be careful not to combine to different entries together
+## 4) Tables to update
+##    a) court_reporter_abbreviation_table
+##    b) court_reporter_standard_table
+## 5) regexp to update: court_reporter_rexp
+
+## note everything in tables are upper case
+def process_jurisdict(juris,name):
+    if len(juris)>1:
+        return('Various')
+    elif len(juris) == 0:
+        return('Unspecified')
+    elif (not ':' in juris[0]):
+        return(re.sub('[:\.]',' ',juris[0]))
+    else:
+        items = juris[0].partition(':')
+        return(re.sub('[:\.]',' ',items[-1]))
+
+
+cl_reporter_variation_table = {}
+
+def increment_court_reporter_variables(in_dictionary):
+    global court_reporter_rexp
+    var_dict = in_dictionary['variations']
+    if not 'name' in in_dictionary:
+        print('???Odd input to increment_court_reporter_variables')
+        ## print(in_dictionary)
+    name_info = in_dictionary['name']
+    jurisdict = process_jurisdict(in_dictionary['mlz_jurisdiction'],name_info)
+    name = jurisdict
+    reporter = name_info
+    if name and reporter:
+        name = name.strip(' ')
+        reporter = reporter.strip(' ')
+    for key,value in var_dict.items():
+        variants = get_abbrev_variation(key)
+        for v in get_abbrev_variation(value):
+            if v:
+                v = v.upper()
+                if not v in variants:
+                    variants.append(v)
+        standard = variants[0].upper()
+        result = [standard,name,reporter]
+        for v in variants:
+            if v:
+                v = v.upper()
+            if v and (not v in court_reporter_abbreviation_table):
+                court_reporter_abbreviation_table[v]= result
+                court_reporter_standard_table[v]=standard
+                v1 = regexp_friendly_variant(v)
+                if not v1 in court_reporter_rexp_list:
+                    court_reporter_rexp_list.append(v1)
+		## court_reporter_rexp=court_reporter_rexp+'|'
+                ## court_reporter_rexp = court_reporter_rexp+regexp_friendly_variant(v)
+
+def update_editions (editions,new_edition,edition_number):
+    for key in new_edition:
+        edition_number += 1
+        editions[key+str(edition_number)]=new_edition[key]
+    return(edition_number)
+
+def merge_reporter_names (names):
+    if len(names) == 1:
+        return(names.pop())
+    else:
+        common_words = []
+        for name in names:
+            name = re.sub('[^a-zA-Z]',' ',name)
+            words = name.split(' ')
+            words2 = []
+            for word in words:
+                if re.search('[a-zA-Z]',word):
+                    word = word.capitalize()
+                    if not word in ['Report','Reports']:
+                        words2.append(word)
+            if len(words2)>0:
+                if len(common_words) == 0:
+                    common_words = words2
+                else:
+                    common_words2 = []
+                    for word in common_words:
+                        if word in words2:
+                            common_words2.append(word)
+                    common_words = common_words2
+        if len(common_words)==1:
+            return(common_words[0]+' Reports (Ambiguous)')
+        else:
+            print('Can\'t disambiguate reporter names:',names)
+            return('Ambiguous Reports')
+
+def merge_cite_types(cite_types):
+    if len(cite_types) == 1:
+        return(cite_types.pop())
+    else:
+        return('ambiguous')
+	    
+
+def merge_juris_types(jurisdictions):
+    juris_pattern = re.compile('([a-z]+):?([a-z]+)?;([a-z\.]+)')
+    countries = set()
+    states = set()
+    levels = set()
+    for juris_set in jurisdictions:
+        for juris in juris_set:
+            match = juris_pattern.search(juris)
+            if not match:
+                print(juris,'not well formed.')
+            else:
+                country = match.group(1)
+                state = match.group(2)
+                level = match.group(3)
+                if not state:
+                    states.add('federal')
+                else:
+                    states.add(state)
+                if not country:
+                    print('No country in jurisdiction.')
+                else:
+                    countries.add(country)
+                if level:
+                    levels.add(level)
+    jurisdiction = ''
+    if len(countries) == 1:
+        jurisdiction = countries.pop()
+    if len(states) == 1:
+        state = states.pop()
+        if state != 'federal':
+            jurisdiction += ":"+state
+    else:
+        jurisdiction += ":ambiguous"
+    if len(levels) == 1:
+        jurisdiction = jurisdiction + ';' + levels.pop()
+    else:
+        jurisdiction = jurisdiction + ';' + 'ambiguous'
+    return([jurisdiction])
+	
+def distinguish_dicts(dict_list):
+    out_dicts = {}
+    merged_dict = {}
+    merged_variations = {}
+    merged_dict['variations']=merged_variations
+    found_variations = []
+    duplicate_variations = []
+    duplicate_var_keys = set()
+    for in_dict in dict_list:
+        name = in_dict['name']
+        new_dict = in_dict.copy()
+        out_dicts[name]=new_dict
+        local_variations = new_dict['variations']
+        if len(local_variations) == 0:
+            new_dict['variations'][name] = name
+            found_variations.append(name)
+        else:
+            values = set(new_dict['variations'].values())
+            for value in values:
+                if value in found_variations:
+                    duplicate_variations.append(value)
+                else:
+                    found_variations.append(value)
+    names = set()
+    cite_types = set()
+    jurisdictions = []
+    editions = {}
+    edition_number = 0
+    for out_name in out_dicts:
+        new_variations = {}
+        out_dict = out_dicts[out_name]
+        for key in out_dict['variations']:
+            if out_dict['variations'][key] in duplicate_variations:
+                v_val = out_dict['variations'][key]
+                if not key in merged_variations:
+                    merged_variations[key]= v_val
+            else:
+                new_variations[key] = out_dict['variations'][key]
+        out_dict['variations'] = new_variations
+        cite_types.add(out_dict['cite_type'])
+        names.add(out_dict['name'])
+        jurisdictions.append(out_dict['mlz_jurisdiction'])
+        edition_number  = update_editions(editions,out_dict['editions'],edition_number) 
+	## number the keys and then add them to dict
+    out_dict_list = []
+    for out_name in out_dicts:
+        if ('variations' in out_dicts[out_name]) \
+           and len(out_dicts[out_name]['variations'])>0:
+            out_dict_list.append(out_dicts[out_name])
+    if len(merged_variations)>0:
+	## variations alreayd set -- now try other features of merged_dict
+        merged_dict['name']= merge_reporter_names(names) ## 'ambiguous' + substring + reports
+	## ambigous + X or Y reports
+        merged_dict['cite_type']= merge_cite_types(cite_types) ## if same, keep same, else X or Y
+        merged_dict['mlz_jurisdiction'] = merge_juris_types(jurisdictions) ## similar, except make comparison after : and after ;
+        merged_dict['editions'] = editions 
+	## add merged_dict to output
+        name = merged_dict['name']
+        if not name in out_dicts:
+            out_dict_list.append(merged_dict)
+    else:
+        print('??? not duplicate_variations')
+    return(out_dict_list)
+		
+for value in REPORTERS.values():
+    if len(value)>1: 
+	## These are mostly pretty old
+	## We will fudge this by merging them into one value
+        ## print('*',value,'*')
+        for in_dict in distinguish_dicts(value):
+            increment_court_reporter_variables(in_dict)
+	# var_dict = {}
+	# name_info = 'UNSET_NAME'
+        # for v in value:
+        #     this_name = v['name']
+	#     this_jurisdict = v['jurisdict']
+	#     this_reporter = this_name
+        #     for feat in v['variations']:
+        #         if feat in var_dict:
+        #             if v['variations'][feat] ==  var_dict[feat]:
+        #                 pass
+	# 	    else:
+        #                 print('variation conflict')
+	# 		print(v['variations'][feat])
+	# 		print(var_dict[feat])
+	# 	else:
+	# 	   var_dict[feat] = var_dict[feat].copy()
+    else:
+        increment_court_reporter_variables(value[0])
+
+def letter_length(x):
+    letter_matches = list(re.finditer('[a-zA-Z]',x))
+    non_letter_matches = list(re.finditer('[^a-zA-Z]',x))
+    return((len(letter_matches)*-100)+(len(non_letter_matches)*-1))
+
+court_reporter_rexp_list.sort(key = lambda x: letter_length(x))
+## sort order causes larger patterns to match before shorter ones (their substrings)
+
+for pattern in court_reporter_rexp_list:
+    court_reporter_rexp=court_reporter_rexp+'|'+pattern
+court_reporter_rexp=court_reporter_rexp[1:]
+## get rid of intial | so the disjunction doesn't match the empty string

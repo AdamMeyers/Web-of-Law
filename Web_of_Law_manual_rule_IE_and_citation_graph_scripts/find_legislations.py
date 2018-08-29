@@ -16,6 +16,10 @@ numeral_rexp = roman_num_rexp + '|(?:\d+)'
 section_numeral_rexp = '((?:{0}-?\.?:?)+)'.format(numeral_rexp)
 section_numeral_rexp_noncap = '(?:(?:{0}-?\.?:?)+)'.format(numeral_rexp)
 
+act_abbrev_dictionary = {}
+
+agency_abbrev_dictionary = {'CFR':'Code of Federal Regulations'}
+
 
 def get_states_dict():
     """Returns a dict of abbreviation of state names to full state name
@@ -173,7 +177,8 @@ state_statute_cit_rexp = (r'({0}) '  # state
 
 of_date_pattern = '(of *((('+month+')'+'(( ([1-9]|[0-2][0-9]|3[01]),)|,)?'+' ((17|18|19|20)[0-9][0-9]))|((17|18|19|20)[0-9][0-9])))'
 
-of_phrase = '(of( *[A-Z][a-z]+){1,3})|'+of_date_pattern
+## of_phrase = '(of( *[A-Z][a-z]+){1,3})|'+of_date_pattern
+of_phrase = of_date_pattern+'|(of( *[A-Z][a-z]+){1,3})'
 ## of date_pattern = of = date_pattern (see find_case_citations5, but make case sensitive?
 
 rule_word = '([Cc]ode|[aA]ct|[tT]reaty|[rR]ule)'
@@ -186,30 +191,59 @@ act_name2 = '(([tT]he *)?(([A-Z][a-z\.]*)[ —-]*)+of *(([A-Z][a-z\.]*) *)+'+rul
 
 act_name3 = '(([tT]he *)?([A-Z][a-z\.]*[ —-]*)+'+rule_word+' *('+of_phrase+'))'
 
-
 act_name = '('+act_name3+'|'+act_name2+'|'+act_name1+')'
 
-section_pattern = '(§ [0-9]+,?)'
+act_abbrev = '( +\([A-Z]+\.?\))?'
 
-legislation_id = '((ch?\. *[0-9]+, *)*([0-9]+(, [0-9]+)* [sS]tat\. [0-9]+(, [0-9-]+)?))'
+# section_pattern = '(§|Section [0-9a-z\(\)]+,?)?'
+# section_pattern = '((§|Section) +[0-9a-z\(\)]+,?)'
+section_pattern = '((§|Section) +[0-9a-z\(\)]+,? *(?:'+ordinal_rexp+' +)?)'
+## section_pattern = '((§|Section) +(?:(?:(?:[0-9a-z\(\),])|'+ordinal_rexp+') +)+)'
 
-pub_pattern = '(Pub L. No [0-9-]+(,?) *)?'
+section_expression = re.compile(section_pattern)
+
+legislation_id = '((ch?\. *[0-9ixlvc]+, *)*'+section_pattern+'? *'+'([0-9]+(, [0-9]+)* [sS]tat\. [0-9]+(, [0-9-]+)?))'
+## we assume that chapters can be numbered with romain numerals that are lowercase and less than 400,
+## and thus combos of ixlvc
+
+pub_pattern = '( *Pub L. No [0-9-]+(,?))?'
 
 optional_year = '( *\([0-9]{4}\))?'
 
-optional_full_date = '(('+full_date+'),? *)*'
+optional_full_date = '(('+full_date+'),?)*'
 
 ## act_pattern = act_name + ' *' + section_pattern + ' *'+ legislation_id
-act_pattern = '('+ section_pattern+' *of *)?'+act_name + '(,? *' + optional_full_date + pub_pattern + section_pattern +'?' +'( *' + legislation_id +')?' + optional_year+')?'
+act_pattern = '('+ section_pattern+' *of *)?'+act_name + act_abbrev+'(,? *' + optional_full_date + pub_pattern + section_pattern +'?' +'( *' + legislation_id +')?' + optional_year+')?'
 ## group 3 = name
 ## 52 = Pub L. No X-Y
 ## 2 or 54 = section number
 ## 57 = chapter group
 ## 58 = leg ID including "number Stat. numbers, numbers"
 ## 12, 23, 39, 61 -- possible date slots
+abbrev_act_pattern = ''
+abbrev_act_expression = re.compile('$a') ## initialized to a pattern
+                                         ## that doesn't match
+                                         ## anything. Updated when
+                                         ## dictionary items are
+                                         ## added.
+
+def make_current_abbrev():
+    out = ''
+    for key in act_abbrev_dictionary:
+        out = out + '|' + key
+    return(out[1:])
+
+def make_abbrev_act_pattern ():
+    global abbrev_act_pattern
+    global abbrev_act_expression
+    current_abbrev = make_current_abbrev()
+    abbrev_act_pattern = '('+ section_pattern+' *of *)?([Tt]he )?[\(\[]?('+current_abbrev +')[\)\]]?(,? *' + optional_full_date + pub_pattern + section_pattern +'?' +'( *' + legislation_id +')?' + optional_year+')?'
+    abbrev_act_expression = re.compile(abbrev_act_pattern)
 
 
 act_expression = re.compile(act_pattern)
+
+legislation_id_expression = re.compile(legislation_id)
 
 ###AM 7/2018 #############################
 # Regulations with sections
@@ -286,6 +320,24 @@ def body_abbrev_to_full(abbrev):
 # CAPTURE LOGIC: #
 ##################
 
+def extract_section_number(instring):
+    start = 0
+    section_check = re.compile('§|[sS]ection *')
+    section_indicator = section_check.search(instring,start)
+    while section_indicator:
+        start = section_indicator.end()
+        section_indicator = section_check.search(instring,start)
+    instring = instring[start:]
+    outstring = ''
+    for word in instring.split(' '):
+        if (len(word)>0) and re.search('[^a-zA-Z]',word[-1]) and (word[:-1] in ordinal_variants):
+            outstring = outstring + ' ' + ordinal_variants[word[:-1]]+word[-1]
+        elif word in ordinal_variants:
+            outstring = outstring + ' ' + ordinal_variants[word]
+        else:
+            outstring = outstring + ' ' + word
+    return(outstring.strip(', '))
+        
 
 def capture_informal_amendment_ordinals(in_string):
     """Returns list of strings matching the informal amendments rexp in given string
@@ -383,6 +435,30 @@ def extract_chapter_from_state_name(instring):
         chapter_piece = ''
     return(state_piece,chapter_piece)
 
+def state_well_formed_start(start,instring):
+    ## can add additional pararameters and constraints
+
+    ## first constraint: state match must start word or sequence of
+    ## abreviated symbols
+    # print(start)
+    # print('*')
+    # if instring:
+    #     print(len(instring))
+    # else:
+    #     print('No instring')
+    if start == 0:
+        return(True)
+    elif not instring[start-1] in ' ':
+        return(False)
+    else:
+        previous_word = re.search('[^ ]* +',instring[:start])
+        if not previous_word:
+            return(True)
+        elif re.match('[A-Z][a-zA-Z]* +$',previous_word.group(0)):
+            return(False)
+        else:
+            return(True)
+
 def capture_state_statute_cits(in_string):
     """Returns a list of strings, each corresponding to match groups in the state statute citation rexp
 
@@ -407,18 +483,18 @@ def capture_state_statute_cits(in_string):
         article_match = re.compile(article_rexp).search(doc_loc) if doc_loc else ''
         chapter_match = re.compile(chapter_rexp).search(doc_loc) if doc_loc else ''
         title_match = re.compile(title_rexp).search(doc_loc) if doc_loc else ''
-
-        res.append([
-            match.group(0),  # matched string
-            state,  # state
-            document,
-            article_match.group(1) if article_match else '',  # article
-            chapter_match.group(1) if chapter_match else '',  # chapter
-            title_match.group(1) if title_match else '',  # title
-            section,  # section
-            doc_loc,
-            date if date else '',
-            match.start()
+        if state_well_formed_start(match.start(1),in_string):
+            res.append([
+                match.group(0),  # matched string
+                state,  # state
+                document,
+                article_match.group(1) if article_match else '',  # article
+                chapter_match.group(1) if chapter_match else '',  # chapter
+                title_match.group(1) if title_match else '',  # title
+                extract_section_number(section),  # section
+                doc_loc,
+                date if date else '',
+                match.start()
         ])
     return res
 
@@ -536,34 +612,98 @@ def get_chapters_from_text(intext):
     else:
         return(False)
     
-def make_act_xml(match,line,offset,file_id,cit_num):
+def update_abbrev_dict(abbrev,name):
+    name = name.upper()
+    if abbrev in act_abbrev_dictionary:
+        if not name in act_abbrev_dictionary[abbrev]:
+            act_abbrev_dictionary[abbrev].append(name)
+            make_abbrev_act_pattern() ## update search pattern
+    else:
+        act_abbrev_dictionary[abbrev]= [name]
+        make_abbrev_act_pattern() ## update search pattern
+
+def extract_act_abbreviation(abbrev,name):
+    ## tests whether abbrev is a possible abbrev for name
+    ## this is a somewhat leanient test based on the
+    ## typical abbreviation extraction heuristics
+    abbrev = abbrev.strip('() ')
+    test_name = name.lower()
+    for char in abbrev.lower():
+        if (char in 'abcdefghijklmnopqrstuvwxyz') and (not char in test_name):
+            return(False)
+            ## true abbreviations rarely include letters that are not in full name
+    abbrev_index = 0
+    next_abbrev_char = abbrev[abbrev_index]
+    for word in name.split(' '):
+        if (len(word) == 0):
+            pass ## this accounts for extra space that serves no purpose
+        elif (word[0] == next_abbrev_char):
+            abbrev_index += 1
+            if abbrev_index==len(abbrev):
+                update_abbrev_dict(abbrev,name)
+                return(abbrev)
+            else:
+                next_abbrev_char = abbrev[abbrev_index]
+                if len(word)>1:
+                    for char in word[1:]:
+                        if char == abbrev[abbrev_index]:
+                            abbrev_index += 1
+                            next_abbrev_char = abbrev[abbrev_index]
+                            if abbrev_index==len(abbrev):
+                                update_abbrev_dict(abbrev,name)
+                                return(abbrev)
+                        else:
+                            break
+    return(False)
+
+        ## section paren 3,57,62
+def make_act_xml(match,line,offset,file_id,cit_num,next_match,line_string):
     ## need to find out more for c. and ch.
     ## possibly other abbreviations missing 57 **
     anaphoric_check = re.compile('^[tT](he|hat|his) *'+rule_word+'$')
     if match:
-        name = match.group(3)
+        name = match.group(4)
         end_modifier = False
         if anaphoric_check.match(name): ## match looks for exact match
             anaphoric_act='True' ## must be string for print out
         else:
             anaphoric_act=False
-        name,output_string,start_offset,end_offset = adjust_act_output_for_final_chars(name,match.end(3),match)
+        name,output_string,start_offset,end_offset = adjust_act_output_for_final_chars(name,match.end(4),match)
         name,output_string,start_offset,end_offset = adjust_act_output_for_pre_citation_words(name,output_string,start_offset,end_offset)
+        if match.group(38):
+            abbrev = extract_act_abbreviation(match.group(38),name)
+        else:
+            abbrev = False
         start_offset = start_offset + offset
         end_offset = end_offset + offset
-        publ = get_publ_from_string(match.group(52))
-        if match.group(2) and re.search('[0-9]',match.group(2)):
-            section_number = match.group(2).strip(' §')
-        elif match.group(54) and re.search('[0-9]',match.group(54)):
-            section_number = match.group(54).strip(' §')
+        publ = get_publ_from_string(match.group(54))
+        if match.group(2) and re.search('[0-9]',match.group(2)): ## *** 57 ***
+            section_number = extract_section_number(match.group(2)) ## .strip(' §,')
+        elif match.group(56) and re.search('[0-9]',match.group(56)):
+            section_number = extract_section_number(match.group(56)) 
+        elif match.group(61) and re.search('[0-9]',match.group(61)):
+            section_number = extract_section_number(match.group(61))
         else:
-            section_number = False
-        if match.group(57):
-            chapters = get_chapters_from_text(match.group(57))
+            if next_match:
+                section_match = section_expression.search(line_string[:next_match.start()],match.end())
+            else:
+                # print(line_string)
+                # print(match.end())
+                section_match = section_expression.search(line_string,match.end())
+            if section_match:
+                section_number =  extract_section_number(section_match.group(0))
+                end_offset = section_match.end() + offset
+                output_string = line_string[(start_offset-offset):(end_offset-offset)]
+                ## under right circumstances add a section pattern after end of string
+                ## update final offset and update output string
+            else:
+                section_number = False
+        if match.group(60):
+            chapters = get_chapters_from_text(match.group(60))
         else:
             chapters = False
-        if match.group(58):
-            volume,pages,end_modifier = get_volume_and_pages_from_stat_text(match.group(58),match.end(58),match.end())
+        if match.group(63):
+            volume,pages,end_modifier = get_volume_and_pages_from_stat_text(match.group(63),match.end(63),match.end())
             ## ** 57 ** add constraint on pages here
             ## a) divide pages by comma
             ## b) if pages after comma are less than before comma
@@ -575,7 +715,8 @@ def make_act_xml(match,line,offset,file_id,cit_num):
             volume = False
             pages = False
         date = False
-        for position in [12,23,39,61]:
+        for position in [11,24,41,66]:
+            ## not sure about 24
             if match.group(position) and re.search('[0-9]',match.group(position)):
                 temp_date = match.group(position)
                 if not date:
@@ -584,8 +725,6 @@ def make_act_xml(match,line,offset,file_id,cit_num):
                     date = temp_date
         if date:
             date = date.strip(' ').upper()
-        else:
-            date = False
         cit_id = file_id + str(cit_num)
         output = '<citation id=\"'+cit_id+'\"'
         if end_modifier:
@@ -596,6 +735,7 @@ def make_act_xml(match,line,offset,file_id,cit_num):
                           ['end',str(end_offset)],
                           ['line',str(line)],
                           ['document',name],
+                          ['abbreviation',abbrev],
                           ['anaphoric_act',anaphoric_act],
                           ['public_law_number',publ],
                           ['section',section_number],
@@ -606,7 +746,7 @@ def make_act_xml(match,line,offset,file_id,cit_num):
             if value and re.search('[a-zA-Z0-9]',value):
                 output = output+' '+key+'="'+value+'"'
         output = output+'>'+output_string+'</citation>'
-        return(output)
+        return(output,start_offset,end_offset)
 
 def agency_check(agency):
     if not re.search('[A-Za-z].*[A-Za-z]',agency):
@@ -634,7 +774,7 @@ def make_reg_xml(match,line,offset,file_id,cit_num):
         if not agency:
             return(False)
         if match.group(3) and re.search('[0-9]',match.group(3)):
-            section_number = match.group(3)
+            section_number = extract_section_number(match.group(3))
         else:
             section_number = False
         if match.group(5) and re.search('[0-9]',match.group(5)):
@@ -649,11 +789,29 @@ def make_reg_xml(match,line,offset,file_id,cit_num):
         end_offset = match.end() + offset
         cit_id = file_id + str(cit_num)
         output = '<citation id=\"'+cit_id+'\"'
+        if agency and (not ' ' in agency):
+            lookup1 = agency.upper()
+            if lookup1 in agency_abbrev_dictionary:
+                full_form = agency_abbrev_dictionary[lookup1]
+            elif '.' in lookup1:
+                lookup2 = re.sub('\.','',lookup1)
+                if lookup2 in agency_abbrev_dictionary:
+                    full_form = agency_abbrev_dictionary[lookup2]
+                else:
+                    full_form = False
+            else:
+                full_form = False
+            if full_form:
+                abbrev = agency
+                agency = full_form
+            else:
+                abbrev = False
         for key,value in [['entry_type','regulation'],
                           ['start',str(start_offset)],
                           ['end',str(end_offset)],
                           ['line',str(line)],
                           ['agency',agency],
+                          ['agency_abbrev',abbrev],
                           ['publisher',publisher],
                           ['title',title_number],
                           ['section',section_number],
@@ -662,24 +820,345 @@ def make_reg_xml(match,line,offset,file_id,cit_num):
                 output = output+' '+key+'="'+value+'"'
         output = output+'>'+match.group(0)+'</citation>'
         return(output)
-    
 
+def get_next_lettered_word(line,start):
+    lettered_word = re.compile('[A-Za-z]+')
+    next_word = lettered_word.search(line,start)
+    if next_word:
+        return(next_word.group(0),next_word.start(),next_word.end())
+    else:
+        return(False,False,len(line))
+
+def choose_best_antecedent(abbrev,possible_full_forms):
+    ## for now, choose shortest full form that previously satisfied
+    ## the antecedent criteria (see extract_act_abbreviation)
+    possible_full_forms.sort(key = lambda x: len(x))
+    return(possible_full_forms[0])
+
+def find_abbrev_act_xml_old (line,line_num,offset,file_id,cit_num,act_start_and_ends):
+    output = []
+    start = 0
+    last_word = False
+    last_word_start = False
+    if len(act_start_and_ends)>0:
+        next_blocked_start,next_blocked_end = act_start_and_ends.pop(0)
+    while start < len(line):
+        if (start >= next_blocked_end) and (start < next_blocked_end):
+            start = next_blocked_end
+            if len(act_start_and_ends)>0:
+                next_blocked_start,next_blocked_end = act_start_and_ends.pop(0)
+        next_word,word_start,word_end = get_next_lettered_word(line,start)
+        start = word_end
+        if next_word in act_abbrev_dictionary:
+            name_end = word_end
+            results = act_abbrev_dictionary[next_word]
+            publ = False
+            date = False
+            section_number = False
+            chapters = False
+            if len(results)==1:
+                full_form = results[0]
+            else:
+                full_form = choose_best_antecedent(next_word,results)
+            if last_word.lower() == 'the':
+                name_start = last_word_start
+            else:
+                name_start = word_start
+            name = line[name_start:name_end]
+            start_offset = name_start + offset
+            next_leg = legislation_id_expression.search(line,start)
+            end_modifier = False
+            if next_leg and not re.search('[a-zA-Z]',line[word_end:next_leg.start()]):
+                ## make sure legislation is close "enough"
+                print(next_leg.group(0)) 
+                volume,pages,end_modifier = False,False,False
+                ## get_volume_and_pages_from_stat_text(next_leg
+            else:
+                volume,pages,end_modifier = False,False,False
+            output_string = line[name_start:name_end] 
+            ## change to account for leglisation_id stuff
+            end_offset = word_end + offset
+            cit_id = file_id + str(cit_num)
+            cit_num += 1
+            output_entry = '<citation id=\"'+cit_id+'\"'
+            if end_modifier:
+                end_offset = end_offset - end_modifier
+                ## output string modify also ???
+            ## change after leg id fixed up
+            for key,value in [['entry_type','act_treaty_code_rule'],
+                              ['start',str(start_offset)],
+                              ['end',str(end_offset)],
+                              ['line',str(line_num)],
+                              ['document',name],
+                              ['full_form',full_form],
+                              ['anaphoric_act','True'],
+                              ['public_law_number',publ],
+                              ['section',section_number],
+                              ['volume',volume],
+                              ['chapter',chapters],
+                              ['pages',pages],
+                              ['date',date]]:
+                if value and re.search('[a-zA-Z0-9]',value):
+                    output_entry = output_entry+' '+key+'="'+value+'"'
+            output_entry = output_entry+'>'+output_string+'</citation>'
+            output.append(output_entry)
+        last_word = next_word
+        last_word_start = word_start
+    return(output)
+
+def is_non_word_substring(line,start,end):
+    if (start == 0) or  not re.search('[a-zA-Z]',line[start-1]):
+        word_start = True
+    else:
+        word_start = False
+    if (end == len(line)) or not re.search('[a-zA-Z]',line[end]):
+        word_end = True
+    else:
+        word_end = False
+    if (not word_start) or (not word_end):
+        return(True)
+    else:
+        return(False)
+
+def get_next_abbrev_match(line,start):
+    match = False
+    while (start < len(line)) and (match==False):
+        match = abbrev_act_expression.search(line,start)
+        if match and is_non_word_substring(line,match.start(),match.end()):
+            start = match.end()
+            match = False
+        elif not match:
+            start = len(line)
+    return(match)
+                                                
+def find_abbrev_act_xml(line,line_num,offset,file_id,cit_num,act_start_and_ends):
+    output = []
+    start_end_offsets_out = []
+    start = 0
+    if len(act_start_and_ends)>0:
+        next_blocked_start,next_blocked_end = act_start_and_ends.pop(0)
+        offset_filter = True
+    else:
+        offset_filter = False
+        next_blocked_start,next_blocked_end = False, False
+    match = False
+    while start < len(line):
+        while offset_filter and (start >= next_blocked_start) and (start < next_blocked_end):
+            start = next_blocked_end
+            if len(act_start_and_ends)>0:
+                offset_filter = True
+                next_blocked_start,next_blocked_end = act_start_and_ends.pop(0)
+            else:
+                offset_filter = False
+                next_blocked_start,next_blocked_end = False, False
+        match = get_next_abbrev_match(line,start)
+        if not match:
+            start = len(line)
+        else:
+            while match and offset_filter and (match.start() >= next_blocked_end):
+                if len(act_start_and_ends)>0:
+                    next_blocked_start,next_blocked_end = act_start_and_ends.pop(0)
+                else:
+                    offset_filter = False
+                    next_blocked_start,next_blocked_end = False, False
+            ## this gets rid of irrelevant start and ends that are before the match
+            if offset_filter and (match.start() >= next_blocked_start):
+                start = match.end()              
+                match = False  
+            else:
+                ## (not next_blocked_end) or (match.end() <= next_blocked_start):
+            ## only precede if the match ends before the blocked area
+                name = match.group(5)
+                full_forms = act_abbrev_dictionary[name]
+                if len(full_forms) == 1:
+                    full_form = full_forms[0]
+                else:
+                    full_form = choose_best_antecedent(name,full_forms)
+                if match.group(21) and re.search('[0-9]',match.group(21)):
+                    publ = match.group(21)
+                else:
+                    publ = False
+                if match.group(2) and re.search('[0-9]',match.group(2)):
+                    section_number = extract_section_number(match.group(2))
+                elif match.group(23) and re.search('[0-9]',match.group(23)):
+                    section_number = extract_section_number(match.group(23))
+                elif match.group(28) and re.search('[0-9]',match.group(28)):
+                    section_number = extract_section_number(match.group(28))
+                else:
+                    section_number = False
+                if match.group(27):
+                    chapters = get_chapters_from_text(match.group(27))
+                else:
+                    chapters = False
+                if match.group(30):
+                    volume,pages,end_modifier = get_volume_and_pages_from_stat_text(match.group(30),match.end(30),match.end())
+                else:
+                    volume,pages,end_modifier = False, False, False
+                if match.group(8) and re.search('[0-9]',match.group(6)):
+                    date = match.group(8)
+                elif match.group(33) and re.search('[0-9]',match.group(33)):
+                    date = match.group(33)
+                else:
+                    date = False                
+                if date:
+                    date = date.strip(' ').upper()
+                output_string = match.group(0)
+                start_offset = match.start() + offset
+                end_offset = match.end() + offset
+                if end_modifier:
+                    output_string = output_string[:-1*end_modifier]
+                    end_offset = end_offset - end_modifier
+                cit_id = file_id + str(cit_num)
+                cit_num += 1
+                output_entry = '<citation id=\"'+cit_id+'\"'
+                for key,value in [['entry_type','act_treaty_code_rule'],
+                    ['start',str(start_offset)],
+                    ['end',str(end_offset)],
+                    ['line',str(line_num)],
+                    ['document',full_form],
+                    ['abbreviation',name],
+                    ['anaphoric_act','True'],
+                    ['public_law_number',publ],
+                    ['section',section_number],
+                    ['volume',volume],
+                    ['chapter',chapters],
+                    ['pages',pages],
+                    ['date',date]]:
+                    if value and re.search('[a-zA-Z0-9]',value):
+                        output_entry = output_entry+' '+key+'="'+value+'"'
+                if end_offset:
+                    start_end_offsets_out.append([start_offset,end_offset])                    
+                output_entry = output_entry+'>'+output_string+'</citation>'
+                output.append(output_entry)
+                start = match.end()
+    return(output,start_end_offsets_out)
+
+def get_next_unnamed_act(line,start):
+    match = legislation_id_expression.search(line,start)
+    return(match)
+
+def find_unnamed_acts_xml(line,line_num,offset,file_id,cit_num,act_start_and_ends):
+    output = []
+    start_end_offsets_out = []
+    start = 0
+    if len(act_start_and_ends)>0:
+        next_blocked_start,next_blocked_end = act_start_and_ends.pop(0)
+        offset_filter = True
+    else:
+        offset_filter = False
+        next_blocked_start,next_blocked_end = False, False
+    match = False
+    while start < len(line):
+        match = get_next_unnamed_act(line,start)
+        while offset_filter and (start >= next_blocked_start) and (start < next_blocked_end):
+            start = next_blocked_end
+            if len(act_start_and_ends)>0:
+                offset_filter = True
+                next_blocked_start,next_blocked_end = act_start_and_ends.pop(0)
+            else:
+                offset_filter = False
+                next_blocked_start,next_blocked_end = False, False
+                match = get_next_unnamed_act(line,start) ## ** 57 **
+        if not match:
+            start = len(line)
+        else:
+            while match and offset_filter and (match.start() >= next_blocked_end):
+                if len(act_start_and_ends)>0:
+                    next_blocked_start,next_blocked_end = act_start_and_ends.pop(0)
+                else:
+                    offset_filter = False
+                    next_blocked_start,next_blocked_end = False, False
+            ## this gets rid of irrelevant start and ends that are before the match
+            if offset_filter and (match.start() >= next_blocked_start):
+                start = match.end()              
+                match = False  
+            else:
+                if match.group(2):
+                    chapters = get_chapters_from_text(match.group(2))
+                else:
+                    chapters = False
+                if match.group(3):
+                    section_number = extract_section_number(match.group(3))
+                else:
+                    section_number = False
+                if match.end(5):
+                    volume,pages,end_modifier= get_volume_and_pages_from_stat_text(match.group(5),match.end(5),match.end())
+                else:
+                    print('Weird that this one matched at all',match.group(0))
+                    start = match.end()
+                    match = False
+                if match:
+                    output_string = match.group(0)
+                    start_offset = match.start() + offset
+                    end_offset = match.end() + offset
+                    if end_modifier:
+                        output_string = output_string[:-1*end_modifier]
+                        end_offset = end_offset - end_modifier
+                    cit_id = file_id + str(cit_num)
+                    cit_num += 1
+                    output_entry = '<citation id=\"'+cit_id+'\"'
+                    for key,value in [['entry_type','act_treaty_code_rule'],
+                        ['start',str(start_offset)],
+                        ['end',str(end_offset)],
+                        ['document','NAME UNSPECIFIED'],
+                        ['line',str(line_num)],
+                        ['section',section_number],
+                        ['volume',volume],
+                        ['chapter',chapters],
+                        ['pages',pages]]:
+                        if value and re.search('[a-zA-Z0-9]',value):
+                            output_entry = output_entry+' '+key+'="'+value+'"'
+                    if end_offset:
+                        start_end_offsets_out.append([start_offset,end_offset])                
+                    output_entry = output_entry+'>'+output_string+'</citation>'
+                    output.append(output_entry)
+                    start = match.end()
+    return(output,start_end_offsets_out)
+            
 def generate_other_leg_citations_from_string(line,offset,line_num,leg_count,file_id):
-    acts = act_expression.finditer(line)
+    acts = list(act_expression.finditer(line))
     regs = regulation_expression.finditer(line)
     output = []
     new_cits = 0
+    act_start_and_ends = []
+    next_match = False
+    count = 1
+    maximum_index = len(acts)-1
     for match in acts:
+        if count < maximum_index:
+            next_match = acts[count]
+        else:
+            next_match = False
+        count += 1
         if rule_word_filter.search(match.group(0)):
-            act_xml = make_act_xml(match,line_num,offset,file_id,leg_count+new_cits)
+            new_cits = new_cits+1
+            act_xml,start_off,end_off = make_act_xml(match,line_num,offset,file_id,leg_count+new_cits,next_match,line)
             if act_xml:
-                new_cits = new_cits+1
                 output.append(act_xml)
+                act_start_and_ends.append([start_off-offset,end_off-offset])
+            else:
+                new_cits = new_cits-1
     for match in regs:
+        new_cits = new_cits+1
         reg_xml = make_reg_xml(match,line_num,offset,file_id,leg_count+new_cits)
         if reg_xml:
-            new_cits = new_cits+1
             output.append(reg_xml)
+        else:
+            new_cits = new_cits-1
+    act_start_and_ends.sort()
+    abbrev_act_matches,start_end_offsets = find_abbrev_act_xml(line,line_num,offset,file_id,leg_count+new_cits+1,act_start_and_ends)
+    new_cits += len(abbrev_act_matches)
+    output.extend(abbrev_act_matches)
+    if len(start_end_offsets)>0:
+        act_start_and_ends.extend(start_end_offsets)
+        act_start_and_ends.sort()
+    unnamed_acts,more_start_ends = find_unnamed_acts_xml(line,line_num,offset,file_id,leg_count+new_cits+1,act_start_and_ends)
+    if unnamed_acts:
+        output.extend(unnamed_acts)
+    if more_start_ends:
+        act_start_and_ends.extend(more_start_ends)
+        act_start_and_ends.sort()
+    ## use act_start_and_ends to filter additional act types
     return(output)
             
 
@@ -722,13 +1201,13 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
     cits.extend(list(map(lambda x: {
         'type': 'const_cit',
         'start_index': offset + x.start(),
-        'end_index': offset + x.start() + len(x.start(0)),
+        'end_index': offset + x.start() + len(x.group(0)),
         'line_num': line_num,
         'cit_id': -1,
         'jurisdiction': body_abbrev_to_full(x.group(1)),
         'art_type': x.group(2),
         'article_num': replace_roman_nums_with_ints(x.group(3)),
-        'section_num': replace_roman_nums_with_ints(x.group(4)),
+        'section_num': extract_section_number(replace_roman_nums_with_ints(x.group(4))),
         'clause_num': replace_roman_nums_with_ints(x.group(5)),
         'text': str.strip(x.group(0))
     }, matches['const_cit'])))
@@ -751,7 +1230,7 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
         'body': 'federal',
         'article': replace_roman_nums_with_ints(x.group(1)),
         'chapter': '',
-        'section': replace_roman_nums_with_ints(x.group(2)),
+        'section': extract_section_number(replace_roman_nums_with_ints(x.group(2))),
         'subsection': x.group(3),
         'text': str.strip(x.group(0)),
         'document': 'United States Code'
@@ -766,7 +1245,7 @@ def generate_legislation_citations_from_string(in_string, offset, line_num, leg_
         'body': body_abbrev_to_full(x[1]),
         'article': x[3],  # article
         'chapter': replace_roman_nums_with_ints(x[4]),  # chapter
-        'section': replace_roman_nums_with_ints(x[6]),  # section
+        'section': extract_section_number(replace_roman_nums_with_ints(x[6])),  # section
         'subsection': x[7],  # subsection
         'text': str.strip(x[0]),  # full match text
         'document': x[2],
@@ -861,6 +1340,8 @@ def generate_const_citation(start_index, end_index, line_num, cit_id, jurisdicti
     """
 
     art = re.search('((?:art\.)|(?:ART\.)|(?:Art\.))', art_type)
+    if section_num:
+        section_num = extract_section_number(section_num)
     if art:
         art_type = 'article'
     else:
@@ -941,7 +1422,8 @@ def generate_statute_citation(start_index, end_index, line_num, cit_id, body, ar
     :param text:
     :return:
     """
-
+    if section:
+        section = extract_section_number(section)
     citation = '<citation ' \
                'id="{0}" ' \
                'entry_type="statute" ' \
@@ -1023,7 +1505,6 @@ def find_legislations(txt, file_id,quiet = True):
             if not quiet:
                 for x in cits: print(x)
             legs.extend(cits)
-
             line_num = line_num + 1
             offset += len(line)
     # print(legs)

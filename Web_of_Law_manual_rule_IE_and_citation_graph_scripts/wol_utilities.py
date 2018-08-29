@@ -107,6 +107,12 @@ def alpha_check(instring):
     if isinstance(instring,str):
         return(pattern.search(instring))
 
+def escape_operator_characters(instring):
+    ## ignore regexp operator characters within a string
+    for char in '\(){}[]^$+*\'?':
+        instring=instring.replace(char,'\\'+char)
+    return(instring)
+
 def get_dir_plus_file(infile):
     divider = re.search('('+os.sep+')'+'[^'+os.sep+']*$',infile)
     if divider:

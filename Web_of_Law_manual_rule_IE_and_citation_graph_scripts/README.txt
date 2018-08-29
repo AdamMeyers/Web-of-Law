@@ -1,5 +1,5 @@
 The programs described here were authored by Adam Meyers, Halley
-Young, Vlad Tyshkevich and John Ortega.
+Young, Vlad Tyshkevich, John Ortega and Rayat M Rahman.
 
 This code is licensed under an Apache 2.0 license
 (https://www.apache.org/licenses/LICENSE-2.0). The current version is
@@ -14,19 +14,25 @@ I. Files
 
 2. Python Code:
 
+2.0.1 Required Package -- You must install Court Listener's REPORTERS
+package (which seems to require Python 3.5 or higher). 
+
 2.1 Utility python files (files with commands useful to multiple programs)
 
 2.1.1 wol_utilities.py
 
+2.1.2 roman.py  -- probably should be incorporated into wol_utilities.py
+
 2.2 Reference Files (files containing information for lookup)
 
-2.2.1 citation_tables.py
+2.2.1 citation_tables.py  (this is the file that imports the REPORTERS package)
 2.2.2 discourse_words.txt
 2.2.3 POS.dict
 2.2.4 relational.dict
 2.2.5 time_names.dict
 2.2.6 court_listener_directory_name_dict.py
 2.2.7 district_courts.csv
+2.2.8 STATES.dict
 
 2.3 Preprocessing code (See 2.6.1 for corresponding run files).
 2.3.1 encoding_fix.py
@@ -37,6 +43,7 @@ I. Files
 2.4.1 find_case_citations5.py --> run_citations_and_simple_relations_directory.py and 
       run_citations_and_simple_relations_file.py
 2.4.2 find_quotes.py
+2.4.3 find_legislations.py --> run_legislations.py and run_legislations_on_dir.py
 
 2.5 Constructing Citation Graph (See 2.6.3 for corresponding run files)
 2.5.1 get_elements.py
@@ -47,7 +54,7 @@ I. Files
 
 These are all set up to run the above programs in one of two ways:
 
-A. File + arguments (if made executable and python3 variable is set)
+A. File + arguments (if made executable and python3 variable is set properly)
 B. python3 File + arguments (otherwise)
 
 2.6.1 Preprocessing: Taking initial files from Court Listener and creating Web of Law input file formats
@@ -105,6 +112,18 @@ modification, apposition, substrings, ...).
 	Output: makes one .quotes file for each .txt file in the directory
 	Example run from command line: 
 		run_find_quotes test/fixed_files
+
+2.6.2.4 run_legislations.py
+	1 Argument filename from 2.6.1.3, but no file extension
+	Output: corresponding .legislation9 file
+	Example run from command line:
+		run_legislations.py test/fixed_files/108713
+
+2.6.2.5 run_legislations_on_dir.py
+	1 argument: Directory containing files output from programs in 2.6.1.2
+	Output: .legislation9 files are added to that same directory
+	Example run from command line:
+		run_legislations_on_dir.py test/fixed_files
 
 2.6.3 Citation Graph Files: These programs uses the json files and the
 various files created from previous stages to generate a citation
@@ -175,6 +194,9 @@ We eventually plan to run the system on the entire Court Listener
    the Web of Law Project) in
    /home/meyers/Legal_Texts/corpus/originals/version2/
 
+The current run does not include legislation in the citation graph,
+but future versions should do so.
+
 ***************************************************************************
 
 III. Notes about Citations to Legal Decisions
@@ -219,7 +241,24 @@ verdict or the binding opinion); and cases that have been grouped
 together -- while originally separate cases, they were later merged
 into one case and a decision was given to the whole set.
 
-IV. Notes about Manual Annotation
+IV. Notes about citations to legislation
+
+Several patterns are used to capture legislation and the result is a
+somewhat diverse collection. It is also possible that some of the
+captured citations actually refer back to documents that do not have
+the status of a law, but are some type of publication.
+
+Patterns/Legislation types include:
+
+    A. The US constitution or Amendments thereof, e.g., "Eighteenth
+       Amendment"
+    B. Acts, Rules or Treaties (and sections thereof), e.g., "§ 35 of
+       the Porto Rican act of April 12, 1900, 31 Stat. 85"
+    C. Government regulations, e.g., "65 I.C.C. 36" (regulation of the 
+       Interstate Commerse Commission)
+    D. Other Statutes, e.g., "Mississippi Laws 1930"
+
+V. Notes about Manual Annotation
 
 1) There will be a separate directory having to do with manual
 annotation, including a README.
@@ -235,22 +274,3 @@ substitutes the inside quotation mark (") with the following character
 correctly (e.g., subsituting a "; or substituting a &quot; as
 appropriate).
 
-V. Notes about New files for legislation. We are planning to
-incorporate the code described here into the code base described
-above. It is separate now because we are still testing it.
-
-run_legislations.py
-find_legislations.py
-STATES.dict
-roman.py
-
-Currently, just for testing purposes. To run,
-
-	   run_legislations FILE_NAME
-
-FILE_NAME has no file type.
-
-For example:
-    run_legislations.py 108713
-    (where 108713 includes full path, e.g., /home/meyers/test/108713)
-    result is 108713.legislation8b

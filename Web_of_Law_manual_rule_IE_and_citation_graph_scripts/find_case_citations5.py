@@ -156,8 +156,8 @@ def generate_set_of_entries(outfile):
 ## page_number_pattern = '((([0-9—]+, )*[0-9—]+)|—-|_+)'  ## commas will may cause problems
 ## for disambiguating borders between citations
 
-standard_citation_pattern = re.compile('([0-9]+)( *)('+court_reporter_rexp+')[ _]*([0-9]+)?',re.I)
-at_citation_pattern = re.compile('([0-9]+)( *)('+court_reporter_rexp+'),?( +)(at *)([0-9]+)',re.I)
+standard_citation_pattern = re.compile('([0-9]+)( +)('+court_reporter_rexp+')[ _]*([0-9]+)?',re.I)
+at_citation_pattern = re.compile('([0-9]+)( +)('+court_reporter_rexp+'),?( +)(at *)([0-9]+)',re.I)
 ## fields 1 = volume, 3 = reporter, 54 = page number (under current court_reporter_rexp)
 ## need second pattern that starts at page number because the size of court_reporter_rexp will not be stable
 
@@ -229,13 +229,32 @@ def add_citation_id(record,file_id,dictionary):
     dictionary[id_string]=record
 
 def get_next_standard_citation(line,start=0):
+    # print(start)
+    # print(line[start:])
     pattern = standard_citation_pattern.search(line,start)
     while pattern:
+        if '$' in pattern.group(0):
+            print(pattern.group(0))
         if pattern and (pattern.end()<len(line)) and re.search('[a-zA-Z0-9]',line[pattern.end()]):
             pattern = standard_citation_pattern.search(line,pattern.end())
+        elif pattern and (pattern.start() != 0) and (line[pattern.start()-1] in '$'):
+            ## possibly add additional characters to '$' that can precede numbers to make
+            ## them invalid beginners of citations
+            start = pattern.end(1) ## after number string
+            pattern = standard_citation_pattern.search(line,start)
         else:
             return(pattern)
     
+def violates_standard_citation_distance(line,citation_end,extra_start):
+    if not line:
+        return(True)
+    elif (extra_start - citation_end)> 100:
+        return(True)
+    elif len(line[citation_end:extra_start].split(' '))>6:
+        return(True)
+    else:
+        return(False)
+
 def get_citation_output(line,offset,file_id,citation_dictionary):
     global id_number
     ## to get X v Y
@@ -292,6 +311,8 @@ def get_citation_output(line,offset,file_id,citation_dictionary):
                     standard_reporter = court_reporter_standard_table[standard_reporter]
                 out['standard_reporter'] = standard_reporter
                 citation_match_extra = standard_citation_pattern_extension.search(line,citation_match.end(3))
+                if citation_match_extra and violates_standard_citation_distance(line,citation_match.end(),citation_match_extra.start()):
+                    citation_match_extra = False
                 if citation_match_extra and ('§' in line[citation_match.start():citation_match_extra.end()]):
                     start = citation_match_extra.end()
                     citation_match_extra = False
@@ -1584,7 +1605,7 @@ def possibly_split_role_phrase(out,sequence,offset,words,line):
             words2 = words[split_point:]
             string_approx = ''
             for word in words1:
-                string_approx = string_approx+word+'([^a-zA-Z]*)'
+                string_approx = string_approx+escape_operator_characters(word)+'([^a-zA-Z]*)'
             match = re.search(string_approx,line[out['start']-offset:out['end']-offset])
             if not match:
                 ## these are not likely to be correct, e.g., these cases have lots of
@@ -1600,26 +1621,30 @@ def possibly_split_role_phrase(out,sequence,offset,words,line):
                 ## start the 2nd phrase at the end of this same space
                 out1={'start':out['start'],'end':end1}
                 out2={'start':start2,'end':out['end']}
-                return([out1,seq1,words1],[out2,seq2,words2])
+                return([[out1,seq1,words1],[out2,seq2,words2]])
         elif infixed_role_position:
-            infixed_seq = [sequence[infixed_role_position]]
-            infixed_words = [words[infixed_role_position]]
+            # print(1,len(words))
+            # print(2,infixed_role_position)
+            # print(3,words)
+            # print(4,sequence)
+            infixed_seq = sequence[:infixed_role_position]
+            infixed_words = words[:infixed_role_position]
             string_approx = ''
             for word in words[:infixed_role_position]:
-                string_approx = string_approx+word+'([^a-zA-Z]*)'
+                string_approx = string_approx+escape_operator_characters(word)+'([^a-zA-Z]*)'
             match = re.search(string_approx,line[out['start']-offset:out['end']-offset])
             if not match:
                 return(False)
             else:
                 start1 = out['start']+match.end(index)
-                string_approx = string_approx+infixed_words[0]
+                string_approx = string_approx+escape_operator_characters(infixed_words[0])
                 match = re.search(string_approx,line[out['start']-offset:out['end']-offset])
                 if not match:
                     return(False)
                 else:
                     end1 = out['start']+len(match.group(0))
                     out1 = {'start':start1,'end':end1}
-                    return([out,sequence,words],[out1,infixed_seq,infixed_words])
+                    return([[out,sequence,words],[out1,infixed_seq,infixed_words]])
         else:
             return(False)
     elif (sequence[-1] in ['RANK']) and (not ('PROFESSION' in sequence)) and (not ('PROFESSIONAL_OR_RANK' in sequence)):
@@ -1627,7 +1652,7 @@ def possibly_split_role_phrase(out,sequence,offset,words,line):
         out['end']=new_end
         sequence = sequence[:-1]
         words = words[:-1]
-        return([out,sequence,words],[False,False,False])
+        return([[out,sequence,words],[False,False,False]])
     else:
         return(False)
 
@@ -1695,6 +1720,7 @@ def ok_role_phrase(out,sequence,spans,string,line,offset,words):
     elif triples and (len(triples)>0):
         new_phrases = []
         new_word_sequences = []
+        good = False
         for new_out2,new_sequence2,new_words2 in triples:
             if new_out2:
                 new_phrases2,good = ok_role_phrase2(new_out2,new_sequence2,spans,line[new_out2['start']-offset:new_out2['end']-offset],line,offset)
@@ -1986,6 +2012,9 @@ def split_phrase_record(record,file_id,dictionary):
     
 def make_conjoined_phrase_relation(record1,record2,file_id,dictionary):
     relation = {'gram_type':'conj','conj1':record1,'conj2':record2,'start':record1['start'],'end':record2['end'],'relation_type':'conj'}
+    for rec in [record1,record2]:
+        if not 'id' in rec:
+            add_citation_id(rec,file_id,dictionary)
     add_citation_id(relation,file_id,dictionary)
     return(relation)
 
@@ -2425,7 +2454,9 @@ def get_role_phrases(line,spans,offset,file_id,citation_dictionary,individual_sp
                         if plural:
                             phrase['plural']=True
                         phrase['string'] = line[phrase['start']-offset:phrase['end']-offset]
-                    new2,good2 = ok_role_phrase(phrase,seq,spans,phrase['string'],line,offset,phrase['string'].split(' '))
+                        new2,good2 = ok_role_phrase(phrase,seq,spans,phrase['string'],line,offset,phrase['string'].split(' '))
+                    else:
+                        good2 = False
                     if good2:
                         output.append(phrase)
             sequence = []
@@ -3691,6 +3722,9 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
                 line_combo = False
                 offset = last_offset
                 out = get_citation_output(line,offset,file_id,citation_dictionary)
+                # if out:
+                #     print('** 1 **',line)
+                #     print(out)
                 line_output.extend(out)
                 max_multi_line_number = max_multi_line_number + 1
                 ## if last line (ends in  v.) and continuing one_line_object thing
@@ -3709,6 +3743,9 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
                             one_line_objects = old_one_line_objects 
                             one_line_objects.append(out_prime)   
                     out = get_citation_output(line,offset,file_id,citation_dictionary)
+                    # if out:
+                    #     print('** 2 **',line)
+                    #     print(out)
                     line_output.extend(out)
             if out:
                 standard_case_lines.append(line_number)
