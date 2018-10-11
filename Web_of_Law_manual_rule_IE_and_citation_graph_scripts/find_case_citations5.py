@@ -2241,8 +2241,10 @@ def probably_person(previous_words):
         return(False)
     
 def get_role_phrases(line,spans,offset,file_id,citation_dictionary,individual_spans,line_number):
-    # if '262 So. 2d' in line:
-    #     print(1,line,2,spans,3,offset,4,file_id,5,{},6,individual_spans,7,line_number)
+    trace = False
+    if line.startswith('On May 4, 1908, Mr. Solicitor General Hoyt'):
+         trace = True
+         ## print(1,line,2,spans,3,offset,4,file_id,5,{},6,individual_spans,7,line_number)
     ## detect sequences that are either in capital format (consec capital sequences, with allowances for lowercase func words)
     ##        and are not in current spans
     ## detect similar sequences that contain role words, even if not capital or if inside of current spans
@@ -2482,9 +2484,13 @@ def get_role_phrases(line,spans,offset,file_id,citation_dictionary,individual_sp
                         previous_start = year_match.end()
                     else:
                         previous_start = year_match.end(2)
-                out['end']=previous_start+offset
+                if ('start' in out) and (out['start']< previous_start+offset):
+                    out['end']=previous_start+offset
                 ## words can be incorrect here ** 57 ***
-                new_phrases,good = ok_role_phrase(out,sequence,spans,line[out['start']-offset:previous_start],line,offset,words)
+                    new_phrases,good = ok_role_phrase(out,sequence,spans,line[out['start']-offset:previous_start],line,offset,words)
+                else:
+                    new_phrases = False
+                    good = False
                 if new_phrases:
                     for phrase,seq,phrase_words in new_phrases:
                         if 'name_with_infixed_role' in phrase:
@@ -2614,6 +2620,11 @@ def get_role_phrases(line,spans,offset,file_id,citation_dictionary,individual_sp
             ## prevents duplicates
             add_citation_id(record,file_id,citation_dictionary)
             final_output.append(record)
+    # if trace:
+    #     print('regular_output')
+    #     print(final_output)
+    #     print('conj')
+    #     print(conj_output)
     return(final_output,conj_output)
     
 def role_print(outstream,role_phrase):
@@ -3648,6 +3659,7 @@ def ambiguous_person_entry(word):
 def find_case_citations(txt_file,case_file,file_id,previous_information_file,previous_info_fields=['citation_case_name','citation_docket_number','citation_id']):
     global id_number
     global one_word_person_names
+    trace = False
     one_word_person_names = {}
     id_number = 0
     citation_output = []
@@ -3722,9 +3734,6 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
                 line_combo = False
                 offset = last_offset
                 out = get_citation_output(line,offset,file_id,citation_dictionary)
-                # if out:
-                #     print('** 1 **',line)
-                #     print(out)
                 line_output.extend(out)
                 max_multi_line_number = max_multi_line_number + 1
                 ## if last line (ends in  v.) and continuing one_line_object thing
@@ -3743,9 +3752,6 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
                             one_line_objects = old_one_line_objects 
                             one_line_objects.append(out_prime)   
                     out = get_citation_output(line,offset,file_id,citation_dictionary)
-                    # if out:
-                    #     print('** 2 **',line)
-                    #     print(out)
                     line_output.extend(out)
             if out:
                 standard_case_lines.append(line_number)
@@ -3875,6 +3881,7 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
                         relation['line']=line_number
                     relations.extend(line_relations2)
             last_line = line
+            
         if one_line_objects and not line_combo:
             line_relations2 = get_one_line_object_relations(line_output,offset,file_id,citation_dictionary,line_number,max_multi_line_number,relation_pair_dict)
             if line_relations2:
