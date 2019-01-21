@@ -159,7 +159,7 @@ def decode_json_files_in_directory(indirectory, outdirectory):
                                         tokens[i]=token[:-1]+cp1252_to_utf8_chars_decoding_table[str(hex(ord(token[-1])))]
                                     if (len(token)==3) and (token[0] in '({[') and (token[2] in ')}]') \
                                        and (str(hex(ord(token[1]))) in cp1252_to_utf8_chars_decoding_table):
-                                        tokens[i] = token[0]+cp1252_to_utf8_chars_decoding_table[str(hex(ord(token[0])))]+token[2]
+                                        tokens[i] = token[0]+cp1252_to_utf8_chars_decoding_table[str(hex(ord(token[1])))]+token[2]
                                     elif '<' in token:
                                         position = token.find('<')
                                         if (position>0) and (str(hex(ord(token[position-1]))) in cp1252_to_utf8_chars_decoding_table):
