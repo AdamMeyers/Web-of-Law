@@ -690,7 +690,7 @@ def make_act_xml(match,line,offset,file_id,cit_num,next_match,line_string):
                 # print(line_string)
                 # print(match.end())
                 section_match = section_expression.search(line_string,match.end())
-            if section_match:
+            if section_match and ((section_match.start()-match.end())<10):
                 section_number =  extract_section_number(section_match.group(0))
                 end_offset = section_match.end() + offset
                 output_string = line_string[(start_offset-offset):(end_offset-offset)]
@@ -1132,7 +1132,8 @@ def generate_other_leg_citations_from_string(line,offset,line_num,leg_count,file
         count += 1
         if rule_word_filter.search(match.group(0)):
             new_cits = new_cits+1
-            act_xml,start_off,end_off = make_act_xml(match,line_num,offset,file_id,leg_count+new_cits,next_match,line)
+            act_xml,start_off,end_off = \
+              make_act_xml(match,line_num,offset,file_id,leg_count+new_cits,next_match,line)
             if act_xml:
                 output.append(act_xml)
                 act_start_and_ends.append([start_off-offset,end_off-offset])
@@ -1300,8 +1301,8 @@ def generate_amendment_reference(
     :param text: (str) the text holding the amendment reference
     :return: (str) the citation string in XML style
     """
-
-    citation = '<reference ' \
+    ## changed from <refernce> AM May 2019
+    citation = '<citation ' \
                'id="{0}" ' \
                'entry_type="amendment" ' \
                'start="{1}" ' \
@@ -1309,7 +1310,7 @@ def generate_amendment_reference(
                'line="{3}" ' \
                'amendment="{4}">' \
                '{5}' \
-               '</reference>' \
+               '</citation>' \
         .format(
         cit_id,
         start_index,
@@ -1384,15 +1385,15 @@ def generate_const_reference(start_index, end_index, line_num, cit_id, text):
     :param text:
     :return:
     """
-
-    citation = '<reference ' \
+    ## changed from <reference 5/2019
+    citation = '<citation ' \
                'id="{0}" ' \
                'entry_type="constitution" ' \
                'start="{1}" ' \
                'end="{2}" ' \
                'line="{3}">' \
                '{4}' \
-               '</reference>' \
+               '</citation>' \
         .format(
         cit_id,
         start_index,

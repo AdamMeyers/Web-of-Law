@@ -204,7 +204,12 @@ def get_year_and_court_from_parentheses_region(instring):
             end = end_pat.end()
     return(year,court,end)
 
-
+def possible_comment(comment):
+    match = date_pattern.search(comment)
+    if match and (comment.strip('()') == match.group(0)):
+        return(False)
+    return(True)
+    
 def revise_citation_match_extra(line,possible_start,citation_match_extra):
     ## checks to make sure that page number is not really the volume number
     if citation_match_extra.group(5):
@@ -212,14 +217,25 @@ def revise_citation_match_extra(line,possible_start,citation_match_extra):
         at_citation_match = at_citation_pattern.search(line,possible_start)
         if citation_match and (citation_match.start()<=citation_match_extra.start(5)):
             new_pattern = standard_citation_pattern_short_extension.search(line,possible_start)
-            return(new_pattern,False)
+            return(new_pattern,False,False)
         elif at_citation_match and (at_citation_match.start()<=citation_match_extra.start(5)): 
             new_pattern = standard_citation_pattern_short_extension.search(line,possible_start)
-            return(new_pattern,False)
+            return(new_pattern,False,False)
+        elif citation_match_extra.group(9) and possible_comment(citation_match_extra.group(9)):
+            comment = [citation_match_extra.start(9)+1,citation_match_extra.end(9)-1,citation_match_extra.group(9)[1:-1]]
+            ## removing parens from comment
+            citation_match_extra = standard_citation_pattern_extension.search(line[:citation_match_extra.start(7)],citation_match_extra.start())
+            return(citation_match_extra,True,comment)
         else:
-            return(citation_match_extra,True)
+            return(citation_match_extra,True,False)
     else:
-        return(citation_match_extra,True)
+        if citation_match_extra.group(9) and possible_comment(citation_match_extra.group(9)):
+            comment = [citation_match_extra.start(9)+1,citation_match_extra.end(9)-1,citation_match_extra.group(9)[1:-1]]
+            ## removing parens from comment
+            citation_match_extra = standard_citation_pattern_extension.search(line[:citation_match_extra.start(7)],citation_match_extra.start())
+        else:
+            comment = False
+        return(citation_match_extra,True,comment)
 
 def add_citation_id(record,file_id,dictionary):
     global id_number
@@ -233,8 +249,8 @@ def get_next_standard_citation(line,start=0):
     # print(line[start:])
     pattern = standard_citation_pattern.search(line,start)
     while pattern:
-        if '$' in pattern.group(0):
-            print(pattern.group(0))
+        # if '$' in pattern.group(0):
+        #     print(pattern.group(0))
         if pattern and (pattern.end()<len(line)) and re.search('[a-zA-Z0-9]',line[pattern.end()]):
             pattern = standard_citation_pattern.search(line,pattern.end())
         elif pattern and (pattern.start() != 0) and (line[pattern.start()-1] in '$'):
@@ -255,7 +271,15 @@ def violates_standard_citation_distance(line,citation_end,extra_start):
     else:
         return(False)
 
-def get_citation_output(line,offset,file_id,citation_dictionary):
+def make_comment_object(triple,file_id,dictionary,offset,line_number):
+    start,end,text = triple
+    output = {'entry_type':'comment','start':start+offset,\
+              'end':end+offset,'string':text,
+              'line':line_number}
+    add_citation_id(output,file_id,dictionary)
+    return(output)
+
+def get_citation_output(line,offset,file_id,citation_dictionary,line_number):
     global id_number
     ## to get X v Y
     ## find 2 capitalized sequences surrounding a "v."
@@ -269,7 +293,9 @@ def get_citation_output(line,offset,file_id,citation_dictionary):
     citation_match = get_next_standard_citation(line)
     at_citation_match = at_citation_pattern.search(line)
     start = 0
+    comments = []
     while citation_match or at_citation_match:
+        comment = False
         if at_citation_match and citation_match:
             if citation_match.start()<at_citation_match.start():
                 at_citation_match = False
@@ -323,7 +349,7 @@ def get_citation_output(line,offset,file_id,citation_dictionary):
                         if citation_match_extra.start() >= possibly_competing_citation_match.start():
                             citation_match_extra = False
                     if citation_match_extra:
-                       citation_match_extra,paragraph_check = revise_citation_match_extra(line,citation_match.end(3),citation_match_extra)
+                        citation_match_extra,paragraph_check,comment = revise_citation_match_extra(line,citation_match.end(3),citation_match_extra)
         end = False
         paren_end = False
         year = False
@@ -379,12 +405,32 @@ def get_citation_output(line,offset,file_id,citation_dictionary):
             out['end'] = out['end']-1
         if out and ('reporter' in out) and ('volume' in out) and ('page_number' in out):
             output.append(out)
+        if comment and not date_pattern.search(comment[2]):
+            ## dates will be handled by a separate process
+            comments.append(make_comment_object(comment,file_id,citation_dictionary,\
+                                                offset,line_number))
         citation_match = get_next_standard_citation(line,start)
         at_citation_match = at_citation_pattern.search(line,start)
         citation_match_extra = False
     for record in output:
         add_citation_id(record,file_id,citation_dictionary)
-    return(output)
+    return(output,comments)
+
+def generic_object_print(outstream,out):
+    if 'entry_type' in out:
+        outstream.write('<'+out['entry_type'])
+    else:
+        return()
+    for attribute in ['id','entry_type','start','end']:
+        if attribute in out:
+            outstream.write(' '+attribute+'="'+wol_escape(str(out[attribute]))+'"')
+    for attribute in out:
+        if not attribute in ['entry_type','id','entry_type','start','end','string']:
+            outstream.write(' '+attribute+'="'+wol_escape(str(out[attribute]))+'"')
+    outstream.write('>')
+    if 'string' in out:
+        outstream.write(wol_escape(out['string']))
+    outstream.write('</'+out['entry_type']+'>\n')
 
 def citation_print(outstream,citation):
     if citation['entry_type'] in ['standard_case','case_X_vs_Y','case_citation_other']:
@@ -603,7 +649,9 @@ def find_left_vs_border(line,end,left_span,one_line_objects,paren_comma,line_num
             or (is_number and (not found_name))\
             or ((len(ref_word)>0) and (ref_word[0]=="'") and ("'" in middle_ground))\
             or (ref_word in citation_filler_words):
-            if re.search('\[[a-z]',ref_word):
+            if re.search('(; *$)|(\)\. *[^a-zA-Z]*$)',middle_ground ):
+                previous_word = False
+            elif re.search('\[[a-z]',ref_word):
                 pass
             elif last_corporate_ending and (number_of_words < 2):
                 pass
@@ -639,7 +687,7 @@ def find_left_vs_border(line,end,left_span,one_line_objects,paren_comma,line_num
                 previous_word = False
             elif (not one_line_objects) and (not first) and (not is_role) and re.search('[\(\)0-9]',middle_ground) and (not ref_word in ['no','nos']) and (not opened_paren) and found_name:
                 previous_word = False
-            elif ((ref_word[0]=="'") and ("'" in middle_ground)):
+            elif ((len(ref_word)>0) and (ref_word[0]=="'") and ("'" in middle_ground)):
                 pass
             elif (not one_line_objects) and (',' in middle_ground) and not(OK_comma_follows(ref_word,word_string[0])) \
               and (not ((len(matches)>0) and OK_comma_precedes(matches[-1].group(1).lower()))):
@@ -758,7 +806,9 @@ def find_right_vs_border(line,start,right_span):
             or (ref_word in person_ending_words) \
             or (ref_word in citation_filler_words) \
             or re.search('\[[a-z]',ref_word):
-            if (len(matches)>0) and ((ref_word in latin_reference_words) or (ref_word in other_non_citation_legal_words) or (ref_word in months)):
+            if (re.search('^ {6}',middle_ground) and ref_word):
+                next_word = False
+            elif (len(matches)>0) and ((ref_word in latin_reference_words) or (ref_word in other_non_citation_legal_words) or (ref_word in months)):
                 next_word = False
             elif re.search('[:]', middle_ground):
                 next_word = False
@@ -1399,6 +1449,7 @@ def reprocess_role_phrase(line,start,end,offset,in_or_out):
                 so_far = match.end()
             add_on = True
         else:
+            sequence.append('Filler')
             words.append(word)
             so_far = match.end()
         match = word_pattern.search(line,so_far)
@@ -1581,10 +1632,12 @@ def ok_role_phrase2(out,sequence,spans,string,line,offset):
 def possibly_split_role_phrase(out,sequence,offset,words,line):
     triples = [] ## new sequences of out,sequence,words
     infixed_role_position = False
+    index = 0
     if len(sequence) == 0:
         return(False)
     elif (sequence[-1] in ['CAPITALIZED_WORD']):
         split_point = False
+        index = 0
         for num in range(1,len(sequence)+1):
             index = len(sequence)-num
             item = sequence[index]
@@ -1681,6 +1734,7 @@ def really_ambigous_name_word(lower,word,start_sentence):
     return(False)
 
 def ok_role_phrase(out,sequence,spans,string,line,offset,words):
+    
     if ('sentence_start' in out) and out['sentence_start']:
         start_sentence = True
     else:
@@ -2456,7 +2510,15 @@ def get_role_phrases(line,spans,offset,file_id,citation_dictionary,individual_sp
                         if plural:
                             phrase['plural']=True
                         phrase['string'] = line[phrase['start']-offset:phrase['end']-offset]
-                        new2,good2 = ok_role_phrase(phrase,seq,spans,phrase['string'],line,offset,phrase['string'].split(' '))
+                        ## words = phrase['string'].split(' ')
+                        # print('3')
+                        # if len(words) != len(seq):
+                        #     print(len(words),len(seq))
+                        #     print(words)
+                        #     print(phrase_words)
+                        #     print(seq)
+                        #     input('pause')
+                        new2,good2 = ok_role_phrase(phrase,seq,spans,phrase['string'],line,offset,phrase_words)
                     else:
                         good2 = False
                     if good2:
@@ -2906,6 +2968,10 @@ def get_gram_type_from_inbetween(inbetween,current_type,last_type,line_number,li
     other_prep_match = other_prep_pattern.search(inbetween)
     if ";" in inbetween:
         return(False,False,False) 
+    elif "" == inbetween:
+        gram_type = 'apposition'
+    elif re.search('^ *\( *$',inbetween):
+        gram_type = 'parentheses'
     elif re.search('^ *$',inbetween) or ((line_number<5) and deletable_middle(inbetween)):
         ## if the entities are adjacent
         gram_type = 'pre_nom'
@@ -2920,7 +2986,8 @@ def get_gram_type_from_inbetween(inbetween,current_type,last_type,line_number,li
         gram_type = 'conj'
     elif re.search('^ *(as|AS) *',inbetween):
         gram_type = 'as_predication'
-    elif re.search('\'s *$',inbetween) or (re.search('\' *$',inbetween) and (len(line)>2) and (line[first_entity['end']-offset] in 'sS')):
+    elif re.search('\'s *$',inbetween) or \
+      (re.search('\' *$',inbetween) and (first_entity['string'][-1] in 'sS')):
         gram_type = 'possessive'
     elif loc_temp_match:
         gram_type='preposition'
@@ -3127,6 +3194,11 @@ def look_for_close_relations(entities,line,offset,file_id,citation_dictionary,li
             last_id = last_entity['id']
             inbetween =  line[last_entity['end']-offset:entity['start']-offset]
             partner_tuples = []
+            # if (current_type == 'comment') and not re.search('[a-zA-Z]',inbetween):
+            #     gram_type = 'parentheses'
+            #     preposition = False
+            #     partner_tuples.append([last_entity,gram_type,preposition])
+            ## **8 57 ***
             if ('extended_left_start' in entity) and (entity['extended_left_start']<entity['start']) \
               and (not ";" in inbetween) and ((not found_initial_equivalent_relations) or (not re.search('[a-zA-Z]',inbetween))):
               ## only extend the inbetween if dealing with initial relations defining citation for file
@@ -3142,6 +3214,7 @@ def look_for_close_relations(entities,line,offset,file_id,citation_dictionary,li
             if not gram_type:
                 list_of_same_type = []                
             else:
+                comment = False
                 if (last_type == current_type) and (gram_type in ['prenom', 'apposition','conj']):
                     if not last_entity in list_of_same_type:
                         list_of_same_type.append(last_entity)
@@ -3150,6 +3223,10 @@ def look_for_close_relations(entities,line,offset,file_id,citation_dictionary,li
                         if new_date_relation:
                             relations.append(new_date_relation)                        
                 else:
+                    if entity_type == 'comment':
+                        comment = entity
+                        theme = last_entity
+                        partner_tuples = [[theme,gram_type,False]]
                     last_date_relation = False
                     different_type = True
                     partner_tuples = [[last_entity,gram_type,preposition]]
@@ -3189,7 +3266,10 @@ def look_for_close_relations(entities,line,offset,file_id,citation_dictionary,li
                     theme,at_date,includes_docket,legal_role,profession = False,False,False,False,False
                     family,standard_case,X_vs_Y,case_citation_other,party1,party2 = False,False,False,False,False,False
                     relation = {}
-                    if (gram_type == 'conj'):
+                    if comment:
+                        theme = partner
+                        relation_type = 'comment'
+                    elif (gram_type == 'conj'):
                         relation_type = False
                     elif (gram_type in ['possessive']):
                         if (last_type == 'FAMILY') and (current_type in ['NAME','PERSON']):
@@ -3278,7 +3358,8 @@ def look_for_close_relations(entities,line,offset,file_id,citation_dictionary,li
                         for att_name,att_value in [['gram_type',gram_type],['preposition',preposition],
                                                    ['relation_type',relation_type],['theme',theme],['at_date',at_date],\
                                                    ['includes_docket',includes_docket],['legal_role',legal_role], \
-                                                   ['profession',profession],['family',family],['standard_case',standard_case],\
+                                                   ['comment',comment],['profession',profession],\
+                                                   ['family',family],['standard_case',standard_case],\
                                                    ['case_citation_other',case_citation_other],['X_vs_Y',X_vs_Y],\
                                                    ['party1',party1],['party2',party2],['start',start],['end',end]]:
                             if att_value or (type(att_value)==int): 
@@ -3327,7 +3408,7 @@ def relation_print(outstream,relation):
     outstream.write('<RELATION')
     for attribute in ['id','legal_role','relation_type','gram_type','preposition','profession','theme',\
                       'standard_case','X_vs_Y','case_citation_other','reference_word','at_date',\
-                      'includes_docket','family','party1','party2','conj1','conj2']:
+                      'includes_docket','family','party1','party2','conj1','conj2','comment']:
                       ## don't print out 'start' and 'end' -- useful for internal purposes, but not appropriate for output
         if attribute in relation:
             if isinstance(relation[attribute],dict):
@@ -3630,7 +3711,7 @@ def update_relation_pair_dict(relation_pair_dict,line_relations):
     for relation in line_relations:
         pair = []
         for slot in ['legal_role','profession','theme','standard_case','X_vs_Y','case_citation_other',\
-                     'reference_word','at_date','includes_docket','family','party1','party2']:
+                     'reference_word','at_date','includes_docket','family','party1','party2','comment']:
             if slot in relation:
                 pair.append(relation[slot]['id'])
         object1,object2 = pair
@@ -3655,8 +3736,35 @@ def ambiguous_person_entry(word):
         return(True)
     else:
         return(False)
-  
-def find_case_citations(txt_file,case_file,file_id,previous_information_file,previous_info_fields=['citation_case_name','citation_docket_number','citation_id']):
+
+def span_conflict(span1,span2):
+    start1,end1 = span1
+    start2,end2 = span2
+    if start1 >= end2:
+        return(False)
+    elif end1 <=start2:
+        return(False)
+    else:
+        return(True)
+        
+# def filter_comments(comments,spans):
+#     output = []
+#     for comment in comments:
+#         good = True
+#         for span in spans:
+#             if span_conflict(span,[comment['start'],comment['end']]):
+#                 print(span)
+#                 print(comment)
+#                 input('pause')
+#                 good = False
+#                 break
+#         if good:
+#             output.append(comment)
+#     return(output)
+        
+    
+def find_case_citations(txt_file,case_file,file_id,previous_information_file,\
+                        previous_info_fields=['citation_case_name','citation_docket_number','citation_id']):
     global id_number
     global one_word_person_names
     trace = False
@@ -3671,6 +3779,7 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
     previous_info_dictionary ={}
     line_output = []
     line_relations = []
+    all_comments = []
     output = []
     relations = []
     one_line_objects = False
@@ -3733,7 +3842,9 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
                 line = last_line.strip(os.linesep) + ' ' + line
                 line_combo = False
                 offset = last_offset
-                out = get_citation_output(line,offset,file_id,citation_dictionary)
+                out,comments = get_citation_output(line,offset,file_id,citation_dictionary,line_number)
+                if comments:
+                    all_comments.extend(comments)
                 line_output.extend(out)
                 max_multi_line_number = max_multi_line_number + 1
                 ## if last line (ends in  v.) and continuing one_line_object thing
@@ -3751,12 +3862,16 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
                         if old_one_line_objects and not one_line_objects:
                             one_line_objects = old_one_line_objects 
                             one_line_objects.append(out_prime)   
-                    out = get_citation_output(line,offset,file_id,citation_dictionary)
+                    out,comments = get_citation_output(line,offset,file_id,citation_dictionary,line_number)
+                    if comments:
+                        all_comments.extend(comments)
                     line_output.extend(out)
             if out:
                 standard_case_lines.append(line_number)
             spans = []
             last_offset = offset
+            ## *** 57 *** figure out how to deal with "comments"
+            ## here
             for item in out:
                 item['line']=line_number
                 item['entry_type']='standard_case'
@@ -3834,8 +3949,13 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
             if (not garbage) and out5:
                 for item in out5:
                     item['line']=line_number
+                    spans2.append([item['start'],item['end']])
                 line_output.extend(out5)
             offset = offset + len(line)
+            spans2.sort()
+            ### comments = filter_comments(comments,spans2)
+            ### do not filter comments -- they can include other entities
+            line_output.extend(all_comments)
             line_output=sort_records(line_output,use_ids=True)
             output.extend(line_output)
             if (not garbage) and (not line_combo):
@@ -3915,5 +4035,7 @@ def find_case_citations(txt_file,case_file,file_id,previous_information_file,pre
                 citation_print(outstream,out)
             elif 'phrase_type' in out:
                 role_print(outstream,out)
+            elif 'entry_type' in out:
+                generic_object_print(outstream,out)
         for relation in relations:
             relation_print(outstream,relation)

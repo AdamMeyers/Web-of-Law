@@ -27,6 +27,6 @@ def main (args):
             file_id = base_file[sep_index+1:]
         else:
             file_id = base_file
-        find_case_citations(base_file+'.txt',base_file+'.case9',file_id,base_file+'.html-list')
+        find_case_citations(base_file+'.txt',base_file+'.case10',file_id,base_file+'.html-list')
 
 if __name__ == '__main__': sys.exit(main(sys.argv))

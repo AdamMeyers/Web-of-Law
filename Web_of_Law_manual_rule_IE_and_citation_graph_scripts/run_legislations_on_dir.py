@@ -16,7 +16,7 @@ def main (args):
                 file_id = infile[:-4]
                 print(file_id)
                 output = find_legislations(base_dir+os.sep+infile,file_id)
-                outfile = base_dir+os.sep+file_id+'.legislation9'
+                outfile = base_dir+os.sep+file_id+'.legislation10'
                 with open(outfile,'w') as outstream:
                     for line in output:
                         outstream.write(line+'\n')

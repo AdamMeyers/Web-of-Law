@@ -802,7 +802,7 @@ def make_IE_out_file(TXT_file,IE_file,OUT_file,processed_f,processed,trace=False
     output = [OUT_file,processed_trees,local_keys]
     return(output)
 
-def run_global_coreference(input_directories,root_directory,out_graph,global_csv_file,csv_file,txt_file_type='.txt',IE_infile_type='.case8',IE_out_file_type='.NYU_IE1',processed_file_list='processed.txt',initialize_csv=False,trace=False):
+def run_global_coreference(input_directories,root_directory,out_graph,global_csv_file,csv_file,txt_file_type='.txt',IE_infile_type='.case10',IE_out_file_type='.NYU_IE3',processed_file_list='processed.txt',initialize_csv=False,trace=False):
     global global_citations
     global global_citation_id
     global processed_f
@@ -861,7 +861,7 @@ def run_global_coreference(input_directories,root_directory,out_graph,global_csv
     if processed_f:
         processed_f.close()
 
-def run_global_coreference2(input_directories,outfile_prefix,txt_file_type='.txt',IE_infile_type='.case8',IE_out_file_type='.NYU_IE1',processed_file_list='processed.txt',initialize_csv=True,trace=False):
+def run_global_coreference2(input_directories,outfile_prefix,txt_file_type='.txt',IE_infile_type='.case10',IE_out_file_type='.NYU_IE3',processed_file_list='processed.txt',initialize_csv=True,trace=False):
     global global_citations
     global global_citation_id
     global processed_f

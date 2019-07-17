@@ -28,7 +28,7 @@ def main (args):
             if infile.endswith('.html-list'):
                 file_id = infile.strip('.html-list')
                 base_file = directory+file_id
-                print(base_file)
-                find_case_citations(base_file+'.txt',base_file+'.case9',file_id,base_file+'.html-list')
+                print("case:",base_file)
+                find_case_citations(base_file+'.txt',base_file+'.case10',file_id,base_file+'.html-list')
 
 if __name__ == '__main__': sys.exit(main(sys.argv))
